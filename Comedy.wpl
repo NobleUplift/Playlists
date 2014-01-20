@@ -1,0 +1,19 @@
+<?wpl version="1.0"?>
+<smil>
+  <head>
+    <meta name="generator" content="Zune -- 4.2.202.0" />
+    <meta name="itemCount" content="7" />
+    <title>Comedy</title>
+  </head>
+  <body>
+    <seq>
+      <media src="..\Zune\Irish Rovers\14 Drunken Sailor.mp3" />
+      <media src="..\Zune\Miscellaneous\06 Gaelic Song.mp3" />
+      <media src="..\Zune\Miscellaneous\12 The Ultimate Showdown Of Ultimate Destiny.mp3" />
+      <media src="..\Zune\Miscellaneous\The Saga Begins - Weird Al Yankovic.mp3" />
+      <media src="..\Zune\Raffi\Bananaphone\01 Bananaphone.wma" />
+      <media src="..\Zune\Miscellaneous\04 Chocolate Rain.mp3" />
+      <media src="..\Zune\Miscellaneous\Party Boy.mp3" />
+    </seq>
+  </body>
+</smil>

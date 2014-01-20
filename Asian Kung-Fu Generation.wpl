@@ -1,0 +1,30 @@
+<?wpl version="1.0"?>
+<smil>
+  <head>
+    <meta name="itemCount" content="18" />
+    <meta name="generator" content="Zune -- 4.2.202.0" />
+    <title>Asian Kung-Fu Generation</title>
+  </head>
+  <body>
+    <seq>
+      <media src="..\Zune\Asian Kung-Fu Generation\ソルファ\01 振動覚.wma" />
+      <media src="..\Zune\Asian Kung-Fu Generation\ソルファ\02 リライト.wma" />
+      <media src="..\Zune\Asian Kung-Fu Generation\ソルファ\03 君の街まで.wma" />
+      <media src="..\Zune\Asian Kung-Fu Generation\ソルファ\04 マイワ-ルド.wma" />
+      <media src="..\Zune\Asian Kung-Fu Generation\ソルファ\05 夜の向こう.wma" />
+      <media src="..\Zune\Asian Kung-Fu Generation\ソルファ\06 ラストシ-ン.wma" />
+      <media src="..\Zune\Asian Kung-Fu Generation\ソルファ\07 サイレン.wma" />
+      <media src="..\Zune\Asian Kung-Fu Generation\ソルファ\08 Re-Re-.wma" />
+      <media src="..\Zune\Asian Kung-Fu Generation\ソルファ\09 24時.wma" />
+      <media src="..\Zune\Asian Kung-Fu Generation\ソルファ\10 真夜中と真昼の夢.wma" />
+      <media src="..\Zune\Asian Kung-Fu Generation\ソルファ\11 海岸通り.wma" />
+      <media src="..\Zune\Asian Kung-Fu Generation\ソルファ\12 ル-プ &amp; ル-プ.wma" />
+      <media src="..\Zune\Asian Kung-Fu Generation\崩壊アンプリファー\01 遥か彼方（テレビ東京系アニメーション「ＮＡＲＵＴＯ」オープニング・テーマ）.wma" />
+      <media src="..\Zune\Asian Kung-Fu Generation\崩壊アンプリファー\02 羅針盤.wma" />
+      <media src="..\Zune\Asian Kung-Fu Generation\崩壊アンプリファー\03 粉雪.wma" />
+      <media src="..\Zune\Asian Kung-Fu Generation\崩壊アンプリファー\04 青の歌.wma" />
+      <media src="..\Zune\Asian Kung-Fu Generation\崩壊アンプリファー\05 サンデイ.wma" />
+      <media src="..\Zune\Asian Kung-Fu Generation\崩壊アンプリファー\06 １２.wma" />
+    </seq>
+  </body>
+</smil>

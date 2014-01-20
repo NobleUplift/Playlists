@@ -1,0 +1,42 @@
+<?wpl version="1.0"?>
+<smil>
+  <head>
+    <meta name="generator" content="Zune -- 4.2.202.0" />
+    <meta name="itemCount" content="30" />
+    <title>Daft Punk</title>
+  </head>
+  <body>
+    <seq>
+      <media src="..\Zune\Daft Punk\Homework\01 Daftendirekt.mp3" />
+      <media src="..\Zune\Daft Punk\Homework\02 WDPK 83.7 FM.mp3" />
+      <media src="..\Zune\Daft Punk\Homework\03 Revolution 909.mp3" />
+      <media src="..\Zune\Daft Punk\Homework\04 Da Funk.mp3" />
+      <media src="..\Zune\Daft Punk\Homework\05 Phoenix.mp3" />
+      <media src="..\Zune\Daft Punk\Homework\06 Fresh.mp3" />
+      <media src="..\Zune\Daft Punk\Homework\07 Around the World.mp3" />
+      <media src="..\Zune\Daft Punk\Homework\08 Rollin' &amp; Scratchin'.mp3" />
+      <media src="..\Zune\Daft Punk\Homework\09 Teachers.mp3" />
+      <media src="..\Zune\Daft Punk\Homework\10 High Fidelity.mp3" />
+      <media src="..\Zune\Daft Punk\Homework\11 Rock'n Roll.mp3" />
+      <media src="..\Zune\Daft Punk\Homework\12 Oh Yeah.mp3" />
+      <media src="..\Zune\Daft Punk\Homework\13 Burnin'.mp3" />
+      <media src="..\Zune\Daft Punk\Homework\14 Indo Silver Club.mp3" />
+      <media src="..\Zune\Daft Punk\Homework\15 Alive.mp3" />
+      <media src="..\Zune\Daft Punk\Homework\16 Funk Ad.mp3" />
+      <media src="..\Zune\Daft Punk\Discovery\01 One More Time.mp3" />
+      <media src="..\Zune\Daft Punk\Discovery\02 Aerodynamic.mp3" />
+      <media src="..\Zune\Daft Punk\Discovery\03 Digital Love.mp3" />
+      <media src="..\Zune\Daft Punk\Discovery\04 Harder, Better, Faster, Stronger.mp3" />
+      <media src="..\Zune\Daft Punk\Discovery\05 Crescendolls.mp3" />
+      <media src="..\Zune\Daft Punk\Discovery\06 Night Vision.mp3" />
+      <media src="..\Zune\Daft Punk\Discovery\07 Superheroes.mp3" />
+      <media src="..\Zune\Daft Punk\Discovery\08 High Life.mp3" />
+      <media src="..\Zune\Daft Punk\Discovery\09 Something About Us.mp3" />
+      <media src="..\Zune\Daft Punk\Discovery\10 Voyager.mp3" />
+      <media src="..\Zune\Daft Punk\Discovery\11 Veridis Quo.mp3" />
+      <media src="..\Zune\Daft Punk\Discovery\12 Short Circuit.mp3" />
+      <media src="..\Zune\Daft Punk\Discovery\13 Face to Face.mp3" />
+      <media src="..\Zune\Daft Punk\Discovery\14 Too Long.mp3" />
+    </seq>
+  </body>
+</smil>
