@@ -1,20 +1,30 @@
 <?zpl version="2.0"?>
 <smil>
   <head>
-    <guid>{FF42D9E9-133D-4650-8061-AE0439B60202}</guid>
+    <guid>{4B4031F9-EE37-44CA-9EDF-F592F864B47C}</guid>
     <meta name="autoRefreshInterval" content="5" />
     <meta name="autoRefresh" content="FALSE" />
     <meta name="creatorId" content="{7CC03665-003F-A8F9-9BA9-3E76BF71F97E}" />
     <meta name="averageRating" content="4" />
-    <meta name="totalDuration" content="11157" />
-    <meta name="itemCount" content="50" />
+    <meta name="totalDuration" content="13725" />
+    <meta name="itemCount" content="61" />
     <meta name="generator" content="Zune -- 4.8.2345.0" />
     <title>Singles</title>
   </head>
   <body>
     <seq>
+      <media src="..\Zune\Miscellaneous\Fun.- We Are Young ft. Janelle Monáe [OFFICIAL VIDEO].mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="We Are Young ft. Janelle Monáe" trackArtist="fun." duration="252160" />
+      <media src="..\Zune\Miscellaneous\Nero - Promises.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="Promises" trackArtist="Nero" duration="239882" />
+      <media src="..\Zune\Miscellaneous\Borderlands ~ Mad Moxxi Theme.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="Mad Moxxi Theme" trackArtist="Borderlands" duration="290821" />
+      <media src="..\Zune\Miscellaneous\Andrew W.K. - Party Hard.mp3" serviceId="{DF844F00-0500-11DB-89CA-0019B92A3933}" albumTitle="I Get Wet" albumArtist="Andrew W.K." trackTitle="Party Hard" trackArtist="Andrew W.K." duration="184973" />
+      <media src="..\Zune\Miscellaneous\Andrew W.K. - Ready to Die.mp3" serviceId="{E1844F00-0500-11DB-89CA-0019B92A3933}" albumTitle="I Get Wet" albumArtist="Andrew W.K." trackTitle="Ready to Die" trackArtist="Andrew W.K." duration="174576" />
+      <media src="..\Zune\Miscellaneous\I Blame Coco - Quicker.mp3" serviceId="{F6776401-0500-11DB-89CA-0019B92A3933}" albumTitle="The Constant" albumArtist="I Blame Coco" trackTitle="Quicker" trackArtist="I Blame Coco" duration="190989" />
+      <media src="..\Zune\Miscellaneous\I Blame Coco - Selfmachine - OUT NOW.mp3" serviceId="{F8776401-0500-11DB-89CA-0019B92A3933}" albumTitle="The Constant" albumArtist="I Blame Coco" trackTitle="Selfmachine" trackArtist="I Blame Coco" duration="212062" />
+      <media src="..\Zune\Miscellaneous\I Blame Coco - Quicker (Shook Remix)320.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="Quicker" trackArtist="I Blame Coco" duration="312114" />
+      <media src="..\Zune\Miscellaneous\Robyn - Dancing On My Own.mp3" albumTitle="Body Talk" albumArtist="Robyn" trackTitle="Dancing On My Own" trackArtist="Robyn" duration="246151" />
+      <media src="..\Zune\Miscellaneous\Robyn Call Your Girlfriend HD.mp3" albumTitle="Body Talk" albumArtist="Robyn" trackTitle="Call Your Girlfriend" trackArtist="Robyn" duration="210050" />
       <media src="..\Zune\Soundtrack\Fractale OP &amp; ED Single - Harinezumi [Azuma Hitomi]\01. Harinezumi.mp3" albumTitle="Harinezumi " albumArtist="Azuma Hitomi" trackTitle="Harinezumi" trackArtist="Azuma Hitomi" duration="299154" />
-      <media src="..\Unknown Artist\Unknown Album (2012-01-21 03-40 PM)\04 Unknown Track 4.mp3" albumTitle="Stars" albumArtist="Girls Love Shoes" trackTitle="Home" trackArtist="Girls Love Shoes" duration="203466" />
+      <media src="..\Zune\Girls Love Shoes\Stars\04 Unknown Track 4.mp3" albumTitle="Stars" albumArtist="Girls Love Shoes" trackTitle="Home" trackArtist="Girls Love Shoes" duration="203466" />
       <media src="..\Zune\Soundtrack\Fractale OP &amp; ED Single - Harinezumi [Azuma Hitomi]\02. Onaji Yume.mp3" albumTitle="Harinezumi " albumArtist="Azuma Hitomi" trackTitle="Onaji Yume" trackArtist="Azuma Hitomi" duration="373890" />
       <media src="..\Zune\Miscellaneous\Spice and Wolf II - 01 Mitsu no Yoake.mp3" albumTitle="Spice and Wolf" albumArtist="Various Artists" trackTitle="Mitsu no Yoake" trackArtist="Akino Arai" duration="290332" />
       <media src="..\Zune\Miscellaneous\Tabi no Tochuu.mp3" albumTitle="Spice and Wolf" albumArtist="Various Artists" trackTitle="Tabi no Tochuu" trackArtist="Kiyoura Natsumi" duration="294716" />
@@ -22,9 +32,9 @@
       <media src="..\Zune\Soundtrack\Fractale OP &amp; ED Single - Harinezumi [Azuma Hitomi]\03. Down By The Salley Gardens.mp3" albumTitle="Harinezumi " albumArtist="Azuma Hitomi" trackTitle="Down By The Salley Gardens" trackArtist="Azuma Hitomi" duration="199314" />
       <media src="..\Zune\Miscellaneous\UN Owen Was Her- Full version.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="U.N. Owen Was Her" trackArtist="Touhou Project" duration="320817" />
       <media src="..\Zune\Dethklok\Dethalbum II\05 Black Fire Upon Us.mp3" serviceId="{9A080E01-0500-11DB-89CA-0019B92A3933}" albumTitle="Dethalbum II" albumArtist="Dethklok" trackTitle="Black Fire Upon Us" trackArtist="Dethklok" duration="340026" />
-      <media src="..\Zune\Miscellaneous\DYE Fantasy Official Video by JEREMIE PERIN.mp3" serviceId="{7E5A6B01-0500-11DB-89CA-0019B92A3933}" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="Fantasy" trackArtist="DYE" duration="215226" />
+      <media src="..\Zune\Miscellaneous\Sonic the Hedgehog 3 - Final Boss theme OC Remix.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="Sonic 3 Final Boss Remix" trackArtist="kakarottossj3" duration="254171" />
+      <media src="..\Zune\Miscellaneous\DYE Fantasy Official Video by JEREMIE PERIN.mp3" serviceId="{E43FCE06-0100-11DB-89CA-0019B92A3933}" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="Fantasy" trackArtist="DYE" duration="215226" />
       <media src="..\Zune\Miscellaneous\17 - We Are Scientists - The Great Escape.mp3" albumTitle="Great Escape" albumArtist="We Are Scientists" trackTitle="The Great Escape" trackArtist="We Are Scientists" duration="196392" />
-      <media src="..\Zune\Miscellaneous\Giorgio Tozzi - God Rest Ye Merry Gentlemen - no vid.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="God Rest Ye Merry Gentlemen" trackArtist="Giorgio Tozzi" duration="105830" />
       <media src="..\Zune\Miscellaneous\【手描き】ワールドイズマイン【PV】~ Hatsune Miku - World is Mine.mp3" albumTitle="VOCALOID2" albumArtist="Hatsune Miku" trackTitle="World is Mine" trackArtist="Hatsune Miku" duration="253528" />
       <media src="..\Zune\Miscellaneous\Triple Baka.mp3" albumTitle="VOCALOID2" albumArtist="Hatsune Miku" trackTitle="Triple Baka" trackArtist="Hatsune Miku, Kasane Teto, and Akita Neru" duration="245397" />
       <media src="..\Zune\Miscellaneous\Rainbow JakkaJan.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="Rainbow JakkaJan" trackArtist="K-On!" duration="110584" />
@@ -32,6 +42,7 @@
       <media src="..\Zune\Hey Mercedes\Everynight Fire Works\07 Our Weekend Starts On Wednesday.m4a" serviceId="{134A1E00-0100-11DB-89CA-0019B92A3933}" albumTitle="Everynight Fire Works" albumArtist="Hey Mercedes" trackTitle="Our Weekend Starts On Wednesday" trackArtist="Hey Mercedes" duration="136091" />
       <media src="..\Zune\Miscellaneous\Rolling Star - YUI.mp3" albumTitle="Bleach Original Soundtrack 5" albumArtist="Yui" trackTitle="Rolling Star" trackArtist="Yui" duration="89918" />
       <media src="..\Zune\Miscellaneous\ALONES - Aqua Timez.mp3" albumTitle="Alones" albumArtist="Aqua Timez" trackTitle="Alones" trackArtist="Aqua Timez" duration="94965" />
+      <media src="..\Zune\Miscellaneous\Giorgio Tozzi - God Rest Ye Merry Gentlemen - no vid.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="God Rest Ye Merry Gentlemen" trackArtist="Giorgio Tozzi" duration="105830" />
       <media src="..\Zune\Miscellaneous\Chicago.wma" serviceId="{77186C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Illinois" albumArtist="Sufyan Stevens" trackTitle="Chicago" trackArtist="Sufyan Stevens" duration="367773" />
       <media src="..\Zune\Lemon Jelly\Nice Weather For Ducks.mp3" serviceId="{B11E3D00-0100-11DB-89CA-0019B92A3933}" albumTitle="Lost Horizons" albumArtist="Lemon Jelly" trackTitle="Nice Weather for Ducks" trackArtist="Lemon Jelly" duration="238961" />
       <media src="..\Zune\Newgrounds\Newgrounds Audio Portal\Twilight Techno - Dimrain47.mp3" albumTitle="Newgrounds Audio Portal" albumArtist="Various Artists" trackTitle="Twilight Techno" trackArtist="Dimrain47" duration="172938" />
@@ -56,11 +67,11 @@
       <media albumTitle="Dr. Horrible's Sing Along Blog" albumArtist="Soundtrack" trackTitle="Brand New Day" trackArtist="Soundtrack" duration="106204" />
       <media src="..\Zune\Soundtrack\FLCL-Furikuri Soundtrack\17 Ride on Shooting Star.mp3" serviceId="{73B07B00-0500-11DB-89CA-0019B92A3933}" albumTitle="FLCL/Furikuri Soundtrack" albumArtist="Original Soundtrack" trackTitle="Ride on Shooting Star" trackArtist="The Pillows" duration="140781" />
       <media src="..\Zune\Miscellaneous\13 Beelzeboss (The Final Showdown).mp3" serviceId="{CF768700-0100-11DB-89CA-0019B92A3933}" albumTitle="The Pick of Destiny" albumArtist="Tenacious D" trackTitle="Beelzeboss (The Final Showdown)" trackArtist="Tenacious D" duration="335856" />
-      <media src="zunemp://{0F574100-0500-11DB-89CA-0019B92A3933}" serviceId="{0F574100-0500-11DB-89CA-0019B92A3933}" albumTitle="The Beatles 1" albumArtist="The Beatles" trackTitle="Eleanor Rigby" trackArtist="The Beatles" duration="126826" />
-      <media src="zunemp://{0A574100-0500-11DB-89CA-0019B92A3933}" serviceId="{0A574100-0500-11DB-89CA-0019B92A3933}" albumTitle="The Beatles 1" albumArtist="The Beatles" trackTitle="Yesterday" trackArtist="The Beatles" duration="125433" />
+      <media src="..\Zune\The Beatles\The Beatles 1\16 Eleanor Rigby.wma" serviceId="{0F574100-0500-11DB-89CA-0019B92A3933}" albumTitle="The Beatles 1" albumArtist="The Beatles" trackTitle="Eleanor Rigby" trackArtist="The Beatles" duration="126826" />
+      <media src="..\Zune\The Beatles\The Beatles 1\11 Yesterday.wma" serviceId="{0A574100-0500-11DB-89CA-0019B92A3933}" albumTitle="The Beatles 1" albumArtist="The Beatles" trackTitle="Yesterday" trackArtist="The Beatles" duration="125433" />
       <media src="..\Zune\Miscellaneous\Nom Nom Nom Nom Nom Nom Nom.mp3" albumTitle="ParryGripp" albumArtist="ParryGripp" trackTitle="Nom Nom Nom Nom Nom Nom Nom" trackArtist="ParryGripp" duration="69976" />
       <media src="..\Zune\Steven Reineke\Pilatus - Mountain of Dragons.mp3" albumTitle="The Best of Steven Reineke" albumArtist="Steven Reineke" trackTitle="Pilatus: Mountain of Dragons" trackArtist="Steven Reineke" duration="605848" />
-      <media albumTitle="Zero Wing Original Soundtrack" albumArtist="Zero Wing" trackTitle="All Your Base Are Belong To Us" trackArtist="Zero Wing" duration="234828" />
+      <media src="..\Zune\Soundtrack\Zero Wing\All Your Base.mp3" albumTitle="Zero Wing Original Soundtrack" albumArtist="Zero Wing" trackTitle="All Your Base Are Belong To Us" trackArtist="Zero Wing" duration="234828" />
       <media src="..\Zune\Miscellaneous\05 Blue (Da Ba Dee).mp3" serviceId="{155C0D00-0100-11DB-89CA-0019B92A3933}" albumTitle="Uploaded by Simpson" albumArtist="Various Artists" trackTitle="Blue (Da Ba Dee)" trackArtist="Eiffel 65" duration="285735" />
       <media src="..\Zune\Gary Jules\ZEI\01 Mad World.mp3" serviceId="{D9270E02-0100-11DB-89CA-0019B92A3933}" albumTitle="ZEI" albumArtist="Gary Jules" trackTitle="Mad World" trackArtist="Gary Jules" duration="187645" />
     </seq>

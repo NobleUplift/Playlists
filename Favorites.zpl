@@ -1,7 +1,7 @@
 <?zpl version="2.0"?>
 <smil>
   <head>
-    <guid>{741289B6-825F-4651-83AC-A851B35DA2C3}</guid>
+    <guid>{ABCD03AF-D5CF-4231-9CBA-15C44C5A73A6}</guid>
     <meta name="autoRefreshInterval" content="5" />
     <meta name="autoRefresh" content="FALSE" />
     <meta name="creatorId" content="{7CC03665-003F-A8F9-9BA9-3E76BF71F97E}" />
@@ -27,7 +27,7 @@
       <media src="..\Zune\Interpol\Interpol\09 All of the Ways.mp3" serviceId="{F12B3F01-0500-11DB-89CA-0019B92A3933}" albumTitle="Interpol" albumArtist="Interpol" trackTitle="All of the Ways" trackArtist="Interpol" duration="316213" />
       <media src="..\Zune\Interpol\Interpol\10 The Undoing.mp3" serviceId="{F02B3F01-0500-11DB-89CA-0019B92A3933}" albumTitle="Interpol" albumArtist="Interpol" trackTitle="The Undoing" trackArtist="Interpol" duration="311493" />
       <media src="..\Zune\Miscellaneous\Giorgio Tozzi - God Rest Ye Merry Gentlemen - no vid.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="God Rest Ye Merry Gentlemen" trackArtist="Giorgio Tozzi" duration="105830" />
-      <media src="..\Zune\Miscellaneous\DYE Fantasy Official Video by JEREMIE PERIN.mp3" serviceId="{7E5A6B01-0500-11DB-89CA-0019B92A3933}" albumTitle="YouTube" albumArtist="DYE" trackTitle="Fantasy" trackArtist="DYE" duration="215226" />
+      <media src="..\Zune\Miscellaneous\DYE Fantasy Official Video by JEREMIE PERIN.mp3" serviceId="{7E5A6B01-0500-11DB-89CA-0019B92A3933}" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="Fantasy" trackArtist="DYE" duration="215226" />
       <media src="..\Zune\Dethklok\Dethalbum II\05 Black Fire Upon Us.mp3" serviceId="{9A080E01-0500-11DB-89CA-0019B92A3933}" albumTitle="Dethalbum II" albumArtist="Dethklok" trackTitle="Black Fire Upon Us" trackArtist="Dethklok" duration="340026" />
     </seq>
   </body>
