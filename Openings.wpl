@@ -1,0 +1,33 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
+        <meta name="ItemCount" content="16"/>
+        <author/>
+        <title>Openings</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\Various artists\KLK OST MP3\Before my body is dry.mp3" tid="{C0E66D2D-10A9-4443-8C81-3BCFAFFF3543}"/>
+            <media src="..\Luna Haruna\OVERFLY\Luna Haruna - Overfly.mp3" tid="{1E29D78B-6A36-4A8D-8510-AD86264AD3DF}"/>
+            <media src="..\DOLL$BOXX\ディスコグラフィー\DOLL$BOXX - Take My Chance.mp3" tid="{3AEE2549-54DA-4D63-9547-A439FF8843A0}"/>
+            <media src="..\Kalafina\After Eden\Kalafina - Magia.mp3" tid="{8FA03F64-B2E4-4338-A1FE-516AFAC6DFD4}"/>
+            <media src="..\World Order\World Order\World Order - World Order.mp3" tid="{A5C5DD68-392F-458C-A7A8-4E50F00EDD2C}"/>
+            <media src="..\World Order\2012\Machine Civilization - World Order.mp3" tid="{782E59AD-620A-4EC4-9DF4-378BEF711355}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Brotherhood Original Soundtrack\Period - Chemistry.mp3" tid="{7A6BD4B4-F576-469F-811E-7516A5025294}"/>
+            <media src="..\Clannad Soundtracks, Image Albums, Arrange Albums and Singles\Toki wo Kizamu Uta - TORCH Single\01 Toki wo Kizamu Uta.mp3" tid="{8A4EACF1-B04C-4B25-A8E9-DD3B4C0CE802}"/>
+            <media src="..\Various artists\2009-Evangelion 2.0 You Can (Not) Advance\Disc2\01 At The Very Beginning.mp3" tid="{8C2E41FF-E94A-4313-B434-9977D7D91DD5}"/>
+            <media src="..\Various artists\2009-Evangelion 2.0 You Can (Not) Advance\Disc2\02 L&apos;Agresseur.mp3" tid="{47A60A35-1A82-4A01-9F22-653AA7B9560B}"/>
+            <media src="..\Various artists\2009-Evangelion 2.0 You Can (Not) Advance\Disc2\05 Destiny.mp3" tid="{272F27D4-9305-47D5-BBA9-C028C4C7CA85}"/>
+            <media src="..\Various artists\2009-Evangelion 2.0 You Can (Not) Advance\Disc2\06 Fate.mp3" tid="{9117AF9F-5A1D-4109-A873-0D3816601D98}"/>
+            <media src="..\Various artists\2009-Evangelion 2.0 You Can (Not) Advance\Disc2\10 Les Betes.mp3" tid="{4D907ABB-004B-4582-A616-CA0117C17F6B}"/>
+            <media src="..\Various artists\2009-Evangelion 2.0 You Can (Not) Advance\Disc2\11 Kyo no Hi wa Sayonara - Tribute to _Sound of Music_.mp3" tid="{5ED5B380-E049-4C92-B0F1-C8F1B2428930}"/>
+            <media src="..\Various artists\2009-Evangelion 2.0 You Can (Not) Advance\Disc2\12 In My Spirit.mp3" tid="{8E007574-1493-4DC3-BF16-88ACBC8E8C38}"/>
+            <media src="..\Various artists\2009-Evangelion 2.0 You Can (Not) Advance\Disc2\13 Keep Your Head Above The Mayhem.mp3" tid="{8CAED123-110D-40FA-AC74-8B75B07A516D}"/>
+            <media src="..\Various artists\2009-Evangelion 2.0 You Can (Not) Advance\Disc2\15 The Final Decision We All Must Take.mp3" tid="{6E724D94-B244-4C29-BB52-BEC256932BD8}"/>
+            <media src="..\Various artists\2009-Evangelion 2.0 You Can (Not) Advance\Disc2\19 Carnage.mp3" tid="{3FB1C8C0-E709-4CC9-944D-924F118DEBD7}"/>
+            <media src="..\Various artists\2009-Evangelion 2.0 You Can (Not) Advance\Disc2\20 Sin From Genesis.mp3" tid="{E2BA4D60-28D7-487D-BD12-8D3C36451753}"/>
+            <media src="..\Various artists\2009-Evangelion 2.0 You Can (Not) Advance\Disc2\21 Tsubasa wo Kudasai - Tribute to _Sound of Music_.mp3" tid="{8C1BFB87-0DA0-405C-96C9-A823D9E62E2D}"/>
+        </seq>
+    </body>
+</smil>
