@@ -2,7 +2,7 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
-        <meta name="ItemCount" content="16"/>
+        <meta name="ItemCount" content="7"/>
         <meta name="IsFavorite"/>
         <meta name="ContentPartnerListID"/>
         <meta name="ContentPartnerNameType"/>
@@ -13,20 +13,23 @@
     </head>
     <body>
         <seq>
-            <media src="..\Luna Haruna\OVERFLY\Luna Haruna - Overfly.mp3" tid="{B3E55BA6-6DCC-4768-AA89-1A49F73FD869}"/>
-            <media src="..\Various artists\KLK OST MP3\Before my body is dry.mp3" tid="{16A67EFA-BFA1-4139-83F6-5DE9B8F72AF7}"/>
-            <media src="..\DOLL$BOXX\ディスコグラフィー\DOLL$BOXX - Take My Chance.mp3" tid="{994F6A09-0A56-4374-ADE7-651CBB71AAA8}"/>
-            <media src="..\Kalafina\After Eden\Kalafina - Magia.mp3" tid="{ECCC02AF-F542-4A75-A939-4E19A158D19A}"/>
-            <media src="..\World Order\World Order\World Order - World Order.mp3" tid="{1561FB61-9396-4F04-92E4-1FA5AF257A2C}"/>
-            <media src="..\World Order\2012\Machine Civilization - World Order.mp3" tid="{8415499D-1D64-42E2-AD38-7105E09FE927}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Brotherhood Original Soundtrack\Period - Chemistry.mp3" tid="{4A6DF010-4E8B-4B5E-A61F-A392DC6F97AA}"/>
-            <media src="..\Clannad Soundtracks, Image Albums, Arrange Albums and Singles\Toki wo Kizamu Uta - TORCH Single\01 Toki wo Kizamu Uta.mp3" tid="{E8480FF1-E018-4A55-8B90-166CE5C9CF22}"/>
-            <media src="..\Various artists\Evangelion 2.22\01 Time to Face the Day.mp3" tid="{9FF1F99B-B28E-440E-9D11-503D2CC41653}"/>
-            <media src="..\Various artists\Evangelion 2.22\04 Destiny.mp3" tid="{42A218B7-4D4B-4774-814D-08006A1F24CB}"/>
-            <media src="..\Various artists\Evangelion 2.22\07 Mari vs. Zeruel.mp3" tid="{655D90BD-2018-4B54-8FFB-8BA45FF5B42B}"/>
-            <media src="..\Various artists\Evangelion 2.22\08 The Beast.mp3" tid="{809F58A6-0DDC-4349-9451-CA3601E5673C}"/>
-            <media src="..\Various artists\Evangelion 2.22\09 I Want Rei.mp3" tid="{D6239FAE-04B5-4626-84F9-0CE41BE00A9A}"/>
-            <media src="..\Various artists\Evangelion 2.22\10 Credits.mp3" tid="{8092DDA2-4683-421C-84B2-D29A4DC41E75}"/>
+            <media src="..\Luna Haruna\OVERFLY\Luna Haruna - Overfly.mp3" tid="{1E29D78B-6A36-4A8D-8510-AD86264AD3DF}"/>
+            <media src="..\Various artists\KLK OST MP3\Before my body is dry.mp3" tid="{C0E66D2D-10A9-4443-8C81-3BCFAFFF3543}"/>
+            <media src="..\DOLL$BOXX\ディスコグラフィー\DOLL$BOXX - Take My Chance.mp3" tid="{3AEE2549-54DA-4D63-9547-A439FF8843A0}"/>
+            <media src="..\Kalafina\After Eden\Kalafina - Magia.mp3" tid="{8FA03F64-B2E4-4338-A1FE-516AFAC6DFD4}"/>
+            <media src="..\World Order\World Order\World Order - World Order.mp3" tid="{A5C5DD68-392F-458C-A7A8-4E50F00EDD2C}"/>
+            <media src="..\World Order\2012\Machine Civilization - World Order.mp3" tid="{782E59AD-620A-4EC4-9DF4-378BEF711355}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Brotherhood Original Soundtrack\Period - Chemistry.mp3" tid="{7A6BD4B4-F576-469F-811E-7516A5025294}"/>
+            <media src="..\Various artists\Evangelion 2.22\01 Time to Face the Day.mp3"/>
+            <media src="..\Various artists\Evangelion 2.22\02 Seventh Angel.mp3"/>
+            <media src="..\Various artists\Evangelion 2.22\03 Destiny.mp3"/>
+            <media src="..\Various artists\Evangelion 2.22\04 Shinji vs. Bardiel.mp3"/>
+            <media src="..\Various artists\Evangelion 2.22\05 Farewell For Today.mp3"/>
+            <media src="..\Various artists\Evangelion 2.22\06 Mari vs. Zeruel.mp3"/>
+            <media src="..\Various artists\Evangelion 2.22\07 The Beast.mp3"/>
+            <media src="..\Various artists\Evangelion 2.22\08 Shinji vs. Zeruel.mp3"/>
+            <media src="..\Various artists\Evangelion 2.22\09 I Want Rei.mp3"/>
+            <media src="..\Various artists\Evangelion 2.22\10 Credits.mp3"/>
         </seq>
     </body>
 </smil>
