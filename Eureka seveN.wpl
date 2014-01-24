@@ -1,108 +1,202 @@
-<?zpl version="2.0"?>
+<?wpl version="1.0"?>
 <smil>
-  <head>
-    <guid>{2395E95B-AD28-48D1-80D4-7CD3047D8C3E}</guid>
-    <meta name="generator" content="Zune -- 4.8.2345.0" />
-    <meta name="itemCount" content="90" />
-    <meta name="totalDuration" content="15679" />
-    <meta name="averageRating" content="0" />
-    <meta name="creatorId" content="{7CC03665-003F-A8F9-9BA9-3E76BF71F97E}" />
-    <meta name="autoRefresh" content="FALSE" />
-    <meta name="autoRefreshInterval" content="5" />
-    <title>Eureka seveN</title>
-  </head>
-  <body>
-    <seq>
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\01 Days [Eureka Opening Mix].wma" serviceId="{07428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Days [Eureka Opening Mix]" trackArtist="Soundtrack" duration="93158" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\02 Storywriter.wma" serviceId="{08428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Storywriter" trackArtist="Soundtrack" duration="260388" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\03 Long Journey.wma" serviceId="{09428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Long Journey" trackArtist="Soundtrack" duration="99194" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\04 Nostalgia.wma" serviceId="{0A428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Nostalgia" trackArtist="Soundtrack" duration="97244" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\05 Distant Memory.wma" serviceId="{0B428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Distant Memory" trackArtist="Soundtrack" duration="99752" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\06 Cruel World.wma" serviceId="{0C428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Cruel World" trackArtist="Soundtrack" duration="82337" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\07 Truth.wma" serviceId="{0D428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Truth" trackArtist="Soundtrack" duration="120000" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\08 Eureka.wma" serviceId="{0E428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Eureka" trackArtist="Soundtrack" duration="108901" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\09 A Blood Bond.wma" serviceId="{0F428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="A Blood Bond" trackArtist="Soundtrack" duration="84149" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\10 Tiger Track.wma" serviceId="{10428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Tiger Track" trackArtist="Soundtrack" duration="333206" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\11 Acid Track Prototype.wma" serviceId="{11428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Acid Track Prototype" trackArtist="Soundtrack" duration="361534" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\12 On the Hill.wma" serviceId="{12428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="On the Hill" trackArtist="Soundtrack" duration="88421" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\13 Terror of the Smile.wma" serviceId="{13428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Terror of the Smile" trackArtist="Soundtrack" duration="91811" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\14 Okamochi &amp; Jersey.wma" serviceId="{14428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Okamochi &amp; Jersey" trackArtist="Soundtrack" duration="77600" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\15 Sexy Lady Bluesy.wma" serviceId="{15428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Sexy Lady Bluesy" trackArtist="Soundtrack" duration="70913" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\16 Forbidden Fruit.wma" serviceId="{16428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Forbidden Fruit" trackArtist="Soundtrack" duration="63529" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\17 Hobo Strums Guitar.wma" serviceId="{17428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Hobo Strums Guitar" trackArtist="Soundtrack" duration="116239" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\18 A Sign.wma" serviceId="{18428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="A Sign (Portents)" trackArtist="Soundtrack" duration="93576" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\19 Leap from the Indication.wma" serviceId="{19428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Leap from the Indication" trackArtist="Soundtrack" duration="166347" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\20 Combat Zone.wma" serviceId="{1A428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Combat Zone" trackArtist="Soundtrack" duration="98127" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\21 Gekko-Go.wma" serviceId="{1B428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Gekko-Go" trackArtist="Soundtrack" duration="95387" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\22 Renton Thurston.wma" serviceId="{1C428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Renton Thurston" trackArtist="Soundtrack" duration="106161" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\23 Nirvash Type Zero.wma" serviceId="{1D428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Nirvash Type Zero" trackArtist="Soundtrack" duration="120789" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\24 A Place to Be.wma" serviceId="{1E428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="A Place to Be" trackArtist="Soundtrack" duration="78157" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\25 In the Midst of the Universe.wma" serviceId="{1F428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="In the Midst of the Universe" trackArtist="Soundtrack" duration="79133" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\26 Sky of Hope.wma" serviceId="{20428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Sky of Hope" trackArtist="Soundtrack" duration="103049" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 1\27 Secret Base [Eureka Ending Mix].wma" serviceId="{21428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 1" albumArtist="Soundtrack" trackTitle="Secret Base [Eureka Ending Mix]" trackArtist="Soundtrack" duration="96083" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 2\01 Shonen Heart [Eureka Opening Mix].wma" serviceId="{22428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 2" albumArtist="Soundtrack" trackTitle="Shonen Heart [Eureka Opening Mix]" trackArtist="Soundtrack" duration="93483" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 2\02 Alone in the Wilderness.wma" serviceId="{23428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 2" albumArtist="Soundtrack" trackTitle="Alone in the Wilderness" trackArtist="Soundtrack" duration="135650" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 2\03 Wind Blowing Across Utopia.wma" serviceId="{24428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 2" albumArtist="Soundtrack" trackTitle="Wind Blowing Across Utopia" trackArtist="Soundtrack" duration="116192" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 2\04 Sorrow.wma" serviceId="{25428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 2" albumArtist="Soundtrack" trackTitle="Sorrow" trackArtist="Soundtrack" duration="126780" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 2\05 Ostentatious Star.wma" serviceId="{26428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 2" albumArtist="Soundtrack" trackTitle="Ostentatious Star" trackArtist="Soundtrack" duration="124133" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 2\06 Scab Coral.wma" serviceId="{27428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 2" albumArtist="Soundtrack" trackTitle="Scab Coral" trackArtist="Soundtrack" duration="81455" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 2\07 Misunderstanding Unresolved.wma" serviceId="{28428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 2" albumArtist="Soundtrack" trackTitle="Misunderstanding Unresolved" trackArtist="Soundtrack" duration="91068" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 2\08 Rhythm of Insecurity.wma" serviceId="{29428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 2" albumArtist="Soundtrack" trackTitle="Rhythm of Insecurity" trackArtist="Soundtrack" duration="97894" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 2\09 Undefying Fate.wma" serviceId="{2A428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 2" albumArtist="Soundtrack" trackTitle="Undefying Fate" trackArtist="Soundtrack" duration="113591" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 2\10 Warmth Within Hopelessness, However.wma" serviceId="{2B428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 2" albumArtist="Soundtrack" trackTitle="Warmth Within Hopelessness, However..." trackArtist="Soundtrack" duration="138019" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 2\11 At the Border.wma" serviceId="{2C428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 2" albumArtist="Soundtrack" trackTitle="At the Border" trackArtist="Soundtrack" duration="123855" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 2\12 Uncontrolled Self.wma" serviceId="{2D428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 2" albumArtist="Soundtrack" trackTitle="Uncontrolled Self" trackArtist="Soundtrack" duration="95990" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 2\13 Type the End.wma" serviceId="{2E428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 2" albumArtist="Soundtrack" trackTitle="Type the End" trackArtist="Soundtrack" duration="116378" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 2\14 Get It by Your Hands.wma" serviceId="{2F428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 2" albumArtist="Soundtrack" trackTitle="Get It by Your Hands" trackArtist="Soundtrack" duration="466209" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 2\15 Trance Ruined.wma" serviceId="{30428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 2" albumArtist="Soundtrack" trackTitle="Trance Ruined" trackArtist="Soundtrack" duration="274552" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 2\16 Connected Throughout This Planet, Under This Sky.wma" serviceId="{31428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 2" albumArtist="Soundtrack" trackTitle="Connected Throughout This Planet, Under This Sky" trackArtist="Soundtrack" duration="100031" />
-      <media src="..\Zune\Soundtrack\Eureka Seven Disc 2\17 Ocean Inside the Memory.wma" serviceId="{32428800-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Disc 2" albumArtist="Soundtrack" trackTitle="Ocean Inside the Memory" trackArtist="Soundtrack" duration="124829" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\01 Canvas [Euraka Ending Mix].wma" serviceId="{4802A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Canvas [Euraka Ending Mix]" trackArtist="Various Artists" duration="91022" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\02 Tips Taps Tip [Eureka Ending Mix].wma" serviceId="{4902A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Tips Taps Tip [Eureka Ending Mix]" trackArtist="Various Artists" duration="95155" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\03 Taiyo No Mannake E [Eureka Opening Mix].wma" serviceId="{4A02A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Taiyo No Mannake E [Eureka Opening Mix]" trackArtist="Various Artists" duration="91765" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\04 Sakura [Eureka Opening Mix].wma" serviceId="{4B02A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Sakura [Eureka Opening Mix]" trackArtist="Various Artists" duration="99473" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\05 Fleeting Love.wma" serviceId="{4C02A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Fleeting Love" trackArtist="Various Artists" duration="154783" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\06 Promised Land.wma" serviceId="{4D02A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Promised Land" trackArtist="Various Artists" duration="153576" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\07 Diane.wma" serviceId="{4E02A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Diane" trackArtist="Various Artists" duration="149490" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\08 Memory Box.wma" serviceId="{4F02A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Memory Box" trackArtist="Various Artists" duration="194490" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\09 Time-Lines.wma" serviceId="{5002A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Time-Lines" trackArtist="Various Artists" duration="370404" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\10 Sea of Prayers.wma" serviceId="{5102A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Sea of Prayers" trackArtist="Various Artists" duration="115867" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\11 Original Sin.wma" serviceId="{5202A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Original Sin" trackArtist="Various Artists" duration="186873" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\12 Appearance of the Coralians.wma" serviceId="{5302A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Appearance of the Coralians" trackArtist="Various Artists" duration="93297" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\13 Fruit of Purgatory.wma" serviceId="{5402A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Fruit of Purgatory" trackArtist="Various Artists" duration="129056" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\14 Dewey Novak.wma" serviceId="{5502A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Dewey Novak" trackArtist="Various Artists" duration="132167" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\15 Tragic Decision.wma" serviceId="{5602A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Tragic Decision" trackArtist="Various Artists" duration="142894" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\16 Last Hope.wma" serviceId="{5702A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Last Hope" trackArtist="Various Artists" duration="144381" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\17 Speeding Spirit.wma" serviceId="{5802A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Speeding Spirit" trackArtist="Various Artists" duration="126687" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\18 Ninety Three.wma" serviceId="{5902A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Ninety Three" trackArtist="Various Artists" duration="315141" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\19 I've Got It [Eureka New School Acid Mix].wma" serviceId="{5A02A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="I've Got It [Eureka New School Acid Mix]" trackArtist="Various Artists" duration="447308" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\20 Second Summer of Love.wma" serviceId="{5B02A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Second Summer of Love" trackArtist="Various Artists" duration="211347" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\21 Wish Upon a Star.wma" serviceId="{5C02A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Wish Upon a Star" trackArtist="Various Artists" duration="197972" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 1\22 Niji.wma" serviceId="{5D02A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 1" albumArtist="Various Artists" trackTitle="Niji" trackArtist="Various Artists" duration="651830" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 2\01 Draft Any Funk.wma" serviceId="{5E02A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 2" albumArtist="Various Artists" trackTitle="Draft Any Funk" trackArtist="Various Artists" duration="311657" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 2\02 L.F.O.wma" serviceId="{5F02A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 2" albumArtist="Various Artists" trackTitle="L.F.O." trackArtist="Various Artists" duration="411364" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 2\03 Koitsu.wma" serviceId="{6002A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 2" albumArtist="Various Artists" trackTitle="Koitsu" trackArtist="Various Artists" duration="202895" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 2\04 Chaotic Waltz.wma" serviceId="{6102A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 2" albumArtist="Various Artists" trackTitle="Chaotic Waltz" trackArtist="Various Artists" duration="315048" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 2\05 D.J. Choice.wma" serviceId="{6202A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 2" albumArtist="Various Artists" trackTitle="D.J. Choice" trackArtist="Various Artists" duration="401147" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 2\06 Dot.wma" serviceId="{6302A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 2" albumArtist="Various Artists" trackTitle="Dot" trackArtist="Various Artists" duration="221704" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 2\07 Control.wma" serviceId="{6402A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 2" albumArtist="Various Artists" trackTitle="Control" trackArtist="Various Artists" duration="359722" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 2\08 M3 [-].wma" serviceId="{6502A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 2" albumArtist="Various Artists" trackTitle="M3 [*]" trackArtist="Various Artists" duration="73606" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 2\09 M15 [-].wma" serviceId="{6602A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 2" albumArtist="Various Artists" trackTitle="M15 [*]" trackArtist="Various Artists" duration="94179" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 2\10 M16 [-].wma" serviceId="{6702A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 2" albumArtist="Various Artists" trackTitle="M16 [*]" trackArtist="Various Artists" duration="70588" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 2\11 M20 [-].wma" serviceId="{6802A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 2" albumArtist="Various Artists" trackTitle="M20 [*]" trackArtist="Various Artists" duration="84427" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 2\12 M30 [-].wma" serviceId="{6902A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 2" albumArtist="Various Artists" trackTitle="M30 [*]" trackArtist="Various Artists" duration="62507" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 2\14 M-Ex1 [-].wma" serviceId="{6B02A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 2" albumArtist="Various Artists" trackTitle="M-Ex1 [*]" trackArtist="Various Artists" duration="78622" />
-      <media src="..\Zune\Soundtrack\Eureka Seven, Vol. 2 Disc 2\15 M-Ex2 [-].wma" serviceId="{6C02A200-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven, Vol. 2 Disc 2" albumArtist="Various Artists" trackTitle="M-Ex2 [*]" trackArtist="Various Artists" duration="58931" />
-      <media src="..\Zune\Various Artists\Eureka Seven Complete Best Disc 1\01 Days.wma" serviceId="{BAC8D500-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Complete Best Disc 1" albumArtist="Various Artists" trackTitle="Days" trackArtist="Various Artists" duration="251610" />
-      <media src="..\Zune\Various Artists\Eureka Seven Complete Best Disc 1\02 Himitsu Kichi.wma" serviceId="{BBC8D500-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Complete Best Disc 1" albumArtist="Various Artists" trackTitle="Himitsu Kichi" trackArtist="Various Artists" duration="294614" />
-      <media src="..\Zune\Various Artists\Eureka Seven Complete Best Disc 1\03 Shoren Heart.wma" serviceId="{BCC8D500-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Complete Best Disc 1" albumArtist="Various Artists" trackTitle="Shoren Heart" trackArtist="Various Artists" duration="234289" />
-      <media src="..\Zune\Various Artists\Eureka Seven Complete Best Disc 1\04 Fly Away.wma" serviceId="{BDC8D500-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Complete Best Disc 1" albumArtist="Various Artists" trackTitle="Fly Away" trackArtist="Various Artists" duration="238050" />
-      <media src="..\Zune\Various Artists\Eureka Seven Complete Best Disc 1\05 Taiyo No Mannaka E.wma" serviceId="{BEC8D500-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Complete Best Disc 1" albumArtist="Various Artists" trackTitle="Taiyo No Mannaka E" trackArtist="Various Artists" duration="193282" />
-      <media src="..\Zune\Various Artists\Eureka Seven Complete Best Disc 1\06 Tip Taps Tip.wma" serviceId="{BFC8D500-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Complete Best Disc 1" albumArtist="Various Artists" trackTitle="Tip Taps Tip" trackArtist="Various Artists" duration="282958" />
-      <media src="..\Zune\Various Artists\Eureka Seven Complete Best Disc 1\07 Sakura.wma" serviceId="{C0C8D500-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Complete Best Disc 1" albumArtist="Various Artists" trackTitle="Sakura" trackArtist="Various Artists" duration="275295" />
-      <media src="..\Zune\Various Artists\Eureka Seven Complete Best Disc 1\08 Canvas.wma" serviceId="{C1C8D500-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Complete Best Disc 1" albumArtist="Various Artists" trackTitle="Canvas" trackArtist="Various Artists" duration="295450" />
-      <media src="..\Zune\Various Artists\Eureka Seven Complete Best Disc 1\09 Realize.wma" serviceId="{C2C8D500-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Complete Best Disc 1" albumArtist="Various Artists" trackTitle="Realize" trackArtist="Various Artists" duration="214923" />
-      <media src="..\Zune\Various Artists\Eureka Seven Complete Best Disc 1\10 Niji.wma" serviceId="{C3C8D500-0500-11DB-89CA-0019B92A3933}" albumTitle="Eureka Seven Complete Best Disc 1" albumArtist="Various Artists" trackTitle="Niji" trackArtist="Various Artists" duration="652247" />
-    </seq>
-  </body>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.17514"/>
+        <meta name="ItemCount" content="184"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
+        <title>Eureka seveN</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\Various artists\Eureka Seven Disc 1\01 Days [Eureka Opening Mix].wma" cid="{C7ADA9D2-F5C8-49BC-B0A9-D9E9EE83C9AF}" tid="{F57E9AC2-D3E4-464E-9481-16F4112D4038}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\02 Storywriter.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\03 Long Journey.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\04 Nostalgia.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\05 Distant Memory.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\06 Cruel World.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\07 Truth.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\08 Eureka.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\09 A Blood Bond.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\10 Tiger Track.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\11 Acid Track Prototype.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\12 On the Hill.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\13 Terror of the Smile.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\14 Okamochi &amp; Jersey.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\15 Sexy Lady Bluesy.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\16 Forbidden Fruit.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\17 Hobo Strums Guitar.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\18 A Sign.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\19 Leap from the Indication.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\20 Combat Zone.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\21 Gekko-Go.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\22 Renton Thurston.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\23 Nirvash Type Zero.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\24 A Place to Be.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\25 In the Midst of the Universe.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\26 Sky of Hope.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\27 Secret Base [Eureka Ending Mix].wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\01 Shonen Heart [Eureka Opening Mix].wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\02 Alone in the Wilderness.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\03 Wind Blowing Across Utopia.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\04 Sorrow.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\05 Ostentatious Star.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\06 Scab Coral.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\07 Misunderstanding Unresolved.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\08 Rhythm of Insecurity.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\09 Undefying Fate.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\10 Warmth Within Hopelessness, However.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\11 At the Border.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\12 Uncontrolled Self.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\13 Type the End.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\14 Get It by Your Hands.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\15 Trance Ruined.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\16 Connected Throughout This Planet, Under This Sky.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\17 Ocean Inside the Memory.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\18 Fly Away [Eureka Ending Mix].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\01 Canvas [Euraka Ending Mix].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\02 Tips Taps Tip [Eureka Ending Mix].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\03 Taiyo No Mannake E [Eureka Opening Mix].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\04 Sakura [Eureka Opening Mix].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\05 Fleeting Love.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\06 Promised Land.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\07 Diane.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\08 Memory Box.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\09 Time-Lines.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\10 Sea of Prayers.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\11 Original Sin.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\12 Appearance of the Coralians.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\13 Fruit of Purgatory.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\14 Dewey Novak.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\15 Tragic Decision.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\16 Last Hope.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\17 Speeding Spirit.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\18 Ninety Three.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\19 I&apos;ve Got It [Eureka New School Acid Mix].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\20 Second Summer of Love.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\21 Wish Upon a Star.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\22 Niji.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\01 Draft Any Funk.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\02 L.F.O.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\03 Koitsu.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\04 Chaotic Waltz.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\05 D.J. Choice.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\06 Dot.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\07 Control.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\08 M3 [-].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\09 M15 [-].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\10 M16 [-].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\11 M20 [-].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\12 M30 [-].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\13 M36 [-].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\14 M-Ex1 [-].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\15 M-Ex2 [-].wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\01 Days.wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\02 Himitsu Kichi.wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\03 Shoren Heart.wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\04 Fly Away.wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\05 Taiyo No Mannaka E.wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\06 Tip Taps Tip.wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\07 Sakura.wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\08 Canvas.wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\09 Realize.wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\10 Niji.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\01 Days [Eureka Opening Mix].wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\02 Storywriter.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\03 Long Journey.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\04 Nostalgia.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\05 Distant Memory.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\06 Cruel World.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\07 Truth.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\08 Eureka.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\09 A Blood Bond.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\10 Tiger Track.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\11 Acid Track Prototype.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\12 On the Hill.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\13 Terror of the Smile.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\14 Okamochi &amp; Jersey.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\15 Sexy Lady Bluesy.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\16 Forbidden Fruit.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\17 Hobo Strums Guitar.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\18 A Sign.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\19 Leap from the Indication.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\20 Combat Zone.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\21 Gekko-Go.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\22 Renton Thurston.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\23 Nirvash Type Zero.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\24 A Place to Be.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\25 In the Midst of the Universe.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\26 Sky of Hope.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\27 Secret Base [Eureka Ending Mix].wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\01 Shonen Heart [Eureka Opening Mix].wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\02 Alone in the Wilderness.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\03 Wind Blowing Across Utopia.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\04 Sorrow.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\05 Ostentatious Star.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\06 Scab Coral.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\07 Misunderstanding Unresolved.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\08 Rhythm of Insecurity.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\09 Undefying Fate.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\10 Warmth Within Hopelessness, However.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\11 At the Border.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\12 Uncontrolled Self.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\13 Type the End.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\14 Get It by Your Hands.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\15 Trance Ruined.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\16 Connected Throughout This Planet, Under This Sky.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\17 Ocean Inside the Memory.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\18 Fly Away [Eureka Ending Mix].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\01 Canvas [Euraka Ending Mix].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\02 Tips Taps Tip [Eureka Ending Mix].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\03 Taiyo No Mannake E [Eureka Opening Mix].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\04 Sakura [Eureka Opening Mix].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\05 Fleeting Love.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\06 Promised Land.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\07 Diane.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\08 Memory Box.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\09 Time-Lines.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\10 Sea of Prayers.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\11 Original Sin.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\12 Appearance of the Coralians.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\13 Fruit of Purgatory.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\14 Dewey Novak.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\15 Tragic Decision.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\16 Last Hope.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\17 Speeding Spirit.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\18 Ninety Three.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\19 I&apos;ve Got It [Eureka New School Acid Mix].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\20 Second Summer of Love.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\21 Wish Upon a Star.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 1\22 Niji.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\01 Draft Any Funk.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\02 L.F.O.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\03 Koitsu.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\04 Chaotic Waltz.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\05 D.J. Choice.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\06 Dot.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\07 Control.wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\08 M3 [-].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\09 M15 [-].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\10 M16 [-].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\11 M20 [-].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\12 M30 [-].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\13 M36 [-].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\14 M-Ex1 [-].wma"/>
+            <media src="..\Various artists\Eureka Seven, Vol. 2 Disc 2\15 M-Ex2 [-].wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\01 Days.wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\02 Himitsu Kichi.wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\03 Shoren Heart.wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\04 Fly Away.wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\05 Taiyo No Mannaka E.wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\06 Tip Taps Tip.wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\07 Sakura.wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\08 Canvas.wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\09 Realize.wma"/>
+            <media src="..\Various artists\Eureka Seven Complete Best Disc 1\10 Niji.wma"/>
+        </seq>
+    </body>
 </smil>
