@@ -1,0 +1,39 @@
+<?zpl version="2.0"?>
+<smil>
+  <head>
+    <guid>{5469E624-7B8C-4DEE-8109-4720503DC1DA}</guid>
+    <meta name="autoRefreshInterval" content="5" />
+    <meta name="autoRefresh" content="FALSE" />
+    <meta name="creatorId" content="{7CC03665-003F-A8F9-9BA9-3E76BF71F97E}" />
+    <meta name="averageRating" content="0" />
+    <meta name="totalDuration" content="6802" />
+    <meta name="itemCount" content="21" />
+    <meta name="generator" content="Zune -- 4.8.2345.0" />
+    <title>Independent</title>
+  </head>
+  <body>
+    <seq>
+      <media src="..\Zune\Unique Chique\It Never Fails Forever\01 Burn My Shadow On The Wall.mp3" albumTitle="It Never Fails Forever" albumArtist="Unique Chique" trackTitle="Burn My Shadow On The Wall" trackArtist="Unique Chique" duration="223506" />
+      <media src="..\Zune\Unique Chique\It Never Fails Forever\02 Why Wander Off-.mp3" albumTitle="It Never Fails Forever" albumArtist="Unique Chique" trackTitle="Why Wander Off?" trackArtist="Unique Chique" duration="165106" />
+      <media src="..\Zune\Unique Chique\It Never Fails Forever\03 Forming Two People.mp3" albumTitle="It Never Fails Forever" albumArtist="Unique Chique" trackTitle="Forming Two People" trackArtist="Unique Chique" duration="244066" />
+      <media src="..\Zune\Unique Chique\It Never Fails Forever\04 Profile.mp3" albumTitle="It Never Fails Forever" albumArtist="Unique Chique" trackTitle="Profile" trackArtist="Unique Chique" duration="224146" />
+      <media src="..\Zune\Unique Chique\It Never Fails Forever\05 Firing Environment.mp3" albumTitle="It Never Fails Forever" albumArtist="Unique Chique" trackTitle="Firing Environment" trackArtist="Unique Chique" duration="250000" />
+      <media src="..\Zune\Unique Chique\It Never Fails Forever\06 Piece And Core Of Human Mind.mp3" albumTitle="It Never Fails Forever" albumArtist="Unique Chique" trackTitle="Piece And Core Of Human Mind" trackArtist="Unique Chique" duration="250293" />
+      <media src="..\Zune\Unique Chique\It Never Fails Forever\07 Benefit Of The Doubt.mp3" albumTitle="It Never Fails Forever" albumArtist="Unique Chique" trackTitle="Benefit Of The Doubt" trackArtist="Unique Chique" duration="162426" />
+      <media src="..\Zune\Unique Chique\It Never Fails Forever\08 Eyes For Me Through You.mp3" albumTitle="It Never Fails Forever" albumArtist="Unique Chique" trackTitle="Eyes For Me Through You" trackArtist="Unique Chique" duration="277226" />
+      <media src="..\Zune\Unique Chique\It Never Fails Forever\09 Blinding Time.mp3" albumTitle="It Never Fails Forever" albumArtist="Unique Chique" trackTitle="Blinding Time" trackArtist="Unique Chique" duration="237413" />
+      <media src="..\Zune\Unique Chique\It Never Fails Forever\10 Save Up And Stay Down.mp3" albumTitle="It Never Fails Forever" albumArtist="Unique Chique" trackTitle="Save Up And Stay Down" trackArtist="Unique Chique" duration="236746" />
+      <media src="..\Zune\The Digital Kill\Stare\01 Gentle.mp3" albumTitle="Stare" albumArtist="The Digital Kill" trackTitle="Gentle" trackArtist="The Digital Kill" duration="155306" />
+      <media src="..\Zune\The Digital Kill\Stare\02 Her.mp3" albumTitle="Stare" albumArtist="The Digital Kill" trackTitle="Her" trackArtist="The Digital Kill" duration="316733" />
+      <media src="..\Zune\The Digital Kill\Stare\03 Sometimes.mp3" albumTitle="Stare" albumArtist="The Digital Kill" trackTitle="Sometimes" trackArtist="The Digital Kill" duration="600906" />
+      <media src="..\Zune\The Digital Kill\Stare\04 Fade.mp3" albumTitle="Stare" albumArtist="The Digital Kill" trackTitle="Fade" trackArtist="The Digital Kill" duration="522426" />
+      <media src="..\Zune\The Digital Kill\Stare\05 Stare.mp3" albumTitle="Stare" albumArtist="The Digital Kill" trackTitle="Stare" trackArtist="The Digital Kill" duration="448786" />
+      <media src="..\Zune\The Digital Kill\Stare\06 Social.mp3" albumTitle="Stare" albumArtist="The Digital Kill" trackTitle="Social" trackArtist="The Digital Kill" duration="337253" />
+      <media src="..\Zune\The Digital Kill\Stare\07 Rape.mp3" albumTitle="Stare" albumArtist="The Digital Kill" trackTitle="Rape" trackArtist="The Digital Kill" duration="430866" />
+      <media src="..\Zune\The Digital Kill\Stare\08 Child.mp3" albumTitle="Stare" albumArtist="The Digital Kill" trackTitle="Child" trackArtist="The Digital Kill" duration="460920" />
+      <media src="..\Zune\The Digital Kill\Stare\09 [Silence].mp3" albumTitle="Stare" albumArtist="The Digital Kill" trackTitle="[Silence]" trackArtist="The Digital Kill" duration="631826" />
+      <media src="..\Zune\The Digital Kill\Stare\10 Cancer.mp3" albumTitle="Stare" albumArtist="The Digital Kill" trackTitle="Cancer" trackArtist="The Digital Kill" duration="171760" />
+      <media src="..\Zune\The Digital Kill\Stare\11 Frail.mp3" albumTitle="Stare" albumArtist="The Digital Kill" trackTitle="Frail" trackArtist="The Digital Kill" duration="454653" />
+    </seq>
+  </body>
+</smil>

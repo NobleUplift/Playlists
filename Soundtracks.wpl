@@ -1,0 +1,53 @@
+<?zpl version="2.0"?>
+<smil>
+  <head>
+    <guid>{1BD507B5-01F9-45C0-A171-85DEC7C81D8A}</guid>
+    <meta name="generator" content="Zune -- 4.8.2345.0" />
+    <meta name="itemCount" content="35" />
+    <meta name="totalDuration" content="7600" />
+    <meta name="averageRating" content="0" />
+    <meta name="creatorId" content="{7CC03665-003F-A8F9-9BA9-3E76BF71F97E}" />
+    <meta name="autoRefresh" content="FALSE" />
+    <meta name="autoRefreshInterval" content="5" />
+    <title>Soundtracks</title>
+  </head>
+  <body>
+    <seq>
+      <media src="..\Zune\Soundtrack\Daredevil\01 Won't Back Down.wma" serviceId="{5156B900-0100-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="Won't Back Down" trackArtist="Fuel" duration="202059" />
+      <media src="..\Zune\Soundtrack\Daredevil\02 For You.wma" serviceId="{5356B900-0100-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="For You" trackArtist="Calling" duration="222771" />
+      <media src="..\Zune\Soundtrack\Daredevil\03 Bleed for Me.wma" serviceId="{C9335C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="Bleed for Me" trackArtist="Saliva" duration="239443" />
+      <media src="..\Zune\Soundtrack\Daredevil\04 Hang On.wma" serviceId="{5556B900-0100-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="Hang On" trackArtist="Seether" duration="190357" />
+      <media src="..\Zune\Soundtrack\Daredevil\05 Learn the Hard Way.wma" serviceId="{CB335C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="Learn the Hard Way" trackArtist="Nickelback" duration="174799" />
+      <media src="..\Zune\Soundtrack\Daredevil\06 The Man Without Fear.wma" serviceId="{CC335C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="The Man Without Fear" trackArtist="Drowning Pool" duration="200852" />
+      <media src="..\Zune\Soundtrack\Daredevil\07 Right Now.wma" serviceId="{CD335C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="Right Now" trackArtist="Marcos Curiel" duration="273344" />
+      <media src="..\Zune\Soundtrack\Daredevil\08 Evening Rain.wma" serviceId="{CE335C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="Evening Rain" trackArtist="Moby" duration="233034" />
+      <media src="..\Zune\Soundtrack\Daredevil\09 Bring Me to Life.wma" serviceId="{CF335C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="Bring Me to Life" trackArtist="Evanescence" duration="236379" />
+      <media src="..\Zune\Soundtrack\Daredevil\10 Until You're Reformed.wma" serviceId="{D0335C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="Until You're Reformed" trackArtist="Chevelle" duration="240093" />
+      <media src="..\Zune\Soundtrack\Daredevil\11 Right Before Your Eyes.wma" serviceId="{D1335C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="Right Before Your Eyes" trackArtist="Hoobastank" duration="211022" />
+      <media src="..\Zune\Soundtrack\Daredevil\12 Fade Out-In.wma" serviceId="{D2335C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="Fade Out/In" trackArtist="Paloalto" duration="217106" />
+      <media src="..\Zune\Soundtrack\Daredevil\13 Caught in the Rain.wma" serviceId="{D3335C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="Caught in the Rain" trackArtist="Revis" duration="211161" />
+      <media src="..\Zune\Soundtrack\Daredevil\14 High Wire Escape Artist.wma" serviceId="{D4335C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="High Wire Escape Artist" trackArtist="Boysetsfire" duration="227555" />
+      <media src="..\Zune\Soundtrack\Daredevil\15 Raise Your Rifles.wma" serviceId="{D5335C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="Raise Your Rifles" trackArtist="Autopilot Off" duration="157617" />
+      <media src="..\Zune\Soundtrack\Daredevil\16 Daredevil Theme [Blind Justice Remix].wma" serviceId="{D6335C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="Daredevil Theme [Blind Justice Remix]" trackArtist="Graeme Revell" duration="212090" />
+      <media src="..\Zune\Soundtrack\Daredevil\17 My Immortal.wma" serviceId="{D7335C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="My Immortal" trackArtist="Evanescence" duration="263685" />
+      <media src="..\Zune\Soundtrack\Daredevil\18 Sad Exchange.wma" serviceId="{5756B900-0100-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="Sad Exchange" trackArtist="Finger Eleven" duration="212926" />
+      <media src="..\Zune\Soundtrack\Daredevil\19 Simple Lies.wma" serviceId="{D9335C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="Simple Lies" trackArtist="Endo" duration="247942" />
+      <media src="..\Zune\Soundtrack\Daredevil\20 Let Go.wma" serviceId="{5956B900-0100-11DB-89CA-0019B92A3933}" albumTitle="Daredevil" albumArtist="Soundtrack" trackTitle="Let Go" trackArtist="12 Stones" duration="269351" />
+      <media src="..\Zune\Soundtrack\Clockstoppers\01 Holiday in My Head.wma" serviceId="{EF9D5200-0500-11DB-89CA-0019B92A3933}" albumTitle="Clockstoppers" albumArtist="Soundtrack" trackTitle="Holiday in My Head" trackArtist="Smash Mouth" duration="160774" />
+      <media src="..\Zune\Soundtrack\Clockstoppers\02 Abracadabra [2002 Ralph Sall Remix].wma" serviceId="{F09D5200-0500-11DB-89CA-0019B92A3933}" albumTitle="Clockstoppers" albumArtist="Soundtrack" trackTitle="Abracadabra [2002 Ralph Sall Remix]" trackArtist="Sugar Ray" duration="223979" />
+      <media src="..\Zune\Soundtrack\Clockstoppers\03 A Song for Everyone.wma" serviceId="{F19D5200-0500-11DB-89CA-0019B92A3933}" albumTitle="Clockstoppers" albumArtist="Soundtrack" trackTitle="A Song for Everyone" trackArtist="Fenix TX" duration="250496" />
+      <media src="..\Zune\Soundtrack\Clockstoppers\04 Time After Time.wma" serviceId="{F29D5200-0500-11DB-89CA-0019B92A3933}" albumTitle="Clockstoppers" albumArtist="Soundtrack" trackTitle="Time After Time" trackArtist="Uncle Kracker" duration="260527" />
+      <media src="..\Zune\Soundtrack\Clockstoppers\05 Never Let You Go.wma" serviceId="{F39D5200-0500-11DB-89CA-0019B92A3933}" albumTitle="Clockstoppers" albumArtist="Soundtrack" trackTitle="Never Let You Go" trackArtist="Third Eye Blind" duration="237168" />
+      <media src="..\Zune\Soundtrack\Clockstoppers\06 All the Small Things.wma" serviceId="{F49D5200-0500-11DB-89CA-0019B92A3933}" albumTitle="Clockstoppers" albumArtist="Soundtrack" trackTitle="All the Small Things" trackArtist="blink-182" duration="168066" />
+      <media src="..\Zune\Soundtrack\Clockstoppers\07 Breathe.wma" serviceId="{F59D5200-0500-11DB-89CA-0019B92A3933}" albumTitle="Clockstoppers" albumArtist="Soundtrack" trackTitle="Breathe" trackArtist="Nickelback" duration="238933" />
+      <media src="..\Zune\Soundtrack\Clockstoppers\08 The Minute I Met You.wma" serviceId="{F69D5200-0500-11DB-89CA-0019B92A3933}" albumTitle="Clockstoppers" albumArtist="Soundtrack" trackTitle="The Minute I Met You" trackArtist="New Found Glory" duration="183123" />
+      <media src="..\Zune\Soundtrack\Clockstoppers\09 The Worst Day Every.wma" serviceId="{F79D5200-0500-11DB-89CA-0019B92A3933}" albumTitle="Clockstoppers" albumArtist="Soundtrack" trackTitle="The Worst Day Every" trackArtist="Simple Plan" duration="213577" />
+      <media src="..\Zune\Soundtrack\Clockstoppers\10 Bohemian Like You.wma" serviceId="{F89D5200-0500-11DB-89CA-0019B92A3933}" albumTitle="Clockstoppers" albumArtist="Soundtrack" trackTitle="Bohemian Like You" trackArtist="The Dandy Warhols" duration="211545" />
+      <media src="..\Zune\Soundtrack\Clockstoppers\11 Quicksand.wma" serviceId="{F99D5200-0500-11DB-89CA-0019B92A3933}" albumTitle="Clockstoppers" albumArtist="Soundtrack" trackTitle="Quicksand" trackArtist="Lit" duration="198158" />
+      <media src="..\Zune\Soundtrack\Clockstoppers\12 Space to Share.wma" serviceId="{FA9D5200-0500-11DB-89CA-0019B92A3933}" albumTitle="Clockstoppers" albumArtist="Soundtrack" trackTitle="Space to Share" trackArtist="Scapegoat Wax" duration="244691" />
+      <media src="..\Zune\Soundtrack\Clockstoppers\13 Know My Name.wma" serviceId="{FB9D5200-0500-11DB-89CA-0019B92A3933}" albumTitle="Clockstoppers" albumArtist="Soundtrack" trackTitle="Know My Name" trackArtist="Kool Keith" duration="203081" />
+      <media src="..\Zune\Soundtrack\Clockstoppers\14 It's the Weekend.wma" serviceId="{FC9D5200-0500-11DB-89CA-0019B92A3933}" albumTitle="Clockstoppers" albumArtist="Soundtrack" trackTitle="It's the Weekend" trackArtist="Lil' J" duration="181579" />
+      <media src="..\Zune\Soundtrack\Clockstoppers\15 Time Is Ticking Out.wma" serviceId="{FD9D5200-0500-11DB-89CA-0019B92A3933}" albumTitle="Clockstoppers" albumArtist="Soundtrack" trackTitle="Time Is Ticking Out" trackArtist="The Cranberries" duration="181487" />
+    </seq>
+  </body>
+</smil>
