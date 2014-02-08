@@ -2,17 +2,13 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
-        <meta name="ItemCount" content="7"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
+        <meta name="ItemCount" content="17"/>
         <author/>
         <title>Openings</title>
     </head>
     <body>
         <seq>
+            <media src="..\Various artists\Evangelion 2.22\01 Time to Face the Day.mp3" tid="{ABCB3157-8461-49AB-9985-BA8BF1134D2C}"/>
             <media src="..\Luna Haruna\OVERFLY\Luna Haruna - Overfly.mp3" tid="{1E29D78B-6A36-4A8D-8510-AD86264AD3DF}"/>
             <media src="..\Various artists\KLK OST MP3\Before my body is dry.mp3" tid="{C0E66D2D-10A9-4443-8C81-3BCFAFFF3543}"/>
             <media src="..\DOLL$BOXX\ディスコグラフィー\DOLL$BOXX - Take My Chance.mp3" tid="{3AEE2549-54DA-4D63-9547-A439FF8843A0}"/>
@@ -20,16 +16,15 @@
             <media src="..\World Order\World Order\World Order - World Order.mp3" tid="{A5C5DD68-392F-458C-A7A8-4E50F00EDD2C}"/>
             <media src="..\World Order\2012\Machine Civilization - World Order.mp3" tid="{782E59AD-620A-4EC4-9DF4-378BEF711355}"/>
             <media src="..\Various artists\Fullmetal Alchemist Brotherhood Original Soundtrack\Period - Chemistry.mp3" tid="{7A6BD4B4-F576-469F-811E-7516A5025294}"/>
-            <media src="..\Various artists\Evangelion 2.22\01 Time to Face the Day.mp3"/>
-            <media src="..\Various artists\Evangelion 2.22\02 Seventh Angel.mp3"/>
-            <media src="..\Various artists\Evangelion 2.22\03 Destiny.mp3"/>
-            <media src="..\Various artists\Evangelion 2.22\04 Shinji vs. Bardiel.mp3"/>
-            <media src="..\Various artists\Evangelion 2.22\05 Farewell For Today.mp3"/>
-            <media src="..\Various artists\Evangelion 2.22\06 Mari vs. Zeruel.mp3"/>
-            <media src="..\Various artists\Evangelion 2.22\07 The Beast.mp3"/>
-            <media src="..\Various artists\Evangelion 2.22\08 Shinji vs. Zeruel.mp3"/>
-            <media src="..\Various artists\Evangelion 2.22\09 I Want Rei.mp3"/>
-            <media src="..\Various artists\Evangelion 2.22\10 Credits.mp3"/>
+            <media src="..\Various artists\Evangelion 2.22\02 Seventh Angel.mp3" tid="{3EA81C16-D425-4931-9E1F-C2253C7369CC}"/>
+            <media src="..\Various artists\Evangelion 2.22\03 Destiny.mp3" tid="{2B12EB6D-867A-4D3A-BE18-76C491353CD5}"/>
+            <media src="..\Various artists\Evangelion 2.22\04 Shinji vs. Bardiel.mp3" tid="{AAD89CBC-4B1B-4037-8EDB-9352FDCE546A}"/>
+            <media src="..\Various artists\Evangelion 2.22\05 Farewell For Today.mp3" tid="{A0880BD0-AE03-4E56-A789-FAC027D706B7}"/>
+            <media src="..\Various artists\Evangelion 2.22\06 Mari vs. Zeruel.mp3" tid="{E3059528-D9E4-49AA-8A22-9E443FF7776C}"/>
+            <media src="..\Various artists\Evangelion 2.22\07 The Beast.mp3" tid="{0C580747-608D-4117-9173-A8581E03B812}"/>
+            <media src="..\Various artists\Evangelion 2.22\08 Shinji vs. Zeruel.mp3" tid="{5AEB8FE9-7176-4F05-91EF-995CB7C1F0C0}"/>
+            <media src="..\Various artists\Evangelion 2.22\09 I Want Rei.mp3" tid="{6832B211-EE01-4E76-8FFA-D5FD2300A72F}"/>
+            <media src="..\Various artists\Evangelion 2.22\10 Credits.mp3" tid="{B223112F-EAF1-4C76-B737-9025B41AC10D}"/>
         </seq>
     </body>
 </smil>
