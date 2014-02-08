@@ -1,0 +1,39 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
+        <meta name="ItemCount" content="27"/>
+        <title>Enon</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\Enon\High Society\01 Old Dominion.wma" tid="{AB1E99BB-F492-4E90-883F-D30ED3B45B09}"/>
+            <media src="..\Enon\High Society\02 Count Sheep.wma" tid="{7F156F82-321A-402C-BEC0-E12B3A2414FA}"/>
+            <media src="..\Enon\High Society\03 In This City.wma"/>
+            <media src="..\Enon\High Society\04 Window Display.wma"/>
+            <media src="..\Enon\High Society\05 Native Numb.wma"/>
+            <media src="..\Enon\High Society\06 Leave It to Rust.wma"/>
+            <media src="..\Enon\High Society\07 Disposable Parts.wma"/>
+            <media src="..\Enon\High Society\08 Sold!.wma"/>
+            <media src="..\Enon\High Society\09 Shoulder.wma"/>
+            <media src="..\Enon\High Society\10 Pleasure and Privelige.wma"/>
+            <media src="..\Enon\High Society\11 Natural Disasters.wma"/>
+            <media src="..\Enon\High Society\12 Carbonation.wma"/>
+            <media src="..\Enon\High Society\13 Salty.wma"/>
+            <media src="..\Enon\High Society\14 High Society.wma"/>
+            <media src="..\Enon\High Society\15 Diamond Raft.wma"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\01 Mirror on You.mp3"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\02 Colette.mp3"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\03 Dr. Freeze.mp3"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\04 Sabina.mp3"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\05 Peace of Mind.mp3"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\06 Law of Johnny Dolittle.mp3"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\07 Those Who Don&apos;t Blink.mp3"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\08 Pigeneration.mp3"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\09 Mr. Ratatatatat.mp3"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\10 Paperweights.mp3"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\11 Labyrinth.mp3"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\12 Ashish.mp3"/>
+        </seq>
+    </body>
+</smil>
