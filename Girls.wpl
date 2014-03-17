@@ -1,0 +1,22 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
+        <meta name="ItemCount" content="10"/>
+        <title>Girls</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\I Blame Coco\The Constant\03 Quicker.mp3"/>
+            <media src="..\I Blame Coco\The Constant\01 Selfmachine.mp3" tid="{DADA984F-D875-4D07-B885-BA70D812A831}"/>
+            <media src="..\Various Artists\YouTube\I Blame Coco - Quicker (Shook Remix)320.mp3"/>
+            <media src="..\Robyn\Body Talk\03 Dancing On My Own.mp3"/>
+            <media src="..\Robyn\Body Talk\08 Call Your Girlfriend.mp3"/>
+            <media src="..\Girls Love Shoes\Stars\01 Unknown Track 1.mp3"/>
+            <media src="..\Girls Love Shoes\Stars\02 Unknown Track 2.mp3"/>
+            <media src="..\Girls Love Shoes\Stars\03 Unknown Track 3.mp3"/>
+            <media src="..\Girls Love Shoes\Stars\04 Unknown Track 4.mp3"/>
+            <media src="..\Girls Love Shoes\Stars\05 Unknown Track 5.mp3"/>
+        </seq>
+    </body>
+</smil>

@@ -1,0 +1,33 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
+        <meta name="ItemCount" content="21"/>
+        <title>Alternative</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\Godsmack\The Other Side\01 Running Blind.wma" cid="{87D1133E-0A3D-4AE0-AD89-53B7E8A6D80A}" tid="{1EE67DDB-2C88-4ADD-AB57-F9CB9F86E3AA}"/>
+            <media src="..\Godsmack\The Other Side\02 Re-Align.wma"/>
+            <media src="..\Godsmack\The Other Side\03 Touché.wma"/>
+            <media src="..\Godsmack\The Other Side\04 Voices.wma"/>
+            <media src="..\Godsmack\The Other Side\05 Keep Away.wma"/>
+            <media src="..\Godsmack\The Other Side\06 Spiral.wma"/>
+            <media src="..\Godsmack\The Other Side\07 Asleep.wma"/>
+            <media src="..\Seether\Karma and Effect\01 Because of Me.wma"/>
+            <media src="..\Seether\Karma and Effect\02 Remedy.wma"/>
+            <media src="..\Seether\Karma and Effect\03 Truth.wma"/>
+            <media src="..\Seether\Karma and Effect\04 The Gift.wma"/>
+            <media src="..\Seether\Karma and Effect\05 Burrito.wma"/>
+            <media src="..\Seether\Karma and Effect\06 Given.wma"/>
+            <media src="..\Seether\Karma and Effect\07 Never Leave.wma"/>
+            <media src="..\Seether\Karma and Effect\08 World Falls Away.wma"/>
+            <media src="..\Seether\Karma and Effect\09 Tongue.wma"/>
+            <media src="..\Seether\Karma and Effect\10 I&apos;m the One.wma"/>
+            <media src="..\Seether\Karma and Effect\11 Simplest Mistake.wma"/>
+            <media src="..\Seether\Karma and Effect\12 Diseased.wma"/>
+            <media src="..\Seether\Karma and Effect\13 Plastic Man.wma"/>
+            <media src="..\Seether\Karma and Effect\14 [Untitled Track].wma"/>
+        </seq>
+    </body>
+</smil>
