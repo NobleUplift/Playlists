@@ -14,17 +14,18 @@
             <media src="..\Kalafina\After Eden\03 Magia.mp3" tid="{8FA03F64-B2E4-4338-A1FE-516AFAC6DFD4}"/>
             <media src="..\World Order\World Order\01 World Order.mp3" tid="{A5C5DD68-392F-458C-A7A8-4E50F00EDD2C}"/>
             <media src="..\World Order\2012\03 Machine Civilization.mp3" tid="{782E59AD-620A-4EC4-9DF4-378BEF711355}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Final Best\07 Period.mp3"/>
-            <media src="..\Various artists\Evangelion 2.2\01 Time to Face the Day.mp3"/>
-            <media src="..\Various artists\Evangelion 2.2\02 Seventh Angel.mp3"/>
-            <media src="..\Various artists\Evangelion 2.2\03 Eighth Angel.mp3"/>
-            <media src="..\Various artists\Evangelion 2.2\04 Shinji vs. Bardiel.mp3"/>
-            <media src="..\Various artists\Evangelion 2.2\05 Farewell For Today.mp3"/>
-            <media src="..\Various artists\Evangelion 2.2\06 Mari vs. Zeruel.mp3"/>
-            <media src="..\Various artists\Evangelion 2.2\07 The Beast.mp3"/>
-            <media src="..\Various artists\Evangelion 2.2\08 Shinji vs. Zeruel.mp3"/>
-            <media src="..\Various artists\Evangelion 2.2\09 I Want Rei.mp3"/>
-            <media src="..\Various artists\Evangelion 2.2\10 Credits.mp3"/>
+            <media src="..\Clannad Soundtracks, Image Albums, Arrange Albums and Singles\Toki wo Kizamu Uta - TORCH Single\01 Toki wo Kizamu Uta.mp3" tid="{8A4EACF1-B04C-4B25-A8E9-DD3B4C0CE802}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Final Best\07 Period.mp3" tid="{7A6BD4B4-F576-469F-811E-7516A5025294}"/>
+            <media src="..\Various artists\Evangelion 2.2\01 Time to Face the Day.mp3" tid="{C2FA98EB-84A5-429C-BDEA-70939F9FE833}"/>
+            <media src="..\Various artists\Evangelion 2.2\02 Seventh Angel.mp3" tid="{1E4774EF-563D-469A-97E4-781113F77949}"/>
+            <media src="..\Various artists\Evangelion 2.2\03 Eighth Angel.mp3" tid="{2B12EB6D-867A-4D3A-BE18-76C491353CD5}"/>
+            <media src="..\Various artists\Evangelion 2.2\04 Shinji vs. Bardiel.mp3" tid="{AAD89CBC-4B1B-4037-8EDB-9352FDCE546A}"/>
+            <media src="..\Various artists\Evangelion 2.2\05 Farewell For Today.mp3" tid="{A0880BD0-AE03-4E56-A789-FAC027D706B7}"/>
+            <media src="..\Various artists\Evangelion 2.2\06 Mari vs. Zeruel.mp3" tid="{87491C28-0765-43DB-BB82-15ED4000C234}"/>
+            <media src="..\Various artists\Evangelion 2.2\07 The Beast.mp3" tid="{0C580747-608D-4117-9173-A8581E03B812}"/>
+            <media src="..\Various artists\Evangelion 2.2\08 Shinji vs. Zeruel.mp3" tid="{5AEB8FE9-7176-4F05-91EF-995CB7C1F0C0}"/>
+            <media src="..\Various artists\Evangelion 2.2\09 I Want Rei.mp3" tid="{6832B211-EE01-4E76-8FFA-D5FD2300A72F}"/>
+            <media src="..\Various artists\Evangelion 2.2\10 Credits.mp3" tid="{B223112F-EAF1-4C76-B737-9025B41AC10D}"/>
         </seq>
     </body>
 </smil>
