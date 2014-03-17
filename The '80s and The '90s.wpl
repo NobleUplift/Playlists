@@ -1,0 +1,22 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
+        <meta name="ItemCount" content="10"/>
+        <title>The &apos;80s and The &apos;90s</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\a-ha\Hunting High and Low\01 Take on Me.wma" cid="{BEE3C4C2-B937-4C4B-8BA7-F6037B639155}" tid="{068DA0EA-867A-4943-8453-A58D8CABE048}"/>
+            <media src="..\a-ha\Hunting High and Low\02 Train of Thought.wma"/>
+            <media src="..\a-ha\Hunting High and Low\03 Hunting High and Low.wma"/>
+            <media src="..\a-ha\Hunting High and Low\04 The Blue Sky.wma"/>
+            <media src="..\a-ha\Hunting High and Low\05 Living a Boy&apos;s Adventure Tale.wma"/>
+            <media src="..\a-ha\Hunting High and Low\06 The Sun Always Shines on T.V.wma"/>
+            <media src="..\a-ha\Hunting High and Low\07 And You Tell Me.wma"/>
+            <media src="..\a-ha\Hunting High and Low\08 Love Is Reason.wma"/>
+            <media src="..\a-ha\Hunting High and Low\09 I Dream Myself Alive.wma"/>
+            <media src="..\a-ha\Hunting High and Low\10 Here I Stand and Face the Rain.wma"/>
+        </seq>
+    </body>
+</smil>
