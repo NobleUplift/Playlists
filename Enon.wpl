@@ -3,37 +3,54 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
         <meta name="ItemCount" content="27"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
         <title>Enon</title>
     </head>
     <body>
         <seq>
-            <media src="..\Enon\High Society\01 Old Dominion.wma" tid="{AB1E99BB-F492-4E90-883F-D30ED3B45B09}"/>
-            <media src="..\Enon\High Society\02 Count Sheep.wma" tid="{7F156F82-321A-402C-BEC0-E12B3A2414FA}"/>
-            <media src="..\Enon\High Society\03 In This City.wma"/>
-            <media src="..\Enon\High Society\04 Window Display.wma"/>
-            <media src="..\Enon\High Society\05 Native Numb.wma"/>
-            <media src="..\Enon\High Society\06 Leave It to Rust.wma"/>
-            <media src="..\Enon\High Society\07 Disposable Parts.wma"/>
-            <media src="..\Enon\High Society\08 Sold!.wma"/>
-            <media src="..\Enon\High Society\09 Shoulder.wma"/>
-            <media src="..\Enon\High Society\10 Pleasure and Privelige.wma"/>
-            <media src="..\Enon\High Society\11 Natural Disasters.wma"/>
-            <media src="..\Enon\High Society\12 Carbonation.wma"/>
-            <media src="..\Enon\High Society\13 Salty.wma"/>
-            <media src="..\Enon\High Society\14 High Society.wma"/>
-            <media src="..\Enon\High Society\15 Diamond Raft.wma"/>
-            <media src="..\Enon\Grass Geysers...Carbon Clouds\01 Mirror on You.mp3"/>
-            <media src="..\Enon\Grass Geysers...Carbon Clouds\02 Colette.mp3"/>
-            <media src="..\Enon\Grass Geysers...Carbon Clouds\03 Dr. Freeze.mp3"/>
-            <media src="..\Enon\Grass Geysers...Carbon Clouds\04 Sabina.mp3"/>
-            <media src="..\Enon\Grass Geysers...Carbon Clouds\05 Peace of Mind.mp3"/>
-            <media src="..\Enon\Grass Geysers...Carbon Clouds\06 Law of Johnny Dolittle.mp3"/>
-            <media src="..\Enon\Grass Geysers...Carbon Clouds\07 Those Who Don&apos;t Blink.mp3"/>
-            <media src="..\Enon\Grass Geysers...Carbon Clouds\08 Pigeneration.mp3"/>
-            <media src="..\Enon\Grass Geysers...Carbon Clouds\09 Mr. Ratatatatat.mp3"/>
-            <media src="..\Enon\Grass Geysers...Carbon Clouds\10 Paperweights.mp3"/>
-            <media src="..\Enon\Grass Geysers...Carbon Clouds\11 Labyrinth.mp3"/>
-            <media src="..\Enon\Grass Geysers...Carbon Clouds\12 Ashish.mp3"/>
+            <media src="..\Enon\Believo!\01 Rubber Car.mp3" cid="{4435791F-D7DF-4F2F-BB51-1C244BC58DF4}" tid="{FF24A7A1-65B5-4AD4-ABEF-E60FCB27BFA4}"/>
+            <media src="..\Enon\Believo!\02 Cruel.mp3" cid="{65887D73-F294-47E9-A553-5CB727707F1D}" tid="{FE657D99-D7BE-40AE-BEA2-3038BEFBAC21}"/>
+            <media src="..\Enon\Believo!\03 Conjugate the Verbs.mp3" cid="{5636AA6C-260A-4304-AC40-C74929EF4AE5}" tid="{0C67DEA5-FDC8-4EC5-9E49-50541DE00629}"/>
+            <media src="..\Enon\Believo!\04 Believo!.mp3" cid="{BF28E895-124F-40E2-963A-A86151749E7D}" tid="{012A0E73-0454-49F7-A511-BC417341A5A0}"/>
+            <media src="..\Enon\Believo!\05 Come Into.mp3" cid="{3BC845EE-C7E3-476D-B5BB-017774225388}" tid="{9674ECB3-61C9-491D-BA9C-5444B7F53D1A}"/>
+            <media src="..\Enon\Believo!\06 Matters Gray.mp3" cid="{24CB1CD8-0B72-4264-A9A2-71AA86EEE9B1}" tid="{95414365-3BA5-4FFD-9608-9A4B23B27B63}"/>
+            <media src="..\Enon\Believo!\07 Get the Letter Out.mp3" cid="{1A4A773E-E855-48CB-B3BE-234718437ACE}" tid="{1CDBBDAE-CE77-4579-BA07-BDBA2861C37A}"/>
+            <media src="..\Enon\Believo!\08 World in a Jar.mp3" cid="{6290D8B0-6058-4C77-90DE-648880A364B3}" tid="{C833EE7C-08BD-4315-811D-14A72F94642B}"/>
+            <media src="..\Enon\Believo!\09 For the Sum of It.mp3" cid="{E361297E-0C72-4DC4-8D69-EBFF830B23AC}" tid="{5BD990E0-E382-4B70-9148-95EFB068835C}"/>
+            <media src="..\Enon\Believo!\10 Elected.mp3" cid="{A7C03DA1-260E-4385-BEE8-8D9EE621155F}" tid="{A9FFAC6C-BB4D-48B9-BD30-24B2AF806ED4}"/>
+            <media src="..\Enon\Believo!\11 Biofeedback.mp3" cid="{2C44BC79-20DC-418A-A535-12278E76E83A}" tid="{584AE18D-728C-4F69-A1FA-FEE0EF79AF73}"/>
+            <media src="..\Enon\High Society\01 Old Dominion.mp3" cid="{909DABF8-F5AA-44C2-A157-D6347ACC919A}" tid="{DED965D9-D7B9-4698-B1E0-AACB1278CE04}"/>
+            <media src="..\Enon\High Society\02 Count Sheep.mp3" cid="{3B325B11-5CFB-4A3B-8E4B-9A12693F6EEE}" tid="{3DB59347-1273-4E82-BE23-B47E491C3EB9}"/>
+            <media src="..\Enon\High Society\03 In This City.mp3" cid="{14D14F10-1336-4F84-91FA-26D1D341ECA2}" tid="{505A1392-2695-45B3-8115-7B70479D80E3}"/>
+            <media src="..\Enon\High Society\04 Window Display.mp3" cid="{60778F7E-7941-449D-B40F-EB9A1E32D675}" tid="{0272B456-E4FA-4345-B66D-12B0D0537843}"/>
+            <media src="..\Enon\High Society\05 Native Numb.mp3" cid="{9A65AACA-6761-413C-957A-86291DFCC7B1}" tid="{A3A2E3D2-6AB4-4C78-8E8E-21EE1A159CEA}"/>
+            <media src="..\Enon\High Society\06 Leave It to Rust.mp3" cid="{C7926F21-DB00-48D7-AA68-46A8DAF71452}" tid="{62CB44C0-B49E-4A21-985C-905940A458F6}"/>
+            <media src="..\Enon\High Society\07 Disposable Parts.mp3" cid="{93C8EBB7-C6E5-4558-B7B0-72703764C1CE}" tid="{4F2D9DAB-2C1C-413E-B2DA-4DE1BE398FA0}"/>
+            <media src="..\Enon\High Society\08 Sold!.mp3" cid="{024C7697-232D-4DA8-B4DB-F0F0E091589E}" tid="{9F5B1164-DDCC-493A-ABFE-4CC930DFD604}"/>
+            <media src="..\Enon\High Society\09 Shoulder.mp3" cid="{1DF88D00-FDA0-4CF4-9EF1-1A5915CC0921}" tid="{2BA5EFCE-A314-437F-A354-D55976320AB7}"/>
+            <media src="..\Enon\High Society\10 Pleasure and Privelige.mp3" cid="{594A8919-CB94-40B8-AA15-4A0B805AD253}" tid="{D314D4C2-C63B-4BA3-B8A6-136CE04F6CBE}"/>
+            <media src="..\Enon\High Society\11 Natural Disasters.mp3" cid="{15BED230-8C66-4D88-A105-773A5B57BC9C}" tid="{54A0EAE2-E0ED-4497-BD52-FEA2A0AF342D}"/>
+            <media src="..\Enon\High Society\12 Carbonation.mp3" cid="{BF4D2507-28FE-4EF2-AD07-587B474BED96}" tid="{FDFDCC3A-1221-4511-8A35-49603DF187ED}"/>
+            <media src="..\Enon\High Society\13 Salty.mp3" cid="{6FDF8B77-EFBC-4553-8302-C953012E56C6}" tid="{D89F4725-A408-4A3A-90DF-E87BF303C4FA}"/>
+            <media src="..\Enon\High Society\14 High Society.mp3" cid="{C64C04E3-5908-45AE-8A44-3E2E5648C9CA}" tid="{8A038B05-81C6-49ED-9BEF-8D1AF8CAF702}"/>
+            <media src="..\Enon\High Society\15 Diamond Raft.mp3" cid="{25C72FE2-3357-4B30-A72F-D0CA4639C44E}" tid="{551814C8-956C-497A-880E-66B9AB2A3108}"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\01 Mirror on You.mp3" cid="{49AC28AB-411A-4CBB-9635-AC8759B6311C}" tid="{B12527B5-D472-4E2D-9935-9AED6CA1FABD}"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\02 Colette.mp3" cid="{0D1A22B2-6F9E-443E-B187-59B7A355E214}" tid="{3FC6290E-AE26-4E7D-A111-81D9C698A463}"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\03 Dr. Freeze.mp3" cid="{204CE72D-31AC-4C14-9B5E-272A2A1A158F}" tid="{973D0FCF-5431-4BF4-ADF7-621CDB3C26B9}"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\04 Sabina.mp3" cid="{9FB350D2-E801-4DCC-A502-EC67A94D8D87}" tid="{252E65BA-1624-4EC7-943E-46335AA4863D}"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\05 Peace of Mind.mp3" cid="{72B234BA-746E-48F9-837B-127D4E674D6F}" tid="{ECEFBF3F-339D-4598-8D25-2D53DEC022F6}"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\06 Law of Johnny Dolittle.mp3" cid="{78EEB91B-D592-472A-8955-04EE52F8503A}" tid="{A74778B4-553F-4671-B08E-032A1853B1B8}"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\07 Those Who Don&apos;t Blink.mp3" cid="{148AE0F7-E9E4-468A-A3ED-A364E6F218FE}" tid="{68CAAAD1-253D-44D3-A1DB-6BD0A884B5EB}"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\08 Pigeneration.mp3" cid="{75A66232-A42E-407E-981A-DC7A1B5A5AB8}" tid="{8CB40EF2-641A-4A1E-BA84-FBC815E3FC19}"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\09 Mr. Ratatatatat.mp3" cid="{9E97A366-EAC9-475E-A994-06FF646F3A33}" tid="{D777D979-1406-4405-8379-D42E9727F0C8}"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\10 Paperweights.mp3" cid="{B0938BC2-51E2-425B-A44D-C722D227736E}" tid="{40DCBCC6-E594-4D09-97BA-C20C3B6B630D}"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\11 Labyrinth.mp3" cid="{F53BF1F1-6AD4-4BCE-B865-DEC1F5AA2FA4}" tid="{BE3F76C5-6296-4F1D-9AA5-630692E88A2A}"/>
+            <media src="..\Enon\Grass Geysers...Carbon Clouds\12 Ashish.mp3" cid="{B825174E-9A48-4F6C-AA56-80FD49CCEA33}" tid="{E9361673-C26B-4719-9D1D-3274BDF9E9A6}"/>
         </seq>
     </body>
 </smil>
