@@ -3,11 +3,6 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
         <meta name="ItemCount" content="27"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
         <author/>
         <title>Enon</title>
     </head>
@@ -51,6 +46,10 @@
             <media src="..\Enon\Grass Geysers...Carbon Clouds\10 Paperweights.mp3" cid="{B0938BC2-51E2-425B-A44D-C722D227736E}" tid="{40DCBCC6-E594-4D09-97BA-C20C3B6B630D}"/>
             <media src="..\Enon\Grass Geysers...Carbon Clouds\11 Labyrinth.mp3" cid="{F53BF1F1-6AD4-4BCE-B865-DEC1F5AA2FA4}" tid="{BE3F76C5-6296-4F1D-9AA5-630692E88A2A}"/>
             <media src="..\Enon\Grass Geysers...Carbon Clouds\12 Ashish.mp3" cid="{B825174E-9A48-4F6C-AA56-80FD49CCEA33}" tid="{E9361673-C26B-4719-9D1D-3274BDF9E9A6}"/>
+            <media src="..\Enon\In This City\01 In This City [Soap mix].mp3"/>
+            <media src="..\Enon\In This City\02 Murder Sounds [#][Instrumental][Mix].mp3"/>
+            <media src="..\Enon\In This City\03 In This City [Remix By Deadverse].mp3"/>
+            <media src="..\Enon\In This City\04 Inches [#].mp3"/>
         </seq>
     </body>
 </smil>
