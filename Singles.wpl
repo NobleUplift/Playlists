@@ -3,52 +3,45 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
         <meta name="ItemCount" content="62"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
         <author/>
         <title>Singles</title>
     </head>
     <body>
         <seq>
-            <media src="..\Pentatonix\PTX, Vol. II\08 Daft Punk.mp3" tid="{270773C9-7947-491C-88A8-6A1C77D7BB29}"/>
-            <media src="..\Various artists\Kill la Kill Original Soundtrack\Blumenkranz.mp3" tid="{418F006C-1B0C-4C5A-BCF1-024871C7EE6C}"/>
-            <media src="..\Shiro Sagisu\Evangelion 2.22\10 Credits.mp3" tid="{C2D334DC-D387-46D0-8C00-AA024D74B17B}"/>
-            <media src="..\Various artists\Kill la Kill Original Soundtrack\Kiる厭KiLL.mp3" tid="{319DFA88-1E99-4832-9FD1-A611B7DC99E4}"/>
-            <media src="..\Jeremy Soule\Skyrim Soundtrack\01 Dragonborn.mp3" tid="{B2E961D3-8FE7-4627-A47E-8051E46C7EAE}"/>
-            <media src="..\Mittsies\Exordium\02 Stratum (Extended Mix).mp3" tid="{B0812CAF-0B5B-4FE3-A9B2-3505C4250A0A}"/>
-            <media src="..\Gotye\Making Mirrors\03 Somebody That I Used To Know (feat. Kimbra).mp3" tid="{F7D21A1A-FC4B-4336-BB78-940E81848013}"/>
-            <media src="..\Luna Haruna\OVERFLY\01 Overfly.mp3" tid="{B3E55BA6-6DCC-4768-AA89-1A49F73FD869}"/>
-            <media src="..\Various artists\Kill la Kill Original Soundtrack\Before my body is dry.mp3" tid="{16A67EFA-BFA1-4139-83F6-5DE9B8F72AF7}"/>
-            <media src="..\DOLL$BOXX\ディスコグラフィー\03 Take My Chance.mp3" tid="{994F6A09-0A56-4374-ADE7-651CBB71AAA8}"/>
-            <media src="..\Kalafina\After Eden\03 Magia.mp3" tid="{ECCC02AF-F542-4A75-A939-4E19A158D19A}"/>
-            <media src="..\World Order\World Order\01 World Order.mp3" tid="{1561FB61-9396-4F04-92E4-1FA5AF257A2C}"/>
-            <media src="..\World Order\2012\03 Machine Civilization.mp3" tid="{8415499D-1D64-42E2-AD38-7105E09FE927}"/>
-            <media src="..\Clannad Soundtracks, Image Albums, Arrange Albums and Singles\Toki wo Kizamu Uta - TORCH Single\01 Toki wo Kizamu Uta.mp3" tid="{E8480FF1-E018-4A55-8B90-166CE5C9CF22}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Final Best\07 Period.mp3" tid="{4A6DF010-4E8B-4B5E-A61F-A392DC6F97AA}"/>
-            <media src="..\Rockapella\Modern A Cappella\Rockapella - Zombie Jamboree.mp3" tid="{3FB4AD5A-1CDA-4DDB-818F-51E0B059D63E}"/>
-            <media src="..\Various Artists\YouTube\ポリスマン／GAL男宣言.mp3" tid="{4AE83171-799A-47E5-8C1A-3EADD6E3EBFB}"/>
-            <media src="..\Toto\Toto IV\Toto - Africa.mp3" tid="{38815D1E-965D-49D5-AA4A-2812DD21E023}" cid="{76E2855C-9072-4B85-BC2F-B0B587EF090A}"/>
-            <media src="..\Various Artists\YouTube\Avast Fluttershys Ass - 20% Cooler Yay Equaliser Edition.mp3" tid="{C8DA5944-524F-49AC-A41A-4B86F9D2B967}"/>
-            <media src="..\Nero\Welcome Reality\13 Promises.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="Promises" trackArtist="Nero" duration="239882" tid="{449714D3-DD97-495B-B73C-4DE41134D6E2}"/>
-            <media src="..\Various Artists\Borderlands\Borderlands - Mad Moxxi Theme.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="Mad Moxxi Theme" trackArtist="Borderlands" duration="290821" tid="{B839BA25-EE79-4740-B918-E041E8F07557}"/>
-            <media src="..\Andrew W.K\I Get Wet\02 Party Hard.mp3" serviceId="{DF844F00-0500-11DB-89CA-0019B92A3933}" albumTitle="I Get Wet" albumArtist="Andrew W.K." trackTitle="Party Hard" trackArtist="Andrew W.K." duration="184973" cid="{A788B873-0000-4388-9148-BCE781B31C96}" tid="{AB62271F-2FCA-449C-B4BB-B519C4B7CA5E}"/>
-            <media src="..\Andrew W.K\I Get Wet\04 Ready to Die.mp3" serviceId="{E1844F00-0500-11DB-89CA-0019B92A3933}" albumTitle="I Get Wet" albumArtist="Andrew W.K." trackTitle="Ready to Die" trackArtist="Andrew W.K." duration="174576" cid="{8253E57B-D8D0-4168-975E-743BD6EB02C5}" tid="{FE4B98B9-91AD-4B24-92DD-165EEA2E4A3A}"/>
-            <media src="..\I Blame Coco\The Constant\03 Quicker.mp3" serviceId="{F6776401-0500-11DB-89CA-0019B92A3933}" albumTitle="The Constant" albumArtist="I Blame Coco" trackTitle="Quicker" trackArtist="I Blame Coco" duration="190989" tid="{D70235BB-39C7-4B84-8626-EFF8D9D30A12}"/>
-            <media src="..\I Blame Coco\The Constant\01 Selfmachine.mp3" serviceId="{F8776401-0500-11DB-89CA-0019B92A3933}" albumTitle="The Constant" albumArtist="I Blame Coco" trackTitle="Selfmachine" trackArtist="I Blame Coco" duration="212062" tid="{6C5CE1FA-6000-4B85-B4C9-BAD9701AC3BB}"/>
-            <media src="..\Various Artists\YouTube\I Blame Coco - Quicker (Shook Remix)320.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="Quicker" trackArtist="I Blame Coco" duration="312114" tid="{90749DA5-9AAF-47D8-8128-13B84F0170A5}"/>
-            <media src="..\Robyn\Body Talk\03 Dancing On My Own.mp3" albumTitle="Body Talk" albumArtist="Robyn" trackTitle="Dancing On My Own" trackArtist="Robyn" duration="246151" tid="{FA708D15-8F95-4306-9AF6-975A97482EFC}"/>
-            <media src="..\Robyn\Body Talk\08 Call Your Girlfriend.mp3" albumTitle="Body Talk" albumArtist="Robyn" trackTitle="Call Your Girlfriend" trackArtist="Robyn" duration="210050" tid="{9F825953-81F3-4709-8AC0-7212B5235EF4}"/>
-            <media src="..\Various Artists\Fractale OP &amp; ED Single - Harinezumi [Azuma Hitomi]\01. Harinezumi.mp3" albumTitle="Harinezumi " albumArtist="Azuma Hitomi" trackTitle="Harinezumi" trackArtist="Azuma Hitomi" duration="299154" tid="{6D21E9A0-840B-4E0D-8D3F-61AC4D4390D5}"/>
-            <media src="..\Girls Love Shoes\Stars\04 Unknown Track 4.mp3" albumTitle="Stars" albumArtist="Girls Love Shoes" trackTitle="Home" trackArtist="Girls Love Shoes" duration="203466" tid="{9DD4B72D-E902-4662-85B6-FEB980BA2E60}"/>
-            <media src="..\Various Artists\Fractale OP &amp; ED Single - Harinezumi [Azuma Hitomi]\02. Onaji Yume.mp3" albumTitle="Harinezumi " albumArtist="Azuma Hitomi" trackTitle="Onaji Yume" trackArtist="Azuma Hitomi" duration="373890" tid="{E5E9CE03-7DF9-489E-B750-810B758D2BF9}"/>
-            <media src="..\Various Artists\Spice and Wolf II\Spice and Wolf II - 01 Mitsu no Yoake.mp3" albumTitle="Spice and Wolf" albumArtist="Various Artists" trackTitle="Mitsu no Yoake" trackArtist="Akino Arai" duration="290332" tid="{90374A48-7954-4E55-BB1B-9674A0138A0E}"/>
-            <media src="..\Various Artists\Spice and Wolf\Tabi no Tochuu.mp3" albumTitle="Spice and Wolf" albumArtist="Various Artists" trackTitle="Tabi no Tochuu" trackArtist="Kiyoura Natsumi" duration="294716" tid="{902A678E-4D57-40BC-A2A5-8F1CCEAD6A2E}"/>
-            <media src="..\Various Artists\Spice and Wolf\Ringo Biyori ~ The Wolf Whistling Song.mp3" albumTitle="Single" albumArtist="Rocky Chack" trackTitle="Ringo Biyori" trackArtist="Rocky Chack" duration="292884" tid="{D7D13652-4300-4D88-B23B-5B2C301DE5B4}"/>
-            <media src="..\Various Artists\Fractale OP &amp; ED Single - Harinezumi [Azuma Hitomi]\03. Down By The Salley Gardens.mp3" albumTitle="Harinezumi " albumArtist="Azuma Hitomi" trackTitle="Down By The Salley Gardens" trackArtist="Azuma Hitomi" duration="199314" tid="{370A43CD-5A96-4CC9-AAE5-DD5770431DF8}"/>
-            <media src="..\Various Artists\YouTube\UN Owen Was Her- Full version.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="U.N. Owen Was Her" trackArtist="Touhou Project" duration="320817" tid="{AFB1EE9D-B727-41E7-861E-1C4A51DAFC23}"/>
+            <media src="..\Pentatonix\PTX, Vol. II\08 Daft Punk.mp3" tid="{68F04AEE-044F-447A-A464-9AA1109C1712}"/>
+            <media src="..\Mittsies\Exordium\02 Stratum (Extended Mix).mp3" tid="{2DDF4805-1878-4838-BB45-4B057D63956A}"/>
+            <media src="..\Various artists\Kill la Kill Original Soundtrack\Blumenkranz.mp3" tid="{CFAF8C0B-4F98-42E7-AE8D-30736FE8D45B}"/>
+            <media src="..\Shiro Sagisu\Evangelion 2.22\10 Credits.mp3" tid="{A9FD6A7A-CEAB-47B3-9011-093B51C42E03}"/>
+            <media src="..\Various artists\Kill la Kill Original Soundtrack\Kiる厭KiLL.mp3" tid="{E4CD59F0-7CF3-4043-86BA-E77981AA99A8}"/>
+            <media src="..\Luna Haruna\OVERFLY\01 Overfly.mp3" tid="{1E29D78B-6A36-4A8D-8510-AD86264AD3DF}"/>
+            <media src="..\Various artists\Kill la Kill Original Soundtrack\Before my body is dry.mp3" tid="{C0E66D2D-10A9-4443-8C81-3BCFAFFF3543}"/>
+            <media src="..\DOLL$BOXX\ディスコグラフィー\03 Take My Chance.mp3" tid="{3AEE2549-54DA-4D63-9547-A439FF8843A0}"/>
+            <media src="..\Kalafina\After Eden\03 Magia.mp3" tid="{8FA03F64-B2E4-4338-A1FE-516AFAC6DFD4}"/>
+            <media src="..\World Order\World Order\01 World Order.mp3" tid="{A5C5DD68-392F-458C-A7A8-4E50F00EDD2C}"/>
+            <media src="..\World Order\2012\03 Machine Civilization.mp3" tid="{782E59AD-620A-4EC4-9DF4-378BEF711355}"/>
+            <media src="..\Clannad Soundtracks, Image Albums, Arrange Albums and Singles\Toki wo Kizamu Uta - TORCH Single\01 Toki wo Kizamu Uta.mp3" tid="{8A4EACF1-B04C-4B25-A8E9-DD3B4C0CE802}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Final Best\07 Period.mp3" tid="{7A6BD4B4-F576-469F-811E-7516A5025294}"/>
+            <media src="..\Rockapella\Modern A Cappella\Rockapella - Zombie Jamboree.mp3" tid="{61B4423F-2709-4C8D-9CF6-EDECA9CDDDE9}"/>
+            <media src="..\Various Artists\YouTube\ポリスマン／GAL男宣言.mp3" tid="{924A0A1F-3450-486D-A3BE-DB493847D392}"/>
+            <media src="..\Toto\Toto IV\Toto - Africa.mp3" tid="{C4467FCA-A1A3-4E6A-B87D-C26ECC5BDA1D}" cid="{76E2855C-9072-4B85-BC2F-B0B587EF090A}"/>
+            <media src="..\Various Artists\YouTube\Avast Fluttershys Ass - 20% Cooler Yay Equaliser Edition.mp3" tid="{7B27A549-1E81-4377-8B21-988571EC818B}"/>
+            <media src="..\Nero\Welcome Reality\13 Promises.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="Promises" trackArtist="Nero" duration="239882" tid="{0CD75AF0-6295-4B1D-931B-56AD49B017AC}"/>
+            <media src="..\Various Artists\Borderlands\Borderlands - Mad Moxxi Theme.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="Mad Moxxi Theme" trackArtist="Borderlands" duration="290821" tid="{68B0AA9A-B072-4E31-86BA-246A4E871D27}"/>
+            <media src="..\Andrew W.K\I Get Wet\02 Party Hard.mp3" serviceId="{DF844F00-0500-11DB-89CA-0019B92A3933}" albumTitle="I Get Wet" albumArtist="Andrew W.K." trackTitle="Party Hard" trackArtist="Andrew W.K." duration="184973" cid="{A788B873-0000-4388-9148-BCE781B31C96}" tid="{40A64457-F8B6-4C5D-B851-E7CAC8C38EE2}"/>
+            <media src="..\Andrew W.K\I Get Wet\04 Ready to Die.mp3" serviceId="{E1844F00-0500-11DB-89CA-0019B92A3933}" albumTitle="I Get Wet" albumArtist="Andrew W.K." trackTitle="Ready to Die" trackArtist="Andrew W.K." duration="174576" cid="{8253E57B-D8D0-4168-975E-743BD6EB02C5}" tid="{3FDB6FFC-0CEA-443C-9CB1-46432F6F9B45}"/>
+            <media src="..\I Blame Coco\The Constant\03 Quicker.mp3" serviceId="{F6776401-0500-11DB-89CA-0019B92A3933}" albumTitle="The Constant" albumArtist="I Blame Coco" trackTitle="Quicker" trackArtist="I Blame Coco" duration="190989" tid="{DF40EC34-28AE-4B80-B562-4A6C2E2DBAAF}"/>
+            <media src="..\I Blame Coco\The Constant\01 Selfmachine.mp3" serviceId="{F8776401-0500-11DB-89CA-0019B92A3933}" albumTitle="The Constant" albumArtist="I Blame Coco" trackTitle="Selfmachine" trackArtist="I Blame Coco" duration="212062" tid="{DADA984F-D875-4D07-B885-BA70D812A831}"/>
+            <media src="..\Various Artists\YouTube\I Blame Coco - Quicker (Shook Remix)320.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="Quicker" trackArtist="I Blame Coco" duration="312114" tid="{A1583AEE-4983-4118-A777-3E504034FFEF}"/>
+            <media src="..\Robyn\Body Talk\03 Dancing On My Own.mp3" albumTitle="Body Talk" albumArtist="Robyn" trackTitle="Dancing On My Own" trackArtist="Robyn" duration="246151" tid="{F5999A10-D0EC-4BFE-B1F6-5BB5D36E3DBF}"/>
+            <media src="..\Robyn\Body Talk\08 Call Your Girlfriend.mp3" albumTitle="Body Talk" albumArtist="Robyn" trackTitle="Call Your Girlfriend" trackArtist="Robyn" duration="210050" tid="{B61F793C-B50A-472B-BCEE-C38506714FF2}"/>
+            <media src="..\Various Artists\Fractale OP &amp; ED Single - Harinezumi [Azuma Hitomi]\01. Harinezumi.mp3" albumTitle="Harinezumi " albumArtist="Azuma Hitomi" trackTitle="Harinezumi" trackArtist="Azuma Hitomi" duration="299154" tid="{7E22C7CD-EAC6-45E4-884B-A4A40005804A}"/>
+            <media src="..\Girls Love Shoes\Stars\04 Unknown Track 4.mp3" albumTitle="Stars" albumArtist="Girls Love Shoes" trackTitle="Home" trackArtist="Girls Love Shoes" duration="203466" tid="{F761DC36-0CC0-478B-912C-15CE6EAF7A4A}"/>
+            <media src="..\Various Artists\Fractale OP &amp; ED Single - Harinezumi [Azuma Hitomi]\02. Onaji Yume.mp3" albumTitle="Harinezumi " albumArtist="Azuma Hitomi" trackTitle="Onaji Yume" trackArtist="Azuma Hitomi" duration="373890" tid="{15F452C2-021C-4709-BA63-39B403BDD9DE}"/>
+            <media src="..\Various Artists\Spice and Wolf II\Spice and Wolf II - 01 Mitsu no Yoake.mp3" albumTitle="Spice and Wolf" albumArtist="Various Artists" trackTitle="Mitsu no Yoake" trackArtist="Akino Arai" duration="290332" tid="{E937DE7E-FE26-4284-9A86-26F9C19848E3}"/>
+            <media src="..\Various Artists\Spice and Wolf\Tabi no Tochuu.mp3" albumTitle="Spice and Wolf" albumArtist="Various Artists" trackTitle="Tabi no Tochuu" trackArtist="Kiyoura Natsumi" duration="294716" tid="{6014C86A-107C-4D95-B95F-A341D369FE2C}"/>
+            <media src="..\Various Artists\Spice and Wolf\Ringo Biyori ~ The Wolf Whistling Song.mp3" albumTitle="Single" albumArtist="Rocky Chack" trackTitle="Ringo Biyori" trackArtist="Rocky Chack" duration="292884" tid="{CF3D6045-2846-44A6-9FEE-D36408B572A9}"/>
+            <media src="..\Various Artists\Fractale OP &amp; ED Single - Harinezumi [Azuma Hitomi]\03. Down By The Salley Gardens.mp3" albumTitle="Harinezumi " albumArtist="Azuma Hitomi" trackTitle="Down By The Salley Gardens" trackArtist="Azuma Hitomi" duration="199314" tid="{25D62878-885C-4AB5-ADC4-EBE5A253ECB1}"/>
+            <media src="..\Various Artists\YouTube\UN Owen Was Her- Full version.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="U.N. Owen Was Her" trackArtist="Touhou Project" duration="320817" tid="{B3167E2E-7228-4D68-A240-0B9FBE5A70F7}"/>
             <media src="..\Dethklok\Dethalbum II\05 Black Fire Upon Us.mp3" serviceId="{9A080E01-0500-11DB-89CA-0019B92A3933}" albumTitle="Dethalbum II" albumArtist="Dethklok" trackTitle="Black Fire Upon Us" trackArtist="Dethklok" duration="340026" cid="{D264FC60-AD9E-4C38-90EE-1A0869C45B13}" tid="{59D1ABA8-3049-4177-BF38-A58B15DAA994}"/>
             <media src="..\Various Artists\YouTube\Sonic the Hedgehog 3 - Final Boss theme OC Remix.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="Sonic 3 Final Boss Remix" trackArtist="kakarottossj3" duration="254171" tid="{C6001452-9D9E-40A0-8FA9-12E55CCB333A}"/>
             <media src="..\Various Artists\YouTube\DYE Fantasy Official Video by JEREMIE PERIN.mp3" serviceId="{E43FCE06-0100-11DB-89CA-0019B92A3933}" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="Fantasy" trackArtist="DYE" duration="215226" cid="{17EB558F-837D-47B7-8C63-90ADE276242F}" tid="{7EA0D3C6-E1C8-4F6E-87FE-7E5503B15FE7}"/>
