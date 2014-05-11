@@ -3,12 +3,23 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
         <meta name="ItemCount" content="62"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>Singles</title>
     </head>
     <body>
         <seq>
+            <media src="..\Pentatonix\PTX, Vol. II\08 Daft Punk.mp3" tid="{270773C9-7947-491C-88A8-6A1C77D7BB29}"/>
+            <media src="..\Various artists\Kill la Kill Original Soundtrack\Blumenkranz.mp3" tid="{418F006C-1B0C-4C5A-BCF1-024871C7EE6C}"/>
+            <media src="..\Shiro Sagisu\Evangelion 2.22\10 Credits.mp3" tid="{C2D334DC-D387-46D0-8C00-AA024D74B17B}"/>
+            <media src="..\Various artists\Kill la Kill Original Soundtrack\Kiる厭KiLL.mp3" tid="{319DFA88-1E99-4832-9FD1-A611B7DC99E4}"/>
+            <media src="..\Jeremy Soule\Skyrim Soundtrack\01 Dragonborn.mp3" tid="{B2E961D3-8FE7-4627-A47E-8051E46C7EAE}"/>
             <media src="..\Mittsies\Exordium\02 Stratum (Extended Mix).mp3" tid="{B0812CAF-0B5B-4FE3-A9B2-3505C4250A0A}"/>
+            <media src="..\Gotye\Making Mirrors\03 Somebody That I Used To Know (feat. Kimbra).mp3" tid="{F7D21A1A-FC4B-4336-BB78-940E81848013}"/>
             <media src="..\Luna Haruna\OVERFLY\01 Overfly.mp3" tid="{B3E55BA6-6DCC-4768-AA89-1A49F73FD869}"/>
             <media src="..\Various artists\Kill la Kill Original Soundtrack\Before my body is dry.mp3" tid="{16A67EFA-BFA1-4139-83F6-5DE9B8F72AF7}"/>
             <media src="..\DOLL$BOXX\ディスコグラフィー\03 Take My Chance.mp3" tid="{994F6A09-0A56-4374-ADE7-651CBB71AAA8}"/>
@@ -60,7 +71,7 @@
             <media src="..\O Android Technologies, Inc\Parody of Ma Ya Hi, aka Drag\My PC Is On Fire - Dell Laptop Tribute Video (Numa Numa Song).mp3" albumTitle="Parody of &quot;Ma Ya Hi&quot;, aka Drag" albumArtist="O Android Technologies, Inc." trackTitle="My PC" trackArtist="O Android Technologies, Inc." duration="215857" tid="{252CE937-9714-43E4-BB47-8D2CF515D800}"/>
             <media src="..\Jonathan Coulton\Portal\01 Still Alive.mp3" serviceId="{9327BC01-0100-11DB-89CA-0019B92A3933}" albumTitle="Portal" albumArtist="Jonathan Coulton (Portal)" trackTitle="Still Alive" trackArtist="Jonathan Coulton" duration="176487" cid="{936BAD05-2620-4915-9624-7629D944B1CE}" tid="{6C457295-3CFB-4E99-826A-0735A25F72DD}"/>
             <media src="..\Jonathan Coulton\Best. Concert. Ever\Jonathan Coulton - Re_ Your Brains.mp3" serviceId="{9F27BC01-0100-11DB-89CA-0019B92A3933}" albumTitle="Best. Concert. Ever." albumArtist="Jonathan Coulton" trackTitle="Re: Your Brains" trackArtist="Jonathan Coulton" duration="277456" tid="{01C13896-6EE4-4EF7-A248-F381167E065D}"/>
-            <media src="..\The Lonely Island\thelonelyisland\I Just Had Sex (feat. Akon).mp3" serviceId="{F20E6701-0500-11DB-89CA-0019B92A3933}" albumTitle="Turtleneck &amp; Chain" albumArtist="The Lonely Island" trackTitle="I Just Had Sex (feat. Akon)" trackArtist="The Lonely Island" duration="175315" tid="{368542EC-6954-451A-BFB1-6DF0B0DD389C}"/>
+            <media src="..\The Lonely Island\YouTube Channel\I Just Had Sex (feat. Akon).mp3" serviceId="{F20E6701-0500-11DB-89CA-0019B92A3933}" albumTitle="Turtleneck &amp; Chain" albumArtist="The Lonely Island" trackTitle="I Just Had Sex (feat. Akon)" trackArtist="The Lonely Island" duration="175315" tid="{368542EC-6954-451A-BFB1-6DF0B0DD389C}"/>
             <media src="..\Various Artists\Paranoia Agent Original Soundtrack\Paranoia Agent - Yume no Shima Shinen Kouen.mp3" serviceId="{414E7400-0500-11DB-89CA-0019B92A3933}" albumTitle="Mousou - Paranoia Agent Original Soundtrack" albumArtist="Soundtrack" trackTitle="Yume no Shima Shinen Kouen" trackArtist="Susumu Hirasawa" duration="223665" cid="{7EF7B1E4-E142-4421-93B3-783104DC2723}" tid="{58037685-798E-4714-AC19-78A8E83E0A3D}"/>
             <media src="..\Basshunter\Now You&apos;re Gone - The Album\10 I Can Walk On Water.mp3" serviceId="{117DDF00-0500-11DB-89CA-0019B92A3933}" albumTitle="Now You&apos;re Gone - The Album" albumArtist="Basshunter" trackTitle="I Can Walk On Water" trackArtist="Basshunter" duration="222101" cid="{46CC57CD-CC1D-44C1-A0C8-1FFDA5512ADA}" tid="{E69896CC-F61D-4FFB-A3B0-3526ADAB2BA4}"/>
             <media src="..\Men Without Hats\Rhythm of Youth\14 The Safety Dance.wma" cid="{DCD4F5EF-050A-4367-90EF-B6AE03FCB849}" tid="{3C142F6A-863C-4D49-BFA0-67AB4CC9AF8A}"/>
