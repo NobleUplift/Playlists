@@ -3,20 +3,35 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
         <meta name="ItemCount" content="10"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
         <title>Girls</title>
     </head>
     <body>
         <seq>
-            <media src="..\I Blame Coco\The Constant\03 Quicker.mp3"/>
+            <media src="..\I Blame Coco\The Constant\03 Quicker.mp3" tid="{DF40EC34-28AE-4B80-B562-4A6C2E2DBAAF}"/>
             <media src="..\I Blame Coco\The Constant\01 Selfmachine.mp3" tid="{DADA984F-D875-4D07-B885-BA70D812A831}"/>
-            <media src="..\Various Artists\YouTube\I Blame Coco - Quicker (Shook Remix)320.mp3"/>
-            <media src="..\Robyn\Body Talk\03 Dancing On My Own.mp3"/>
-            <media src="..\Robyn\Body Talk\08 Call Your Girlfriend.mp3"/>
-            <media src="..\Girls Love Shoes\Stars\01 Unknown Track 1.mp3"/>
-            <media src="..\Girls Love Shoes\Stars\02 Unknown Track 2.mp3"/>
-            <media src="..\Girls Love Shoes\Stars\03 Unknown Track 3.mp3"/>
-            <media src="..\Girls Love Shoes\Stars\04 Unknown Track 4.mp3"/>
-            <media src="..\Girls Love Shoes\Stars\05 Unknown Track 5.mp3"/>
+            <media src="..\Various Artists\YouTube\I Blame Coco - Quicker (Shook Remix)320.mp3" tid="{A1583AEE-4983-4118-A777-3E504034FFEF}"/>
+            <media src="..\Robyn\Body Talk\03 Dancing On My Own.mp3" tid="{F5999A10-D0EC-4BFE-B1F6-5BB5D36E3DBF}"/>
+            <media src="..\Robyn\Body Talk\08 Call Your Girlfriend.mp3" tid="{B61F793C-B50A-472B-BCEE-C38506714FF2}"/>
+            <media src="..\Girls Love Shoes\Stars\01 Unknown Track 1.mp3" tid="{75143C68-4159-4C87-B4A0-A24809662B10}"/>
+            <media src="..\Girls Love Shoes\Stars\02 Unknown Track 2.mp3" tid="{DE58F4C2-9CD0-4D95-9797-B5EACBD46D36}"/>
+            <media src="..\Girls Love Shoes\Stars\03 Unknown Track 3.mp3" tid="{47AE6F65-FBBA-4DF5-8ED5-3E944E6F8812}"/>
+            <media src="..\Girls Love Shoes\Stars\04 Unknown Track 4.mp3" tid="{F761DC36-0CC0-478B-912C-15CE6EAF7A4A}"/>
+            <media src="..\Girls Love Shoes\Stars\05 Unknown Track 5.mp3" tid="{8059187C-ADBC-4067-A6BA-894B8A304ED3}"/>
+            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\01 Ｌｏｕｄ　Ｔｗｉｎ　Ｓｔａｒｓ.mp3"/>
+            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\02 Ｍｅｒｒｉｌｙ　Ｈｉｇｈ　Ｇｏ　Ｒｏｕｎｄ.mp3"/>
+            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\03 Ｔａｋｅ　Ｍｙ　Ｃｈａｎｃｅ.mp3"/>
+            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\04 ｍｏｎｏｐｏｌｙ.mp3"/>
+            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\05 ロールプレイング・ライフ.mp3"/>
+            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\07 ＫＡＲＡＫＵＲＩ　ＴＯＷＮ.mp3"/>
+            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\08 おもちゃの兵隊.mp3"/>
+            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\09 Ｄｏｌｌ’ｓ　Ｂｏｘ.mp3"/>
+            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\10 ヌーディリズム（＄ヴァージョン）.mp3"/>
         </seq>
     </body>
 </smil>
