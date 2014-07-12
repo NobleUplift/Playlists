@@ -2,7 +2,7 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
-        <meta name="ItemCount" content="77"/>
+        <meta name="ItemCount" content="62"/>
         <author/>
         <title>Singles</title>
     </head>
@@ -15,16 +15,10 @@
             <media src="..\DOLL$BOXX\ディスコグラフィー\03 Take My Chance.mp3" tid="{3AEE2549-54DA-4D63-9547-A439FF8843A0}"/>
             <media src="..\World Order\World Order\01 World Order.mp3" tid="{A5C5DD68-392F-458C-A7A8-4E50F00EDD2C}"/>
             <media src="..\World Order\2012\03 Machine Civilization.mp3" tid="{782E59AD-620A-4EC4-9DF4-378BEF711355}"/>
-            <media src="..\Various Artists\YouTube\ポリスマン／GAL男宣言.mp3" tid="{924A0A1F-3450-486D-A3BE-DB493847D392}"/>
             <media src="..\Kalafina\After Eden\03 Magia.mp3" tid="{8FA03F64-B2E4-4338-A1FE-516AFAC6DFD4}"/>
             <media src="..\Various artists\Fullmetal Alchemist Final Best\07 Period.mp3" tid="{7A6BD4B4-F576-469F-811E-7516A5025294}"/>
             <media src="..\Clannad Soundtracks, Image Albums, Arrange Albums and Singles\Toki wo Kizamu Uta - TORCH Single\01 Toki wo Kizamu Uta.mp3" tid="{8A4EACF1-B04C-4B25-A8E9-DD3B4C0CE802}"/>
-            <media src="..\Shiro Sagisu\Evangelion 2.22\10 Credits.mp3" tid="{A9FD6A7A-CEAB-47B3-9011-093B51C42E03}"/>
-            <media src="..\Luna Haruna\OVERFLY\01 Overfly.mp3" tid="{1E29D78B-6A36-4A8D-8510-AD86264AD3DF}"/>
-            <media src="..\Rockapella\Modern A Cappella\Rockapella - Zombie Jamboree.mp3" tid="{61B4423F-2709-4C8D-9CF6-EDECA9CDDDE9}"/>
-            <media src="..\Various artists\Kill la Kill Original Soundtrack\Blumenkranz.mp3" tid="{CFAF8C0B-4F98-42E7-AE8D-30736FE8D45B}"/>
-            <media src="..\Various artists\Kill la Kill Original Soundtrack\Kiる厭KiLL.mp3" tid="{E4CD59F0-7CF3-4043-86BA-E77981AA99A8}"/>
-            <media src="..\Various artists\Kill la Kill Original Soundtrack\Before my body is dry.mp3" tid="{C0E66D2D-10A9-4443-8C81-3BCFAFFF3543}"/>
+            <media src="..\Various Artists\YouTube\ポリスマン／GAL男宣言.mp3" tid="{924A0A1F-3450-486D-A3BE-DB493847D392}"/>
             <media src="..\Toto\Toto IV\Toto - Africa.mp3" tid="{C4467FCA-A1A3-4E6A-B87D-C26ECC5BDA1D}" cid="{76E2855C-9072-4B85-BC2F-B0B587EF090A}"/>
             <media src="..\Various Artists\YouTube\Avast Fluttershys Ass - 20% Cooler Yay Equaliser Edition.mp3" tid="{7B27A549-1E81-4377-8B21-988571EC818B}"/>
             <media src="..\Nero\Welcome Reality\13 Promises.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="Promises" trackArtist="Nero" duration="239882" tid="{0CD75AF0-6295-4B1D-931B-56AD49B017AC}"/>
@@ -57,6 +51,7 @@
             <media src="..\Various Artists\Bleach Original Soundtrack 5\Rolling Star - YUI.mp3" albumTitle="Bleach Original Soundtrack 5" albumArtist="Yui" trackTitle="Rolling Star" trackArtist="Yui" duration="89918" tid="{2A02AC60-AF41-44D3-97A7-DDE83291F51A}"/>
             <media src="..\Various Artists\Bleach Best Tunes\ALONES - Aqua Timez.mp3" albumTitle="Alones" albumArtist="Aqua Timez" trackTitle="Alones" trackArtist="Aqua Timez" duration="94965" cid="{62A6449F-B67D-4BBA-A91A-EF13EB63BC58}" tid="{696CC492-2EA8-4E65-A2A7-AB0FABD8669F}"/>
             <media src="..\Various Artists\YouTube\Giorgio Tozzi - God Rest Ye Merry Gentlemen - no vid.mp3" albumTitle="YouTube" albumArtist="Various Artists" trackTitle="God Rest Ye Merry Gentlemen" trackArtist="Giorgio Tozzi" duration="105830" tid="{397A7915-2EC3-40FF-BF7F-452D6A887393}"/>
+            <media src="..\Rockapella\Modern A Cappella\Rockapella - Zombie Jamboree.mp3" tid="{61B4423F-2709-4C8D-9CF6-EDECA9CDDDE9}"/>
             <media src="..\Sufjan Stevens\Illinois\Chicago.wma" serviceId="{77186C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Illinois" albumArtist="Sufyan Stevens" trackTitle="Chicago" trackArtist="Sufyan Stevens" duration="367773" tid="{64C9CAEF-E994-4AD6-9F3F-22662063B1CE}"/>
             <media src="..\Lemon Jelly\Nice Weather For Ducks.mp3" serviceId="{B11E3D00-0100-11DB-89CA-0019B92A3933}" albumTitle="Lost Horizons" albumArtist="Lemon Jelly" trackTitle="Nice Weather for Ducks" trackArtist="Lemon Jelly" duration="238961" cid="{6982CB16-3B13-406C-8CCC-619DC4D89A59}" tid="{556427EF-13F4-4D0D-A061-5CE3533F525F}"/>
             <media src="..\Newgrounds\Newgrounds Audio Portal\Twilight Techno - Dimrain47.mp3" albumTitle="Newgrounds Audio Portal" albumArtist="Various Artists" trackTitle="Twilight Techno" trackArtist="Dimrain47" duration="172938" tid="{9F1120F4-ACCA-4DB0-8CA6-E748F64D3444}"/>
