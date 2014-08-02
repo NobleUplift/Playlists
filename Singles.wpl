@@ -2,12 +2,14 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
-        <meta name="ItemCount" content="62"/>
+        <meta name="ItemCount" content="74"/>
         <author/>
         <title>Singles</title>
     </head>
     <body>
         <seq>
+            <media src="..\Lana Del Rey\Lana Del Rey vs Cedric Gervais\Lana Del Rey vs Cedric Gervais &apos;Summertime Sadness&apos; Remix.mp3" tid="{31240291-E1D5-4EE6-BD21-C0D925D211CF}"/>
+            <media src="..\Martin Garrix\Animals\Martin Garrix - Animals (Official Video).mp3" tid="{2E393187-7F30-4C91-B8BD-5A17F12AFE03}"/>
             <media src="..\Pentatonix\PTX, Vol. II\06 I Need Your Love.mp3" tid="{D4A4D2E6-2E84-45DE-AD2E-4F410544A1B2}"/>
             <media src="..\Nicky Romero\Toulouse\Nicky Romero - Toulouse.mp3" tid="{146D04A5-49DA-4D1B-92DB-36342802425A}"/>
             <media src="..\Pentatonix\PTX, Vol. II\08 Daft Punk.mp3" tid="{68F04AEE-044F-447A-A464-9AA1109C1712}"/>
