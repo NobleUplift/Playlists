@@ -2,7 +2,7 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
-        <meta name="ItemCount" content="74"/>
+        <meta name="ItemCount" content="78"/>
         <meta name="IsFavorite"/>
         <meta name="ContentPartnerListID"/>
         <meta name="ContentPartnerNameType"/>
@@ -13,7 +13,13 @@
     </head>
     <body>
         <seq>
-            <media src="..\Lemon Demon\Reaganomics\Lemon Demon - Reaganomics.mp3"/>
+            <media src="..\Queen\Jazz\04 Bicycle Race.mp3" cid="{82FCD83E-2AB3-4F9B-B190-FE69EF2541B5}" tid="{14DECADA-F0AD-4AC0-BE63-9AD65E003DE3}"/>
+            <media src="..\Queen\A Night at the Opera\11 Bohemian Rhapsody.mp3" cid="{CB29D719-D3AF-4F93-AF63-F1FDE248C0F5}" tid="{5917CEF8-D815-4A08-BB86-46516691A763}"/>
+            <media src="..\Queen\Jazz\06 Don&apos;t Stop Me Now.mp3" cid="{59C37CCB-C84E-495A-B4B7-8C206647C04A}" tid="{07A5542A-14E0-4E98-A73C-F4795C563BD9}"/>
+            <media src="..\LMFAO\Sorry for Party Rocking\03 Party Rock Anthem.mp3" cid="{C15C3980-C584-4903-9267-B6AC85372A87}" tid="{F31EC35B-D0D1-4AFF-B084-8953D2B8CF1D}"/>
+            <media src="..\LMFAO\Sorry for Party Rocking\04 Sexy and I Know It.mp3" cid="{3617A505-0152-486C-B052-8C7DF2807490}" tid="{07BE57B4-F40D-42F0-BD9C-161C63BA5BE5}"/>
+            <media src="..\LMFAO\Sorry for Party Rocking\02 Sorry for Party Rocking.mp3" cid="{E61E17F6-E774-45A7-83FD-A80CD22202A1}" tid="{5FBB96E4-D70B-4755-B167-902EAC641F01}"/>
+            <media src="..\LMFAO\Party Rock\13 Yes.mp3" cid="{12ABD683-57B2-405B-B697-4AC0583FE1B5}" tid="{A55DEB36-2EF0-4901-B861-0AB4C5F01A30}"/>
             <media src="..\Pentatonix\PTX, Vol. II\06 I Need Your Love.mp3" tid="{D4A4D2E6-2E84-45DE-AD2E-4F410544A1B2}"/>
             <media src="..\Nicky Romero\Toulouse\Nicky Romero - Toulouse.mp3" tid="{146D04A5-49DA-4D1B-92DB-36342802425A}"/>
             <media src="..\Pentatonix\PTX, Vol. II\08 Daft Punk.mp3" tid="{68F04AEE-044F-447A-A464-9AA1109C1712}"/>
