@@ -11,7 +11,7 @@
     </head>
     <body>
         <seq>
-            <media src="..\Various Artists\Dragostea Din Tei Remixes\Dragostea Din Tei (Remix).mp3" serviceId="{A3CA6C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Summer EletroHits" albumArtist="Various Artists" trackTitle="Dragostea Din Tei (Remix)" trackArtist="O-Zone" duration="253668"/>
+            <media src="..\Various artists\Dragostea Din Tei Remixes\Dragostea Din Tei (Remix).mp3" serviceId="{A3CA6C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Summer EletroHits" albumArtist="Various Artists" trackTitle="Dragostea Din Tei (Remix)" trackArtist="O-Zone" duration="253668"/>
             <media src="..\O Android Technologies, Inc\Parody of Ma Ya Hi, aka Drag\My PC Is On Fire - Dell Laptop Tribute Video (Numa Numa Song).mp3" albumTitle="Parody of &quot;Ma Ya Hi&quot;, aka Drag" albumArtist="O Android Technologies, Inc." trackTitle="My PC" trackArtist="O Android Technologies, Inc." duration="215857"/>
             <media src="..\Haiducii\Dragostea Din Tei\01 Dragostea Din Tei.wma" serviceId="{C0097100-0500-11DB-89CA-0019B92A3933}" albumTitle="Dragostea Din Tei" albumArtist="Haiducii" trackTitle="Dragostea Din Tei" trackArtist="Haiducii" duration="213530"/>
             <media src="..\Haiducii\Dragostea Din Tei\02 Haiducii vs. Gabry Ponte - Radio version.wma" albumTitle="Dragostea Din Tei" albumArtist="Haiducii" trackTitle="Haiducii vs. Gabry Ponte - Radio version" trackArtist="Haiducii" duration="222958"/>
