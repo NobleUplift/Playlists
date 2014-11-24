@@ -1,0 +1,53 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
+        <meta name="IsNetworkFeed" content="0"/>
+        <meta name="ItemCount" content="40"/>
+        <title>Living Language Japanese</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\Living Language\Japanase Complete Course - Disc 1\01 Lesson 1.mp3" cid="{00000000-0000-0000-0000-000000000000}" tid="{4B6A351C-C1A1-428F-918C-9865FD13AD1C}"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 1\02 Lesson 2.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 1\03 Lesson 3.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 1\04 Lesson 4.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 1\05 Lesson 5.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 1\06 Lesson 6.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 1\07 Lesson 7.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 1\08 Lesson 8.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 1\09 Lesson 9.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 1\10 Lesson 10.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 1\11 Lesson 11.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 1\12 Lesson 12.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 1\13 Lesson 13.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 1\14 Lesson 14.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 1\15 Lesson 15.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 1\16 Lesson 16.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 1\17 Lesson 17.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 1\18 Lesson 18.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 2\01 Lesson 19.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 2\02 Lesson 20.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 2\03 Lesson 21.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 2\04 Lesson 22.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 2\05 Lesson 23.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 2\06 Lesson 24.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 2\07 Lesson 25.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 2\08 Lesson 26.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 2\09 Lesson 27.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 2\10 Lesson 28.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 2\11 Lesson 29.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 2\12 Lesson 30.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 2\13 Lesson 31.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 2\14 Lesson 32.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 3\01 Lesson 33.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 3\02 Lesson 34.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 3\03 Lesson 35.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 3\04 Lesson 36.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 3\05 Lesson 37.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 3\06 Lesson 38.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 3\07 Lesson 39.mp3"/>
+            <media src="..\Living Language\Japanase Complete Course - Disc 3\08 Lesson 40.mp3"/>
+        </seq>
+    </body>
+</smil>
