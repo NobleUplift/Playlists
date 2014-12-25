@@ -3,17 +3,16 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
         <meta name="ItemCount" content="83"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>Singles</title>
     </head>
     <body>
         <seq>
-            <media src="..\Rammstein\08 Zwitter.mp3" cid="{C9CB2658-1730-4C22-8D2F-5D7FBA45FF20}" tid="{AC5A6C3D-B678-4D00-9633-6482BCE2B6A6}"/>
-            <media src="..\Schandmaul\Narrenkonig\01 Walpurgisnacht.mp3" cid="{B361D958-0FA6-4F35-9D6A-7FECDB200D47}" tid="{CB516C47-D477-4CC3-9670-97613EE329A6}"/>
-            <media src="..\Queen\Jazz\04 Bicycle Race.mp3" cid="{82FCD83E-2AB3-4F9B-B190-FE69EF2541B5}" tid="{14DECADA-F0AD-4AC0-BE63-9AD65E003DE3}"/>
-            <media src="..\Queen\A Night at the Opera\11 Bohemian Rhapsody.mp3" cid="{CB29D719-D3AF-4F93-AF63-F1FDE248C0F5}" tid="{5917CEF8-D815-4A08-BB86-46516691A763}"/>
-            <media src="..\Queen\The Game\03 Another One Bites the Dust.mp3" cid="{C1CFF87E-4DF4-4101-A775-C72259E3A958}" tid="{3B8E71FA-42F4-4A44-A024-08CFBFF0E283}"/>
-            <media src="..\Queen\Jazz\04 Don&apos;t Stop Me Now.mp3" cid="{59C37CCB-C84E-495A-B4B7-8C206647C04A}" tid="{5D3B5DAA-F0BE-4EEF-8B63-F0E0A996F9E9}"/>
             <media src="..\LMFAO\Sorry for Party Rocking\03 Party Rock Anthem.mp3" cid="{C15C3980-C584-4903-9267-B6AC85372A87}" tid="{F31EC35B-D0D1-4AFF-B084-8953D2B8CF1D}"/>
             <media src="..\LMFAO\Sorry for Party Rocking\04 Sexy and I Know It.mp3" cid="{3617A505-0152-486C-B052-8C7DF2807490}" tid="{07BE57B4-F40D-42F0-BD9C-161C63BA5BE5}"/>
             <media src="..\LMFAO\Party Rock\13 Yes.mp3" cid="{12ABD683-57B2-405B-B697-4AC0583FE1B5}" tid="{A55DEB36-2EF0-4901-B861-0AB4C5F01A30}"/>
@@ -34,7 +33,7 @@
             <media src="..\Toto\Toto IV\Toto - Africa.mp3" tid="{C4467FCA-A1A3-4E6A-B87D-C26ECC5BDA1D}" cid="{76E2855C-9072-4B85-BC2F-B0B587EF090A}"/>
             <media src="..\Various Artists\YouTube\Avast Fluttershys Ass - 20% Cooler Yay Equaliser Edition.mp3" tid="{7B27A549-1E81-4377-8B21-988571EC818B}"/>
             <media src="..\Nero\Welcome Reality\13 Promises.mp3" albumTitle="YouTube" albumArtist="Various artists" trackTitle="Promises" trackArtist="Nero" duration="239882" tid="{0CD75AF0-6295-4B1D-931B-56AD49B017AC}"/>
-            <media src="..\Various artists\Borderlands\28 Mad Moxxi Theme.mp3"/>
+            <media src="..\Various artists\Borderlands\28 Mad Moxxi Theme.mp3" tid="{5AA97EC3-99C8-4AB0-8E5F-75C812E54A3E}"/>
             <media src="..\Andrew W.K\I Get Wet\02 Party Hard.mp3" serviceId="{DF844F00-0500-11DB-89CA-0019B92A3933}" albumTitle="I Get Wet" albumArtist="Andrew W.K." trackTitle="Party Hard" trackArtist="Andrew W.K." duration="184973" cid="{A788B873-0000-4388-9148-BCE781B31C96}" tid="{40A64457-F8B6-4C5D-B851-E7CAC8C38EE2}"/>
             <media src="..\Andrew W.K\I Get Wet\04 Ready to Die.mp3" serviceId="{E1844F00-0500-11DB-89CA-0019B92A3933}" albumTitle="I Get Wet" albumArtist="Andrew W.K." trackTitle="Ready to Die" trackArtist="Andrew W.K." duration="174576" cid="{8253E57B-D8D0-4168-975E-743BD6EB02C5}" tid="{3FDB6FFC-0CEA-443C-9CB1-46432F6F9B45}"/>
             <media src="..\I Blame Coco\The Constant\03 Quicker.mp3" serviceId="{F6776401-0500-11DB-89CA-0019B92A3933}" albumTitle="The Constant" albumArtist="I Blame Coco" trackTitle="Quicker" trackArtist="I Blame Coco" duration="190989" tid="{DF40EC34-28AE-4B80-B562-4A6C2E2DBAAF}"/>
