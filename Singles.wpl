@@ -2,12 +2,7 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
-        <meta name="ItemCount" content="83"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
+        <meta name="ItemCount" content="78"/>
         <author/>
         <title>Singles</title>
     </head>
@@ -77,10 +72,10 @@
             <media src="..\Basshunter\Now You&apos;re Gone - The Album\10 I Can Walk On Water.mp3" serviceId="{117DDF00-0500-11DB-89CA-0019B92A3933}" albumTitle="Now You&apos;re Gone - The Album" albumArtist="Basshunter" trackTitle="I Can Walk On Water" trackArtist="Basshunter" duration="222101" cid="{46CC57CD-CC1D-44C1-A0C8-1FFDA5512ADA}" tid="{51AD7241-1BD3-4BBF-A4F7-F86E500AB1FB}"/>
             <media src="..\Men Without Hats\Rhythm of Youth\14 The Safety Dance.wma" cid="{DCD4F5EF-050A-4367-90EF-B6AE03FCB849}" tid="{40C7BF11-D39F-4EB3-8D16-10948EBC60BD}"/>
             <media src="..\Various Artists\Mortal Kombat\Mortal Combat Techno Remix.mp3" serviceId="{38EF1B00-0500-11DB-89CA-0019B92A3933}" albumTitle="Mortal Kombat [Original Soundtrack]" albumArtist="Soundtrack" trackTitle="Mortal Combat Techno Remix" trackArtist="Crystal Method" duration="201480" cid="{789B8A21-E7EB-430F-902B-CCBBDF5AE8E3}" tid="{33086F4C-6966-463E-9A38-A041D95348F9}"/>
-            <media src="..\Flobots\Present Platypus\04 Handle Bars.mp3" serviceId="{7D845D00-0100-11DB-89CA-0019B92A3933}" albumTitle="Present Platypus" albumArtist="The Flobots" trackTitle="Handle Bars" trackArtist="The Flobots" duration="206663" cid="{2734291B-19E6-48AA-93F7-4926A34149B1}" tid="{55B69E8E-0EA4-440C-938D-E495DE6AFDD9}"/>
+            <media src="..\Flobots\Platypus\04 Handle Bars.mp3" cid="{B500183E-980E-4A6A-9571-0DEF3A499345}" tid="{777986FE-EA22-47D2-B2C1-C25E011249CD}"/>
             <media src="..\Red Army Choir\Songs of the Soviet Union\01 USSR National Anthem.mp3" albumTitle="Songs of the Soviet Union" albumArtist="Red Army Choir" trackTitle="USSR National Anthem" trackArtist="Red Army Choir" duration="211348" tid="{8D9D4A7A-98E3-4879-84AF-FCED234F47C8}"/>
             <media src="..\Various Artists\Origin Spirits of the Past\KOKIA - Chouwa oto ~with reflection~.mp3" albumTitle="Ai no Uta" albumArtist="KOKIA" trackTitle="Chouwa oto ~with reflection~" trackArtist="KOKIA" duration="278184" cid="{CDD62655-B7DD-4B1A-A079-6153266FBE55}" tid="{D9F8B65B-64FD-4C7A-9B59-9945F2916E27}"/>
-            <media src="..\The Strokes\First Impression of Earth\The Strokes - First Impression Of Earth - 04 - Razorblade.mp3" cid="{6E48DAB1-D567-4A4D-B33C-00A61B9A2A6E}" tid="{F967C51D-B4AB-45CA-9263-5642CC6B753C}"/>
+            <media src="..\The Strokes\First Impressions of Earth\04 Razor Blade.mp3" cid="{A708EBF3-EEE0-4946-8EFF-FD6338BA4742}" tid="{F7C30720-AFB7-469B-B80C-E7EF8269C7F3}"/>
             <media src="..\30 Seconds to Mars\A Beautiful Lie\03 The Kill.mp3" serviceId="{54B57E00-0500-11DB-89CA-0019B92A3933}" albumTitle="A Beautiful Lie" albumArtist="Thirty Seconds to Mars" trackTitle="The Kill" trackArtist="30 Seconds To Mars" duration="227578" cid="{FB4FF400-F642-4B7A-BA69-1DD947659798}" tid="{21176026-2835-43B7-BED7-0E16F0C2AC53}"/>
             <media src="..\Dr. Horrible&apos;s Sing-Along Blog\Act 3\04 Dr Horrible is Here.mp3" albumTitle="Dr. Horrible’s Sing-Along Blog" albumArtist="Various artists" trackTitle="Dr. Horrible is Here" trackArtist="Jed and Joss Whedon" duration="163221" tid="{96627A1A-6470-42ED-977C-2AADA06002E5}"/>
             <media src="..\Various Artists\FLCL-Furikuri Soundtrack\17 Ride on Shooting Star.mp3" serviceId="{73B07B00-0500-11DB-89CA-0019B92A3933}" albumTitle="FLCL/Furikuri Soundtrack" albumArtist="Original Soundtrack" trackTitle="Ride on Shooting Star" trackArtist="The Pillows" duration="140781" cid="{6EC812A5-D3B1-48D3-AD17-B6C1EB2BE38B}" tid="{98565348-AE62-43A4-A006-EDA1172332CE}"/>

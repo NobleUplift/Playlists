@@ -1,12 +1,14 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <guid>{BE28366E-4E47-45AB-A4E8-A54A930C83BF}</guid>
-        <meta name="creatorId" content="{7CC03665-003F-A8F9-9BA9-3E76BF71F97E}"/>
-        <meta name="averageRating" content="1"/>
-        <meta name="totalDuration" content="10983"/>
-        <meta name="itemCount" content="42"/>
-        <meta name="generator" content="Zune -- 4.8.2345.0"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
+        <meta name="ItemCount" content="52"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
         <title>Interpol</title>
     </head>
     <body>
@@ -53,6 +55,16 @@
             <media src="..\Interpol\Interpol\08 Try It On.mp3" serviceId="{F22B3F01-0500-11DB-89CA-0019B92A3933}" albumTitle="Interpol" albumArtist="Interpol" trackTitle="Try It On" trackArtist="Interpol" duration="220520"/>
             <media src="..\Interpol\Interpol\09 All of the Ways.mp3" serviceId="{F12B3F01-0500-11DB-89CA-0019B92A3933}" albumTitle="Interpol" albumArtist="Interpol" trackTitle="All of the Ways" trackArtist="Interpol" duration="316213"/>
             <media src="..\Interpol\Interpol\10 The Undoing.mp3" serviceId="{F02B3F01-0500-11DB-89CA-0019B92A3933}" albumTitle="Interpol" albumArtist="Interpol" trackTitle="The Undoing" trackArtist="Interpol" duration="311493"/>
+            <media src="..\Interpol\El Pintor\01 All the Rage Back Home.mp3"/>
+            <media src="..\Interpol\El Pintor\02 My Desire.mp3"/>
+            <media src="..\Interpol\El Pintor\03 Anywhere.mp3"/>
+            <media src="..\Interpol\El Pintor\04 Same Town New Story.mp3"/>
+            <media src="..\Interpol\El Pintor\05 My Blue Supreme.mp3"/>
+            <media src="..\Interpol\El Pintor\06 Everything Is Wrong.mp3"/>
+            <media src="..\Interpol\El Pintor\07 Breaker 1.mp3"/>
+            <media src="..\Interpol\El Pintor\08 Ancient Ways.mp3"/>
+            <media src="..\Interpol\El Pintor\09 Tidal Wave.mp3"/>
+            <media src="..\Interpol\El Pintor\10 Twice as Hard.mp3"/>
         </seq>
     </body>
 </smil>
