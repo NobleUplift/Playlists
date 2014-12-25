@@ -2,12 +2,13 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
-        <meta name="ItemCount" content="78"/>
+        <meta name="ItemCount" content="79"/>
         <author/>
         <title>Singles</title>
     </head>
     <body>
         <seq>
+            <media src="..\The Flairs\Truckers Delight - EP\01 Truckers Delight.mp3" tid="{5AED4116-6EF6-4A34-8583-8A888823CEEA}"/>
             <media src="..\LMFAO\Sorry for Party Rocking\03 Party Rock Anthem.mp3" cid="{C15C3980-C584-4903-9267-B6AC85372A87}" tid="{F31EC35B-D0D1-4AFF-B084-8953D2B8CF1D}"/>
             <media src="..\LMFAO\Sorry for Party Rocking\04 Sexy and I Know It.mp3" cid="{3617A505-0152-486C-B052-8C7DF2807490}" tid="{07BE57B4-F40D-42F0-BD9C-161C63BA5BE5}"/>
             <media src="..\LMFAO\Party Rock\13 Yes.mp3" cid="{12ABD683-57B2-405B-B697-4AC0583FE1B5}" tid="{A55DEB36-2EF0-4901-B861-0AB4C5F01A30}"/>
@@ -46,7 +47,7 @@
             <media src="..\Various Artists\YouTube\UN Owen Was Her- Full version.mp3" albumTitle="YouTube" albumArtist="Various artists" trackTitle="U.N. Owen Was Her" trackArtist="Touhou Project" duration="320817" tid="{B3167E2E-7228-4D68-A240-0B9FBE5A70F7}"/>
             <media src="..\Dethklok\Dethalbum II\05 Black Fire Upon Us.mp3" serviceId="{9A080E01-0500-11DB-89CA-0019B92A3933}" albumTitle="Dethalbum II" albumArtist="Dethklok" trackTitle="Black Fire Upon Us" trackArtist="Dethklok" duration="340026" cid="{D264FC60-AD9E-4C38-90EE-1A0869C45B13}" tid="{4C51F0B2-CC86-4E00-8466-F1972FA2B9F4}"/>
             <media src="..\Various Artists\YouTube\Sonic the Hedgehog 3 - Final Boss theme OC Remix.mp3" albumTitle="YouTube" albumArtist="Various artists" trackTitle="Sonic 3 Final Boss Remix" trackArtist="kakarottossj3" duration="254171" tid="{CF384560-B2EF-442A-8D7C-CE2FFCDF060B}"/>
-            <media src="..\Various Artists\YouTube\DYE Fantasy Official Video by JEREMIE PERIN.mp3" serviceId="{E43FCE06-0100-11DB-89CA-0019B92A3933}" albumTitle="YouTube" albumArtist="Various artists" trackTitle="Fantasy" trackArtist="DYE" duration="215226" cid="{17EB558F-837D-47B7-8C63-90ADE276242F}" tid="{941C9BBA-08CF-4361-B4C5-29AA18C42F65}"/>
+            <media src="..\Dye\Fantasy Special Edition\01 Fantasy.mp3" tid="{79831985-9E85-4489-A139-BB2ADF4B47FE}"/>
             <media src="..\We Are Scientists\Great Escape\17 The Great Escape.mp3" albumTitle="Great Escape" albumArtist="We Are Scientists" trackTitle="The Great Escape" trackArtist="We Are Scientists" duration="196392" tid="{5F9965C8-C43C-496D-849D-4392B51E4DCE}"/>
             <media src="..\Hatsune Miku\Hatsune Miku\【手描き】ワールドイズマイン【PV】~ Hatsune Miku - World is Mine.mp3" albumTitle="VOCALOID2" albumArtist="Hatsune Miku" trackTitle="World is Mine" trackArtist="Hatsune Miku" duration="253528" tid="{1D961228-1C05-41BC-9C87-544661F847E1}"/>
             <media src="..\Hatsune Miku\Hatsune Miku\Triple Baka.mp3" albumTitle="VOCALOID2" albumArtist="Hatsune Miku" trackTitle="Triple Baka" trackArtist="Hatsune Miku, Kasane Teto, and Akita Neru" duration="245397" tid="{5B18B446-0330-4DCD-B983-D250035B084B}"/>
