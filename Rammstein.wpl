@@ -1,35 +1,75 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
-        <meta name="ItemCount" content="23"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 11.0.5721.5280"/>
+        <meta name="AverageRating" content="50"/>
+        <meta name="TotalDuration" content="13867"/>
+        <meta name="ItemCount" content="56"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
         <title>Rammstein</title>
     </head>
     <body>
         <seq>
-            <media src="..\Rammstein\Mutter\01 Mein Herz Brennt.mp3" cid="{71BFB456-1050-485E-BBDB-E66EDD32EC26}" tid="{729D7F13-8317-43EE-8747-6095ECBB1E21}"/>
-            <media src="..\Rammstein\Mutter\02 Links 2 3 4.mp3"/>
-            <media src="..\Rammstein\Mutter\03 Sonne.mp3"/>
-            <media src="..\Rammstein\Mutter\04 Ich Will.mp3"/>
-            <media src="..\Rammstein\Mutter\05 Feuer Frei!.mp3"/>
-            <media src="..\Rammstein\Mutter\06 Mutter.mp3"/>
-            <media src="..\Rammstein\Mutter\07 Spieluhr.mp3"/>
-            <media src="..\Rammstein\Mutter\08 Zwitter.mp3"/>
-            <media src="..\Rammstein\Mutter\09 Rein Raus.mp3"/>
-            <media src="..\Rammstein\Mutter\10 Adios.mp3"/>
-            <media src="..\Rammstein\Mutter\11 Nebel.mp3"/>
-            <media src="..\Rammstein\Sehnsucht\01 Sehnsucht.mp3"/>
-            <media src="..\Rammstein\Sehnsucht\02 Engel.mp3"/>
-            <media src="..\Rammstein\Sehnsucht\03 Tier.mp3"/>
-            <media src="..\Rammstein\Sehnsucht\04 Bestrafe Mich.mp3"/>
-            <media src="..\Rammstein\Sehnsucht\05 Du Hast.mp3"/>
-            <media src="..\Rammstein\Sehnsucht\06 Bück Dich.mp3"/>
-            <media src="..\Rammstein\Sehnsucht\07 Spiel Mit Mir.mp3"/>
-            <media src="..\Rammstein\Sehnsucht\08 Klavier.mp3"/>
-            <media src="..\Rammstein\Sehnsucht\09 Alter Mann.mp3"/>
-            <media src="..\Rammstein\Sehnsucht\10 Eifersucht.mp3"/>
-            <media src="..\Rammstein\Sehnsucht\11 Küss Mich (Fellfrosch).mp3"/>
-            <media src="..\Rammstein\Sehnsucht\12 Engel [English Version].mp3"/>
+            <media src="..\Rammstein\Sehnsucht\01 Sehnsucht.mp3" cid="{47985F4A-42AB-4DB3-AF86-C16A431701ED}" tid="{F6CE44E4-0DD2-4A64-A370-B43BFF387B2C}"/>
+            <media src="..\Rammstein\Sehnsucht\02 Engel.mp3" cid="{4CB368EE-4B5E-45B8-ACFD-776E387E1046}" tid="{BC60CB95-BD49-4D50-989C-F46887818E37}"/>
+            <media src="..\Rammstein\Sehnsucht\03 Tier.mp3" cid="{D1890C33-93DE-475A-A7D5-9EEE6F3835F0}" tid="{06F69249-4EE4-48A3-AAC0-2319CBA3AB44}"/>
+            <media src="..\Rammstein\Sehnsucht\04 Bestrafe Mich.mp3" cid="{35736D1C-3136-48C7-A89B-2427E83C7822}" tid="{B4F4CEC4-047B-4029-97DD-9D337CA8F153}"/>
+            <media src="..\Rammstein\Sehnsucht\05 Du Hast.mp3" cid="{63C1752F-D60F-4457-A9C6-E3C3CC4B2D6E}" tid="{804A685D-E431-4BD3-87E2-CBC157B4D929}"/>
+            <media src="..\Rammstein\Sehnsucht\06 Bück Dich.mp3" cid="{B2FD6715-AB02-4A19-93B0-D85F43C56645}" tid="{C8EDC4C5-EED7-40FD-B07C-2C9750062559}"/>
+            <media src="..\Rammstein\Sehnsucht\07 Spiel Mit Mir.mp3" cid="{193EBDDB-7703-447C-ACE4-53C9202578E9}" tid="{97F3A8DB-2E11-45FA-B2BC-7CCE9C78D4C7}"/>
+            <media src="..\Rammstein\Sehnsucht\08 Klavier.mp3" cid="{845C9A51-6B6E-41AD-A19E-E6B99C6823CE}" tid="{FE662C3C-F88F-4BBA-9228-50179F894346}"/>
+            <media src="..\Rammstein\Sehnsucht\09 Alter Mann.mp3" cid="{F5A3D9B2-A41E-4635-A2A0-17655D3E21A2}" tid="{522FC7A7-EBA5-42F9-A5F8-6AFE5A896BB4}"/>
+            <media src="..\Rammstein\Sehnsucht\10 Eifersucht.mp3" cid="{25EF5E3B-63F0-415D-8126-DF2531531F45}" tid="{D405BF99-6697-48C2-ABBC-F2D37128D3CD}"/>
+            <media src="..\Rammstein\Sehnsucht\11 Küss Mich (Fellfrosch).mp3" cid="{BD46D8CA-CE38-4D09-B6E9-CA513E48E87B}" tid="{51EAE8C3-C6D5-49F2-AD13-8986DFB26D2F}"/>
+            <media src="..\Rammstein\Sehnsucht\12 Stripped.mp3" tid="{7D56ADC6-DF65-40D3-AA0F-98845AB62904}"/>
+            <media src="..\Rammstein\Mutter\01 Mein Herz Brennt.mp3" cid="{71BFB456-1050-485E-BBDB-E66EDD32EC26}" tid="{D86D2773-8840-406E-950A-BDD455A60841}"/>
+            <media src="..\Rammstein\Mutter\02 Links 2 3 4.mp3" cid="{335089EC-2B0D-4FCB-9421-3C9F85F03550}" tid="{CC331DB3-AA5A-475E-8233-CBDDC6DF57EB}"/>
+            <media src="..\Rammstein\Mutter\03 Sonne.mp3" cid="{2D2D4029-3FD4-47C6-836F-B0CF89EF5ECA}" tid="{E1F0BF65-C0D8-48E5-9370-59181F35516A}"/>
+            <media src="..\Rammstein\Mutter\04 Ich Will.mp3" cid="{326838C5-BE61-44E6-9816-AFD49F75387F}" tid="{146B1C80-3380-42EB-A514-281BD94D13D0}"/>
+            <media src="..\Rammstein\Mutter\05 Feuer Frei!.mp3" cid="{F586517A-113F-4A3F-A029-0A6939B00626}" tid="{0EF524FF-9034-419E-A6AC-A5A8B34260C2}"/>
+            <media src="..\Rammstein\Mutter\06 Mutter.mp3" cid="{A4A8B293-D87D-40D2-9439-C953E3E6E29E}" tid="{512FD93A-4124-4411-B2F7-AE76FBC52877}"/>
+            <media src="..\Rammstein\Mutter\07 Spieluhr.mp3" cid="{8A3D3008-DDE4-4282-A913-18F0707E0DB2}" tid="{B219D727-3319-490C-9BD4-723E0719C243}"/>
+            <media src="..\Rammstein\Mutter\08 Zwitter.mp3" cid="{C9CB2658-1730-4C22-8D2F-5D7FBA45FF20}" tid="{DBDE99BB-160C-49D1-8F3D-EF7E5B0EAB33}"/>
+            <media src="..\Rammstein\Mutter\09 Rein Raus.mp3" cid="{C0BE2622-B3B8-4333-9998-C2C03DF7F1CE}" tid="{8C2AC6BB-7226-4514-AE47-C80DA46B5A1F}"/>
+            <media src="..\Rammstein\Mutter\10 Adios.mp3" cid="{0A165279-5832-49DF-AE91-89378E9FDC60}" tid="{DB64A665-BEB5-41B1-9B96-56EEA257CD4E}"/>
+            <media src="..\Rammstein\Mutter\11 Nebel.mp3" cid="{EE616CF2-BCDC-4F24-8AE1-AF980FF98A9B}" tid="{EE092C9C-7BEA-40B9-BFA4-F01CDE41A758}"/>
+            <media src="..\Rammstein\Reise, Reise\01 Reise, Reise.mp3" cid="{5208F75F-944C-42C8-824F-AE34F0268FF6}" tid="{CB9B4DB1-2753-444B-877B-2D15A766269F}"/>
+            <media src="..\Rammstein\Reise, Reise\02 Mein Teil.mp3" cid="{0D23F727-7BBC-4C12-A837-3E7334260D2C}" tid="{43F5D3C5-AA84-4CA0-A08F-5DF205AFF238}"/>
+            <media src="..\Rammstein\Reise, Reise\03 Dalai Lama.mp3" cid="{77930275-E71B-4F31-B1F5-38CB3391829B}" tid="{6274A7C0-F98E-416F-AF3B-E29E4BCDC104}"/>
+            <media src="..\Rammstein\Reise, Reise\04 Keine Lust.mp3" cid="{DBBD29D0-95D4-4571-9548-73A2A1B9E4A5}" tid="{84161F89-3D4B-4FD6-8B09-57DC70B1FD84}"/>
+            <media src="..\Rammstein\Reise, Reise\05 Los.mp3" cid="{0BBC2956-9570-4CE6-8AF6-BC3CA418A202}" tid="{0EDAC8C3-EE2A-4914-8A52-AA20E40F42CE}"/>
+            <media src="..\Rammstein\Reise, Reise\06 Amerika.mp3" cid="{BD95819B-405A-4C3E-9C2E-9F5402CD9E6C}" tid="{7448B413-1AE1-41DE-8FC1-C461783F3CCF}"/>
+            <media src="..\Rammstein\Reise, Reise\07 Moskau.mp3" cid="{FC41443B-C51E-4CD6-BBFD-AF790077444A}" tid="{5845F896-C526-4AA9-B853-CE4276AC9BE2}"/>
+            <media src="..\Rammstein\Reise, Reise\08 Morgenstern.mp3" cid="{5E06D8A9-B314-4058-9B9B-0173E2C47665}" tid="{A6047D6F-A508-4CB5-952F-A0DE660BF0FF}"/>
+            <media src="..\Rammstein\Reise, Reise\09 Stein Um Stein.mp3" cid="{5310BF8C-55AE-43E9-9C85-7C7F66D9872D}" tid="{E9783CBB-22D9-4EF6-8821-7E6F3A22E43F}"/>
+            <media src="..\Rammstein\Reise, Reise\10 Ohne Dich.mp3" cid="{D7C3332D-51C8-46A4-B1CC-4EF4678C100F}" tid="{8C8C7BB0-FD94-4BBB-A840-03DD8966F2D4}"/>
+            <media src="..\Rammstein\Reise, Reise\11 Amour.mp3" cid="{50F9EBA2-C81F-4945-81DB-BE7B0C9A971E}" tid="{0F25AA7E-F8F3-4F00-97B8-0ED1375CBA6A}"/>
+            <media src="..\Rammstein\Rosenrot\01 Benzin.mp3" cid="{693826E1-B930-48C9-8D20-B02A9A025ACB}" tid="{49961112-9DC6-4327-B6E6-07C722DB12F6}"/>
+            <media src="..\Rammstein\Rosenrot\02 Mann Gegen Mann.mp3" cid="{BA4988C7-B375-45B7-972A-8AE0F8444C52}" tid="{4D173F72-61EE-4A9B-BE73-06943F6465C2}"/>
+            <media src="..\Rammstein\Rosenrot\03 Rosenrot.mp3" cid="{8C3B6C10-F847-4472-AE6E-1BD376EC9C66}" tid="{E712E16A-C68A-4AB5-B495-1EA9DD2E1BC3}"/>
+            <media src="..\Rammstein\Rosenrot\04 Spring.mp3" cid="{E9717D40-7898-4CD3-BEDC-6F8829F28EC9}" tid="{84ED46C8-EFA7-4933-8B5F-ECFA0EC854B3}"/>
+            <media src="..\Rammstein\Rosenrot\05 Wo Bist Du.mp3" cid="{48A5649A-F1F5-49C1-B5D2-C90073AA7E2D}" tid="{DDEE4395-A11D-4D1C-88B6-8D36DF6E839F}"/>
+            <media src="..\Rammstein\Rosenrot\06 Stirb Nicht Vor Mir (Don&apos;t Die Before I Do).mp3" cid="{AF8DD8CF-171B-4333-B7A6-6BF78E372629}" tid="{AB91934D-0F8F-4900-926B-6BBF637CE788}"/>
+            <media src="..\Rammstein\Rosenrot\07 Zerstören.mp3" cid="{CE0DFA9B-8ABF-4EBE-A10A-7A2CAB9AE57B}" tid="{2E7A935B-5D7D-4F81-9856-171A7F26BA9F}"/>
+            <media src="..\Rammstein\Rosenrot\08 Hilf Mir.mp3" cid="{919E93EB-1CED-4CDF-A73F-A09CBEC46B95}" tid="{F7A61A63-E120-43B3-9488-EA3CA74BDCDA}"/>
+            <media src="..\Rammstein\Rosenrot\09 Te Quiero Puta!.mp3" cid="{89F52BA0-1AAE-4798-84FC-D1AE7A6368C4}" tid="{1500E114-9172-4928-B75B-087C8ED7076F}"/>
+            <media src="..\Rammstein\Rosenrot\10 Feuer und Wasser.mp3" cid="{5AC7F2A4-F146-44EE-A918-44F40F805990}" tid="{552EE025-A0ED-4675-A044-F0F202082EE3}"/>
+            <media src="..\Rammstein\Rosenrot\11 Ein Lied.mp3" cid="{D66F0EA5-7F6E-4096-9A73-6B9B0286D396}" tid="{ED0DCCAD-C58E-40F8-9651-1496E756255B}"/>
+            <media src="..\Rammstein\Liebe Ist für Alle Da\01 Rammlied.mp3"/>
+            <media src="..\Rammstein\Liebe Ist für Alle Da\02 Ich Tu Dir Weh.mp3"/>
+            <media src="..\Rammstein\Liebe Ist für Alle Da\03 Waidmanns Heil.mp3"/>
+            <media src="..\Rammstein\Liebe Ist für Alle Da\04 Haifisch.mp3"/>
+            <media src="..\Rammstein\Liebe Ist für Alle Da\05 B--------.mp3"/>
+            <media src="..\Rammstein\Liebe Ist für Alle Da\06 Frühling In Paris.mp3"/>
+            <media src="..\Rammstein\Liebe Ist für Alle Da\07 Wiener Blut.mp3"/>
+            <media src="..\Rammstein\Liebe Ist für Alle Da\08 Pussy.mp3"/>
+            <media src="..\Rammstein\Liebe Ist für Alle Da\09 Liebe Ist Für Alle Da.mp3"/>
+            <media src="..\Rammstein\Liebe Ist für Alle Da\10 Mehr.mp3"/>
+            <media src="..\Rammstein\Liebe Ist für Alle Da\11 Roter Sand.mp3"/>
         </seq>
     </body>
 </smil>
