@@ -1,0 +1,35 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
+        <meta name="ItemCount" content="23"/>
+        <title>Rammstein</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\Rammstein\Mutter\01 Mein Herz Brennt.mp3" cid="{71BFB456-1050-485E-BBDB-E66EDD32EC26}" tid="{729D7F13-8317-43EE-8747-6095ECBB1E21}"/>
+            <media src="..\Rammstein\Mutter\02 Links 2 3 4.mp3"/>
+            <media src="..\Rammstein\Mutter\03 Sonne.mp3"/>
+            <media src="..\Rammstein\Mutter\04 Ich Will.mp3"/>
+            <media src="..\Rammstein\Mutter\05 Feuer Frei!.mp3"/>
+            <media src="..\Rammstein\Mutter\06 Mutter.mp3"/>
+            <media src="..\Rammstein\Mutter\07 Spieluhr.mp3"/>
+            <media src="..\Rammstein\Mutter\08 Zwitter.mp3"/>
+            <media src="..\Rammstein\Mutter\09 Rein Raus.mp3"/>
+            <media src="..\Rammstein\Mutter\10 Adios.mp3"/>
+            <media src="..\Rammstein\Mutter\11 Nebel.mp3"/>
+            <media src="..\Rammstein\Sehnsucht\01 Sehnsucht.mp3"/>
+            <media src="..\Rammstein\Sehnsucht\02 Engel.mp3"/>
+            <media src="..\Rammstein\Sehnsucht\03 Tier.mp3"/>
+            <media src="..\Rammstein\Sehnsucht\04 Bestrafe Mich.mp3"/>
+            <media src="..\Rammstein\Sehnsucht\05 Du Hast.mp3"/>
+            <media src="..\Rammstein\Sehnsucht\06 Bück Dich.mp3"/>
+            <media src="..\Rammstein\Sehnsucht\07 Spiel Mit Mir.mp3"/>
+            <media src="..\Rammstein\Sehnsucht\08 Klavier.mp3"/>
+            <media src="..\Rammstein\Sehnsucht\09 Alter Mann.mp3"/>
+            <media src="..\Rammstein\Sehnsucht\10 Eifersucht.mp3"/>
+            <media src="..\Rammstein\Sehnsucht\11 Küss Mich (Fellfrosch).mp3"/>
+            <media src="..\Rammstein\Sehnsucht\12 Engel [English Version].mp3"/>
+        </seq>
+    </body>
+</smil>
