@@ -2,7 +2,7 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
-        <meta name="ItemCount" content="79"/>
+        <meta name="ItemCount" content="85"/>
         <meta name="IsFavorite"/>
         <meta name="ContentPartnerListID"/>
         <meta name="ContentPartnerNameType"/>
@@ -17,10 +17,7 @@
             <media src="..\Various artists\日本アニメ(ーター)見本市 「ME!ME!ME!」 - Single\ME!ME!ME! Feat. Daoko Pt. 2.mp3" tid="{3038CE44-5416-472C-9709-36D714C1FD31}"/>
             <media src="..\Various artists\日本アニメ(ーター)見本市 「ME!ME!ME!」 - Single\ME!ME!ME! Feat. Daoko Pt. 3.mp3" tid="{53A427E0-84A1-456E-9DF2-4FE97E29FFD7}"/>
             <media src="..\AWOLNATION\Megalithic Symphony\10 Sail.mp3" cid="{DDF5AF83-A8CC-4088-A0EB-2BC647B5CC0F}" tid="{A91D97C9-BE05-4C43-9FB5-60F1A3CA6691}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\03 Keine Lust.mp3" cid="{3E970672-5C81-4FDD-9944-745736E5A1C5}" tid="{014BD215-8A78-4B63-B1B8-53BEAB1D7B17}"/>
-            <media src="..\Rammstein\Liebe Ist für Alle Da\02 Ich Tu Dir Weh.mp3" cid="{EE001F7C-7DEE-456B-A7A9-246369307D14}" tid="{3B8AE593-0941-4846-B1AF-14DDD9A332D9}"/>
-            <media src="..\Green Day\American Idiot\03 Holiday.mp3" tid="{8CD2BEE3-665F-4F4A-A7DC-EABB9962A95F}"/>
-            <media src="..\Rammstein\Mutter\08 Zwitter.mp3" cid="{C9CB2658-1730-4C22-8D2F-5D7FBA45FF20}" tid="{8E7B5D22-E30A-4DD6-8AFA-817E6371C058}"/>
+            <media src="..\Green Day\American Idiot\03 Holiday.mp3" tid="{5F799BC5-A53B-4A35-9F80-CAD1BF94577A}" cid="{4E84969A-054E-4068-8A25-863636D8EB27}"/>
             <media src="..\Schandmaul\Narrenkonig\01 Walpurgisnacht.mp3" cid="{B361D958-0FA6-4F35-9D6A-7FECDB200D47}" tid="{CB516C47-D477-4CC3-9670-97613EE329A6}"/>
             <media src="..\The Flairs\Truckers Delight - EP\01 Truckers Delight.mp3" tid="{5AED4116-6EF6-4A34-8583-8A888823CEEA}"/>
             <media src="..\LMFAO\Sorry for Party Rocking [Deluxe Edition]\03 Party Rock Anthem.mp3" cid="{C15C3980-C584-4903-9267-B6AC85372A87}" tid="{9EC0A62D-FE7E-44B4-AE17-EDAC8E1C20AA}"/>
