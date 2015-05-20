@@ -2,19 +2,26 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18741"/>
-        <meta name="ItemCount" content="93"/>
+        <meta name="ItemCount" content="94"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>Singles</title>
     </head>
     <body>
         <seq>
-            <media src="..\Various artists\日本アニメ(ーター)見本市 「ME!ME!ME!」 [Ambient Remix]\ME!ME!ME! Feat. Daoko [Ambient Remix].mp3" tid="{5EAD1912-CA8A-4E8A-B1F4-A0F40486ECAF}"/>
+            <media src="..\Simon Viklund\PAYDAY 2 Soundtrack\40_Full_Force_Forward_Hype_Train.mp3" tid="{C336A614-C356-46FD-A1B7-8443E0CBF3C4}"/>
             <media src="..\Goodnight Radio\Sophia So Far\01 Sophia So Far.mp3" cid="{AF8D10BC-6A68-4F17-90C3-D956C8F51F88}" tid="{02C1728E-A095-442F-87DF-2068E987712B}"/>
             <media src="..\AWOLNATION\Megalithic Symphony\10 Sail.mp3" cid="{DDF5AF83-A8CC-4088-A0EB-2BC647B5CC0F}" tid="{A91D97C9-BE05-4C43-9FB5-60F1A3CA6691}"/>
+            <media src="..\Various artists\日本アニメ(ーター)見本市 「ME!ME!ME!」 [Ambient Remix]\ME!ME!ME! Feat. Daoko [Ambient Remix].mp3" tid="{5EAD1912-CA8A-4E8A-B1F4-A0F40486ECAF}"/>
             <media src="..\Rammstein\Reise, Reise\04 Keine Lust.mp3" cid="{DBBD29D0-95D4-4571-9548-73A2A1B9E4A5}" tid="{7E467434-3CCC-4D42-A45B-B41A966D4988}"/>
-            <media src="..\Rammstein\Liebe Ist für Alle Da\02 Ich Tu Dir Weh.mp3" cid="{EE001F7C-7DEE-456B-A7A9-246369307D14}" tid="{3B8AE593-0941-4846-B1AF-14DDD9A332D9}"/>
+            <media src="..\Rammstein\Rosenrot\07 Zerstören.mp3" cid="{CE0DFA9B-8ABF-4EBE-A10A-7A2CAB9AE57B}" tid="{92D3C9CB-5F95-4C61-BA3F-9C707786BA1D}"/>
+            <media src="..\Rammstein\Liebe Ist für Alle Da\03 Waidmanns Heil.mp3" cid="{B3D33289-EF8C-4277-BD6C-0045FAF26934}" tid="{65B50631-F07D-4570-BC8B-0D0E89E55D00}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\04 Haifisch.mp3" cid="{DBA5CF09-3DCF-4E9B-87E9-7C6854BB34B4}" tid="{6FD973D5-5CED-4FF4-A86D-7FF6091B8650}"/>
-            <media src="..\Rammstein\Liebe Ist für Alle Da\05 B--------.mp3" cid="{31D6736B-8802-4E3A-9DD2-6D955DC67C4A}" tid="{12582940-8306-4948-8C74-7B983D3B711B}"/>
+            <media src="..\Rammstein\Liebe Ist für Alle Da\02 Ich Tu Dir Weh.mp3" cid="{EE001F7C-7DEE-456B-A7A9-246369307D14}" tid="{3B8AE593-0941-4846-B1AF-14DDD9A332D9}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\08 Pussy.mp3" cid="{E72952BB-015A-4276-9E98-5EB8C5BB0352}" tid="{2951AD8F-648F-40C9-84F4-41FB16F5B5AD}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\09 Liebe Ist Für Alle Da.mp3" cid="{DD556A31-449B-474D-94D1-B79C10CA3EC5}" tid="{7D80646E-ED04-40D7-8700-5FD43B7DA0E0}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\10 Mehr.mp3" cid="{27E5588D-F4E6-44E8-8F17-FE30AC500A4D}" tid="{2CEB5188-ED15-45B2-8333-12605752CDEF}"/>
