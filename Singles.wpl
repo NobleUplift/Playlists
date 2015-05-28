@@ -2,20 +2,15 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18741"/>
-        <meta name="ItemCount" content="94"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
+        <meta name="ItemCount" content="95"/>
         <author/>
         <title>Singles</title>
     </head>
     <body>
         <seq>
-            <media src="..\Simon Viklund\PAYDAY 2 Soundtrack\40_Full_Force_Forward_Hype_Train.mp3" tid="{C336A614-C356-46FD-A1B7-8443E0CBF3C4}"/>
-            <media src="..\Goodnight Radio\Sophia So Far\01 Sophia So Far.mp3" cid="{AF8D10BC-6A68-4F17-90C3-D956C8F51F88}" tid="{02C1728E-A095-442F-87DF-2068E987712B}"/>
+            <media src="..\Various artists\PAYDAY 2 OST\40_Full_Force_Forward_Hype_Train.mp3" tid="{AA99EDBF-9DBA-4C0B-BD12-CD4A7252EA10}"/>
             <media src="..\AWOLNATION\Megalithic Symphony\10 Sail.mp3" cid="{DDF5AF83-A8CC-4088-A0EB-2BC647B5CC0F}" tid="{A91D97C9-BE05-4C43-9FB5-60F1A3CA6691}"/>
+            <media src="..\Goodnight Radio\Sophia So Far\01 Sophia So Far.mp3" cid="{AF8D10BC-6A68-4F17-90C3-D956C8F51F88}" tid="{02C1728E-A095-442F-87DF-2068E987712B}"/>
             <media src="..\Various artists\日本アニメ(ーター)見本市 「ME!ME!ME!」 [Ambient Remix]\ME!ME!ME! Feat. Daoko [Ambient Remix].mp3" tid="{5EAD1912-CA8A-4E8A-B1F4-A0F40486ECAF}"/>
             <media src="..\Rammstein\Reise, Reise\04 Keine Lust.mp3" cid="{DBBD29D0-95D4-4571-9548-73A2A1B9E4A5}" tid="{7E467434-3CCC-4D42-A45B-B41A966D4988}"/>
             <media src="..\Rammstein\Rosenrot\07 Zerstören.mp3" cid="{CE0DFA9B-8ABF-4EBE-A10A-7A2CAB9AE57B}" tid="{92D3C9CB-5F95-4C61-BA3F-9C707786BA1D}"/>
@@ -38,7 +33,7 @@
             <media src="..\Nicky Romero\Toulouse\Nicky Romero - Toulouse.mp3" tid="{146D04A5-49DA-4D1B-92DB-36342802425A}"/>
             <media src="..\Pentatonix\PTX, Vol. 2\08 Daft Punk- Around the World-Digital Love-Get Lucky-Harder Better Faster.mp3" cid="{C8D725FD-44BE-43C6-AA38-04C17327E1C4}" tid="{D3476619-FBE0-4597-9141-9BF2D5169FD1}"/>
             <media src="..\Mittsies\Exordium\02 Stratum (Extended Mix).mp3" tid="{1C364289-03B1-48E8-911E-5EFB20896CCC}"/>
-            <media src="..\Lana Del Rey\Lana Del Rey vs Cedric Gervais\Lana Del Rey vs Cedric Gervais &apos;Summertime Sadness&apos; Remix.mp3" tid="{53C856FA-8CCF-4832-8D3E-A4207A360E96}"/>
+            <media src="..\Various artists\Lana Del Rey vs Cedric Gervais\01 Lana Del Rey vs Cedric Gervais &apos;Summertime Sadness&apos; Remix.mp3" tid="{FEE25404-10D0-4609-9896-6390A9421A6D}"/>
             <media src="..\Martin Garrix\Animals\Martin Garrix - Animals (Official Video).mp3" tid="{2E393187-7F30-4C91-B8BD-5A17F12AFE03}"/>
             <media src="..\Nero\Welcome Reality\13 Promises.mp3" albumTitle="YouTube" albumArtist="Various artists" trackTitle="Promises" trackArtist="Nero" duration="239882" tid="{0CD75AF0-6295-4B1D-931B-56AD49B017AC}"/>
             <media src="..\Various artists\Borderlands\28 Mad Moxxi Theme.mp3" tid="{5AA97EC3-99C8-4AB0-8E5F-75C812E54A3E}"/>
@@ -59,7 +54,7 @@
             <media src="..\Toto\Toto IV\Toto - Africa.mp3" tid="{C4467FCA-A1A3-4E6A-B87D-C26ECC5BDA1D}" cid="{76E2855C-9072-4B85-BC2F-B0B587EF090A}"/>
             <media src="..\Various Artists\YouTube\Avast Fluttershys Ass - 20% Cooler Yay Equaliser Edition.mp3" tid="{7B27A549-1E81-4377-8B21-988571EC818B}"/>
             <media src="..\Various Artists\Fractale OP &amp; ED Single - Harinezumi [Azuma Hitomi]\01. Harinezumi.mp3" albumTitle="Harinezumi " albumArtist="Azuma Hitomi" trackTitle="Harinezumi" trackArtist="Azuma Hitomi" duration="299154" tid="{7E22C7CD-EAC6-45E4-884B-A4A40005804A}"/>
-            <media src="..\Girls Love Shoes\Stars\04 Unknown Track 4.mp3" albumTitle="Stars" albumArtist="Girls Love Shoes" trackTitle="Home" trackArtist="Girls Love Shoes" duration="203466" tid="{F761DC36-0CC0-478B-912C-15CE6EAF7A4A}"/>
+            <media src="..\Girls Love Shoes\Stars\04 Home.mp3" tid="{4428F9BB-33D6-46F3-9702-2279867380EE}"/>
             <media src="..\Various Artists\Fractale OP &amp; ED Single - Harinezumi [Azuma Hitomi]\02. Onaji Yume.mp3" albumTitle="Harinezumi " albumArtist="Azuma Hitomi" trackTitle="Onaji Yume" trackArtist="Azuma Hitomi" duration="373890" tid="{15F452C2-021C-4709-BA63-39B403BDD9DE}"/>
             <media src="..\Various Artists\Spice and Wolf II\Spice and Wolf II - 01 Mitsu no Yoake.mp3" albumTitle="Spice and Wolf" albumArtist="Various artists" trackTitle="Mitsu no Yoake" trackArtist="Akino Arai" duration="290332" tid="{E937DE7E-FE26-4284-9A86-26F9C19848E3}"/>
             <media src="..\Various Artists\Spice and Wolf\Tabi no Tochuu.mp3" albumTitle="Spice and Wolf" albumArtist="Various artists" trackTitle="Tabi no Tochuu" trackArtist="Kiyoura Natsumi" duration="294716" tid="{6014C86A-107C-4D95-B95F-A341D369FE2C}"/>
@@ -98,7 +93,7 @@
             <media src="..\Red Army Choir\Songs of the Soviet Union\01 USSR National Anthem.mp3" albumTitle="Songs of the Soviet Union" albumArtist="Red Army Choir" trackTitle="USSR National Anthem" trackArtist="Red Army Choir" duration="211348" tid="{8D9D4A7A-98E3-4879-84AF-FCED234F47C8}"/>
             <media src="..\Various Artists\Origin Spirits of the Past\KOKIA - Chouwa oto ~with reflection~.mp3" albumTitle="Ai no Uta" albumArtist="KOKIA" trackTitle="Chouwa oto ~with reflection~" trackArtist="KOKIA" duration="278184" cid="{CDD62655-B7DD-4B1A-A079-6153266FBE55}" tid="{D9F8B65B-64FD-4C7A-9B59-9945F2916E27}"/>
             <media src="..\The Strokes\First Impressions of Earth\04 Razor Blade.mp3" cid="{A708EBF3-EEE0-4946-8EFF-FD6338BA4742}" tid="{F7C30720-AFB7-469B-B80C-E7EF8269C7F3}"/>
-            <media src="..\30 Seconds to Mars\A Beautiful Lie\03 The Kill.mp3" serviceId="{54B57E00-0500-11DB-89CA-0019B92A3933}" albumTitle="A Beautiful Lie" albumArtist="Thirty Seconds to Mars" trackTitle="The Kill" trackArtist="30 Seconds To Mars" duration="227578" cid="{FB4FF400-F642-4B7A-BA69-1DD947659798}" tid="{21176026-2835-43B7-BED7-0E16F0C2AC53}"/>
+            <media src="..\Thirty Seconds To Mars\A Beautiful Lie\03 The Kill.mp3" serviceId="{54B57E00-0500-11DB-89CA-0019B92A3933}" albumTitle="A Beautiful Lie" albumArtist="Thirty Seconds to Mars" trackTitle="The Kill" trackArtist="30 Seconds To Mars" duration="227578" cid="{FB4FF400-F642-4B7A-BA69-1DD947659798}" tid="{05BC4182-EC0F-4431-A735-8C86BE78DF5B}"/>
             <media src="..\Dr. Horrible&apos;s Sing-Along Blog\Act 3\04 Dr Horrible is Here.mp3" albumTitle="Dr. Horrible’s Sing-Along Blog" albumArtist="Various artists" trackTitle="Dr. Horrible is Here" trackArtist="Jed and Joss Whedon" duration="163221" tid="{96627A1A-6470-42ED-977C-2AADA06002E5}"/>
             <media src="..\Various Artists\FLCL-Furikuri Soundtrack\17 Ride on Shooting Star.mp3" serviceId="{73B07B00-0500-11DB-89CA-0019B92A3933}" albumTitle="FLCL/Furikuri Soundtrack" albumArtist="Original Soundtrack" trackTitle="Ride on Shooting Star" trackArtist="The Pillows" duration="140781" cid="{6EC812A5-D3B1-48D3-AD17-B6C1EB2BE38B}" tid="{98565348-AE62-43A4-A006-EDA1172332CE}"/>
             <media src="..\Tenacious D\The Pick of Destiny\13 Beelzeboss (The Final Showdown).mp3" serviceId="{CF768700-0100-11DB-89CA-0019B92A3933}" albumTitle="The Pick of Destiny" albumArtist="Tenacious D" trackTitle="Beelzeboss (The Final Showdown)" trackArtist="Tenacious D" duration="335856" cid="{D809856D-E6FA-423F-9996-E728D6723CE2}" tid="{032A01B3-9CD0-49DA-B637-32784AB6C313}"/>
