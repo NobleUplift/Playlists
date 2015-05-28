@@ -3,6 +3,11 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18741"/>
         <meta name="ItemCount" content="95"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>Singles</title>
     </head>
@@ -41,9 +46,9 @@
             <media src="..\Andrew W.K\I Get Wet\04 Ready to Die.mp3" serviceId="{E1844F00-0500-11DB-89CA-0019B92A3933}" albumTitle="I Get Wet" albumArtist="Andrew W.K." trackTitle="Ready to Die" trackArtist="Andrew W.K." duration="174576" cid="{8253E57B-D8D0-4168-975E-743BD6EB02C5}" tid="{3FDB6FFC-0CEA-443C-9CB1-46432F6F9B45}"/>
             <media src="..\I Blame Coco\The Constant\03 Quicker.mp3" serviceId="{F6776401-0500-11DB-89CA-0019B92A3933}" albumTitle="The Constant" albumArtist="I Blame Coco" trackTitle="Quicker" trackArtist="I Blame Coco" duration="190989" tid="{DF40EC34-28AE-4B80-B562-4A6C2E2DBAAF}"/>
             <media src="..\I Blame Coco\The Constant\01 Selfmachine.mp3" serviceId="{F8776401-0500-11DB-89CA-0019B92A3933}" albumTitle="The Constant" albumArtist="I Blame Coco" trackTitle="Selfmachine" trackArtist="I Blame Coco" duration="212062" tid="{DADA984F-D875-4D07-B885-BA70D812A831}"/>
-            <media src="..\Various Artists\YouTube\I Blame Coco - Quicker (Shook Remix)320.mp3" albumTitle="YouTube" albumArtist="Various artists" trackTitle="Quicker" trackArtist="I Blame Coco" duration="312114" tid="{A1583AEE-4983-4118-A777-3E504034FFEF}"/>
-            <media src="..\Robyn\Body Talk\03 Dancing On My Own.mp3" albumTitle="Body Talk" albumArtist="Robyn" trackTitle="Dancing On My Own" trackArtist="Robyn" duration="246151" tid="{F5999A10-D0EC-4BFE-B1F6-5BB5D36E3DBF}"/>
-            <media src="..\Robyn\Body Talk\08 Call Your Girlfriend.mp3" albumTitle="Body Talk" albumArtist="Robyn" trackTitle="Call Your Girlfriend" trackArtist="Robyn" duration="210050" tid="{B61F793C-B50A-472B-BCEE-C38506714FF2}"/>
+            <media src="..\Shook\Quicker (Shook Remix)\01 Quicker (Shook Remix).mp3" tid="{B206CA83-0AF2-41DF-9608-81779FBFC712}"/>
+            <media src="..\Robyn\Body Talk\01 Dancing on My Own [Radio Version][Version].mp3" cid="{95ACA88B-32B3-479C-BC7A-5C224D9E8F36}" tid="{1312ECF6-1054-4E62-9A20-844811D35768}"/>
+            <media src="..\Robyn\Body Talk\08 Call Your Girlfriend.mp3" albumTitle="Body Talk" albumArtist="Robyn" trackTitle="Call Your Girlfriend" trackArtist="Robyn" duration="210050" tid="{4B01E3D1-E55C-4B41-B8C8-9B4193693D6E}" cid="{523C684C-DC18-4E74-A621-A4C561B5EBDB}"/>
             <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\03 Ｔａｋｅ　Ｍｙ　Ｃｈａｎｃｅ.mp3" cid="{23E31FB5-7063-4712-85FE-6EA68A2D29EA}" tid="{2873B93C-DB94-4AE8-B2D6-865D6728DF80}"/>
             <media src="..\World Order\World Order\01 World Order.mp3" tid="{A5C5DD68-392F-458C-A7A8-4E50F00EDD2C}"/>
             <media src="..\World Order\2012\03 Machine Civilization.mp3" tid="{782E59AD-620A-4EC4-9DF4-378BEF711355}"/>
