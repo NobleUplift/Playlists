@@ -3,11 +3,6 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18840"/>
         <meta name="ItemCount" content="97"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
         <author/>
         <title>Singles</title>
     </head>
@@ -31,6 +26,10 @@
             <media src="..\Green Day\American Idiot\03 Holiday.mp3" tid="{5F799BC5-A53B-4A35-9F80-CAD1BF94577A}" cid="{4E84969A-054E-4068-8A25-863636D8EB27}"/>
             <media src="..\Schandmaul\Narrenkonig\01 Walpurgisnacht.mp3" cid="{B361D958-0FA6-4F35-9D6A-7FECDB200D47}" tid="{CB516C47-D477-4CC3-9670-97613EE329A6}"/>
             <media src="..\The Flairs\Truckers Delight - EP\01 Truckers Delight.mp3" tid="{5AED4116-6EF6-4A34-8583-8A888823CEEA}"/>
+            <media src="..\Queen\Jazz\04 Bicycle Race.mp3" cid="{82FCD83E-2AB3-4F9B-B190-FE69EF2541B5}" tid="{14DECADA-F0AD-4AC0-BE63-9AD65E003DE3}"/>
+            <media src="..\Queen\A Night at the Opera\11 Bohemian Rhapsody.mp3"/>
+            <media src="..\Queen\The Game\03 Another One Bites the Dust.mp3"/>
+            <media src="..\Queen\Jazz\04 Don&apos;t Stop Me Now.mp3"/>
             <media src="..\LMFAO\Sorry for Party Rocking [Deluxe Edition]\03 Party Rock Anthem.mp3" cid="{C15C3980-C584-4903-9267-B6AC85372A87}" tid="{9EC0A62D-FE7E-44B4-AE17-EDAC8E1C20AA}"/>
             <media src="..\LMFAO\Sorry for Party Rocking [Deluxe Edition]\04 Sexy and I Know It.mp3" cid="{3617A505-0152-486C-B052-8C7DF2807490}" tid="{06076679-45B7-4529-A040-45307012F492}"/>
             <media src="..\LMFAO\Party Rock\13 Yes.mp3" cid="{12ABD683-57B2-405B-B697-4AC0583FE1B5}" tid="{A55DEB36-2EF0-4901-B861-0AB4C5F01A30}"/>
