@@ -3,6 +3,11 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18840"/>
         <meta name="ItemCount" content="97"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>Singles</title>
     </head>
@@ -44,7 +49,7 @@
             <media src="..\I Blame Coco\The Constant\01 Selfmachine.mp3" serviceId="{F8776401-0500-11DB-89CA-0019B92A3933}" albumTitle="The Constant" albumArtist="I Blame Coco" trackTitle="Selfmachine" trackArtist="I Blame Coco" duration="212062" tid="{DADA984F-D875-4D07-B885-BA70D812A831}" cid="{9334C8D3-899E-498F-870F-9EE59788EEF8}"/>
             <media src="..\Shook\Quicker (Shook Remix)\01 Quicker (Shook Remix).mp3" tid="{B206CA83-0AF2-41DF-9608-81779FBFC712}"/>
             <media src="..\Robyn\Body Talk\01 Dancing on My Own [Radio Version][Version].mp3" cid="{95ACA88B-32B3-479C-BC7A-5C224D9E8F36}" tid="{1312ECF6-1054-4E62-9A20-844811D35768}"/>
-            <media src="..\Robyn\Body Talk\02 Fembot.mp3"/>
+            <media src="..\Robyn\Body Talk\02 Fembot.mp3" cid="{FD783F89-41F4-47C4-B8CF-5D1557010EA6}" tid="{291FB1B2-B59B-45D8-A9CE-DB6889CBAFE2}"/>
             <media src="..\Robyn\Body Talk\08 Call Your Girlfriend.mp3" albumTitle="Body Talk" albumArtist="Robyn" trackTitle="Call Your Girlfriend" trackArtist="Robyn" duration="210050" tid="{4B01E3D1-E55C-4B41-B8C8-9B4193693D6E}" cid="{523C684C-DC18-4E74-A621-A4C561B5EBDB}"/>
             <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\03 Ｔａｋｅ　Ｍｙ　Ｃｈａｎｃｅ.mp3" cid="{23E31FB5-7063-4712-85FE-6EA68A2D29EA}" tid="{2873B93C-DB94-4AE8-B2D6-865D6728DF80}"/>
             <media src="..\World Order\World Order\01 World Order.mp3" tid="{A5C5DD68-392F-458C-A7A8-4E50F00EDD2C}"/>
