@@ -1,0 +1,30 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18840"/>
+        <meta name="ItemCount" content="18"/>
+        <title>Giorgio Tozzi</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\Giorgio Tozzi\A Giorgio Tozzi Christmas\01 Giorgio Tozzi &amp; Rosalind Elias - Deck the Halls.mp3"/>
+            <media src="..\Giorgio Tozzi\A Giorgio Tozzi Christmas\03 Giorgio Tozzi and Rosalind Elias - Silent Night (no video).mp3"/>
+            <media src="..\Giorgio Tozzi\A Giorgio Tozzi Christmas\06 Giorgio Tozzi &amp; Rosalind Elias - Pat-a-pan.mp3"/>
+            <media src="..\Giorgio Tozzi\A Giorgio Tozzi Christmas\09 Giorgio Tozzi - God Rest Ye Merry Gentlemen.mp3"/>
+            <media src="..\Giorgio Tozzi\A Giorgio Tozzi Christmas\13 Giorgio Tozzi - Gesu Bambino.mp3"/>
+            <media src="..\Giorgio Tozzi\A Giorgio Tozzi Christmas\14 Giorgio Tozzi &amp; Rosalind Elias - Down in Yon Forest.mp3"/>
+            <media src="..\Giorgio Tozzi\A Giorgio Tozzi Christmas\15 Giorgio Tozzi &amp; Rosalind Elias - The Holly &amp; the Ivy - N.V..mp3"/>
+            <media src="..\Giorgio Tozzi\Giorgio Tozzi Anthology\_Tu sul labbro_ - Nabucco.mp3"/>
+            <media src="..\Giorgio Tozzi\Giorgio Tozzi Anthology\_O tu Palermo - I Vespri Siciliani.mp3"/>
+            <media src="..\Giorgio Tozzi\Giorgio Tozzi Anthology\Rose Marie.mp3"/>
+            <media src="..\Giorgio Tozzi\Giorgio Tozzi Anthology\Vanessa.mp3"/>
+            <media src="..\Giorgio Tozzi\Giorgio Tozzi Anthology\The Great Waltz.mp3"/>
+            <media src="..\Giorgio Tozzi\Giorgio Tozzi Anthology\The Birthday Song.mp3"/>
+            <media src="..\Giorgio Tozzi\Giorgio Tozzi Anthology\Of Men and Violins.mp3"/>
+            <media src="..\Giorgio Tozzi\Giorgio Tozzi Anthology\The Enchanted Wood with Jean Fenn.mp3"/>
+            <media src="..\Giorgio Tozzi\Giorgio Tozzi Anthology\I should never have been a doctor.mp3"/>
+            <media src="..\Giorgio Tozzi\Giorgio Tozzi Anthology\Macbeth.mp3"/>
+            <media src="..\Giorgio Tozzi\Giorgio Tozzi Anthology\Brahms and Tosti.mp3"/>
+        </seq>
+    </body>
+</smil>
