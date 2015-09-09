@@ -1,0 +1,56 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18840"/>
+        <meta name="ItemCount" content="44"/>
+        <title>Robyn</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\Robyn\Robyn Is Here\01 Bumpy Ride.mp3" cid="{45A86835-3961-439C-8C82-54FB0F4A2BB2}" tid="{BD257216-94C2-474E-AD00-1D4DB04A013B}"/>
+            <media src="..\Robyn\Robyn Is Here\02 In My Heart.mp3"/>
+            <media src="..\Robyn\Robyn Is Here\03 You&apos;ve Got That Something.mp3"/>
+            <media src="..\Robyn\Robyn Is Here\04 Do You Know (What It Takes).mp3"/>
+            <media src="..\Robyn\Robyn Is Here\05 The Last Time.mp3"/>
+            <media src="..\Robyn\Robyn Is Here\06 Show Me Love.mp3"/>
+            <media src="..\Robyn\Robyn Is Here\07 Just Another Girlfriend.mp3"/>
+            <media src="..\Robyn\Robyn Is Here\08 Don&apos;t Want You Back.mp3"/>
+            <media src="..\Robyn\Robyn Is Here\09 Do You Really Want Me (Show Respect).mp3"/>
+            <media src="..\Robyn\Robyn Is Here\10 How.mp3"/>
+            <media src="..\Robyn\Robyn Is Here\11 Here We Go.mp3"/>
+            <media src="..\Robyn\Robyn Is Here\12 Robyn Is Here.mp3"/>
+            <media src="..\Robyn\Robyn Is Here\13 I Wish [Acappella][Live].mp3"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\01 Curriculum Vitae.mp3"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\02 Konichiwa Bitches.mp3"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\03 Cobrastyle.mp3"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\04 Handle Me.mp3"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\05 Bum Like You.mp3"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\06 Be Mine!.mp3"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\07 With Every Heartbeat.mp3"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\08 Who&apos;s That Girl.mp3"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\09 Bionic Woman.mp3"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\10 Crash and Burn Girl.mp3"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\11 Robotboy.mp3"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\12 Eclipse.mp3"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\13 Should Have Known.mp3"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\14 Any Time You Like.mp3"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\15 Dream On.mp3"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\16 Handle Me [-][Redone Remix].mp3"/>
+            <media src="..\Robyn\Body Talk\01 Dancing on My Own [Radio Version][Version].mp3"/>
+            <media src="..\Robyn\Body Talk\02 Fembot.mp3"/>
+            <media src="..\Robyn\Body Talk\03 Don&apos;t F---ing Tell Me What to Do.mp3" cid="{23E939CD-8108-46F8-A9C1-F509701D033A}" tid="{CF55CEED-71BA-4107-92D7-AB75957767EF}"/>
+            <media src="..\Robyn\Body Talk\04 Indestructible.mp3"/>
+            <media src="..\Robyn\Body Talk\05 Time Machine.mp3"/>
+            <media src="..\Robyn\Body Talk\06 Love Kills.mp3"/>
+            <media src="..\Robyn\Body Talk\07 Hang with Me.mp3"/>
+            <media src="..\Robyn\Body Talk\08 Call Your Girlfriend.mp3"/>
+            <media src="..\Robyn\Body Talk\09 None of Dem.mp3"/>
+            <media src="..\Robyn\Body Talk\10 We Dance to the Beat.mp3"/>
+            <media src="..\Robyn\Body Talk\11 U Should Know Better.mp3"/>
+            <media src="..\Robyn\Body Talk\12 Dancehall Queen.mp3"/>
+            <media src="..\Robyn\Body Talk\13 Get Myself Together.mp3"/>
+            <media src="..\Robyn\Body Talk\14 In My Eyes.mp3"/>
+            <media src="..\Robyn\Body Talk\15 Stars 4-Ever.mp3"/>
+        </seq>
+    </body>
+</smil>
