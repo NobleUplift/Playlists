@@ -3,6 +3,11 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18840"/>
         <meta name="ItemCount" content="97"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>Singles</title>
     </head>
@@ -12,11 +17,11 @@
             <media src="..\AWOLNATION\Megalithic Symphony\10 Sail.mp3" cid="{DDF5AF83-A8CC-4088-A0EB-2BC647B5CC0F}" tid="{06207C4E-86B8-435E-A259-9ECFCC32C0E9}"/>
             <media src="..\Goodnight Radio\Sophia So Far\01 Sophia So Far.mp3" cid="{AF8D10BC-6A68-4F17-90C3-D956C8F51F88}" tid="{AB1BF21A-4E15-4FF8-A366-D805226C0630}"/>
             <media src="..\Various artists\日本アニメ(ーター)見本市 「ME!ME!ME!」 [Ambient Remix]\ME!ME!ME! Feat. Daoko [Ambient Remix].mp3" tid="{5C6950AB-B29D-438B-8088-E4B23632D0F3}"/>
-            <media src="..\Rammstein\YouTube Channel\88 Keine Lust (Intro).mp3" tid="{71966084-E62D-43A6-8626-8BA91F48E906}"/>
+            <media src="..\Rammstein\YouTube Channel\88 Keine Lust (Intro).mp3" tid="{71966084-E62D-43A6-8626-8BA91F48E906}" cid="{FC2C09CC-B698-4736-B433-D336AC5C273E}"/>
             <media src="..\Rammstein\Reise, Reise\04 Keine Lust.mp3" cid="{DBBD29D0-95D4-4571-9548-73A2A1B9E4A5}" tid="{FCEF2A4F-2D0D-4A4E-AA25-54530944C1A0}"/>
             <media src="..\Rammstein\Rosenrot\07 Zerstören.mp3" cid="{CE0DFA9B-8ABF-4EBE-A10A-7A2CAB9AE57B}" tid="{C01171F2-CE40-4C66-AA9D-D48CA37F964F}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\03 Waidmanns Heil.mp3" cid="{B3D33289-EF8C-4277-BD6C-0045FAF26934}" tid="{FCC20DDF-D702-4DBE-B133-23FB3AE8FED6}"/>
-            <media src="..\Rammstein\YouTube Channel\86 Haifisch (Intro).mp3" tid="{3F1C6E4C-CB7D-423C-B187-7A7EA9BEDDD2}"/>
+            <media src="..\Rammstein\YouTube Channel\86 Haifisch (Intro).mp3" tid="{3F1C6E4C-CB7D-423C-B187-7A7EA9BEDDD2}" cid="{D3FE3224-4FF3-487D-92A5-EC71C6EC5DCE}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\04 Haifisch.mp3" cid="{DBA5CF09-3DCF-4E9B-87E9-7C6854BB34B4}" tid="{AA514EE0-4BEC-468E-8556-B9571BF4254E}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\02 Ich Tu Dir Weh.mp3" cid="{EE001F7C-7DEE-456B-A7A9-246369307D14}" tid="{6F8E2FB5-939E-499A-B3D2-C109BBA54ED6}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\08 Pussy.mp3" cid="{E72952BB-015A-4276-9E98-5EB8C5BB0352}" tid="{799370B5-1936-406D-B684-C396DD248B81}"/>
@@ -24,6 +29,8 @@
             <media src="..\Rammstein\Liebe Ist für Alle Da\10 Mehr.mp3" cid="{27E5588D-F4E6-44E8-8F17-FE30AC500A4D}" tid="{733DCA80-C397-4ACB-BBBD-700DB5235E05}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\11 Roter Sand.mp3" cid="{F9A15ECD-6068-4F4D-B6C1-66EBAD96AA3B}" tid="{B9B42240-35CC-45F1-9C2D-0D8C6516B9C0}"/>
             <media src="..\Rammstein\Sehnsucht\02 Engel.mp3" cid="{4CB368EE-4B5E-45B8-ACFD-776E387E1046}" tid="{7EF150BE-A2C1-4443-8137-57EE9DD06A16}"/>
+            <media src="..\Mindless Self Indulgence\You&apos;ll Rebel to Anything\03 Straight to Video.mp3" cid="{38A2B4DF-09B3-4E32-AE90-C0B1FDFE1CFD}" tid="{DEBD6061-7854-48F6-999A-51221CFEF9C2}"/>
+            <media src="..\Mindless Self Indulgence\You&apos;ll Rebel to Anything\01 Shut Me Up [-].mp3" cid="{6AA02E66-7DD0-4DF1-9366-9EBD175D92E2}" tid="{00DCDCEB-8CCF-41FC-9440-9EB011814BAE}"/>
             <media src="..\Schandmaul\Narrenkonig\01 Walpurgisnacht.mp3" cid="{B361D958-0FA6-4F35-9D6A-7FECDB200D47}" tid="{62F45D57-A016-4D58-92E3-ADC79D041D5A}"/>
             <media src="..\The Flairs\Truckers Delight - EP\01 Truckers Delight.mp3" tid="{77A90FC9-B06F-4681-B3C4-985BE793E5B5}"/>
             <media src="..\Pentatonix\PTX, Vol. 2\06 I Need Your Love.mp3" cid="{6E66BD2E-88AD-48FD-B624-4E7F5237D408}" tid="{D41E3408-5C7F-46A1-95AD-B3C31357503C}"/>
@@ -61,7 +68,7 @@
             <media src="..\We Are Scientists\With Love and Squalor\08 The Great Escape.mp3" cid="{441132BB-6D89-4CB5-8649-5747C19A5A78}" tid="{74FBBADA-64C8-4BF7-9ED1-09EDC670FC51}"/>
             <media src="..\Hatsune Miku\Hatsune Miku\【手描き】ワールドイズマイン【PV】~ Hatsune Miku - World is Mine.mp3" albumTitle="VOCALOID2" albumArtist="Hatsune Miku" trackTitle="World is Mine" trackArtist="Hatsune Miku" duration="253528" tid="{6A227009-9CCF-4686-9FD8-FEC8AD0FCF4A}"/>
             <media src="..\Hatsune Miku\Hatsune Miku\Triple Baka.mp3" albumTitle="VOCALOID2" albumArtist="Hatsune Miku" trackTitle="Triple Baka" trackArtist="Hatsune Miku, Kasane Teto, and Akita Neru" duration="245397" tid="{E4E5700F-70DE-41DD-904B-B8EB85B8669A}"/>
-            <media src="..\Various artists\YouTube\Yui K-On! Gourmet Race.mp3" tid="{9C2CF6BC-DC40-4F9D-9FA4-2A5FAA31838C}"/>
+            <media src="..\Various artists\YouTube\Yui K-On! Gourmet Race.mp3" tid="{0153DDB5-5F9E-4EEB-9578-7F6ED9F171A9}"/>
             <media src="..\Various artists\YouTube\Ritsu Can Can.mp3" tid="{529CBF3D-5EEC-4FD1-A5A9-F6CF549A82EA}"/>
             <media src="..\Various artists\YouTube\Rainbow JakkaJan.mp3" albumTitle="YouTube" albumArtist="Various artists" trackTitle="Rainbow JakkaJan" trackArtist="K-On!" duration="110584" tid="{4748F658-B11D-48C0-938B-F314D1BFB4E4}"/>
             <media src="..\Various artists\YouTube\【Milky Holmes MAD】 TetーTetーTeh～　NandeDESUKAAA～♬　(￣∀￣)ﾉ☆.mp3" tid="{A0AAE18B-7015-4511-A2B4-FFA4FCD13A76}"/>
