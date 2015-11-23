@@ -3,16 +3,13 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18840"/>
         <meta name="ItemCount" content="97"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
         <author/>
         <title>Singles</title>
     </head>
     <body>
         <seq>
+            <media src="..\Cheeseburger\Commin&apos; Home - Single\01 Commin&apos; Home.mp3" tid="{920B2452-6D76-482A-BAF8-E9164243B2B8}"/>
+            <media src="..\The Thermals\The Body, the Blood, the Machine\04 A Pillar of Salt.mp3" cid="{1DB60E33-76A7-4F4A-AE91-1533396CFFC7}" tid="{B72C4BB9-9BB3-4E78-B4DB-0B664957FAD7}"/>
             <media src="..\Simon Viklund\PAYDAY 2 Official Soundtrack\40_Full_Force_Forward_Hype_Train.mp3" tid="{8C3DD904-7D6F-4C82-BA5E-4FAA562D0A03}"/>
             <media src="..\AWOLNATION\Megalithic Symphony\10 Sail.mp3" cid="{DDF5AF83-A8CC-4088-A0EB-2BC647B5CC0F}" tid="{06207C4E-86B8-435E-A259-9ECFCC32C0E9}"/>
             <media src="..\Goodnight Radio\Sophia So Far\01 Sophia So Far.mp3" cid="{AF8D10BC-6A68-4F17-90C3-D956C8F51F88}" tid="{AB1BF21A-4E15-4FF8-A366-D805226C0630}"/>
