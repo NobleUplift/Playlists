@@ -3,22 +3,31 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18840"/>
         <meta name="ItemCount" content="97"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>Singles</title>
     </head>
     <body>
         <seq>
-            <media src="..\Cheeseburger\Commin&apos; Home - Single\01 Commin&apos; Home.mp3" tid="{920B2452-6D76-482A-BAF8-E9164243B2B8}"/>
+            <media src="..\Cheeseburger\Commin&apos; Home - Single\01 Commin&apos; Home.mp3" tid="{1FFFE188-545A-4853-9E5C-7FE611AA77C6}"/>
             <media src="..\The Thermals\The Body, the Blood, the Machine\04 A Pillar of Salt.mp3" cid="{1DB60E33-76A7-4F4A-AE91-1533396CFFC7}" tid="{B72C4BB9-9BB3-4E78-B4DB-0B664957FAD7}"/>
+            <media src="..\The Thermals\The Body, the Blood, the Machine\05 Returning to the Fold.mp3" cid="{79797754-BD27-44BE-9DDD-4D3743CDDE0D}" tid="{56324E55-B07E-4E44-925D-18EFD9F1D5B9}"/>
             <media src="..\Simon Viklund\PAYDAY 2 Official Soundtrack\40_Full_Force_Forward_Hype_Train.mp3" tid="{8C3DD904-7D6F-4C82-BA5E-4FAA562D0A03}"/>
             <media src="..\AWOLNATION\Megalithic Symphony\10 Sail.mp3" cid="{DDF5AF83-A8CC-4088-A0EB-2BC647B5CC0F}" tid="{06207C4E-86B8-435E-A259-9ECFCC32C0E9}"/>
             <media src="..\Goodnight Radio\Sophia So Far\01 Sophia So Far.mp3" cid="{AF8D10BC-6A68-4F17-90C3-D956C8F51F88}" tid="{AB1BF21A-4E15-4FF8-A366-D805226C0630}"/>
             <media src="..\Various artists\日本アニメ(ーター)見本市 「ME!ME!ME!」 [Ambient Remix]\ME!ME!ME! Feat. Daoko [Ambient Remix].mp3" tid="{5C6950AB-B29D-438B-8088-E4B23632D0F3}"/>
             <media src="..\Rammstein\YouTube Channel\88 Keine Lust (Intro).mp3" tid="{71966084-E62D-43A6-8626-8BA91F48E906}" cid="{FC2C09CC-B698-4736-B433-D336AC5C273E}"/>
             <media src="..\Rammstein\Reise, Reise\04 Keine Lust.mp3" cid="{DBBD29D0-95D4-4571-9548-73A2A1B9E4A5}" tid="{FCEF2A4F-2D0D-4A4E-AA25-54530944C1A0}"/>
+            <media src="..\Rammstein\Reise, Reise\05 Los.mp3" cid="{0BBC2956-9570-4CE6-8AF6-BC3CA418A202}" tid="{33849D95-0863-482B-B3C9-57CE32556048}"/>
+            <media src="..\Rammstein\Rosenrot\02 Mann Gegen Mann.mp3"/>
+            <media src="..\Rammstein\Rosenrot\05 Wo Bist Du.mp3"/>
             <media src="..\Rammstein\Rosenrot\07 Zerstören.mp3" cid="{CE0DFA9B-8ABF-4EBE-A10A-7A2CAB9AE57B}" tid="{C01171F2-CE40-4C66-AA9D-D48CA37F964F}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\03 Waidmanns Heil.mp3" cid="{B3D33289-EF8C-4277-BD6C-0045FAF26934}" tid="{FCC20DDF-D702-4DBE-B133-23FB3AE8FED6}"/>
-            <media src="..\Rammstein\YouTube Channel\86 Haifisch (Intro).mp3" tid="{3F1C6E4C-CB7D-423C-B187-7A7EA9BEDDD2}" cid="{D3FE3224-4FF3-487D-92A5-EC71C6EC5DCE}"/>
+            <media src="..\Rammstein\YouTube Channel\86 Haifisch (Intro).mp3" tid="{B8808D08-59F4-452C-9101-E904904F5B43}" cid="{D3FE3224-4FF3-487D-92A5-EC71C6EC5DCE}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\04 Haifisch.mp3" cid="{DBA5CF09-3DCF-4E9B-87E9-7C6854BB34B4}" tid="{AA514EE0-4BEC-468E-8556-B9571BF4254E}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\02 Ich Tu Dir Weh.mp3" cid="{EE001F7C-7DEE-456B-A7A9-246369307D14}" tid="{6F8E2FB5-939E-499A-B3D2-C109BBA54ED6}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\08 Pussy.mp3" cid="{E72952BB-015A-4276-9E98-5EB8C5BB0352}" tid="{799370B5-1936-406D-B684-C396DD248B81}"/>
