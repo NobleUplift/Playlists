@@ -3,16 +3,15 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18840"/>
         <meta name="ItemCount" content="113"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
         <author/>
         <title>Singles</title>
     </head>
     <body>
         <seq>
+            <media src="..\Calvin Harris\I Need Your Love\01 I Need Your Love ft. Ellie Goulding.mp3" tid="{BDABF83C-A6AC-477E-B58F-2A7F0CC00656}"/>
+            <media src="..\Tokio Hotel\Humanoid En\02 Human Connect to Human.mp3" cid="{4E95B9FB-E1A6-43C9-A030-BD7178BC788C}" tid="{E74A6DDB-37A5-4BF5-9F1D-4DCAA966CB09}"/>
+            <media src="..\Sakurakou K-ON Bu\Don&apos;t Say Lazy\01 Don&apos;t Say Lazy.mp3" tid="{665FC90A-6237-40C2-AF91-9FB791E6B933}"/>
+            <media src="..\Friedrich Liechtenstein\Supergeil\01 Supergeil (feat. Friedrich Liechtenstein).mp3" tid="{99C51DF5-5DD5-457E-9C75-0FBB672234B3}"/>
             <media src="..\Cheeseburger\Commin&apos; Home - Single\01 Commin&apos; Home.mp3" tid="{1FFFE188-545A-4853-9E5C-7FE611AA77C6}"/>
             <media src="..\The Thermals\The Body, the Blood, the Machine\04 A Pillar of Salt.mp3" cid="{1DB60E33-76A7-4F4A-AE91-1533396CFFC7}" tid="{B72C4BB9-9BB3-4E78-B4DB-0B664957FAD7}"/>
             <media src="..\The Thermals\The Body, the Blood, the Machine\05 Returning to the Fold.mp3" cid="{79797754-BD27-44BE-9DDD-4D3743CDDE0D}" tid="{56324E55-B07E-4E44-925D-18EFD9F1D5B9}"/>
