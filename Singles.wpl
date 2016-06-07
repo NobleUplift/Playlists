@@ -3,11 +3,18 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.19148"/>
         <meta name="ItemCount" content="113"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>Singles</title>
     </head>
     <body>
         <seq>
+            <media src="..\Various artists\Dimension W Original Soundtrack\25 Theme of DW.mp3" tid="{5093CA0E-964A-4E08-8D17-C48E14D0D0B1}"/>
+            <media src="..\Various artists\Hyper Street Fighter II Anniversary Edition Original Soundtrack\CPS2 - Guile&apos;s Theme - Stage.mp3" tid="{906A21D7-9752-463B-A1CC-1F8F6B87E5F6}"/>
             <media src="..\Andrew W.K\I Get Wet\07 She Is Beautiful.mp3" cid="{8FD5EC42-B951-4BCC-818F-C5925E7547AC}" tid="{038F9F67-774B-42F3-B09F-806D20953EF1}"/>
             <media src="..\Calvin Harris\I Need Your Love\01 I Need Your Love ft. Ellie Goulding.mp3" tid="{BDABF83C-A6AC-477E-B58F-2A7F0CC00656}"/>
             <media src="..\Tokio Hotel\Humanoid En\02 Human Connect to Human.mp3" cid="{4E95B9FB-E1A6-43C9-A030-BD7178BC788C}" tid="{E74A6DDB-37A5-4BF5-9F1D-4DCAA966CB09}"/>
