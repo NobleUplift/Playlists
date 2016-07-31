@@ -13,6 +13,9 @@
     </head>
     <body>
         <seq>
+            <media src="..\Disturbed\Immortalized\11 The Sound Of Silence.mp3" cid="{7B144746-416C-4B76-AA7E-BAA6D9A3370E}" tid="{E657AD09-FC6C-49C0-BA41-142FAC1001D0}"/>
+            <media src="..\Limp Bizkit\Results May Vary\11 Behind Blue Eyes.mp3" cid="{099CF003-724D-4856-90FB-A157163AE1A7}" tid="{E2423F15-B5B6-4487-882C-4BAF26F2E4E8}"/>
+            <media src="..\The Cranberries\No Need To Argue\05 Zombie.mp3"/>
             <media src="..\Various artists\Dimension W Original Soundtrack\25 Theme of DW.mp3" tid="{5093CA0E-964A-4E08-8D17-C48E14D0D0B1}"/>
             <media src="..\Various artists\Hyper Street Fighter II Anniversary Edition Original Soundtrack\CPS2 - Guile&apos;s Theme - Stage.mp3" tid="{906A21D7-9752-463B-A1CC-1F8F6B87E5F6}"/>
             <media src="..\Andrew W.K\I Get Wet\07 She Is Beautiful.mp3" cid="{8FD5EC42-B951-4BCC-818F-C5925E7547AC}" tid="{038F9F67-774B-42F3-B09F-806D20953EF1}"/>
@@ -72,6 +75,8 @@
             <media src="..\Various artists\Fullmetal Alchemist Final Best\07 Period.mp3" tid="{CC5C688F-6632-45F4-ACDB-F6EB04B5DF42}" cid="{FFB993A3-0F11-4FF6-B6D4-3DDE3D8EB0EF}"/>
             <media src="..\Various artists\Toki o Kizamu Uta - TORCH\01 Toki wo Kizamu Uta.mp3" tid="{FDB63907-96A6-4C8D-AD69-5A7E586CBD7E}"/>
             <media src="..\Luna Haruna\OVERFLY\01 Overfly.mp3" tid="{5EEF87AF-A5B2-4DDE-851C-F66C5E95FCF4}"/>
+            <media src="..\Gotye\Making Mirrors\03 Somebody That I Used To Know (feat. Kimbra).mp3" cid="{1D9181D1-FD0D-4506-B375-F90D23394F4C}" tid="{979B7A00-4317-4ABA-B539-F84A914A5670}"/>
+            <media src="..\Jeremy Soule\Skyrim Soundtrack\01 Dragonborn.mp3" tid="{15090887-28CB-40BC-A434-8BE3A04FB145}"/>
             <media src="..\Various artists\Kill la Kill Original Soundtrack\Blumenkranz.mp3" tid="{1AFDE7A2-0ACD-4DAA-AD5F-3DFB5412E837}"/>
             <media src="..\Various artists\Kill la Kill Original Soundtrack\Kiる厭KiLL.mp3" tid="{03765E09-A605-46EC-B100-BB04FFDD137C}"/>
             <media src="..\Various artists\Kill la Kill Original Soundtrack\Before my body is dry.mp3" tid="{D46899FF-2171-4B7A-97AA-B002BEDB65B2}"/>
