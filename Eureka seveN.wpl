@@ -1,58 +1,53 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.17514"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.351"/>
         <meta name="ItemCount" content="184"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
         <author/>
         <title>Eureka seveN</title>
     </head>
     <body>
         <seq>
-            <media src="..\Various artists\Eureka Seven Disc 1\01 Days [Eureka Opening Mix].wma" cid="{C7ADA9D2-F5C8-49BC-B0A9-D9E9EE83C9AF}" tid="{F57E9AC2-D3E4-464E-9481-16F4112D4038}"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\02 Storywriter.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\03 Long Journey.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\04 Nostalgia.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\05 Distant Memory.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\06 Cruel World.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\07 Truth.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\08 Eureka.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\09 A Blood Bond.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\10 Tiger Track.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\11 Acid Track Prototype.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\12 On the Hill.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\13 Terror of the Smile.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\14 Okamochi &amp; Jersey.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\15 Sexy Lady Bluesy.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\16 Forbidden Fruit.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\17 Hobo Strums Guitar.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\18 A Sign.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\19 Leap from the Indication.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\20 Combat Zone.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\21 Gekko-Go.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\22 Renton Thurston.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\23 Nirvash Type Zero.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\24 A Place to Be.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\25 In the Midst of the Universe.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\26 Sky of Hope.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 1\27 Secret Base [Eureka Ending Mix].wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 2\01 Shonen Heart [Eureka Opening Mix].wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 2\02 Alone in the Wilderness.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 2\03 Wind Blowing Across Utopia.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 2\04 Sorrow.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 2\05 Ostentatious Star.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 2\06 Scab Coral.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 2\07 Misunderstanding Unresolved.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 2\08 Rhythm of Insecurity.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 2\09 Undefying Fate.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 2\10 Warmth Within Hopelessness, However.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 2\11 At the Border.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 2\12 Uncontrolled Self.wma"/>
-            <media src="..\Various artists\Eureka Seven Disc 2\13 Type the End.wma"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\01 Days [Eureka Opening Mix].wma" cid="{C7ADA9D2-F5C8-49BC-B0A9-D9E9EE83C9AF}" tid="{372A981C-E382-493E-A279-2A3F17A70CFC}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\02 Storywriter.wma" cid="{B752EE04-EF69-453C-8A35-23B529096719}" tid="{4AE89641-1D46-4112-8EE7-F94C2F1FF054}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\03 Long Journey.wma" cid="{03B4B091-1870-4C8C-A317-81EDD91FD0C6}" tid="{B6B00E4D-672D-48D8-975A-5DC8B00CA410}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\04 Nostalgia.wma" cid="{0E9F26B5-F0B5-4C61-A868-909E3819FECF}" tid="{21DF7AE2-956D-4C36-9240-D0D4DE71703C}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\05 Distant Memory.wma" cid="{83683C98-CC16-48C2-B4C8-6A8391D88865}" tid="{A8F2CA0D-F0E3-45F6-BCC4-54BC5EDF4132}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\06 Cruel World.wma" cid="{689940F6-6B02-4A42-AD38-130F5A49BF42}" tid="{C604CAAD-BF2C-478B-81DC-BD4942ECDBE7}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\07 Truth.wma" cid="{40C182EE-16D8-4899-9BB5-9AC6F6F4CA38}" tid="{C52C4612-EEA4-4AC5-98C4-0A453439C73F}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\08 Eureka.wma" cid="{1F86565F-ADB4-4745-8A5A-6FB91DD29BDE}" tid="{23DA5603-0FEB-4F6D-82CD-E2AB5FCB9D8F}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\09 A Blood Bond.wma" cid="{A1510881-945C-4070-8D3E-5DD982D58BE3}" tid="{F4CB0179-D741-4E14-B248-8D06F0D5B97B}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\10 Tiger Track.wma" cid="{E868703C-18F5-42E8-8738-E0892C58371D}" tid="{029F99D2-9C14-427E-A263-7CD3CE3A4857}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\11 Acid Track Prototype.wma" cid="{4CCFC7FF-2292-4BD0-9B6B-42FEEDD300E0}" tid="{4F8175C3-FF3A-4979-8A74-A2AD6C345118}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\12 On the Hill.wma" cid="{D631E363-DF54-4914-9E9F-6F41253FC595}" tid="{DECA111C-A293-4346-82F7-AE3F252DE060}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\13 Terror of the Smile.wma" cid="{960916C6-0F88-4D7E-B1CD-47855D5313FE}" tid="{01C9D774-AC43-49BE-9366-1397178826F1}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\14 Okamochi &amp; Jersey.wma" cid="{AE3FD06F-8BDB-4846-841A-281ED3CAC367}" tid="{0408DE3A-A8BB-4C66-A029-38B616EB6AA7}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\15 Sexy Lady Bluesy.wma" cid="{BF64D197-ACAE-48BB-BDB6-D5F2FC89E6F0}" tid="{649EC3B2-885D-4D58-953F-F4E7FEBADA5D}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\16 Forbidden Fruit.wma" cid="{2B7AF0C6-0BE4-48F8-9BFD-4844F6202E3F}" tid="{91154124-21D4-471E-A2FF-C161B161DADE}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\17 Hobo Strums Guitar.wma" cid="{62770201-ECE5-41FE-8472-1BD7773C38AD}" tid="{22629FE3-FA0B-4579-B350-F1ADE19B5F36}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\18 A Sign.wma" cid="{C331F3B4-E5ED-4E42-8B08-D0892C26E7AD}" tid="{E055C840-3FBB-4855-89AE-A5CCB23DDEE1}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\19 Leap from the Indication.wma" cid="{C3D8450E-0851-459C-BB83-8EB1B0165D06}" tid="{DBA04896-6273-452C-A65E-D36ACC484216}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\20 Combat Zone.wma" cid="{1180E344-987A-453F-89B8-38A7EEA323AB}" tid="{F2F14427-A9B9-4C0E-8283-F33FF8059D43}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\21 Gekko-Go.wma" cid="{895E1411-ED52-4F39-ADC8-989C9DC83E60}" tid="{0589E372-078D-4AE8-A2E4-F6F0FF5899DF}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\22 Renton Thurston.wma" cid="{44A4AB8C-C66A-4A7B-9C12-CAFA29AE162E}" tid="{DEA11925-15FC-4AC0-841E-6F788629A6D9}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\23 Nirvash Type Zero.wma" cid="{4809F28F-B010-418C-8A35-54AC34F1CB61}" tid="{C1C748A5-BEAB-4E13-BCC0-95B1489DC369}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\24 A Place to Be.wma" cid="{ACAB3D23-1D58-42C2-8AD6-25B8EF27D499}" tid="{53F8945C-5458-49B5-97B6-1F55E282E12E}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\25 In the Midst of the Universe.wma" cid="{45C86405-5988-43F7-B968-CCA8F861D239}" tid="{CE2217DD-9624-4E46-A1C4-C5B987F2F67C}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\26 Sky of Hope.wma" cid="{8E8CD5BB-FB1D-4F99-87DF-66A2B581DAD5}" tid="{192B6656-C253-4351-A7E4-548A84D03B29}"/>
+            <media src="..\Various artists\Eureka Seven Disc 1\27 Secret Base [Eureka Ending Mix].wma" cid="{22353366-6BC0-4065-BF24-AF53F77F1BEE}" tid="{355DA03C-16CE-4FAA-994C-A52B98450958}"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\01 Shonen Heart [Eureka Opening Mix].wma" cid="{7E5957F7-F4A1-403A-A704-1E1D8E5B9A58}" tid="{D7B7E9DF-0BBF-4B9B-B3E6-9D2B343FA9E3}"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\02 Alone in the Wilderness.wma" cid="{E8881064-25F4-48B2-9BCB-23F51046D8FD}" tid="{35C87543-8DC9-4A05-AFEC-712C9E84137C}"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\03 Wind Blowing Across Utopia.wma" cid="{9D3B771B-3A75-4308-BA35-EF43C618A193}" tid="{4D7BD1AF-E731-4FE9-8AC3-6554965AF862}"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\04 Sorrow.wma" cid="{AE67153F-7574-457E-90FE-578DFC57748D}" tid="{06872158-0B33-46DA-B84A-81517DF34078}"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\05 Ostentatious Star.wma" cid="{ED67CC54-E5B3-4CEC-973B-F5594E52BA15}" tid="{AF990119-EAC8-4590-A26A-D0EA19C74B5D}"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\06 Scab Coral.wma" cid="{26DE59AF-8990-4169-A06D-33E4EBED9922}" tid="{339B1165-944B-4537-AFA3-BA9D32753B88}"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\07 Misunderstanding Unresolved.wma" cid="{0086D11D-1925-44BB-9991-24B638640246}" tid="{F2F8E41A-9CC2-4ECE-AC4C-D6CDF2C336A9}"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\08 Rhythm of Insecurity.wma" cid="{19C124F3-9576-443F-8F3A-6B5CDE792F5F}" tid="{7CBA640F-B498-42EE-9F02-B602602D5D52}"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\09 Undefying Fate.wma" cid="{87423B82-A24D-4214-AC9E-591E6DFDB834}" tid="{77FA0CD1-80D7-422D-B3F7-A81D568E47D0}"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\10 Warmth Within Hopelessness, However.wma" cid="{B9C9C760-24FE-4C38-AC81-12CC9D46C281}" tid="{831752E7-640F-49B4-BA14-3D9DBC0B844D}"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\11 At the Border.wma" cid="{A9819AB3-0F21-47DC-9A61-D6A99B6E3F16}" tid="{917B4CDD-B621-4C73-B9C1-90F908767CE4}"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\12 Uncontrolled Self.wma" cid="{4ED37C01-377C-412B-9E98-0D167FCD13DF}" tid="{5B6038CC-12BA-4891-85BC-F55763BA24A1}"/>
+            <media src="..\Various artists\Eureka Seven Disc 2\13 Type the End.wma" cid="{73A61814-671A-4310-9433-A57221E5E5E0}" tid="{5C2C6366-193A-437D-A0F2-574D55075185}"/>
             <media src="..\Various artists\Eureka Seven Disc 2\14 Get It by Your Hands.wma"/>
             <media src="..\Various artists\Eureka Seven Disc 2\15 Trance Ruined.wma"/>
             <media src="..\Various artists\Eureka Seven Disc 2\16 Connected Throughout This Planet, Under This Sky.wma"/>

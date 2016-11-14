@@ -1,58 +1,58 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <guid>{A7B5D482-42EB-4595-840A-ACF527A0F32F}</guid>
-        <meta name="generator" content="Zune -- 4.8.2345.0"/>
-        <meta name="itemCount" content="73"/>
-        <meta name="totalDuration" content="6135"/>
-        <meta name="averageRating" content="0"/>
-        <meta name="creatorId" content="{7CC03665-003F-A8F9-9BA9-3E76BF71F97E}"/>
-        <meta name="autoRefresh" content="FALSE"/>
-        <meta name="autoRefreshInterval" content="5"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.351"/>
+        <meta name="ItemCount" content="73"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
         <title>Lost Kingdoms</title>
     </head>
     <body>
         <seq>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\TitleR.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="TitleR" trackArtist="Unknown Artist" duration="67056"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\VSMenuR.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="VSMenuR" trackArtist="Unknown Artist" duration="96048"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\WorldMapR.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="WorldMapR" trackArtist="Unknown Artist" duration="65040"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\BattleR.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="BattleR" trackArtist="Unknown Artist" duration="121056"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m020R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m000R" trackArtist="Unknown Artist" duration="130056"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m011R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m011R" trackArtist="Unknown Artist" duration="76056"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m091R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m022R" trackArtist="Unknown Artist" duration="54048"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m030R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m030R" trackArtist="Unknown Artist" duration="96048"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m270R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m040R" trackArtist="Unknown Artist" duration="158040"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m060R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m060R" trackArtist="Unknown Artist" duration="199056"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m162R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m062R" trackArtist="Unknown Artist" duration="42048"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m063R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m063R" trackArtist="Unknown Artist" duration="70056"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m066R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m064R" trackArtist="Unknown Artist" duration="63048"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m070R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m070R" trackArtist="Unknown Artist" duration="115056"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m072R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m072R" trackArtist="Unknown Artist" duration="120048"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m080R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m080R" trackArtist="Unknown Artist" duration="181056"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m940R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m100R" trackArtist="Unknown Artist" duration="135048"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m152R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m101R" trackArtist="Unknown Artist" duration="48048"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m112R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m112R" trackArtist="Unknown Artist" duration="70056"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m140R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m124R" trackArtist="Unknown Artist" duration="107040"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m131R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m131R" trackArtist="Unknown Artist" duration="57048"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m151R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m132R" trackArtist="Unknown Artist" duration="63048"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m170R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m170R" trackArtist="Unknown Artist" duration="144048"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m171R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m171R" trackArtist="Unknown Artist" duration="28056"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m180R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m180R" trackArtist="Unknown Artist" duration="149040"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m183R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m182R" trackArtist="Unknown Artist" duration="80040"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m250R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m250R" trackArtist="Unknown Artist" duration="92040"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m253R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m253R" trackArtist="Unknown Artist" duration="42048"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m920R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m400R" trackArtist="Unknown Artist" duration="100056"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m220R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m410R" trackArtist="Unknown Artist" duration="109056"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m910R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m910R" trackArtist="Unknown Artist" duration="120048"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\optxtR.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="optxtR" trackArtist="Unknown Artist" duration="98040"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\LasbosR.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="LasbosR" trackArtist="Unknown Artist" duration="145056"/>
-            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\stage_clear_r.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="stage_clear_r" trackArtist="Unknown Artist" duration="2040"/>
-            <media src="..\Various artists\Lost Kingdoms I (NGC) (Activision)\b000.mp3" albumTitle="Lost Kingdoms I" albumArtist="Kota Hoshino" trackTitle="b000" trackArtist="Unknown Artist" duration="38280"/>
-            <media src="..\Various artists\Lost Kingdoms I (NGC) (Activision)\b001.mp3" albumTitle="Lost Kingdoms I" albumArtist="Kota Hoshino" trackTitle="b001" trackArtist="Unknown Artist" duration="102792"/>
-            <media src="..\Various artists\Lost Kingdoms I (NGC) (Activision)\b003.mp3" albumTitle="Lost Kingdoms I" albumArtist="Kota Hoshino" trackTitle="b003" trackArtist="Unknown Artist" duration="49032"/>
-            <media src="..\Various artists\Lost Kingdoms I (NGC) (Activision)\b010.mp3" albumTitle="Lost Kingdoms I" albumArtist="Kota Hoshino" trackTitle="b010" trackArtist="Unknown Artist" duration="117720"/>
-            <media src="..\Various artists\Lost Kingdoms I (NGC) (Activision)\b011.mp3" albumTitle="Lost Kingdoms I" albumArtist="Kota Hoshino" trackTitle="b011" trackArtist="Unknown Artist" duration="68136"/>
-            <media src="..\Various artists\Lost Kingdoms I (NGC) (Activision)\b020.mp3" albumTitle="Lost Kingdoms I" albumArtist="Kota Hoshino" trackTitle="b020" trackArtist="Unknown Artist" duration="123696"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\TitleR.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="TitleR" trackArtist="Unknown Artist" duration="67056" tid="{82E0037C-7191-4FCD-B53B-3463F2CAB86D}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\VSMenuR.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="VSMenuR" trackArtist="Unknown Artist" duration="96048" tid="{F6B745B2-5C8F-4EE2-88F0-B414F48082F3}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\WorldMapR.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="WorldMapR" trackArtist="Unknown Artist" duration="65040" tid="{B6F116CA-5265-459A-805D-4F21BD70B5FE}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\BattleR.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="BattleR" trackArtist="Unknown Artist" duration="121056" tid="{76EEB7A0-2A3E-4149-B8D9-F140D85E325B}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m020R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m000R" trackArtist="Unknown Artist" duration="130056" tid="{D7613219-CFB2-4CB7-A415-3EB16A44366D}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m011R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m011R" trackArtist="Unknown Artist" duration="76056" tid="{30C4B46F-AA4A-4BFB-A6D9-0BF0670672E3}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m091R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m022R" trackArtist="Unknown Artist" duration="54048" tid="{7847C690-E6E8-4DF7-BB63-8A568BDE4D57}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m030R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m030R" trackArtist="Unknown Artist" duration="96048" tid="{6D41CCF5-175A-487A-9B0D-09AD5CFD0A15}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m270R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m040R" trackArtist="Unknown Artist" duration="158040" tid="{706A7C1D-578E-4CB5-B07C-FBD2FC2CB9F1}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m060R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m060R" trackArtist="Unknown Artist" duration="199056" tid="{92C60969-E2FB-4E78-85B9-D92A1AA4F01B}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m162R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m062R" trackArtist="Unknown Artist" duration="42048" tid="{D19ECC0A-6A1A-452B-B444-DC9A230C6BCE}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m063R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m063R" trackArtist="Unknown Artist" duration="70056" tid="{400D2389-A570-45DE-8B67-3FBDBA729421}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m066R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m064R" trackArtist="Unknown Artist" duration="63048" tid="{97BD0D54-0752-4855-B095-0B009C7B04DE}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m070R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m070R" trackArtist="Unknown Artist" duration="115056" tid="{85EA086B-DD5B-4914-BCB8-119DFFFAE5CC}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m072R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m072R" trackArtist="Unknown Artist" duration="120048" tid="{59B13723-9E7B-471C-BB08-202A8533D0D7}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m080R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m080R" trackArtist="Unknown Artist" duration="181056" tid="{A6C9F961-A272-4AAF-AE13-BB10894B04BA}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m940R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m100R" trackArtist="Unknown Artist" duration="135048" tid="{E08ED39D-A6C3-415B-8C1C-6BE3AB9ADE55}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m152R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m101R" trackArtist="Unknown Artist" duration="48048" tid="{0052DCF9-8AA8-4049-B2D5-E878CBCBB7AC}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m112R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m112R" trackArtist="Unknown Artist" duration="70056" tid="{433A8E59-5E7D-4A66-A952-7964698D78C4}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m140R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m124R" trackArtist="Unknown Artist" duration="107040" tid="{5C74C5C0-4452-4E28-96B2-80C88E65755A}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m131R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m131R" trackArtist="Unknown Artist" duration="57048" tid="{66D929EA-0EE0-48AA-9A5A-6D6DE89AD55A}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m151R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m132R" trackArtist="Unknown Artist" duration="63048" tid="{6666B8D2-A896-41EE-B383-A4C94B975916}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m170R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m170R" trackArtist="Unknown Artist" duration="144048" tid="{A66725F2-7133-408C-BA3F-251FE5BD787B}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m171R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m171R" trackArtist="Unknown Artist" duration="28056" tid="{FB4B74C5-0E38-4C5C-A225-9323EB7AF8B4}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m180R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m180R" trackArtist="Unknown Artist" duration="149040" tid="{CB7893BA-B508-4B2E-AF3D-CEFCD07758E3}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m183R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m182R" trackArtist="Unknown Artist" duration="80040" tid="{2B40D45E-FC2E-499E-A579-97DA98374553}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m250R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m250R" trackArtist="Unknown Artist" duration="92040" tid="{0FD62579-E56F-46DE-AE62-454D2C5BF5FD}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m253R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m253R" trackArtist="Unknown Artist" duration="42048" tid="{3888E41D-6DF2-481B-8908-7304F96E3B53}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m920R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m400R" trackArtist="Unknown Artist" duration="100056" tid="{FBC266E4-7052-48E3-8C66-EBDB730E0C68}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m220R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m410R" trackArtist="Unknown Artist" duration="109056" tid="{7D31EE6A-A484-4838-A4B7-D608F603AC8E}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\m910R.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="m910R" trackArtist="Unknown Artist" duration="120048" tid="{C133688D-8688-49EF-A25D-D858BAD1A6CF}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\optxtR.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="optxtR" trackArtist="Unknown Artist" duration="98040" tid="{221EC685-4017-4E62-A88C-E8735DFAB39F}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\LasbosR.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="LasbosR" trackArtist="Unknown Artist" duration="145056" tid="{5AC4F13B-37A8-43A6-81CB-14C0B7B67B39}"/>
+            <media src="..\Various artists\Lost Kingdoms II (2003)(Activision)[NGC][MP3]\stage_clear_r.mp3" albumTitle="Lost Kingdoms II" albumArtist="Kota Hoshino" trackTitle="stage_clear_r" trackArtist="Unknown Artist" duration="2040" tid="{F8A815A9-30B2-4C8A-A9FA-2DD6B359CD41}"/>
+            <media src="..\Various artists\Lost Kingdoms I (NGC) (Activision)\b000.mp3" albumTitle="Lost Kingdoms I" albumArtist="Kota Hoshino" trackTitle="b000" trackArtist="Unknown Artist" duration="38280" tid="{246FCC12-8A1F-4492-AFAD-C4BFB7B64B4B}"/>
+            <media src="..\Various artists\Lost Kingdoms I (NGC) (Activision)\b001.mp3" albumTitle="Lost Kingdoms I" albumArtist="Kota Hoshino" trackTitle="b001" trackArtist="Unknown Artist" duration="102792" tid="{FFDA766B-F594-44FC-A924-879B00DBFC3E}"/>
+            <media src="..\Various artists\Lost Kingdoms I (NGC) (Activision)\b003.mp3" albumTitle="Lost Kingdoms I" albumArtist="Kota Hoshino" trackTitle="b003" trackArtist="Unknown Artist" duration="49032" tid="{C067EA9E-15EC-4754-8714-C7EBA56F3818}"/>
+            <media src="..\Various artists\Lost Kingdoms I (NGC) (Activision)\b010.mp3" albumTitle="Lost Kingdoms I" albumArtist="Kota Hoshino" trackTitle="b010" trackArtist="Unknown Artist" duration="117720" tid="{E9877FF7-BFF8-4D03-8ED1-3F53C1814AEA}"/>
+            <media src="..\Various artists\Lost Kingdoms I (NGC) (Activision)\b011.mp3" albumTitle="Lost Kingdoms I" albumArtist="Kota Hoshino" trackTitle="b011" trackArtist="Unknown Artist" duration="68136" tid="{C0FF4713-AFDC-433D-B0A4-5148DD1D2505}"/>
+            <media src="..\Various artists\Lost Kingdoms I (NGC) (Activision)\b020.mp3" albumTitle="Lost Kingdoms I" albumArtist="Kota Hoshino" trackTitle="b020" trackArtist="Unknown Artist" duration="123696" tid="{221D227B-9787-4324-8E98-F24C6DBC54C7}"/>
             <media src="..\Various artists\Lost Kingdoms I (NGC) (Activision)\b030.mp3" albumTitle="Lost Kingdoms I" albumArtist="Kota Hoshino" trackTitle="b030" trackArtist="Unknown Artist" duration="84264"/>
             <media src="..\Various artists\Lost Kingdoms I (NGC) (Activision)\b031.mp3" albumTitle="Lost Kingdoms I" albumArtist="Kota Hoshino" trackTitle="b031" trackArtist="Unknown Artist" duration="79488"/>
             <media src="..\Various artists\Lost Kingdoms I (NGC) (Activision)\b040.mp3" albumTitle="Lost Kingdoms I" albumArtist="Kota Hoshino" trackTitle="b040" trackArtist="Unknown Artist" duration="90240"/>

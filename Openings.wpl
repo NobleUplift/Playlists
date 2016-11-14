@@ -1,27 +1,22 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
-        <meta name="ItemCount" content="18"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.351"/>
+        <meta name="ItemCount" content="19"/>
         <author/>
         <title>Openings</title>
     </head>
     <body>
         <seq>
-            <media src="..\Mittsies\Exordium\02 Stratum (Extended Mix).mp3" tid="{2DDF4805-1878-4838-BB45-4B057D63956A}"/>
-            <media src="..\Luna Haruna\OVERFLY\01 Overfly.mp3" tid="{1E29D78B-6A36-4A8D-8510-AD86264AD3DF}"/>
-            <media src="..\Various artists\Kill la Kill Original Soundtrack\Before my body is dry.mp3" tid="{C0E66D2D-10A9-4443-8C81-3BCFAFFF3543}"/>
-            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\03 Ｔａｋｅ　Ｍｙ　Ｃｈａｎｃｅ.mp3" cid="{23E31FB5-7063-4712-85FE-6EA68A2D29EA}" tid="{2873B93C-DB94-4AE8-B2D6-865D6728DF80}"/>
-            <media src="..\Kalafina\After Eden\03 Magia.mp3" tid="{8FA03F64-B2E4-4338-A1FE-516AFAC6DFD4}"/>
-            <media src="..\World Order\World Order\01 World Order.mp3" tid="{A5C5DD68-392F-458C-A7A8-4E50F00EDD2C}"/>
-            <media src="..\World Order\2012\03 Machine Civilization.mp3" tid="{782E59AD-620A-4EC4-9DF4-378BEF711355}"/>
-            <media src="..\Various artists\Toki o Kizamu Uta - TORCH\01 Toki wo Kizamu Uta.mp3" tid="{AB9B2AAC-A4FA-4B40-AF99-C8FF733BD0DC}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Final Best\07 Period.mp3" tid="{7A6BD4B4-F576-469F-811E-7516A5025294}"/>
+            <media src="..\Mittsies\Exordium\02 Stratum (Extended Mix).mp3" tid="{A6012B6D-742F-40AA-B827-663C037150C3}"/>
+            <media src="..\Luna Haruna\OVERFLY\01 Overfly.mp3" tid="{6DAC39F0-0289-4A46-81C7-6F71939AE980}"/>
+            <media src="..\Various artists\Kill la Kill Original Soundtrack\Before my body is dry.mp3" tid="{1F223A65-8158-4E97-B300-FCF925FFE71A}"/>
+            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\03 Ｔａｋｅ　Ｍｙ　Ｃｈａｎｃｅ.mp3" cid="{23E31FB5-7063-4712-85FE-6EA68A2D29EA}" tid="{DC3E139F-57FC-4502-8078-C183FCA25650}"/>
+            <media src="..\Kalafina\After Eden\03 Magia.mp3" tid="{AA6FD009-BF40-464C-A64E-5D7B3ED69C1E}" cid="{E424F2C8-4D03-426C-9F46-C81E33DA2D45}"/>
+            <media src="..\World Order\World Order\01 World Order.mp3" tid="{BFB16219-6291-4283-A6D7-F20506B35E20}" cid="{8501A724-1E95-4018-8A4E-B7F7F6B66EC9}"/>
+            <media src="..\World Order\2012\03 Machine Civilization.mp3" tid="{F90E292B-3D1D-46B6-BDC8-02E228B9F8A7}"/>
+            <media src="..\Various artists\Toki o Kizamu Uta - TORCH\01 Toki wo Kizamu Uta.mp3" tid="{B70B4EEA-B181-4197-89B4-661786894207}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Final Best\07 Period.mp3" tid="{2F123A3C-F261-4C8F-AF9B-D1CE59BA2C70}" cid="{FFB993A3-0F11-4FF6-B6D4-3DDE3D8EB0EF}"/>
             <media src="..\Shiro Sagisu\Evangelion 2.22\01 Time to Face the Day.mp3" tid="{CF27748E-E029-4F30-B994-0F35F73CA7AF}"/>
             <media src="..\Shiro Sagisu\Evangelion 2.22\02 Seventh Angel.mp3" tid="{7BE21A70-78C1-41C0-956B-77789F701BCC}"/>
             <media src="..\Shiro Sagisu\Evangelion 2.22\03 Eighth Angel.mp3" tid="{79709C8C-31FA-4511-86D5-2CF7601D536C}"/>

@@ -1,37 +1,42 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.351"/>
         <meta name="ItemCount" content="21"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>Alternative</title>
     </head>
     <body>
         <seq>
-            <media src="..\The White Stripes\Seven Nation Army\01 Seven Nation Army.mp3" cid="{42A920B0-C8AA-41B4-AF0F-5E91C971B236}" tid="{9520227B-22D0-48E1-AE75-54AAF3B4AAC5}"/>
-            <media src="..\The White Stripes\Seven Nation Army\02 Good to Me.mp3" cid="{9202227A-E1C4-4D28-9D15-738D5AC7C4E2}" tid="{E8F76A19-7C21-473D-8CC7-FED9D4C6C6FA}"/>
-            <media src="..\The White Stripes\Seven Nation Army\03 Black Jack Davey.mp3" cid="{DDDF43CE-C385-4DA1-8CD3-9E36D5120E83}" tid="{9F2557E6-61B1-476C-AB1A-069901D5D91F}"/>
-            <media src="..\Godsmack\The Other Side\01 Running Blind.wma" cid="{87D1133E-0A3D-4AE0-AD89-53B7E8A6D80A}" tid="{1EE67DDB-2C88-4ADD-AB57-F9CB9F86E3AA}"/>
-            <media src="..\Godsmack\The Other Side\02 Re-Align.wma" cid="{C8B58C1C-574A-4B1B-9E5C-2A6298E7823D}" tid="{128C593F-A35B-42F7-9258-B672E64D041B}"/>
-            <media src="..\Godsmack\The Other Side\03 Touché.wma" cid="{C4FF16E6-D636-4C59-A0D8-FB50FE2D5BB9}" tid="{4D50113B-01D1-49E6-BE33-6EC8643E8E94}"/>
-            <media src="..\Godsmack\The Other Side\04 Voices.wma" cid="{B0DE148C-E110-4CAC-880D-D8C6DB073CEE}" tid="{68396F36-A570-4866-BA40-72F6146281BF}"/>
-            <media src="..\Godsmack\The Other Side\05 Keep Away.wma" cid="{7BD2BD05-6519-40C0-84ED-E7E762D5AADC}" tid="{231454D8-174A-401A-AE3F-7AA318A7BAF2}"/>
-            <media src="..\Godsmack\The Other Side\06 Spiral.wma" cid="{7920C5F4-81EC-44C0-B4CE-62F774C54A69}" tid="{C3876100-F300-43EA-92E8-EDA2A2E6474C}"/>
-            <media src="..\Godsmack\The Other Side\07 Asleep.wma" cid="{4B73DCF7-2832-49E7-B1AE-43BC0AA8F972}" tid="{3797306B-A2B9-4A9C-B522-3CEFB9D2B1A9}"/>
-            <media src="..\Seether\Karma and Effect\01 Because of Me.wma" cid="{F8705FAF-FA8A-4656-9543-9C26DD774B81}" tid="{0CE1F9AC-5AD1-4FB4-B36E-A044067FC0E7}"/>
-            <media src="..\Seether\Karma and Effect\02 Remedy.wma" cid="{222614CB-D708-4EE1-8A29-D5072F5EC561}" tid="{4824E0B6-5F68-44CB-94F3-B19D45E31980}"/>
-            <media src="..\Seether\Karma and Effect\03 Truth.wma" cid="{BB3C902F-24F5-4765-9853-88936822054E}" tid="{AC3F9DF8-5CA9-4C03-A371-82B651A50CEE}"/>
-            <media src="..\Seether\Karma and Effect\04 The Gift.wma" cid="{E0F5F58D-0DA9-486F-8837-A2379F2141FD}" tid="{0A39C552-0C1B-45BB-B046-C16F76711EE7}"/>
-            <media src="..\Seether\Karma and Effect\05 Burrito.wma" cid="{7FB38469-D488-4F13-A50D-D31E2BF417D3}" tid="{B08D0724-844C-42DC-BB81-4CF5165551B7}"/>
-            <media src="..\Seether\Karma and Effect\06 Given.wma" cid="{E7A2EC39-33C3-4F48-B0BA-9159E54688EA}" tid="{5436DDF0-2DBC-479F-AD99-441FB5AFE5A8}"/>
-            <media src="..\Seether\Karma and Effect\07 Never Leave.wma" cid="{8F9358CE-274C-4626-83C5-1DE648FFBC6F}" tid="{90F55116-8278-4E31-BD46-26D36A7C98BF}"/>
-            <media src="..\Seether\Karma and Effect\08 World Falls Away.wma" cid="{A9D5D04A-B788-455D-818E-B619103B1505}" tid="{A84D3E47-FBBF-481B-923F-D3BA2F93BB7E}"/>
-            <media src="..\Seether\Karma and Effect\09 Tongue.wma" cid="{53244748-4F67-4F3B-855F-E36FC2514B59}" tid="{C56C8E79-B530-40CF-B9D9-B20A37646242}"/>
-            <media src="..\Seether\Karma and Effect\10 I&apos;m the One.wma" cid="{D8622234-E128-44B8-817D-9C4BD1F9790F}" tid="{11250142-0441-4135-8864-BB014F2D5749}"/>
-            <media src="..\Seether\Karma and Effect\11 Simplest Mistake.wma" cid="{FA779DC8-AEA1-48FC-B51B-44791999DA70}" tid="{8D1FAFE7-758C-436E-9656-C465CDD9A2AC}"/>
-            <media src="..\Seether\Karma and Effect\12 Diseased.wma" cid="{2C7B7431-8BCE-4095-B998-0BC14B968A8C}" tid="{E9CF2179-0F5A-46D2-B7CD-AE286368380E}"/>
-            <media src="..\Seether\Karma and Effect\13 Plastic Man.wma" cid="{9AFD2A7F-0CCB-4A1B-A956-B051C61151C8}" tid="{5E542F4C-76E1-49AC-AB62-6388D2192BEF}"/>
-            <media src="..\Seether\Karma and Effect\14 [Untitled Track].wma" cid="{D3FFD652-122B-4867-845A-83DAE7D10532}" tid="{28BC7C88-6753-4CC6-83F9-32C1629284F6}"/>
+            <media src="..\The White Stripes\Seven Nation Army\01 Seven Nation Army.mp3" cid="{42A920B0-C8AA-41B4-AF0F-5E91C971B236}" tid="{C514C29B-9327-428D-9EAC-DAF64D257B3B}"/>
+            <media src="..\The White Stripes\Seven Nation Army\02 Good to Me.mp3" cid="{9202227A-E1C4-4D28-9D15-738D5AC7C4E2}" tid="{0C961F14-EF3E-41AB-9189-949EFD9C5999}"/>
+            <media src="..\The White Stripes\Seven Nation Army\03 Black Jack Davey.mp3" cid="{DDDF43CE-C385-4DA1-8CD3-9E36D5120E83}" tid="{275FB3E3-90DB-40EB-B5D6-56A15625F419}"/>
+            <media src="..\Godsmack\The Other Side\01 Running Blind.wma" cid="{87D1133E-0A3D-4AE0-AD89-53B7E8A6D80A}" tid="{C9644EF0-6FE6-4343-9AEB-DAC8C4E47E98}"/>
+            <media src="..\Godsmack\The Other Side\02 Re-Align.wma" cid="{C8B58C1C-574A-4B1B-9E5C-2A6298E7823D}" tid="{BCA24C73-9105-4E4C-A152-42D124A51062}"/>
+            <media src="..\Godsmack\The Other Side\03 Touché.wma" cid="{C4FF16E6-D636-4C59-A0D8-FB50FE2D5BB9}" tid="{BAAC6111-80F1-4FE3-AF70-4DD774FA3051}"/>
+            <media src="..\Godsmack\The Other Side\04 Voices.wma" cid="{B0DE148C-E110-4CAC-880D-D8C6DB073CEE}" tid="{681EB633-8DF1-4204-AF8C-3AAC561DBEEA}"/>
+            <media src="..\Godsmack\The Other Side\05 Keep Away.wma" cid="{7BD2BD05-6519-40C0-84ED-E7E762D5AADC}" tid="{CA746F42-1558-4129-A8CE-DBA7731C57D8}"/>
+            <media src="..\Godsmack\The Other Side\06 Spiral.wma" cid="{7920C5F4-81EC-44C0-B4CE-62F774C54A69}" tid="{CEB3383B-72A5-4426-A9A5-C8F5F50D6F5F}"/>
+            <media src="..\Godsmack\The Other Side\07 Asleep.wma" cid="{4B73DCF7-2832-49E7-B1AE-43BC0AA8F972}" tid="{FCA078B2-E95B-4F3C-BF9A-06ECE2BED0F6}"/>
+            <media src="..\Seether\Karma and Effect\01 Because of Me.wma" cid="{F8705FAF-FA8A-4656-9543-9C26DD774B81}" tid="{99674E51-CD1A-405A-A156-1FF9963D4DBA}"/>
+            <media src="..\Seether\Karma and Effect\02 Remedy.wma" cid="{222614CB-D708-4EE1-8A29-D5072F5EC561}" tid="{DB879F79-7A66-4364-AEE8-69AB0471F573}"/>
+            <media src="..\Seether\Karma and Effect\03 Truth.wma" cid="{BB3C902F-24F5-4765-9853-88936822054E}" tid="{4CE07A4A-872B-4CFF-9645-03B584088170}"/>
+            <media src="..\Seether\Karma and Effect\04 The Gift.wma" cid="{E0F5F58D-0DA9-486F-8837-A2379F2141FD}" tid="{479D91A5-D211-4E1E-8C65-DAE7B189E4E0}"/>
+            <media src="..\Seether\Karma and Effect\05 Burrito.wma" cid="{7FB38469-D488-4F13-A50D-D31E2BF417D3}" tid="{889695BF-9EC0-4697-AADF-9A956D73C378}"/>
+            <media src="..\Seether\Karma and Effect\06 Given.wma" cid="{E7A2EC39-33C3-4F48-B0BA-9159E54688EA}" tid="{08191EC0-D9B2-4BCC-8FEF-BF6317D855BD}"/>
+            <media src="..\Seether\Karma and Effect\07 Never Leave.wma" cid="{8F9358CE-274C-4626-83C5-1DE648FFBC6F}" tid="{A60EE6CA-08B8-4DAB-9561-FC6ED04BC780}"/>
+            <media src="..\Seether\Karma and Effect\08 World Falls Away.wma" cid="{A9D5D04A-B788-455D-818E-B619103B1505}" tid="{63B343F8-A5E6-43E7-836E-1EAF767E91C0}"/>
+            <media src="..\Seether\Karma and Effect\09 Tongue.wma" cid="{53244748-4F67-4F3B-855F-E36FC2514B59}" tid="{E77C9905-9F10-4AF8-A9E2-45FD940C483E}"/>
+            <media src="..\Seether\Karma and Effect\10 I&apos;m the One.wma" cid="{D8622234-E128-44B8-817D-9C4BD1F9790F}" tid="{29282797-CFA5-40BF-83E0-582022C2CDA2}"/>
+            <media src="..\Seether\Karma and Effect\11 Simplest Mistake.wma" cid="{FA779DC8-AEA1-48FC-B51B-44791999DA70}" tid="{E95D58E6-87A4-4819-A7A2-E5528E3A67DF}"/>
+            <media src="..\Seether\Karma and Effect\12 Diseased.wma" cid="{2C7B7431-8BCE-4095-B998-0BC14B968A8C}" tid="{8B15575B-CC81-4183-B17D-2711DB10FFEB}"/>
+            <media src="..\Seether\Karma and Effect\13 Plastic Man.wma" cid="{9AFD2A7F-0CCB-4A1B-A956-B051C61151C8}" tid="{99DCCB1A-2F92-4A22-BC6B-8390DE3BEFB6}"/>
+            <media src="..\Seether\Karma and Effect\14 [Untitled Track].wma" cid="{D3FFD652-122B-4867-845A-83DAE7D10532}" tid="{06417037-1C9E-429C-AF6F-0A8FC8B9B68B}"/>
         </seq>
     </body>
 </smil>

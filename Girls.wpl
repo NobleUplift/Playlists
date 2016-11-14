@@ -1,58 +1,53 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18840"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.351"/>
         <meta name="ItemCount" content="43"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
         <author/>
         <title>Girls</title>
     </head>
     <body>
         <seq>
-            <media src="..\I Blame Coco\The Constant\01 Selfmachine.mp3" tid="{0554B99E-B564-4B0C-A555-CA78E0692FD8}" cid="{9334C8D3-899E-498F-870F-9EE59788EEF8}"/>
-            <media src="..\I Blame Coco\The Constant\02 In Spirit Golden.mp3" cid="{D43EFD89-CD93-416D-A0DF-570ABC6660CC}" tid="{4F1E6630-BDAF-48EE-BFCF-71E14971FFC0}"/>
-            <media src="..\I Blame Coco\The Constant\03 Quicker.mp3" tid="{28E05559-96A1-48F1-A57B-255283E89D96}" cid="{D1AB5DCF-8A8F-43A4-B04E-93E917D9EB27}"/>
-            <media src="..\I Blame Coco\The Constant\04 Turn Your Back On Love.mp3" cid="{201A38BC-5427-4618-9CDB-3F754352BD27}" tid="{6E7079FD-4DCA-479D-9853-CACFE40A5C34}"/>
-            <media src="..\I Blame Coco\The Constant\05 Please Rewind.mp3" cid="{2B75938E-A7EB-47E6-A67D-996E2187A01E}" tid="{D2EF6C61-2518-49DF-B1F0-2A89FECB3845}"/>
-            <media src="..\I Blame Coco\The Constant\06 Summer Rain.mp3" cid="{A992510C-7CD4-46FC-9344-A37553CCD533}" tid="{4DF80424-3C59-41A6-9EB6-FED2F1F30B21}"/>
-            <media src="..\I Blame Coco\The Constant\07 Playwright Fate.mp3" cid="{EE672E00-702F-4192-98A9-9D69F4366117}" tid="{3E8DFA93-9F20-4788-A769-F44ED71ECCA0}"/>
-            <media src="..\I Blame Coco\The Constant\08 The Constant.mp3" cid="{68499CEB-C62C-47A7-8FBE-02CC293273B7}" tid="{B52F2D2A-6ED5-48A4-B226-BC9D37904C9C}"/>
-            <media src="..\I Blame Coco\The Constant\09 Party Bag.mp3" cid="{7D55AADA-5F28-4DA6-8D45-418ECC546AC3}" tid="{FB0ADA19-8BB9-4978-858E-8375B63D91A2}"/>
-            <media src="..\I Blame Coco\The Constant\10 No Smile.mp3" cid="{CC1C4E68-227B-460B-9E12-AF134AAD3B3A}" tid="{550F0FA7-9927-4928-AF7F-B736432FF46E}"/>
-            <media src="..\I Blame Coco\The Constant\11 Caesar.mp3" cid="{B9C45007-611E-49DC-B840-45FA22C98117}" tid="{0E43DFBE-21C7-4C85-8C5E-1B52E2D8646B}"/>
-            <media src="..\I Blame Coco\The Constant\12 Only Love Can Break Your Heart.mp3" cid="{E3DA8867-88C1-4A3B-93B3-6460C3697F7A}" tid="{0B2F1F44-14FB-49DF-85D7-105439E26A83}"/>
-            <media src="..\I Blame Coco\The Constant\13 It&apos;s About To Get Worse.mp3" cid="{9FC3020A-9787-4404-A346-30DEF63E6D85}" tid="{067F30BF-8A23-43E7-AF92-0878DAEEDB9C}"/>
-            <media src="..\Shook\Quicker (Shook Remix)\01 Quicker (Shook Remix).mp3" tid="{D047418C-79FE-4F60-8FA8-CBF5D94414FB}"/>
-            <media src="..\Robyn\Body Talk\01 Dancing on My Own [Radio Version][Version].mp3" cid="{95ACA88B-32B3-479C-BC7A-5C224D9E8F36}" tid="{67123253-DFC3-47F3-B2C3-4ABB4315CC54}"/>
-            <media src="..\Robyn\Body Talk\02 Fembot.mp3" cid="{FD783F89-41F4-47C4-B8CF-5D1557010EA6}" tid="{548A736E-1C57-4C4A-904D-5C1FA88888F2}"/>
-            <media src="..\Robyn\Body Talk\03 Don&apos;t F---ing Tell Me What to Do.mp3" cid="{23E939CD-8108-46F8-A9C1-F509701D033A}" tid="{CF55CEED-71BA-4107-92D7-AB75957767EF}"/>
-            <media src="..\Robyn\Body Talk\04 Indestructible.mp3" cid="{E2ACED48-1913-4F95-9F46-08F0EE91D4C2}" tid="{B6888911-EB31-48A2-8B04-196BFC0E52D7}"/>
-            <media src="..\Robyn\Body Talk\05 Time Machine.mp3" cid="{CAD53BC4-7886-43D4-AFBE-E40A0439818B}" tid="{70D2E6D3-7793-463E-B832-12981DD326A1}"/>
-            <media src="..\Robyn\Body Talk\06 Love Kills.mp3" cid="{27BA35D2-FA48-40BC-AF49-65E504C3D5BC}" tid="{D8CA9F19-54E0-4739-9C15-84C7F28F08F1}"/>
-            <media src="..\Robyn\Body Talk\07 Hang with Me.mp3" cid="{96F68D54-3DA1-4378-A3EA-8C32524C3166}" tid="{F6F622AE-8B4B-4E43-868B-47791830A440}"/>
-            <media src="..\Robyn\Body Talk\08 Call Your Girlfriend.mp3" cid="{523C684C-DC18-4E74-A621-A4C561B5EBDB}" tid="{2E83EA9D-DD31-425A-BA41-8616CD07366D}"/>
-            <media src="..\Robyn\Body Talk\09 None of Dem.mp3" cid="{986E6534-AEB0-42E6-8AFA-F19E9B858662}" tid="{109459A2-6FDF-45D0-BEB9-44C06AA27B09}"/>
-            <media src="..\Robyn\Body Talk\10 We Dance to the Beat.mp3" cid="{288D8D6D-0325-4A6D-B2C9-E6F176E4A1CD}" tid="{6B45D9B1-7073-4248-9DA7-D723FAA92761}"/>
-            <media src="..\Robyn\Body Talk\11 U Should Know Better.mp3" cid="{C2A16E30-A0ED-4F1B-8DF9-EB7246EF215B}" tid="{2FF8E5F8-97CB-400E-A6E3-973069008A0D}"/>
-            <media src="..\Robyn\Body Talk\12 Dancehall Queen.mp3" cid="{B404927D-F876-436A-804B-CD22AFFE0EAD}" tid="{419E2EF9-B211-4C84-B3E7-5A4B97EFAEA4}"/>
-            <media src="..\Robyn\Body Talk\13 Get Myself Together.mp3" cid="{88321D4E-4FAB-4D50-BCF2-25C56ABE345E}" tid="{3A1E6ED7-950A-4286-8985-D39C18BD9D96}"/>
-            <media src="..\Robyn\Body Talk\14 In My Eyes.mp3" cid="{11111420-0AE6-4873-BB76-65DFBA1BD6CE}" tid="{ABCC6E2D-A4D6-47CB-A91E-2065B4BA98BD}"/>
-            <media src="..\Robyn\Body Talk\15 Stars 4-Ever.mp3" cid="{442DEC14-9745-425C-9121-9100BBFB1F67}" tid="{B6F9984E-22C9-45DC-88B9-5386F6F006C7}"/>
-            <media src="..\Girls Love Shoes\Stars\01 Stars.mp3" tid="{5BE4A78D-0AEE-4E66-A175-6ECF24285B9F}"/>
-            <media src="..\Girls Love Shoes\Stars\02 Angel.mp3" tid="{B521551F-8CD5-4443-B3F0-499E34887598}"/>
-            <media src="..\Girls Love Shoes\Stars\03 Wake Me Up.mp3" tid="{BFEA32DE-69B7-4E9B-8CA1-D38892A8D737}"/>
-            <media src="..\Girls Love Shoes\Stars\04 Home.mp3" tid="{D6DCDF05-60DB-4641-95E2-87CD5E134C07}"/>
-            <media src="..\Girls Love Shoes\Stars\05 Magical.mp3" tid="{D8CF539E-89A2-41D4-AEF6-EFD7F4D34A08}"/>
-            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\01 Ｌｏｕｄ　Ｔｗｉｎ　Ｓｔａｒｓ.mp3" cid="{0A1AA1AF-C5C2-48EF-BB56-8F7777998FFA}" tid="{F06DDE47-F70D-40C2-82FE-032B37D3ECDD}"/>
-            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\02 Ｍｅｒｒｉｌｙ　Ｈｉｇｈ　Ｇｏ　Ｒｏｕｎｄ.mp3" cid="{1B1454A4-5CF0-4AE2-BA9E-20BF4213467E}" tid="{92B77436-51B4-4CC3-B7E3-15925D858D7C}"/>
-            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\03 Ｔａｋｅ　Ｍｙ　Ｃｈａｎｃｅ.mp3" cid="{23E31FB5-7063-4712-85FE-6EA68A2D29EA}" tid="{1D4EF370-617F-43A3-9183-8586E59AD879}"/>
-            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\04 ｍｏｎｏｐｏｌｙ.mp3" cid="{0EB2B267-CD79-4E04-884E-8D0A0E69C893}" tid="{22CD082F-6215-43AD-9A04-4D6676A5CC0C}"/>
-            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\05 ロールプレイング・ライフ.mp3" cid="{AD919848-7693-4A88-A798-68E04C5A18A7}" tid="{FFCC0117-868B-4E87-B716-4EE5305DB5A2}"/>
-            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\07 ＫＡＲＡＫＵＲＩ　ＴＯＷＮ.mp3" cid="{BBB69485-FF1F-4709-8DFD-19BB1BEBB031}" tid="{D52838B9-1723-4DB8-9828-8516DFC3D408}"/>
+            <media src="..\I Blame Coco\The Constant\01 Selfmachine.mp3" tid="{1F55D0C2-1BFC-4097-A8E4-1BAE9BB1F567}" cid="{9334C8D3-899E-498F-870F-9EE59788EEF8}"/>
+            <media src="..\I Blame Coco\The Constant\02 In Spirit Golden.mp3" cid="{D43EFD89-CD93-416D-A0DF-570ABC6660CC}" tid="{173415FA-4709-436B-989D-0C9D69DD1450}"/>
+            <media src="..\I Blame Coco\The Constant\03 Quicker.mp3" tid="{EFC96018-D36A-4F78-9E10-2B7BCAD32F04}" cid="{D1AB5DCF-8A8F-43A4-B04E-93E917D9EB27}"/>
+            <media src="..\I Blame Coco\The Constant\04 Turn Your Back On Love.mp3" cid="{201A38BC-5427-4618-9CDB-3F754352BD27}" tid="{9B91D0FA-EDCA-4510-9DE1-C5036E8F407D}"/>
+            <media src="..\I Blame Coco\The Constant\05 Please Rewind.mp3" cid="{2B75938E-A7EB-47E6-A67D-996E2187A01E}" tid="{827C1074-4FDE-49C4-B83E-D1B9947D87E9}"/>
+            <media src="..\I Blame Coco\The Constant\06 Summer Rain.mp3" cid="{A992510C-7CD4-46FC-9344-A37553CCD533}" tid="{93792585-C438-4D8A-B82F-BC3969685714}"/>
+            <media src="..\I Blame Coco\The Constant\07 Playwright Fate.mp3" cid="{EE672E00-702F-4192-98A9-9D69F4366117}" tid="{87FD4BED-F9BD-435E-8C52-51124130F190}"/>
+            <media src="..\I Blame Coco\The Constant\08 The Constant.mp3" cid="{68499CEB-C62C-47A7-8FBE-02CC293273B7}" tid="{3AFC9DDD-E8F7-4F43-9D39-C9CEFFB71E60}"/>
+            <media src="..\I Blame Coco\The Constant\09 Party Bag.mp3" cid="{7D55AADA-5F28-4DA6-8D45-418ECC546AC3}" tid="{9F0D94BD-424F-4C0A-A23B-DEA7D7CCE521}"/>
+            <media src="..\I Blame Coco\The Constant\10 No Smile.mp3" cid="{CC1C4E68-227B-460B-9E12-AF134AAD3B3A}" tid="{22692A7C-76F9-4FEB-B3B7-B503D4B8DD45}"/>
+            <media src="..\I Blame Coco\The Constant\11 Caesar.mp3" cid="{B9C45007-611E-49DC-B840-45FA22C98117}" tid="{546E57EC-F1C3-4DBC-A8F3-648929454121}"/>
+            <media src="..\I Blame Coco\The Constant\12 Only Love Can Break Your Heart.mp3" cid="{E3DA8867-88C1-4A3B-93B3-6460C3697F7A}" tid="{8E0B0681-C034-48F4-B364-CD626A6DFBEC}"/>
+            <media src="..\I Blame Coco\The Constant\13 It&apos;s About To Get Worse.mp3" cid="{9FC3020A-9787-4404-A346-30DEF63E6D85}" tid="{35F0D53F-CC6E-4486-A251-BA94CBD0C79A}"/>
+            <media src="..\Shook\Quicker (Shook Remix)\01 Quicker (Shook Remix).mp3" tid="{728AE419-168B-4756-8654-3D8AF91D9373}"/>
+            <media src="..\Robyn\Body Talk\01 Dancing on My Own [Radio Version][Version].mp3" cid="{95ACA88B-32B3-479C-BC7A-5C224D9E8F36}" tid="{C4598F45-DBB1-4E3B-9767-583F32124C76}"/>
+            <media src="..\Robyn\Body Talk\02 Fembot.mp3" cid="{FD783F89-41F4-47C4-B8CF-5D1557010EA6}" tid="{17A74FF4-CC92-4546-A1A2-665992AFB46F}"/>
+            <media src="..\Robyn\Body Talk\03 Don&apos;t F---ing Tell Me What to Do.mp3" cid="{23E939CD-8108-46F8-A9C1-F509701D033A}" tid="{57569AAB-1824-4C55-A596-8FB674C31FA3}"/>
+            <media src="..\Robyn\Body Talk\04 Indestructible.mp3" cid="{E2ACED48-1913-4F95-9F46-08F0EE91D4C2}" tid="{6B669877-77A0-48D9-8FC4-62F707465970}"/>
+            <media src="..\Robyn\Body Talk\05 Time Machine.mp3" cid="{CAD53BC4-7886-43D4-AFBE-E40A0439818B}" tid="{A115F792-C601-4633-B024-8403737C6934}"/>
+            <media src="..\Robyn\Body Talk\06 Love Kills.mp3" cid="{27BA35D2-FA48-40BC-AF49-65E504C3D5BC}" tid="{86471567-0A8B-4414-805E-2DFD551CC914}"/>
+            <media src="..\Robyn\Body Talk\07 Hang with Me.mp3" cid="{96F68D54-3DA1-4378-A3EA-8C32524C3166}" tid="{DA628117-F36C-45D6-9404-496D7EA4C940}"/>
+            <media src="..\Robyn\Body Talk\08 Call Your Girlfriend.mp3" cid="{523C684C-DC18-4E74-A621-A4C561B5EBDB}" tid="{5DB238AD-D6FD-4B9E-BD68-A1F3BBAE7D61}"/>
+            <media src="..\Robyn\Body Talk\09 None of Dem.mp3" cid="{986E6534-AEB0-42E6-8AFA-F19E9B858662}" tid="{EC699FCF-BED1-4163-9E10-72C4CA5112F6}"/>
+            <media src="..\Robyn\Body Talk\10 We Dance to the Beat.mp3" cid="{288D8D6D-0325-4A6D-B2C9-E6F176E4A1CD}" tid="{52AA17CC-28DE-4469-A273-FF309A28CE0B}"/>
+            <media src="..\Robyn\Body Talk\11 U Should Know Better.mp3" cid="{C2A16E30-A0ED-4F1B-8DF9-EB7246EF215B}" tid="{7E4E0399-DA56-41F9-96CB-E9CC65ABC034}"/>
+            <media src="..\Robyn\Body Talk\12 Dancehall Queen.mp3" cid="{B404927D-F876-436A-804B-CD22AFFE0EAD}" tid="{44BEF6B9-2208-4B18-9EA6-8DB3254CB87C}"/>
+            <media src="..\Robyn\Body Talk\13 Get Myself Together.mp3" cid="{88321D4E-4FAB-4D50-BCF2-25C56ABE345E}" tid="{D0DD3F8C-AF6E-46B3-9B09-A070D30AB777}"/>
+            <media src="..\Robyn\Body Talk\14 In My Eyes.mp3" cid="{11111420-0AE6-4873-BB76-65DFBA1BD6CE}" tid="{1969A85C-CE66-473B-8D9C-41CEA9D31838}"/>
+            <media src="..\Robyn\Body Talk\15 Stars 4-Ever.mp3" cid="{442DEC14-9745-425C-9121-9100BBFB1F67}" tid="{00ADECA2-18EB-4C5F-932F-E293A5E7AF88}"/>
+            <media src="..\Girls Love Shoes\Stars\01 Stars.mp3" tid="{D3E4E7F6-66E0-4362-94A8-3BAF59A85819}"/>
+            <media src="..\Girls Love Shoes\Stars\02 Angel.mp3" tid="{84374FE3-AAE4-42B6-AD2E-83EC69E62497}"/>
+            <media src="..\Girls Love Shoes\Stars\03 Wake Me Up.mp3" tid="{9FE26E21-FFDF-492F-A73E-751473C1C979}"/>
+            <media src="..\Girls Love Shoes\Stars\04 Home.mp3" tid="{5271F260-EEAC-49B2-A2C1-1A7D3366704C}"/>
+            <media src="..\Girls Love Shoes\Stars\05 Magical.mp3" tid="{D2370326-381A-4F3A-B5E0-C0CF00209EC1}"/>
+            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\01 Ｌｏｕｄ　Ｔｗｉｎ　Ｓｔａｒｓ.mp3" cid="{0A1AA1AF-C5C2-48EF-BB56-8F7777998FFA}" tid="{16A01C82-D289-4832-A498-B81B8B9BB616}"/>
+            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\02 Ｍｅｒｒｉｌｙ　Ｈｉｇｈ　Ｇｏ　Ｒｏｕｎｄ.mp3" cid="{1B1454A4-5CF0-4AE2-BA9E-20BF4213467E}" tid="{B09B0E90-DB07-4A37-BBC4-8A09C33D3B76}"/>
+            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\03 Ｔａｋｅ　Ｍｙ　Ｃｈａｎｃｅ.mp3" cid="{23E31FB5-7063-4712-85FE-6EA68A2D29EA}" tid="{DC3E139F-57FC-4502-8078-C183FCA25650}"/>
+            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\04 ｍｏｎｏｐｏｌｙ.mp3" cid="{0EB2B267-CD79-4E04-884E-8D0A0E69C893}" tid="{7993DB2F-F2B8-4AAA-A64E-A4A1B9936728}"/>
+            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\05 ロールプレイング・ライフ.mp3" cid="{AD919848-7693-4A88-A798-68E04C5A18A7}" tid="{281A3C83-5291-4FFB-A409-4F5BB8735C4B}"/>
+            <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\07 ＫＡＲＡＫＵＲＩ　ＴＯＷＮ.mp3" cid="{BBB69485-FF1F-4709-8DFD-19BB1BEBB031}" tid="{ABE50EBB-FFE3-48EC-9983-6EC61657F4D5}"/>
             <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\08 おもちゃの兵隊.mp3" cid="{ABF63626-4910-4A90-B4DB-5C9161A00D2C}" tid="{BEC27B79-7295-4FF3-B7EC-2D6CB2CC5DA5}"/>
             <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\09 Ｄｏｌｌ’ｓ　Ｂｏｘ.mp3" cid="{9E768F2F-DAD1-4B37-B845-22CF7F4E5803}" tid="{F8B94E94-2489-424F-9E8C-A8A725E63FAB}"/>
             <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\10 ヌーディリズム（＄ヴァージョン）.mp3" cid="{848AD093-4BC3-4062-9367-D6FD7397FC35}" tid="{91FA3781-935D-4DDF-98E1-B6E7611CC315}"/>

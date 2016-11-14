@@ -1,15 +1,14 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="QInfo" content="KABBAGwAYgB1AG0ASQBEACAARQBxAHUAYQBsAHMAIAAiAEwAZQBzACAATQBpAHMAZQByAGEAYgBsAGUAcwAgAFsAUgBlAHAAdQBiAGwAaQBjACAAUwBvAHUAbgBkAHQAcgBhAGMAawBdAFYAYQByAGkAbwB1AHMAIABBAHIAdABpAHMAdABzACIAKQA=;MAA=;TABvAGMAYQBsAE0ATABTAA==;;MAAtAA==;;LQAxAA==;;;ZgBhAGwAcwBlAA==;MAAtAA==;ZgBhAGwAcwBlAA==;MAAtAA=="/>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.17514"/>
         <meta name="IsNetworkFeed" content="FALSE"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.351"/>
         <meta name="ItemCount" content="20"/>
         <title>Les Miserables</title>
     </head>
     <body>
         <seq>
-            <media src="..\Various artists\Les Miserables [Republic Soundtrack]\01 Look Down.mp3" cid="{DE75D7E6-6809-4934-975D-8670B8CBC987}" tid="{39C914D0-E770-4E5E-88C9-B0D6E267C92F}"/>
+            <media src="..\Various artists\Les Miserables [Republic Soundtrack]\01 Look Down.mp3" cid="{DE75D7E6-6809-4934-975D-8670B8CBC987}" tid="{FF9BC81D-DD1B-4905-BFD6-1CED6155F184}"/>
             <media src="..\Various artists\Les Miserables [Republic Soundtrack]\02 The Bishop.mp3"/>
             <media src="..\Various artists\Les Miserables [Republic Soundtrack]\03 Valjean&apos;s Soliloquy.mp3"/>
             <media src="..\Various artists\Les Miserables [Republic Soundtrack]\04 At the End of the Day.mp3"/>

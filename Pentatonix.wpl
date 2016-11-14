@@ -1,31 +1,37 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.351"/>
         <meta name="ItemCount" content="19"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
         <title>Pentatonix</title>
     </head>
     <body>
         <seq>
-            <media src="..\Pentatonix\PTX, Vol. 2\01 Can&apos;t Hold Us.mp3" cid="{B0AB6A51-4368-4EAD-B0CD-3BA53DD590D9}" tid="{CC42A31B-DFCC-4CD3-9456-63C219554DC8}"/>
-            <media src="..\Pentatonix\PTX, Vol. 2\02 Natural Disaster.mp3"/>
-            <media src="..\Pentatonix\PTX, Vol. 2\03 Love Again.mp3"/>
-            <media src="..\Pentatonix\PTX, Vol. 2\04 Valentine.mp3"/>
-            <media src="..\Pentatonix\PTX, Vol. 2\05 Hey Momma-Hit the Road Jack.mp3"/>
-            <media src="..\Pentatonix\PTX, Vol. 2\06 I Need Your Love.mp3"/>
-            <media src="..\Pentatonix\PTX, Vol. 2\07 Run to You.mp3"/>
-            <media src="..\Pentatonix\PTX, Vol. 2\08 Daft Punk- Around the World-Digital Love-Get Lucky-Harder Better Faster.mp3"/>
-            <media src="..\Pentatonix\That&apos;s Christmas to Me\01 Hark! The Herald Angels Sing.mp3"/>
-            <media src="..\Pentatonix\That&apos;s Christmas to Me\02 White Winter Hymnal.mp3"/>
-            <media src="..\Pentatonix\That&apos;s Christmas to Me\03 Sleigh Ride.mp3"/>
-            <media src="..\Pentatonix\That&apos;s Christmas to Me\04 Winter Wonderland-Don&apos;t Worry Be Happy.mp3"/>
-            <media src="..\Pentatonix\That&apos;s Christmas to Me\05 That&apos;s Christmas to Me.mp3"/>
-            <media src="..\Pentatonix\That&apos;s Christmas to Me\06 Mary, Did You Know-.mp3"/>
-            <media src="..\Pentatonix\That&apos;s Christmas to Me\07 Dance of the Sugar Plum Fairy.mp3"/>
-            <media src="..\Pentatonix\That&apos;s Christmas to Me\08 It&apos;s the Most Wonderful Time of the Year.mp3"/>
-            <media src="..\Pentatonix\That&apos;s Christmas to Me\09 Santa Claus Is Coming to Town.mp3"/>
-            <media src="..\Pentatonix\That&apos;s Christmas to Me\10 Silent Night.mp3"/>
-            <media src="..\Pentatonix\That&apos;s Christmas to Me\11 Let It Go [-].mp3"/>
+            <media src="..\Pentatonix\PTX, Vol. 2\01 Can&apos;t Hold Us.mp3" cid="{B0AB6A51-4368-4EAD-B0CD-3BA53DD590D9}" tid="{ADABF7FC-14B2-48E4-BD18-E1A0C334DB70}"/>
+            <media src="..\Pentatonix\PTX, Vol. 2\02 Natural Disaster.mp3" cid="{71685ADD-747D-4237-961F-C02195C6CF56}" tid="{11229E4A-AA60-4D00-AA76-64DB896E0D9E}"/>
+            <media src="..\Pentatonix\PTX, Vol. 2\03 Love Again.mp3" cid="{3AA9C7F0-DD51-4D5C-A262-099F8A60D061}" tid="{294EBF20-4A8D-4C0E-9EFB-14BD71E1DC67}"/>
+            <media src="..\Pentatonix\PTX, Vol. 2\04 Valentine.mp3" cid="{21E4E0DF-5261-4B00-9B26-82B7D1174EE9}" tid="{F2A17912-C397-4D4D-9EDA-FE477FA28691}"/>
+            <media src="..\Pentatonix\PTX, Vol. 2\05 Hey Momma-Hit the Road Jack.mp3" cid="{C5E70599-2D43-4C78-96ED-E12D01F69269}" tid="{B7EF142D-BD18-438B-856D-A5437BDD123E}"/>
+            <media src="..\Pentatonix\PTX, Vol. 2\06 I Need Your Love.mp3" cid="{6E66BD2E-88AD-48FD-B624-4E7F5237D408}" tid="{39ABFB76-1338-4C94-A2C7-12A453929049}"/>
+            <media src="..\Pentatonix\PTX, Vol. 2\07 Run to You.mp3" cid="{B5ABA418-3D09-4782-B74B-B8FE020F6724}" tid="{FE86B8E1-7635-4701-A434-D04649AE9C0D}"/>
+            <media src="..\Pentatonix\PTX, Vol. 2\08 Daft Punk- Around the World-Digital Love-Get Lucky-Harder Better Faster.mp3" cid="{C8D725FD-44BE-43C6-AA38-04C17327E1C4}" tid="{D745BF73-FBC9-4FED-A4AD-0DFDFBB0D1F5}"/>
+            <media src="..\Pentatonix\That&apos;s Christmas to Me\01 Hark! The Herald Angels Sing.mp3" cid="{F65D227A-2641-41A7-B272-76441CB533FB}" tid="{E44B980E-241E-461D-940C-5CC6FA161DAF}"/>
+            <media src="..\Pentatonix\That&apos;s Christmas to Me\02 White Winter Hymnal.mp3" cid="{FC2AD833-16B8-4E81-99F5-0F60E624DBD6}" tid="{90FCD1CF-6A7C-49A7-AF5B-1FA172A5E1F2}"/>
+            <media src="..\Pentatonix\That&apos;s Christmas to Me\03 Sleigh Ride.mp3" cid="{8076A810-6A89-492C-BDD2-D4B68EFEC530}" tid="{FC5173A2-C7CE-4DD1-B2DE-98EB61BBB53B}"/>
+            <media src="..\Pentatonix\That&apos;s Christmas to Me\04 Winter Wonderland-Don&apos;t Worry Be Happy.mp3" cid="{7BE2BDBB-39B3-4FA9-AA43-36B66B95F027}" tid="{A1A48F2C-805B-4713-815B-65441533EF94}"/>
+            <media src="..\Pentatonix\That&apos;s Christmas to Me\05 That&apos;s Christmas to Me.mp3" cid="{3AA52B62-AA0C-4B6C-A0E7-32EF317154CE}" tid="{76E89AA7-1B53-494A-BAD8-90B135DAC36B}"/>
+            <media src="..\Pentatonix\That&apos;s Christmas to Me\06 Mary, Did You Know-.mp3" cid="{E158CCC4-F226-47BA-8C10-1F0FF2E75C79}" tid="{916CD209-A7EF-4B05-AAFB-6F701A3EF239}"/>
+            <media src="..\Pentatonix\That&apos;s Christmas to Me\07 Dance of the Sugar Plum Fairy.mp3" cid="{29652567-A662-4068-8E19-393C8B842E23}" tid="{00F055EE-3561-48E0-9087-36884BA2325D}"/>
+            <media src="..\Pentatonix\That&apos;s Christmas to Me\08 It&apos;s the Most Wonderful Time of the Year.mp3" cid="{71B91675-BE01-4196-BD9C-672CA947C089}" tid="{5423A491-0368-4828-B8AA-B16EF066B030}"/>
+            <media src="..\Pentatonix\That&apos;s Christmas to Me\09 Santa Claus Is Coming to Town.mp3" cid="{1A0E81B1-02B9-4654-B458-446752298F83}" tid="{D830B031-B5A3-416B-A21E-B0D0AD776427}"/>
+            <media src="..\Pentatonix\That&apos;s Christmas to Me\10 Silent Night.mp3" cid="{49C77234-43E3-43BF-B6BD-B927EF3CF398}" tid="{1C03F518-A11F-4672-BBDC-979951FF0445}"/>
+            <media src="..\Pentatonix\That&apos;s Christmas to Me\11 Let It Go [-].mp3" cid="{FA550957-2EEA-48F6-A041-F2EE504E2524}" tid="{667D723D-9D38-4215-8F28-54B2C535F1F6}"/>
         </seq>
     </body>
 </smil>

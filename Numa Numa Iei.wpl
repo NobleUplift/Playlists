@@ -1,35 +1,37 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <guid>{A3EA949D-6FAC-4390-AF6A-9BDE05B8DF96}</guid>
-        <meta name="creatorId" content="{7CC03665-003F-A8F9-9BA9-3E76BF71F97E}"/>
-        <meta name="averageRating" content="10"/>
-        <meta name="totalDuration" content="4806"/>
-        <meta name="itemCount" content="19"/>
-        <meta name="generator" content="Zune -- 4.8.2345.0"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.351"/>
+        <meta name="ItemCount" content="19"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
         <title>Numa Numa Iei</title>
     </head>
     <body>
         <seq>
             <media src="..\Various artists\Dragostea Din Tei Remixes\Dragostea Din Tei (Remix).mp3" serviceId="{A3CA6C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Summer EletroHits" albumArtist="Various Artists" trackTitle="Dragostea Din Tei (Remix)" trackArtist="O-Zone" duration="253668"/>
-            <media src="..\O Android Technologies, Inc\Parody of Ma Ya Hi, aka Drag\My PC Is On Fire - Dell Laptop Tribute Video (Numa Numa Song).mp3" albumTitle="Parody of &quot;Ma Ya Hi&quot;, aka Drag" albumArtist="O Android Technologies, Inc." trackTitle="My PC" trackArtist="O Android Technologies, Inc." duration="215857"/>
-            <media src="..\Haiducii\Dragostea Din Tei\01 Dragostea Din Tei.wma" serviceId="{C0097100-0500-11DB-89CA-0019B92A3933}" albumTitle="Dragostea Din Tei" albumArtist="Haiducii" trackTitle="Dragostea Din Tei" trackArtist="Haiducii" duration="213530"/>
-            <media src="..\Haiducii\Dragostea Din Tei\02 Haiducii vs. Gabry Ponte - Radio version.wma" albumTitle="Dragostea Din Tei" albumArtist="Haiducii" trackTitle="Haiducii vs. Gabry Ponte - Radio version" trackArtist="Haiducii" duration="222958"/>
-            <media src="..\Haiducii\Dragostea Din Tei\03 DJ Ross 4 the Radio rmx.wma" serviceId="{C2097100-0500-11DB-89CA-0019B92A3933}" albumTitle="Dragostea Din Tei" albumArtist="Haiducii" trackTitle="DJ Ross 4 the Radio rmx" trackArtist="Haiducii" duration="255883"/>
-            <media src="..\Haiducii\Dragostea Din Tei\04 ONLY IF I.wma" albumTitle="Dragostea Din Tei" albumArtist="Haiducii" trackTitle="ONLY IF I" trackArtist="Haiducii" duration="391859"/>
-            <media src="..\Haiducii\Dragostea Din Tei\05 DJ Ross 4 the Club rmx.wma" serviceId="{C4097100-0500-11DB-89CA-0019B92A3933}" albumTitle="Dragostea Din Tei" albumArtist="Haiducii" trackTitle="DJ Ross 4 the Club rmx" trackArtist="Haiducii" duration="380806"/>
-            <media src="..\The O Zone\Discozone [Bonus Track]\01 Fiesta de la Noche.wma" serviceId="{8DD56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Fiesta de la Noche" trackArtist="The O Zone" duration="242090"/>
-            <media src="..\The O Zone\Discozone [Bonus Track]\02 De Ce Plang Chitarele.wma" serviceId="{8ED56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="De Ce Plang Chitarele" trackArtist="The O Zone" duration="250867"/>
-            <media src="..\The O Zone\Discozone [Bonus Track]\03 Dragostea Din Tei.wma" serviceId="{8FD56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Dragostea Din Tei" trackArtist="The O Zone" duration="213947"/>
-            <media src="..\The O Zone\Discozone [Bonus Track]\04 Printre Nori.wma" serviceId="{90D56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Printre Nori" trackArtist="The O Zone" duration="223236"/>
-            <media src="..\The O Zone\Discozone [Bonus Track]\05 Oriunde Ai Fi.wma" serviceId="{91D56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Oriunde Ai Fi" trackArtist="The O Zone" duration="267028"/>
-            <media src="..\The O Zone\Discozone [Bonus Track]\06 Numai Tu.wma" serviceId="{92D56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Numai Tu" trackArtist="The O Zone" duration="241069"/>
-            <media src="..\The O Zone\Discozone [Bonus Track]\07 Dar, Unde Esti.wma" serviceId="{93D56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Dar, Unde Esti" trackArtist="The O Zone" duration="242044"/>
-            <media src="..\The O Zone\Discozone [Bonus Track]\08 Despre Tine.wma" serviceId="{94D56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Despre Tine" trackArtist="The O Zone" duration="227694"/>
-            <media src="..\The O Zone\Discozone [Bonus Track]\09 Sarbatoarea Noptilor de Vara.wma" serviceId="{95D56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Sarbatoarea Noptilor de Vara" trackArtist="The O Zone" duration="231967"/>
-            <media src="..\The O Zone\Discozone [Bonus Track]\10 Nu Ma las de Limba Noastra.wma" serviceId="{96D56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Nu Ma las de Limba Noastra..." trackArtist="The O Zone" duration="230945"/>
-            <media src="..\The O Zone\Discozone [Bonus Track]\11 Crede-Ma.wma" serviceId="{97D56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Crede-Ma" trackArtist="The O Zone" duration="286766"/>
-            <media src="..\The O Zone\Discozone [Bonus Track]\12 Ma Ya Hi [English Version][Edit][-][Mix].wma" serviceId="{98D56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Ma Ya Hi [English Version][Edit][*][Mix]" trackArtist="Dan Bolan" duration="214644"/>
+            <media src="..\O Android Technologies, Inc\Parody of Ma Ya Hi, aka Drag\My PC Is On Fire - Dell Laptop Tribute Video (Numa Numa Song).mp3" albumTitle="Parody of &quot;Ma Ya Hi&quot;, aka Drag" albumArtist="O Android Technologies, Inc." trackTitle="My PC" trackArtist="O Android Technologies, Inc." duration="215857" tid="{03E3A4DA-226C-4CA6-9B5E-282C68A2478E}"/>
+            <media src="..\Haiducii\Dragostea Din Tei\01 Dragostea Din Tei.wma" serviceId="{C0097100-0500-11DB-89CA-0019B92A3933}" albumTitle="Dragostea Din Tei" albumArtist="Haiducii" trackTitle="Dragostea Din Tei" trackArtist="Haiducii" duration="213530" cid="{48FAA254-55D3-4322-8881-8D165293C99A}" tid="{9C7323F7-2615-49C4-9EDB-F7DE50358F49}"/>
+            <media src="..\Haiducii\Dragostea Din Tei\02 Haiducii vs. Gabry Ponte - Radio version.wma" albumTitle="Dragostea Din Tei" albumArtist="Haiducii" trackTitle="Haiducii vs. Gabry Ponte - Radio version" trackArtist="Haiducii" duration="222958" cid="{CCCE81B5-8A82-40E7-973F-A43E7FF7179E}" tid="{A8DB1E67-2468-47C3-B293-AD4A03CE4394}"/>
+            <media src="..\Haiducii\Dragostea Din Tei\03 DJ Ross 4 the Radio rmx.wma" serviceId="{C2097100-0500-11DB-89CA-0019B92A3933}" albumTitle="Dragostea Din Tei" albumArtist="Haiducii" trackTitle="DJ Ross 4 the Radio rmx" trackArtist="Haiducii" duration="255883" cid="{CEB44D9D-CADF-48DA-AE75-54E505680B17}" tid="{97006F17-6959-47BB-9EA9-23E84D88E2DF}"/>
+            <media src="..\Haiducii\Dragostea Din Tei\04 ONLY IF I.wma" albumTitle="Dragostea Din Tei" albumArtist="Haiducii" trackTitle="ONLY IF I" trackArtist="Haiducii" duration="391859" cid="{86F90F0A-9BF5-49AE-B108-B7CD362C28B9}" tid="{D1F72015-B0BE-40B4-9D7D-099CF3572723}"/>
+            <media src="..\Haiducii\Dragostea Din Tei\05 DJ Ross 4 the Club rmx.wma" serviceId="{C4097100-0500-11DB-89CA-0019B92A3933}" albumTitle="Dragostea Din Tei" albumArtist="Haiducii" trackTitle="DJ Ross 4 the Club rmx" trackArtist="Haiducii" duration="380806" cid="{0C14B72D-383E-4F2A-85F0-50C370F7AA55}" tid="{EDFDA4B8-38C4-41BF-AAFE-F4C91458A040}"/>
+            <media src="..\The O Zone\Discozone [Bonus Track]\01 Fiesta de la Noche.wma" serviceId="{8DD56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Fiesta de la Noche" trackArtist="The O Zone" duration="242090" cid="{7F999C3B-DAA3-4C06-A8D4-18F6E034C08F}" tid="{9437BCED-C067-4E79-8E97-6377F5C0586E}"/>
+            <media src="..\The O Zone\Discozone [Bonus Track]\02 De Ce Plang Chitarele.wma" serviceId="{8ED56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="De Ce Plang Chitarele" trackArtist="The O Zone" duration="250867" cid="{2B8FCCBC-527F-4DAB-BBF0-0671C022A99F}" tid="{724DFC17-AA46-47C8-83FB-F11378F52988}"/>
+            <media src="..\The O Zone\Discozone [Bonus Track]\03 Dragostea Din Tei.wma" serviceId="{8FD56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Dragostea Din Tei" trackArtist="The O Zone" duration="213947" cid="{A7499AB0-30A8-42F4-B9A4-B6BD9AE3AB7B}" tid="{DEBA12B3-1E5E-4F0A-A30D-6F44C0D55B67}"/>
+            <media src="..\The O Zone\Discozone [Bonus Track]\04 Printre Nori.wma" serviceId="{90D56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Printre Nori" trackArtist="The O Zone" duration="223236" cid="{28B9EEE4-71B9-4C14-B8D0-265469070E81}" tid="{046574CB-8D6F-48EC-9281-14736CE53B28}"/>
+            <media src="..\The O Zone\Discozone [Bonus Track]\05 Oriunde Ai Fi.wma" serviceId="{91D56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Oriunde Ai Fi" trackArtist="The O Zone" duration="267028" cid="{CEBEB191-C7AE-4C57-8048-3A36BF22D1E4}" tid="{2217E1A8-80C6-4AF8-A773-4D814159E14A}"/>
+            <media src="..\The O Zone\Discozone [Bonus Track]\06 Numai Tu.wma" serviceId="{92D56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Numai Tu" trackArtist="The O Zone" duration="241069" cid="{AD5DFF38-A04F-4B8E-B849-CA7E28933FB3}" tid="{D246569E-DDCD-4217-84D3-068B10B8D90C}"/>
+            <media src="..\The O Zone\Discozone [Bonus Track]\07 Dar, Unde Esti.wma" serviceId="{93D56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Dar, Unde Esti" trackArtist="The O Zone" duration="242044" cid="{74E80127-A2E5-4691-9E0B-226DB0A20D95}" tid="{37FD609E-B4BA-484F-9FA9-84586CFD59D5}"/>
+            <media src="..\The O Zone\Discozone [Bonus Track]\08 Despre Tine.wma" serviceId="{94D56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Despre Tine" trackArtist="The O Zone" duration="227694" cid="{0CEB9A72-F0F7-489D-A403-C04001CEC38A}" tid="{C91C530D-6605-4340-9EFC-15FCDFBD602E}"/>
+            <media src="..\The O Zone\Discozone [Bonus Track]\09 Sarbatoarea Noptilor de Vara.wma" serviceId="{95D56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Sarbatoarea Noptilor de Vara" trackArtist="The O Zone" duration="231967" cid="{6DB0598D-E98C-42D7-B1A1-5B74C102FF6F}" tid="{2CB008C1-D3F5-45C3-B4E8-9773A9FAD40B}"/>
+            <media src="..\The O Zone\Discozone [Bonus Track]\10 Nu Ma las de Limba Noastra.wma" serviceId="{96D56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Nu Ma las de Limba Noastra..." trackArtist="The O Zone" duration="230945" cid="{49352216-4FA1-42CA-BD9F-308FD339AFF9}" tid="{1E7CB2A4-DB5F-4BFE-87ED-EDE879C47CBF}"/>
+            <media src="..\The O Zone\Discozone [Bonus Track]\11 Crede-Ma.wma" serviceId="{97D56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Crede-Ma" trackArtist="The O Zone" duration="286766" cid="{F414D473-87C1-456F-953D-0E63214897DC}" tid="{8D3DCFA8-4332-4263-9585-0D71BFAD7C51}"/>
+            <media src="..\The O Zone\Discozone [Bonus Track]\12 Ma Ya Hi [English Version][Edit][-][Mix].wma" serviceId="{98D56F00-0500-11DB-89CA-0019B92A3933}" albumTitle="Discozone" albumArtist="The O Zone" trackTitle="Ma Ya Hi [English Version][Edit][*][Mix]" trackArtist="Dan Bolan" duration="214644" cid="{977BBD1E-915B-4D2D-8772-322A517B3095}" tid="{8F717C5A-23CA-491A-B3C4-4EDD409F64B9}"/>
         </seq>
     </body>
 </smil>

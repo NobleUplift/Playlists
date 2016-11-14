@@ -1,44 +1,44 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <guid>{7CF741F3-8C5D-4652-81E8-46CC7B04F5CE}</guid>
-        <meta name="generator" content="Zune -- 4.8.2345.0"/>
-        <meta name="itemCount" content="26"/>
-        <meta name="totalDuration" content="4974"/>
-        <meta name="averageRating" content="0"/>
-        <meta name="creatorId" content="{7CC03665-003F-A8F9-9BA9-3E76BF71F97E}"/>
-        <meta name="autoRefresh" content="FALSE"/>
-        <meta name="autoRefreshInterval" content="5"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.351"/>
+        <meta name="ItemCount" content="26"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
         <title>Linkin Park</title>
     </head>
     <body>
         <seq>
-            <media src="..\Linkin Park\Meteora\01 Foreword.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Foreword" trackArtist="Linkin Park" duration="13440"/>
-            <media src="..\Linkin Park\Meteora\02 Don&apos;t Stay.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Don&apos;t Stay" trackArtist="Linkin Park" duration="187933"/>
-            <media src="..\Linkin Park\Meteora\03 Somewhere I Belong.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Somewhere I Belong" trackArtist="Linkin Park" duration="213933"/>
-            <media src="..\Linkin Park\Meteora\04 Lying from You.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Lying from You" trackArtist="Linkin Park" duration="175053"/>
-            <media src="..\Linkin Park\Meteora\05 Hit the Floor.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Hit the Floor" trackArtist="Linkin Park" duration="164213"/>
-            <media src="..\Linkin Park\Meteora\06 Easier to Run.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Easier to Run" trackArtist="Linkin Park" duration="204173"/>
-            <media src="..\Linkin Park\Meteora\07 Faint.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Faint" trackArtist="Linkin Park" duration="162106"/>
-            <media src="..\Linkin Park\Meteora\08 Figure.09.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Figure.09" trackArtist="Linkin Park" duration="197506"/>
-            <media src="..\Linkin Park\Meteora\09 Breaking the Habit.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Breaking the Habit" trackArtist="Linkin Park" duration="196133"/>
-            <media src="..\Linkin Park\Meteora\10 From the Inside.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="From the Inside" trackArtist="Linkin Park" duration="175506"/>
-            <media src="..\Linkin Park\Meteora\11 Nobody&apos;s Listening.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Nobody&apos;s Listening" trackArtist="Linkin Park" duration="178866"/>
-            <media src="..\Linkin Park\Meteora\12 Session.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Session" trackArtist="Linkin Park" duration="144733"/>
-            <media src="..\Linkin Park\Meteora\13 Numb.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Numb" trackArtist="Linkin Park" duration="189506"/>
-            <media src="..\Linkin Park\Somewhere I Belong\03 My December (Live).mp3" albumTitle="Somewhere I Belong" albumArtist="Linkin Park" trackTitle="My December (Live)" trackArtist="Linkin Park" duration="267972"/>
-            <media src="..\Linkin Park\Live in Texas Disc 1\01 Somewhere I Belong.wma" serviceId="{57497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Somewhere I Belong" trackArtist="Linkin Park" duration="217803"/>
-            <media src="..\Linkin Park\Live in Texas Disc 1\02 Lying from You.wma" serviceId="{59497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Lying from You" trackArtist="Linkin Park" duration="187524"/>
-            <media src="..\Linkin Park\Live in Texas Disc 1\03 Papercut.wma" serviceId="{5B497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Papercut" trackArtist="Linkin Park" duration="186188"/>
-            <media src="..\Linkin Park\Live in Texas Disc 1\04 Points of Authority.wma" serviceId="{5D497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Points of Authority" trackArtist="Linkin Park" duration="205171"/>
-            <media src="..\Linkin Park\Live in Texas Disc 1\05 Runaway.wma" serviceId="{5F497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Runaway" trackArtist="Linkin Park" duration="187628"/>
-            <media src="..\Linkin Park\Live in Texas Disc 1\06 Faint.wma" serviceId="{61497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Faint" trackArtist="Linkin Park" duration="167055"/>
-            <media src="..\Linkin Park\Live in Texas Disc 1\07 From the Inside.wma" serviceId="{63497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="From the Inside" trackArtist="Linkin Park" duration="180941"/>
-            <media src="..\Linkin Park\Live in Texas Disc 1\08 P5hng Me A-wy.wma" serviceId="{65497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="P5hng Me A*wy" trackArtist="Linkin Park" duration="305295"/>
-            <media src="..\Linkin Park\Live in Texas Disc 1\09 Numb.wma" serviceId="{4F497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Numb" trackArtist="Linkin Park" duration="186792"/>
-            <media src="..\Linkin Park\Live in Texas Disc 1\10 Crawling.wma" serviceId="{51497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Crawling" trackArtist="Linkin Park" duration="213866"/>
-            <media src="..\Linkin Park\Live in Texas Disc 1\11 In the End.wma" serviceId="{53497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="In the End" trackArtist="Linkin Park" duration="211777"/>
-            <media src="..\Linkin Park\Live in Texas Disc 1\12 One Step Closer.wma" serviceId="{55497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="One Step Closer" trackArtist="Linkin Park" duration="253236"/>
+            <media src="..\Linkin Park\Meteora\01 Foreword.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Foreword" trackArtist="Linkin Park" duration="13440" cid="{EC519863-A8C5-4F47-93C4-AC0B0FEDB04E}" tid="{6389F3FF-36E4-4ACC-A6D8-914F4EA5F957}"/>
+            <media src="..\Linkin Park\Meteora\02 Don&apos;t Stay.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Don&apos;t Stay" trackArtist="Linkin Park" duration="187933" cid="{3A890816-D9E3-4A8B-9FD3-9A123DBD48E5}" tid="{628D3730-D5C5-4189-BCB4-82D2B0E551B0}"/>
+            <media src="..\Linkin Park\Meteora\03 Somewhere I Belong.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Somewhere I Belong" trackArtist="Linkin Park" duration="213933" cid="{2F7B8F53-0C24-4C81-9187-4C1B15C9A9EE}" tid="{E9583968-458E-4710-A6D2-171479C52BD8}"/>
+            <media src="..\Linkin Park\Meteora\04 Lying from You.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Lying from You" trackArtist="Linkin Park" duration="175053" cid="{DF4E42E1-314E-4C0C-8EF3-840FFD9DCE4C}" tid="{1A74EDA6-DE1A-4E01-98C6-692B91B2E791}"/>
+            <media src="..\Linkin Park\Meteora\05 Hit the Floor.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Hit the Floor" trackArtist="Linkin Park" duration="164213" cid="{68925573-D77A-4715-A9E7-68F8BE9727EA}" tid="{2ED193B4-F739-4256-ADF1-2213CEEB989F}"/>
+            <media src="..\Linkin Park\Meteora\06 Easier to Run.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Easier to Run" trackArtist="Linkin Park" duration="204173" cid="{40F0A1B6-8472-4E24-B5B3-A753DC0DEAF7}" tid="{4D00C685-77A1-487B-99AB-DD9AB93195DC}"/>
+            <media src="..\Linkin Park\Meteora\07 Faint.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Faint" trackArtist="Linkin Park" duration="162106" cid="{49C983C3-CA19-4120-870D-A2C61994DCE7}" tid="{480FFD38-5B6C-4B65-90D4-05F9C7FBAA6B}"/>
+            <media src="..\Linkin Park\Meteora\08 Figure.09.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Figure.09" trackArtist="Linkin Park" duration="197506" cid="{11135152-2EAB-495E-A2B8-695DC7E83CFE}" tid="{F34C1AB8-F6CC-4939-B779-BA05DF28DB84}"/>
+            <media src="..\Linkin Park\Meteora\09 Breaking the Habit.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Breaking the Habit" trackArtist="Linkin Park" duration="196133" cid="{C4774C6C-E60B-4900-B4AE-617E24CAEFC1}" tid="{618A9137-6FF6-444C-82EE-7CFBEEFC8835}"/>
+            <media src="..\Linkin Park\Meteora\10 From the Inside.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="From the Inside" trackArtist="Linkin Park" duration="175506" cid="{F1DD1CA6-513F-48B2-85F5-DBE290F7E4F1}" tid="{A2054B06-E86B-4EB2-8443-B691AA327405}"/>
+            <media src="..\Linkin Park\Meteora\11 Nobody&apos;s Listening.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Nobody&apos;s Listening" trackArtist="Linkin Park" duration="178866" cid="{A8395A60-8117-4F9A-9482-712D79B6B98B}" tid="{7B49602F-974C-45E0-BE4E-91DC6E777525}"/>
+            <media src="..\Linkin Park\Meteora\12 Session.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Session" trackArtist="Linkin Park" duration="144733" cid="{0E18D596-2BDE-4583-9E59-798FF8AC1068}" tid="{B86E6EB4-AEC9-43B2-908F-FA95DB446947}"/>
+            <media src="..\Linkin Park\Meteora\13 Numb.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Numb" trackArtist="Linkin Park" duration="189506" cid="{DDB612F3-0F79-4188-BE61-93046E3111C2}" tid="{B03F35CD-7C52-41BA-805D-D9CF0B9B3107}"/>
+            <media src="..\Linkin Park\Somewhere I Belong\03 My December (Live).mp3" albumTitle="Somewhere I Belong" albumArtist="Linkin Park" trackTitle="My December (Live)" trackArtist="Linkin Park" duration="267972" cid="{90CDDB73-02C0-4BB2-8B6B-B190A9658DC6}" tid="{187B7420-DBA8-4540-8F46-EEE0EB513BBB}"/>
+            <media src="..\Linkin Park\Live in Texas Disc 1\01 Somewhere I Belong.wma" serviceId="{57497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Somewhere I Belong" trackArtist="Linkin Park" duration="217803" cid="{F95926AF-324A-4CFB-9F4F-A0B100D17681}" tid="{9553742F-1713-4024-9497-02C3376506DD}"/>
+            <media src="..\Linkin Park\Live in Texas Disc 1\02 Lying from You.wma" serviceId="{59497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Lying from You" trackArtist="Linkin Park" duration="187524" cid="{62958E90-DC03-420D-8CC9-DB59E72C0B24}" tid="{F53404DC-C585-4422-AEC9-60D14522D10E}"/>
+            <media src="..\Linkin Park\Live in Texas Disc 1\03 Papercut.wma" serviceId="{5B497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Papercut" trackArtist="Linkin Park" duration="186188" cid="{A3A7BCA2-58B9-4F7D-812F-2240DB0424BE}" tid="{E1A43AA4-1CEE-468D-899A-2583B73D1A71}"/>
+            <media src="..\Linkin Park\Live in Texas Disc 1\04 Points of Authority.wma" serviceId="{5D497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Points of Authority" trackArtist="Linkin Park" duration="205171" cid="{09A114DA-25C1-41D6-961D-2F308DB99675}" tid="{102E5CF4-AB1F-4C1A-8251-BD7CE3B004FF}"/>
+            <media src="..\Linkin Park\Live in Texas Disc 1\05 Runaway.wma" serviceId="{5F497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Runaway" trackArtist="Linkin Park" duration="187628" cid="{DC909E50-D2A3-4BEB-992D-44772ED31950}" tid="{9699AB24-9829-4EA5-A128-446D401A7FFC}"/>
+            <media src="..\Linkin Park\Live in Texas Disc 1\06 Faint.wma" serviceId="{61497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Faint" trackArtist="Linkin Park" duration="167055" cid="{A15BAAF3-CE6E-4815-915D-CFE357771254}" tid="{3DD0D30A-9ED5-444F-9368-9451821864C0}"/>
+            <media src="..\Linkin Park\Live in Texas Disc 1\07 From the Inside.wma" serviceId="{63497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="From the Inside" trackArtist="Linkin Park" duration="180941" cid="{273866F5-C1BE-4E4D-A722-83191D83E6CC}" tid="{EDABC389-008B-4452-BB95-7B30CA2F7D3F}"/>
+            <media src="..\Linkin Park\Live in Texas Disc 1\08 P5hng Me A-wy.wma" serviceId="{65497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="P5hng Me A*wy" trackArtist="Linkin Park" duration="305295" cid="{7C213A38-1A42-42C9-B658-3AFC32A845D9}" tid="{5C2A766F-8EFC-45D8-AA7A-4B169773D2ED}"/>
+            <media src="..\Linkin Park\Live in Texas Disc 1\09 Numb.wma" serviceId="{4F497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Numb" trackArtist="Linkin Park" duration="186792" cid="{AFC8F63A-1397-4CDB-B82D-A1867E3914FB}" tid="{AE4903BB-EDB6-4991-84A2-4C2D5D519A6F}"/>
+            <media src="..\Linkin Park\Live in Texas Disc 1\10 Crawling.wma" serviceId="{51497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Crawling" trackArtist="Linkin Park" duration="213866" cid="{3955929E-6179-4011-B556-73E529408DD2}" tid="{95C137C2-B4C6-419E-9FFE-CC553E029A10}"/>
+            <media src="..\Linkin Park\Live in Texas Disc 1\11 In the End.wma" serviceId="{53497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="In the End" trackArtist="Linkin Park" duration="211777" cid="{E13BC909-C33F-4E21-9940-A148B8936D0F}" tid="{298507BE-506E-4CCB-85B8-87260B13121A}"/>
+            <media src="..\Linkin Park\Live in Texas Disc 1\12 One Step Closer.wma" serviceId="{55497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="One Step Closer" trackArtist="Linkin Park" duration="253236" cid="{C26E930C-5CFA-42C3-85B3-AA2DE6023A7F}" tid="{5D7F8CAE-427D-4514-B3F4-887DEFBB196E}"/>
         </seq>
     </body>
 </smil>
