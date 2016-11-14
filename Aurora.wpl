@@ -1,0 +1,26 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="QInfo" content="KABEAGkAcwBwAGwAYQB5AEEAcgB0AGkAcwB0ACAARQBxAHUAYQBsAHMAIAAiAEEAdQByAG8AcgBhACIAKQA=;MAA=;TABvAGMAYQBsAE0ATABTAA==;;MAAtAA==;;LQAxAA==;;;ZgBhAGwAcwBlAA==;MAAtAA==;ZgBhAGwAcwBlAA==;MAAtAA=="/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.351"/>
+        <meta name="IsNetworkFeed" content="0"/>
+        <meta name="ItemCount" content="12"/>
+        <title>Aurora</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\01 Runaway.mp3" cid="{567500BD-D544-491F-86B1-022BEF7A5A19}" tid="{EEB604E3-4E05-4476-A62F-DA6090E32347}"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\02 Conqueror.mp3"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\03 Running with the Wolves.mp3"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\04 Lucky.mp3"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\05 Winter Bird.mp3"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\06 I Went Too Far.mp3"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\07 Through the Eyes of a Child.mp3"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\08 Warrior.mp3"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\09 Murder Song (5, 4, 3, 2, 1).mp3"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\10 Home.mp3"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\11 Under the Water.mp3"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\12 Black Water Lilies.mp3"/>
+        </seq>
+    </body>
+</smil>
