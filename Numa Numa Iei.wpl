@@ -2,18 +2,14 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.351"/>
-        <meta name="ItemCount" content="19"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
+        <meta name="ItemCount" content="21"/>
         <author/>
         <title>Numa Numa Iei</title>
     </head>
     <body>
         <seq>
-            <media src="..\Various artists\Dragostea Din Tei Remixes\Dragostea Din Tei (Remix).mp3" serviceId="{A3CA6C00-0500-11DB-89CA-0019B92A3933}" albumTitle="Summer EletroHits" albumArtist="Various Artists" trackTitle="Dragostea Din Tei (Remix)" trackArtist="O-Zone" duration="253668"/>
+            <media src="..\System Dance 11\Dragostea Din Tei\03-System Dance 11-Dragostea Din Tei.mp3" cid="{5BBDCBA1-C44C-4E46-861B-90448038525B}" tid="{7832A317-36E1-463C-81A2-0E3FF76F66E1}"/>
+            <media src="..\Gabry Ponte\Haiducii Vs O-Zone - Dragostea Din Tei (Rmx Gabry Ponte).mp3" tid="{127075AF-0885-4B27-A769-2F31F604D227}"/>
             <media src="..\O Android Technologies, Inc\Parody of Ma Ya Hi, aka Drag\My PC Is On Fire - Dell Laptop Tribute Video (Numa Numa Song).mp3" albumTitle="Parody of &quot;Ma Ya Hi&quot;, aka Drag" albumArtist="O Android Technologies, Inc." trackTitle="My PC" trackArtist="O Android Technologies, Inc." duration="215857" tid="{03E3A4DA-226C-4CA6-9B5E-282C68A2478E}"/>
             <media src="..\Haiducii\Dragostea Din Tei\01 Dragostea Din Tei.wma" serviceId="{C0097100-0500-11DB-89CA-0019B92A3933}" albumTitle="Dragostea Din Tei" albumArtist="Haiducii" trackTitle="Dragostea Din Tei" trackArtist="Haiducii" duration="213530" cid="{48FAA254-55D3-4322-8881-8D165293C99A}" tid="{9C7323F7-2615-49C4-9EDB-F7DE50358F49}"/>
             <media src="..\Haiducii\Dragostea Din Tei\02 Haiducii vs. Gabry Ponte - Radio version.wma" albumTitle="Dragostea Din Tei" albumArtist="Haiducii" trackTitle="Haiducii vs. Gabry Ponte - Radio version" trackArtist="Haiducii" duration="222958" cid="{CCCE81B5-8A82-40E7-973F-A43E7FF7179E}" tid="{A8DB1E67-2468-47C3-B293-AD4A03CE4394}"/>

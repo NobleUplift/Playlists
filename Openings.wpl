@@ -2,7 +2,7 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.351"/>
-        <meta name="ItemCount" content="19"/>
+        <meta name="ItemCount" content="18"/>
         <author/>
         <title>Openings</title>
     </head>
@@ -17,16 +17,16 @@
             <media src="..\World Order\2012\03 Machine Civilization.mp3" tid="{F90E292B-3D1D-46B6-BDC8-02E228B9F8A7}"/>
             <media src="..\Various artists\Toki o Kizamu Uta - TORCH\01 Toki wo Kizamu Uta.mp3" tid="{B70B4EEA-B181-4197-89B4-661786894207}"/>
             <media src="..\Various artists\Fullmetal Alchemist Final Best\07 Period.mp3" tid="{2F123A3C-F261-4C8F-AF9B-D1CE59BA2C70}" cid="{FFB993A3-0F11-4FF6-B6D4-3DDE3D8EB0EF}"/>
-            <media src="..\Shiro Sagisu\Evangelion 2.22\01 Time to Face the Day.mp3" tid="{CF27748E-E029-4F30-B994-0F35F73CA7AF}"/>
-            <media src="..\Shiro Sagisu\Evangelion 2.22\02 Seventh Angel.mp3" tid="{7BE21A70-78C1-41C0-956B-77789F701BCC}"/>
-            <media src="..\Shiro Sagisu\Evangelion 2.22\03 Eighth Angel.mp3" tid="{79709C8C-31FA-4511-86D5-2CF7601D536C}"/>
-            <media src="..\Shiro Sagisu\Evangelion 2.22\04 Shinji vs. Bardiel.mp3" tid="{13BBDED8-C3F8-4627-85ED-EA99806AD128}"/>
-            <media src="..\Shiro Sagisu\Evangelion 2.22\05 Farewell For Today.mp3" tid="{54CEC86E-BA6D-4BBE-A227-4689DAA77EDD}"/>
-            <media src="..\Shiro Sagisu\Evangelion 2.22\06 Mari vs. Zeruel.mp3" tid="{27729957-5278-41DF-A7D7-26B31E99D777}"/>
-            <media src="..\Shiro Sagisu\Evangelion 2.22\07 The Beast.mp3" tid="{0CCEEE20-0B88-4623-92A9-74CA1E9F831B}"/>
-            <media src="..\Shiro Sagisu\Evangelion 2.22\08 Shinji vs. Zeruel.mp3" tid="{B87C8280-89A2-433F-8FC0-E406B9085588}"/>
-            <media src="..\Shiro Sagisu\Evangelion 2.22\09 I Want Rei.mp3" tid="{29672660-6657-49E2-8E3B-5F1B8AAA7220}"/>
-            <media src="..\Shiro Sagisu\Evangelion 2.22\10 Credits.mp3" tid="{A9FD6A7A-CEAB-47B3-9011-093B51C42E03}"/>
+            <media src="..\Shiro Sagisu\Evangelion 2.22 [Ambient Soundtrack]\01 Time to Face the Day.mp3" tid="{AD0C0483-401E-44BD-B79F-476B9DAFB5BC}"/>
+            <media src="..\Shiro Sagisu\Evangelion 2.22 [Ambient Soundtrack]\02 Seventh Angel.mp3" tid="{7E5BDB8F-C961-4CAD-AFBD-1EF2DF000B85}"/>
+            <media src="..\Shiro Sagisu\Evangelion 2.22 [Ambient Soundtrack]\03 Eighth Angel.mp3" tid="{E8FD95AD-379D-4FF7-B101-B37C601D75F7}"/>
+            <media src="..\Shiro Sagisu\Evangelion 2.22 [Ambient Soundtrack]\04 Shinji vs. Bardiel.mp3" tid="{E845BC17-72EC-4F3F-83BA-EC8E671F9015}"/>
+            <media src="..\Shiro Sagisu\Evangelion 2.22 [Ambient Soundtrack]\05 Farewell For Today.mp3" tid="{29439252-958A-490D-B163-81054A1080D4}"/>
+            <media src="..\Shiro Sagisu\Evangelion 2.22 [Ambient Soundtrack]\06 Mari vs. Zeruel.mp3" tid="{09D3834C-AE27-4C3A-A19E-C7B7B4C15502}"/>
+            <media src="..\Shiro Sagisu\Evangelion 2.22 [Ambient Soundtrack]\07 The Beast.mp3" tid="{3B3D0D4F-30DD-4797-97B7-8E9E20923DDD}"/>
+            <media src="..\Shiro Sagisu\Evangelion 2.22 [Ambient Soundtrack]\08 Shinji vs. Zeruel.mp3" tid="{85576647-06E9-478E-BD4E-22803DB1E0FB}"/>
+            <media src="..\Shiro Sagisu\Evangelion 2.22 [Ambient Soundtrack]\09 I Want Rei.mp3" tid="{12BD1C60-1A6D-445F-A464-3021E9430BBD}"/>
+            <media src="..\Shiro Sagisu\Evangelion 2.22 [Ambient Soundtrack]\10 Credits.mp3" tid="{6C0D846A-A799-4864-8595-3428507DD908}"/>
         </seq>
     </body>
 </smil>

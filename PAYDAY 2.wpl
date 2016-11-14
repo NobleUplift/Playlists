@@ -2,7 +2,12 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.351"/>
-        <meta name="ItemCount" content="55"/>
+        <meta name="ItemCount" content="0"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>PAYDAY 2</title>
     </head>
@@ -48,21 +53,20 @@
             <media src="..\Simon Viklund\PAYDAY 2 Official Soundtrack\38_Backstab.mp3" tid="{FF39A747-EF37-497D-BD11-AC35F91931DC}"/>
             <media src="..\Simon Viklund\PAYDAY 2 Official Soundtrack\39_Shoutout.mp3" tid="{730FD7C8-E507-4F07-8839-C16232298671}"/>
             <media src="..\Simon Viklund\PAYDAY 2 Official Soundtrack\40_Full_Force_Forward_Hype_Train.mp3" tid="{DF4369B7-B855-48DB-99A3-C202AEB76262}"/>
-            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\01_hoxton_-_intro.mp3"/>
-            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\02_hoxton_-_a_merry_payday_christmas.mp3"/>
-            <media src="E:\Program Files (x86)\Steam\SteamApps\common\PAYDAY 2\PAYDAY 2 A Merry Payday Christmas Soundtrack\02_hoxton_-_a_merry_payday_christmas.mp3"/>
-            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\03_hoxton_-_a_heist_not_attempted_before.mp3"/>
-            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\04_hoxton_-_if_it_has_to_be_christmas.mp3"/>
-            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\05_hoxton_-_ive_been_a_bad_boy.mp3"/>
-            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\06_hoxton_-_christmas_in_prison.mp3"/>
-            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\07_hoxton_-_deck_the_safe_house.mp3"/>
-            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\08_simon_viklund_-_if_it_has_to_be_christmas_american_version.mp3"/>
-            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\09_hoxton_-_a_merry_payday_christmas_instrumental.mp3"/>
-            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\10_hoxton_-_a_heist_not_attempted_before_instrumental.mp3"/>
-            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\11_hoxton_-_if_it_has_to_be_christmas_instrumental.mp3"/>
-            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\12_hoxton_-_ive_been_a_bad_boy_instrumental.mp3"/>
-            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\13_hoxton_-_christmas_in_prison_instrumental.mp3"/>
-            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\14_hoxton_-_deck_the_safe_house_instrumental.mp3"/>
+            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\01_hoxton_-_intro.mp3" cid="{6296B942-2A1D-46D5-9F74-59214BF44548}" tid="{323679B4-B10D-4B9B-8140-41339D4E26A4}"/>
+            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\02_hoxton_-_a_merry_payday_christmas.mp3" cid="{6296B942-2A1D-46D5-9F74-59214BF44548}" tid="{1458F4FC-56FB-4098-923B-152E864573CA}"/>
+            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\03_hoxton_-_a_heist_not_attempted_before.mp3" cid="{FE863FDB-1BB4-46A6-9742-C24C9FB522F0}" tid="{1B2DFBB8-9B6A-4E6D-9A4B-66D2F9D62254}"/>
+            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\04_hoxton_-_if_it_has_to_be_christmas.mp3" cid="{F3791D38-75BB-4E3A-AC94-D5A911229B83}" tid="{212B21AF-13EF-4FAC-935F-18C3E880D2D8}"/>
+            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\05_hoxton_-_ive_been_a_bad_boy.mp3" cid="{D5B2DCF0-15EF-440D-A3B1-9F9A74890E48}" tid="{9594DABF-8D24-4AAD-9FD8-B6132FC04CA9}"/>
+            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\06_hoxton_-_christmas_in_prison.mp3" cid="{B5BA7A4A-A320-450C-B270-C364616C1746}" tid="{AA64D8FE-A5FD-48F5-9497-3BF1EC391489}"/>
+            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\07_hoxton_-_deck_the_safe_house.mp3" cid="{D4C0CF36-A51B-414D-BA85-F9B11AB405DE}" tid="{4C97F6F0-5416-4EE8-80B2-DDAA7E49E0DC}"/>
+            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\08_simon_viklund_-_if_it_has_to_be_christmas_american_version.mp3" cid="{40FABDFF-1D72-476D-8146-E1E25A0926E2}" tid="{ABE9BE69-E17C-4960-8191-66917E63CE09}"/>
+            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\09_hoxton_-_a_merry_payday_christmas_instrumental.mp3" cid="{19CB0FB1-17EB-46E7-853C-E61B20F1DE3A}" tid="{B15B125C-638C-4F5F-B66A-D5A3A7A16C41}"/>
+            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\10_hoxton_-_a_heist_not_attempted_before_instrumental.mp3" cid="{A9A1621B-1C54-4C4E-BBDB-DB4B0D1D8E83}" tid="{B7F25D36-593E-418A-987C-3B8F2B35E4A8}"/>
+            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\11_hoxton_-_if_it_has_to_be_christmas_instrumental.mp3" cid="{1AE1B414-3CB7-431A-B46B-73CF7F31A0C8}" tid="{A65E5092-E651-4156-BE0E-885446826C68}"/>
+            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\12_hoxton_-_ive_been_a_bad_boy_instrumental.mp3" cid="{9330DD80-80CF-4C9C-858D-00791325AE94}" tid="{3456EEB1-D092-447A-9585-41BC049AB4B5}"/>
+            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\13_hoxton_-_christmas_in_prison_instrumental.mp3" tid="{19B79184-8B22-4EF7-8E8E-7A3FA435EA1A}"/>
+            <media src="..\Simon Viklund\PAYDAY 2 A Merry Payday Christmas Soundtrack\14_hoxton_-_deck_the_safe_house_instrumental.mp3" tid="{3473C573-372E-4C2F-A759-6F4FBFAA6AF9}"/>
         </seq>
     </body>
 </smil>

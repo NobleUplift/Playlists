@@ -24,7 +24,7 @@
             <media src="..\The Lonely Island\Incredibad\16 Punch You in the Jeans.mp3" cid="{E6482380-99CF-41E3-8DF1-CD070AB60286}" tid="{E72B9A5C-783B-42F8-860F-3DB8CF724AF3}"/>
             <media src="..\The Lonely Island\Incredibad\17 Space Olympics.mp3" cid="{F02A4018-BF7B-4FA5-B34B-507D91DC59D1}" tid="{7988797D-D9B2-46E0-A7DA-38F1F924D60B}"/>
             <media src="..\The Lonely Island\Incredibad\18 Natalie&apos;s Rap.mp3" cid="{EE3BFB60-0795-41CB-BC18-8694A1782317}" tid="{0124E603-AD35-4342-A80F-90F070738506}"/>
-            <media src="..\We Are Scientists\Great Escape\17 The Great Escape.mp3" tid="{5F9965C8-C43C-496D-849D-4392B51E4DCE}"/>
+            <media src="..\We Are Scientists\With Love and Squalor\08 The Great Escape.mp3" cid="{441132BB-6D89-4CB5-8649-5747C19A5A78}" tid="{CBAF2C6B-2BCB-4765-AEE2-13258AAD49D4}"/>
             <media src="..\The Lonely Island\Turtleneck &amp; Chain\02 Mama.mp3" cid="{B8ED5880-A538-431B-AB18-8DA87DB5B8E8}" tid="{B624DCBF-8D9F-4272-BA3B-57D9A1FC862E}"/>
             <media src="..\The Lonely Island\YouTube Channel\I Just Had Sex (feat. Akon).mp3" tid="{C21BA253-1E3C-423E-95CF-7B4147D4D2A2}"/>
             <media src="..\The Lonely Island\YouTube Channel\Jack Sparrow (feat. Michael Bolton).mp3" tid="{BB3456F4-7463-45B5-82BB-4A902C533396}"/>
@@ -48,12 +48,12 @@
             <media src="..\The Lonely Island\The Wack Album\10 I&apos;m A Hustler [Song-].mp3" cid="{6C6A145A-3B79-45AA-80AC-0920D2D2F7F4}" tid="{64EC2EB7-1665-4A15-B850-3754945C323E}"/>
             <media src="..\The Lonely Island\The Wack Album\11 Spring Break Anthem.mp3" cid="{2BA3656D-4631-402F-A083-14D11E7AE8B4}" tid="{0313EF33-90A8-419F-9A65-D12A0C6A5668}"/>
             <media src="..\The Lonely Island\The Wack Album\12 I Run NY.mp3" cid="{616F8BDD-2761-4261-BF98-27C111707DEA}" tid="{DFCE0CEF-1A15-4E09-8E9D-B80ECFF2C800}"/>
-            <media src="..\The Lonely Island\The Wack Album\13 I Don&apos;t Give A Honk.mp3" cid="{E937E212-23B1-479E-A3AC-2A03915699EC}" tid="{9B75F17A-46D8-4CCF-9924-E87F5751143E}"/>
-            <media src="..\The Lonely Island\The Wack Album\15 Meet The Crew.mp3" cid="{51471CD6-85DA-4B1D-BE93-62C93F533557}" tid="{4D23BE83-15EF-41C9-BC63-65DE014EC818}"/>
-            <media src="..\The Lonely Island\The Wack Album\17 We Are A Crowd.mp3" cid="{6C750B13-F915-42CB-BE26-CF9C8C72DADE}" tid="{C725A51A-C587-43E9-BF90-67BCAC772BE7}"/>
-            <media src="..\The Lonely Island\The Wack Album\18 The Compliments.mp3" cid="{71C84D8B-46B4-4FEB-9087-73B10CF44C00}" tid="{762F0993-EB0A-461F-BAD9-8024D3A84997}"/>
-            <media src="..\The Lonely Island\The Wack Album\19 We Need Love.mp3" cid="{BE8BB0D7-A593-4E46-9473-37AD6A2FB88F}" tid="{A92683C5-08E9-4D63-9872-D2F782938287}"/>
-            <media src="..\The Lonely Island\The Wack Album\20 Perfect Saturday.mp3" cid="{2F414CE4-79DB-4AD6-A264-4E86B894365C}" tid="{C2F28E13-B8D4-4A1E-AE19-B0F9528B0302}"/>
+            <media src="..\The Lonely Island\The Wack Album\13 I Don&apos;t Give A Honk.mp3" cid="{E937E212-23B1-479E-A3AC-2A03915699EC}" tid="{74EE5B79-1C2E-4C2F-B170-E7F6CF845C6A}"/>
+            <media src="..\The Lonely Island\The Wack Album\15 Meet The Crew.mp3" cid="{51471CD6-85DA-4B1D-BE93-62C93F533557}" tid="{1135C6D1-54A9-4210-A30D-CD2A8210F69F}"/>
+            <media src="..\The Lonely Island\The Wack Album\17 We Are A Crowd.mp3" cid="{6C750B13-F915-42CB-BE26-CF9C8C72DADE}" tid="{F3383F0C-7042-4187-A9A3-5570F378C32F}"/>
+            <media src="..\The Lonely Island\The Wack Album\18 The Compliments.mp3" cid="{71C84D8B-46B4-4FEB-9087-73B10CF44C00}" tid="{45C6B387-7603-4919-B37C-DF06D97728FC}"/>
+            <media src="..\The Lonely Island\The Wack Album\19 We Need Love.mp3" cid="{BE8BB0D7-A593-4E46-9473-37AD6A2FB88F}" tid="{E6DAAA55-03AC-41C8-8A3C-8BB5369B3196}"/>
+            <media src="..\The Lonely Island\The Wack Album\20 Perfect Saturday.mp3" cid="{2F414CE4-79DB-4AD6-A264-4E86B894365C}" tid="{E5CBCC86-0110-4B93-A532-839EA79EAE62}"/>
         </seq>
     </body>
 </smil>
