@@ -3,11 +3,6 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.447"/>
         <meta name="ItemCount" content="130"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
         <author/>
         <title>Singles</title>
     </head>
@@ -48,6 +43,14 @@
             <media src="..\Mindless Self Indulgence\You&apos;ll Rebel to Anything\03 Straight to Video.mp3" cid="{38A2B4DF-09B3-4E32-AE90-C0B1FDFE1CFD}" tid="{EC00CEC6-56F9-480B-81BE-D18913D3097D}"/>
             <media src="..\Mindless Self Indulgence\You&apos;ll Rebel to Anything\01 Shut Me Up [-].mp3" cid="{6AA02E66-7DD0-4DF1-9366-9EBD175D92E2}" tid="{4CCE9910-6889-4B9B-89A4-047A4063342D}"/>
             <media src="..\Schandmaul\Narrenkonig\01 Walpurgisnacht.mp3" cid="{B361D958-0FA6-4F35-9D6A-7FECDB200D47}" tid="{2DF34CAF-90A2-40C0-A330-3A085B7D32EB}"/>
+            <media src="..\Queen\Jazz\04 Bicycle Race.mp3" cid="{82FCD83E-2AB3-4F9B-B190-FE69EF2541B5}" tid="{019F8B48-C4DF-4E43-8318-F2A3641BDAD7}"/>
+            <media src="..\Queen\A Night at the Opera\11 Bohemian Rhapsody.mp3" cid="{CB29D719-D3AF-4F93-AF63-F1FDE248C0F5}" tid="{26B86E5F-92F4-438A-AD9D-3B9854E3A6AB}"/>
+            <media src="..\Queen\The Game\03 Another One Bites the Dust.mp3" cid="{C1CFF87E-4DF4-4101-A775-C72259E3A958}" tid="{7F49DDAC-B861-4347-9AB0-D6315F968A0B}"/>
+            <media src="..\Queen\Jazz\04 Don&apos;t Stop Me Now.mp3" cid="{59C37CCB-C84E-495A-B4B7-8C206647C04A}" tid="{FAA72AAC-D9C7-4FC9-9403-0EBBF317C750}"/>
+            <media src="..\LMFAO\Sorry for Party Rocking [Deluxe Edition]\03 Party Rock Anthem.mp3" cid="{C15C3980-C584-4903-9267-B6AC85372A87}" tid="{9838BE48-6BED-48E2-8EBA-2AC80897312F}"/>
+            <media src="..\LMFAO\Sorry for Party Rocking [Deluxe Edition]\04 Sexy and I Know It.mp3" cid="{3617A505-0152-486C-B052-8C7DF2807490}" tid="{A9D7887E-6670-4371-8235-7C5D564D0F60}"/>
+            <media src="..\LMFAO\Party Rock\13 Yes.mp3" cid="{12ABD683-57B2-405B-B697-4AC0583FE1B5}" tid="{7F1C5EC5-1F4A-495C-8AB6-5085899C4931}"/>
+            <media src="..\LMFAO\Sorry for Party Rocking [Deluxe Edition]\02 Sorry for Party Rocking.mp3" cid="{E61E17F6-E774-45A7-83FD-A80CD22202A1}" tid="{D1634C16-0CCB-4812-982D-9F6D372D90E3}"/>
             <media src="..\The Flairs\Truckers Delight - EP\01 Truckers Delight.mp3" tid="{CD3A1207-DE1E-43B8-A252-23A71E127902}"/>
             <media src="..\Pentatonix\PTX, Vol. 2\06 I Need Your Love.mp3" cid="{6E66BD2E-88AD-48FD-B624-4E7F5237D408}" tid="{39ABFB76-1338-4C94-A2C7-12A453929049}"/>
             <media src="..\Nicky Romero\Toulouse\Nicky Romero - Toulouse.mp3" tid="{87094516-965E-49AF-AB95-A5AB5B86A440}" cid="{C6C21D4F-7C04-440F-994D-7F6975C5F5AF}"/>
@@ -135,14 +138,6 @@
             <media src="..\Various artists\Zero Wing\All Your Base.mp3" albumTitle="Zero Wing Original Soundtrack" albumArtist="Zero Wing" trackTitle="All Your Base Are Belong To Us" trackArtist="Zero Wing" duration="234828" tid="{15FC0A53-53D9-44AC-8785-7802DAAACCBE}"/>
             <media src="..\Eiffel 65\Europop\05 Blue (Da Ba Dee).mp3" serviceId="{155C0D00-0100-11DB-89CA-0019B92A3933}" albumTitle="Uploaded by Simpson" albumArtist="Various artists" trackTitle="Blue (Da Ba Dee)" trackArtist="Eiffel 65" duration="285735" cid="{1B50D529-F98B-4D45-B537-23930C2CE546}" tid="{99C0E57D-E393-4F03-9C2D-8174AC1E4540}"/>
             <media src="..\Gary Jules\ZEI\01 Mad World.mp3" serviceId="{D9270E02-0100-11DB-89CA-0019B92A3933}" albumTitle="ZEI" albumArtist="Gary Jules" trackTitle="Mad World" trackArtist="Gary Jules" duration="187645" cid="{F63DF3D0-90A9-4B77-BFA9-8DA7F1785316}" tid="{82F90574-310E-4035-80EC-E3957F371ABB}"/>
-            <media src="..\Queen\Jazz\04 Bicycle Race.mp3" cid="{82FCD83E-2AB3-4F9B-B190-FE69EF2541B5}" tid="{019F8B48-C4DF-4E43-8318-F2A3641BDAD7}"/>
-            <media src="..\Queen\A Night at the Opera\11 Bohemian Rhapsody.mp3" cid="{CB29D719-D3AF-4F93-AF63-F1FDE248C0F5}" tid="{26B86E5F-92F4-438A-AD9D-3B9854E3A6AB}"/>
-            <media src="..\Queen\The Game\03 Another One Bites the Dust.mp3" cid="{C1CFF87E-4DF4-4101-A775-C72259E3A958}" tid="{7F49DDAC-B861-4347-9AB0-D6315F968A0B}"/>
-            <media src="..\Queen\Jazz\04 Don&apos;t Stop Me Now.mp3" cid="{59C37CCB-C84E-495A-B4B7-8C206647C04A}" tid="{FAA72AAC-D9C7-4FC9-9403-0EBBF317C750}"/>
-            <media src="..\LMFAO\Sorry for Party Rocking [Deluxe Edition]\03 Party Rock Anthem.mp3" cid="{C15C3980-C584-4903-9267-B6AC85372A87}" tid="{9838BE48-6BED-48E2-8EBA-2AC80897312F}"/>
-            <media src="..\LMFAO\Sorry for Party Rocking [Deluxe Edition]\04 Sexy and I Know It.mp3" cid="{3617A505-0152-486C-B052-8C7DF2807490}" tid="{A9D7887E-6670-4371-8235-7C5D564D0F60}"/>
-            <media src="..\LMFAO\Party Rock\13 Yes.mp3" cid="{12ABD683-57B2-405B-B697-4AC0583FE1B5}" tid="{7F1C5EC5-1F4A-495C-8AB6-5085899C4931}"/>
-            <media src="..\LMFAO\Sorry for Party Rocking [Deluxe Edition]\02 Sorry for Party Rocking.mp3" cid="{E61E17F6-E774-45A7-83FD-A80CD22202A1}" tid="{D1634C16-0CCB-4812-982D-9F6D372D90E3}"/>
         </seq>
     </body>
 </smil>
