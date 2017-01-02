@@ -8,6 +8,8 @@
     </head>
     <body>
         <seq>
+            <media src="..\Alan Walker\NoCopyrightSounds\Alan Walker - Spectre.mp3" tid="{0DCC516A-C3E1-42A7-8E1A-01FFD1E0B89A}"/>
+            <media src="..\Jai Wolf\Indian Summer\Jai Wolf - Indian Summer.mp3"/>
             <media src="..\Disturbed\Immortalized\11 The Sound Of Silence.mp3" cid="{7B144746-416C-4B76-AA7E-BAA6D9A3370E}" tid="{6C9FC880-2DDA-4BE6-97F4-ADA49927E403}"/>
             <media src="..\Limp Bizkit\Results May Vary\11 Behind Blue Eyes.mp3" cid="{099CF003-724D-4856-90FB-A157163AE1A7}" tid="{3B78592F-C2B4-4556-A242-9DBFB1A7CA1A}"/>
             <media src="..\The Cranberries\No Need To Argue\05 Zombie.mp3" cid="{50A7713B-38F9-46EC-9956-8AA37746BB7B}" tid="{D0A4BABE-1A10-472B-98F7-F4BD0FF8FD74}"/>
