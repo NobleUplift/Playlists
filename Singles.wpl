@@ -2,7 +2,7 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.953"/>
-        <meta name="ItemCount" content="130"/>
+        <meta name="ItemCount" content="134"/>
         <author/>
         <title>Singles</title>
     </head>
@@ -17,6 +17,8 @@
             <media src="..\Various artists\Hyper Street Fighter II Anniversary Edition Original Soundtrack\CPS2 - Guile&apos;s Theme - Stage.mp3" tid="{ED12A7E0-AF96-43EE-9C0F-79B81A5C243A}"/>
             <media src="..\Andrew W.K\I Get Wet\07 She Is Beautiful.mp3" cid="{8FD5EC42-B951-4BCC-818F-C5925E7547AC}" tid="{CA7E6F8F-F931-4564-B801-FB26F0C07E84}"/>
             <media src="..\Calvin Harris\I Need Your Love\01 I Need Your Love ft. Ellie Goulding.mp3" tid="{9FAE1D89-EBB5-4B29-A854-298F667983EA}"/>
+            <media src="..\Fun\Some Nights\03 We Are Young.mp3" tid="{2931773F-B3E5-44AB-B3A3-AA9FA31BBE66}"/>
+            <media src="..\Fun\Some Nights\02 Some Nights.mp3" cid="{568619DA-6457-4082-A507-A37E131CBC83}" tid="{E2AC95D2-52E7-4F78-8455-03B77567312E}"/>
             <media src="..\Tokio Hotel\Humanoid En\02 Human Connect to Human.mp3" cid="{4E95B9FB-E1A6-43C9-A030-BD7178BC788C}" tid="{7C627BA0-74EE-4AAF-8891-3D77C18B6B7A}"/>
             <media src="..\Various artists\K-ON! ED Single - Don&apos;t say &apos;lazy&apos; [Various]\01 - Don&apos;t say &apos;lazy&apos;.mp3" cid="{A6A154F4-EEF5-4E4E-8D96-B5D11B4BC31F}" tid="{C1F6F7B1-DFB4-4E97-ABBB-5110F36EA85F}"/>
             <media src="..\Friedrich Liechtenstein\Supergeil\01 Supergeil (feat. Friedrich Liechtenstein).mp3" tid="{2C0F08A9-D5CF-45E1-A229-45254A3DAA0F}"/>
@@ -60,8 +62,6 @@
             <media src="..\Mittsies\Exordium\02 Stratum (Extended Mix).mp3" tid="{A6012B6D-742F-40AA-B827-663C037150C3}"/>
             <media src="..\Various artists\Lana Del Rey vs Cedric Gervais\01 Lana Del Rey vs Cedric Gervais &apos;Summertime Sadness&apos; Remix.mp3" tid="{409B8F51-4EA0-4483-85D5-5912465D433C}"/>
             <media src="..\Martin Garrix\Animals\Martin Garrix - Animals (Official Video).mp3" tid="{2E3D34C1-D92E-4D6E-8ED0-F56F8FDFEB29}"/>
-            <media src="..\Fun\Some Nights\03 We Are Young.mp3" tid="{2931773F-B3E5-44AB-B3A3-AA9FA31BBE66}"/>
-            <media src="..\Fun\Some Nights\02 Some Nights.mp3" cid="{568619DA-6457-4082-A507-A37E131CBC83}" tid="{E2AC95D2-52E7-4F78-8455-03B77567312E}"/>
             <media src="..\Nero\Welcome Reality\13 Promises.mp3" albumTitle="YouTube" albumArtist="Various artists" trackTitle="Promises" trackArtist="Nero" duration="239882" tid="{E087FBE0-1A78-4EF9-BCBC-8A97C88966FA}" cid="{186E0969-0F9D-425E-A72A-B2B7780D5D97}"/>
             <media src="..\Various artists\Borderlands\28 Mad Moxxi Theme.mp3" tid="{F103E54C-F608-4873-8431-B0E54A389D86}"/>
             <media src="..\Andrew W.K\I Get Wet\02 Party Hard.mp3" serviceId="{DF844F00-0500-11DB-89CA-0019B92A3933}" albumTitle="I Get Wet" albumArtist="Andrew W.K." trackTitle="Party Hard" trackArtist="Andrew W.K." duration="184973" cid="{A788B873-0000-4388-9148-BCE781B31C96}" tid="{AB4FF517-AE78-4D48-A814-A941B5B9F868}"/>
