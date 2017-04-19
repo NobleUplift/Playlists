@@ -8,6 +8,13 @@
     </head>
     <body>
         <seq>
+            <media src="..\Yes\Roundabout\01 Roundabout.mp3" tid="{9C83A76D-854A-4F89-86F2-CA4FAE1EA176}"/>
+            <media src="..\Anarchic System\Popcorn\01 Popcorn.mp3" tid="{654E5B47-90C3-47D3-9AC1-960B5D8E6F6A}"/>
+            <media src="..\Major Lazer\Peace Is The Mission [Explicit]\04 Lean On (feat MØ &amp; DJ Snake).mp3" cid="{67BF004B-D1E4-4377-992F-DF91F385B156}" tid="{3477E106-BE72-40AA-A1D6-4F8B5C4404E8}"/>
+            <media src="..\Bag Raiders\Bag Raiders\03 Shooting Stars.mp3" tid="{5A83E6FC-4A93-445B-91D2-AFBF51952A3C}"/>
+            <media src="..\M83\Hurry Up, We re Dreaming - Disc 1\02 Midnight City.mp3" cid="{2EBF81E3-B1B7-46E7-A282-7AC3B8357399}" tid="{6D2581E4-1CAC-4D39-9C4A-3C2D79EC6794}"/>
+            <media src="..\M83\Hurry Up, We re Dreaming - Disc 1\03 Reunion.mp3" cid="{6DC1D9FF-ED40-48FC-BD1B-E09F531C3715}" tid="{4B423923-B561-4E05-8160-BFD0A4D8421D}"/>
+            <media src="..\Kana Hanazawa\Renai Circulation\01 Renai Circulation.mp3" tid="{657178A4-9D21-47A3-B871-A67E06BFB432}"/>
             <media src="..\Alan Walker\NoCopyrightSounds\Alan Walker - Spectre.mp3" tid="{0DCC516A-C3E1-42A7-8E1A-01FFD1E0B89A}"/>
             <media src="..\Jai Wolf\Indian Summer\Jai Wolf - Indian Summer.mp3" tid="{110A62C4-2A26-4EC9-8377-0C4D803413F9}"/>
             <media src="..\Disturbed\Immortalized\11 The Sound Of Silence.mp3" cid="{7B144746-416C-4B76-AA7E-BAA6D9A3370E}" tid="{6C9FC880-2DDA-4BE6-97F4-ADA49927E403}"/>
@@ -46,7 +53,6 @@
             <media src="..\Rammstein\Sehnsucht\02 Engel.mp3" cid="{4CB368EE-4B5E-45B8-ACFD-776E387E1046}" tid="{D234F7CA-9634-46AC-B009-42B08AA3FC08}"/>
             <media src="..\Mindless Self Indulgence\You&apos;ll Rebel to Anything\03 Straight to Video.mp3" cid="{38A2B4DF-09B3-4E32-AE90-C0B1FDFE1CFD}" tid="{EC00CEC6-56F9-480B-81BE-D18913D3097D}"/>
             <media src="..\Mindless Self Indulgence\You&apos;ll Rebel to Anything\01 Shut Me Up [-].mp3" cid="{6AA02E66-7DD0-4DF1-9366-9EBD175D92E2}" tid="{4CCE9910-6889-4B9B-89A4-047A4063342D}"/>
-            <media src="..\Schandmaul\Narrenkonig\01 Walpurgisnacht.mp3" cid="{B361D958-0FA6-4F35-9D6A-7FECDB200D47}" tid="{2DF34CAF-90A2-40C0-A330-3A085B7D32EB}"/>
             <media src="..\Queen\Jazz\04 Bicycle Race.mp3" cid="{82FCD83E-2AB3-4F9B-B190-FE69EF2541B5}" tid="{019F8B48-C4DF-4E43-8318-F2A3641BDAD7}"/>
             <media src="..\Queen\A Night at the Opera\11 Bohemian Rhapsody.mp3" cid="{CB29D719-D3AF-4F93-AF63-F1FDE248C0F5}" tid="{26B86E5F-92F4-438A-AD9D-3B9854E3A6AB}"/>
             <media src="..\Queen\The Game\03 Another One Bites the Dust.mp3" cid="{C1CFF87E-4DF4-4101-A775-C72259E3A958}" tid="{7F49DDAC-B861-4347-9AB0-D6315F968A0B}"/>
@@ -64,15 +70,16 @@
             <media src="..\Martin Garrix\Animals\Martin Garrix - Animals (Official Video).mp3" tid="{2E3D34C1-D92E-4D6E-8ED0-F56F8FDFEB29}"/>
             <media src="..\Nero\Welcome Reality\13 Promises.mp3" albumTitle="YouTube" albumArtist="Various artists" trackTitle="Promises" trackArtist="Nero" duration="239882" tid="{E087FBE0-1A78-4EF9-BCBC-8A97C88966FA}" cid="{186E0969-0F9D-425E-A72A-B2B7780D5D97}"/>
             <media src="..\Various artists\Borderlands\28 Mad Moxxi Theme.mp3" tid="{F103E54C-F608-4873-8431-B0E54A389D86}"/>
+            <media src="..\Schandmaul\Narrenkonig\01 Walpurgisnacht.mp3" cid="{B361D958-0FA6-4F35-9D6A-7FECDB200D47}" tid="{2DF34CAF-90A2-40C0-A330-3A085B7D32EB}"/>
             <media src="..\Andrew W.K\I Get Wet\02 Party Hard.mp3" serviceId="{DF844F00-0500-11DB-89CA-0019B92A3933}" albumTitle="I Get Wet" albumArtist="Andrew W.K." trackTitle="Party Hard" trackArtist="Andrew W.K." duration="184973" cid="{A788B873-0000-4388-9148-BCE781B31C96}" tid="{AB4FF517-AE78-4D48-A814-A941B5B9F868}"/>
             <media src="..\Andrew W.K\I Get Wet\04 Ready to Die.mp3" serviceId="{E1844F00-0500-11DB-89CA-0019B92A3933}" albumTitle="I Get Wet" albumArtist="Andrew W.K." trackTitle="Ready to Die" trackArtist="Andrew W.K." duration="174576" cid="{8253E57B-D8D0-4168-975E-743BD6EB02C5}" tid="{BADABF2B-D29C-4F91-AF55-7171B05D0F36}"/>
+            <media src="..\Shook\Quicker (Shook Remix)\01 Quicker (Shook Remix).mp3" tid="{728AE419-168B-4756-8654-3D8AF91D9373}"/>
             <media src="..\I Blame Coco\The Constant\01 Selfmachine.mp3" serviceId="{F8776401-0500-11DB-89CA-0019B92A3933}" albumTitle="The Constant" albumArtist="I Blame Coco" trackTitle="Selfmachine" trackArtist="I Blame Coco" duration="212062" tid="{1F55D0C2-1BFC-4097-A8E4-1BAE9BB1F567}" cid="{9334C8D3-899E-498F-870F-9EE59788EEF8}"/>
             <media src="..\I Blame Coco\The Constant\02 In Spirit Golden.mp3" cid="{D43EFD89-CD93-416D-A0DF-570ABC6660CC}" tid="{173415FA-4709-436B-989D-0C9D69DD1450}"/>
             <media src="..\I Blame Coco\The Constant\03 Quicker.mp3" serviceId="{F6776401-0500-11DB-89CA-0019B92A3933}" albumTitle="The Constant" albumArtist="I Blame Coco" trackTitle="Quicker" trackArtist="I Blame Coco" duration="190989" tid="{EFC96018-D36A-4F78-9E10-2B7BCAD32F04}" cid="{D1AB5DCF-8A8F-43A4-B04E-93E917D9EB27}"/>
             <media src="..\Robyn\Body Talk\01 Dancing on My Own [Radio Version][Version].mp3" cid="{95ACA88B-32B3-479C-BC7A-5C224D9E8F36}" tid="{C4598F45-DBB1-4E3B-9767-583F32124C76}"/>
             <media src="..\Robyn\Body Talk\02 Fembot.mp3" cid="{FD783F89-41F4-47C4-B8CF-5D1557010EA6}" tid="{17A74FF4-CC92-4546-A1A2-665992AFB46F}"/>
             <media src="..\Robyn\Body Talk\08 Call Your Girlfriend.mp3" albumTitle="Body Talk" albumArtist="Robyn" trackTitle="Call Your Girlfriend" trackArtist="Robyn" duration="210050" tid="{5DB238AD-D6FD-4B9E-BD68-A1F3BBAE7D61}" cid="{523C684C-DC18-4E74-A621-A4C561B5EBDB}"/>
-            <media src="..\Shook\Quicker (Shook Remix)\01 Quicker (Shook Remix).mp3" tid="{728AE419-168B-4756-8654-3D8AF91D9373}"/>
             <media src="..\Green Day\American Idiot\03 Holiday.mp3" tid="{369D2D25-9843-4874-8873-CE71D6B6DC44}" cid="{4E84969A-054E-4068-8A25-863636D8EB27}"/>
             <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\03 Ｔａｋｅ　Ｍｙ　Ｃｈａｎｃｅ.mp3" cid="{23E31FB5-7063-4712-85FE-6EA68A2D29EA}" tid="{DC3E139F-57FC-4502-8078-C183FCA25650}"/>
             <media src="..\World Order\World Order\01 World Order.mp3" tid="{BFB16219-6291-4283-A6D7-F20506B35E20}" cid="{8501A724-1E95-4018-8A4E-B7F7F6B66EC9}"/>
