@@ -3,11 +3,17 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.16299.192"/>
         <meta name="ItemCount" content="148"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>Singles</title>
     </head>
     <body>
         <seq>
+            <media src="..\Wehrmacht Choir\Songs of the Wehrmacht\01 Erika - German Marching Song.mp3"/>
             <media src="..\Yes\Fragile\01 Roundabout.mp3" tid="{8C501838-E8F3-4E2B-BCC7-2ECBA9C61FD4}" cid="{91AAE564-773E-416B-88E1-1BBB7E5520B2}"/>
             <media src="..\Anarchic System\Best of Anarchic System\14 Pop Corn (Instrumental Version).mp3" cid="{4A9364B2-0E0E-4D43-919D-D16756FFEAC2}" tid="{1F47BC94-DEEC-4507-8F1F-18D5E0F224AC}"/>
             <media src="..\Major Lazer\Peace Is The Mission\04 Lean On.mp3" cid="{67BF004B-D1E4-4377-992F-DF91F385B156}" tid="{CAA2C014-2854-4743-B680-290E5496CD79}"/>
@@ -137,7 +143,7 @@
             <media src="..\Various Artists\Paranoia Agent Original Soundtrack\01 Yume no Shima Shinen Kouen.mp3" serviceId="{414E7400-0500-11DB-89CA-0019B92A3933}" albumTitle="Mousou - Paranoia Agent Original Soundtrack" albumArtist="Soundtrack" trackTitle="Yume no Shima Shinen Kouen" trackArtist="Susumu Hirasawa" duration="223665" cid="{7EF7B1E4-E142-4421-93B3-783104DC2723}" tid="{DAE2117A-ADFB-4E9C-B15C-959B1E33F3A5}"/>
             <media src="..\Basshunter\Now You&apos;re Gone- The Album\10 I Can Walk On Water.mp3" serviceId="{117DDF00-0500-11DB-89CA-0019B92A3933}" albumTitle="Now You&apos;re Gone - The Album" albumArtist="Basshunter" trackTitle="I Can Walk On Water" trackArtist="Basshunter" duration="222101" cid="{46CC57CD-CC1D-44C1-A0C8-1FFDA5512ADA}" tid="{37B13358-554D-4311-917F-3DFAEBF5DBB2}"/>
             <media src="..\Men Without Hats\Rhythm of Youth [With Folk of the 80&apos;s EP]\14 The Safety Dance.wma" cid="{DCD4F5EF-050A-4367-90EF-B6AE03FCB849}" tid="{53091716-203A-459E-BA3E-8D4C573A7421}"/>
-            <media src="..\Various artists\Mortal Kombat\Mortal Combat Techno Remix.mp3" serviceId="{38EF1B00-0500-11DB-89CA-0019B92A3933}" albumTitle="Mortal Kombat [Original Soundtrack]" albumArtist="Soundtrack" trackTitle="Mortal Combat Techno Remix" trackArtist="Crystal Method" duration="201480" cid="{789B8A21-E7EB-430F-902B-CCBBDF5AE8E3}" tid="{6CF3694B-0731-4499-BB3C-6D07753B457F}"/>
+            <media src="..\Various Artists\Mortal Kombat [Original Soundtrack]\15 Mortal Combat Techno Remix.mp3" serviceId="{38EF1B00-0500-11DB-89CA-0019B92A3933}" albumTitle="Mortal Kombat [Original Soundtrack]" albumArtist="Soundtrack" trackTitle="Mortal Combat Techno Remix" trackArtist="Crystal Method" duration="201480" cid="{789B8A21-E7EB-430F-902B-CCBBDF5AE8E3}" tid="{6CF3694B-0731-4499-BB3C-6D07753B457F}"/>
             <media src="..\Flobots\Platypus\04 Handle Bars.mp3" cid="{B500183E-980E-4A6A-9571-0DEF3A499345}" tid="{B87B56FE-F65D-4083-8D41-1303907F4A74}"/>
             <media src="..\Red Army Choir\Best of the Red Army Choir\01 USSR National Anthem.mp3" albumTitle="Songs of the Soviet Union" albumArtist="Red Army Choir" trackTitle="USSR National Anthem" trackArtist="Red Army Choir" duration="211348" tid="{FB5A38A1-EEAA-4518-8FD8-535DE21AC8B7}"/>
             <media src="..\KOKIA\Ai no Melody+Chōwa Oto (With Reflection)\02 Chōwa Oto (With Reflection) (調和oto 〜with reflection〜 Melody of Love+Harmony, Sound (With Reflection)).mp3" albumTitle="Ai no Uta" albumArtist="KOKIA" trackTitle="Chouwa oto ~with reflection~" trackArtist="KOKIA" duration="278184" cid="{CDD62655-B7DD-4B1A-A079-6153266FBE55}" tid="{A76D43D4-6122-4985-BB10-A095D3511ACA}"/>
