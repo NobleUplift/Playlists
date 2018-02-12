@@ -1,273 +1,226 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.15063.0"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.16299.192"/>
         <meta name="ItemCount" content="144"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
         <author/>
         <title>Anime Soundtracks</title>
     </head>
     <body>
         <seq>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\01 Come On.mp3" cid="{F4C54D44-1A4B-4985-96AC-91458855FAF8}" tid="{D835F596-547E-44A3-A16B-E78B0041ADAF}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\02 Through the Night.mp3" cid="{65AFF7CB-9185-4482-A562-573DB016E1F4}" tid="{2BFEC557-A25E-4D74-9CDC-85D515D1C360}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\03 Go.mp3" cid="{5C6944A8-21F0-46EC-A394-877207892D74}" tid="{891FF1F3-2948-493F-A119-E315268E3CCB}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\04 Desire.mp3" cid="{F713482F-F902-456A-AB07-BCEC34F8181A}" tid="{64CDC78B-D38D-434C-8EDC-7560F07ECA6E}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\05 Chase.mp3" cid="{1B1B5527-CA7D-4670-8F77-72A19DF73C58}" tid="{7FD3BF42-9ECD-4FD5-93A0-169D73B584FB}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\06 Crisis.mp3" cid="{942952D5-F140-4D13-8C92-DEE80B11221C}" tid="{52BBFD32-7040-4BC0-B3E4-44E8B8223D5F}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\07 Hack.mp3" cid="{7EB5F6F0-3487-410E-8835-69A4FB9270DA}" tid="{163054EB-F23F-4BED-BCA1-9D7258F26985}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\08 Flight.mp3" cid="{43BA9F2B-6AE6-44D7-BEE4-F9277787F0C3}" tid="{7854D72E-59DC-417B-9A15-24E09EA4AC22}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\09 Uneasiness.mp3" cid="{2DCE8B6F-2270-4068-8F03-48971045E4BE}" tid="{A36A2AF9-FAFA-4112-B158-9F9955D5A4B2}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\10 Silence.mp3" cid="{BC90EAD5-A4A7-4848-8781-62DD34790C51}" tid="{15A7EAD5-7B8F-4462-AF7E-9FAD31971CAC}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\11 Power.mp3" cid="{0950243D-AC63-4581-BF8E-4B1C90689DE6}" tid="{FE04D454-AB16-445A-8A63-ACA5052474F5}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\12 Freedom.mp3" cid="{09768234-56D5-4C6F-B4DD-55AD02B69E1F}" tid="{4B61B24D-4885-4113-8F3E-949652C4DE4A}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\13 Edge.mp3" cid="{2C3CFE4D-916A-4745-AC28-2594F3C9646F}" tid="{B0DA6847-81A3-4186-8530-E50D17FA8930}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\14 Gentle.mp3" cid="{792D7DD2-8149-4793-8632-AFF5CF437FD5}" tid="{8B6E24E2-58E5-43B9-903E-44F6F9B6AAF0}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\15 Tension.mp3" cid="{24277FBE-E0BF-461E-A6A2-9B8C17EE98D3}" tid="{48D42C4F-4410-4361-9FC1-737845DC05DC}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\16 Fear.mp3" cid="{E41CD1F3-817D-40BD-B1CE-923777E6069C}" tid="{0ECBDB50-D438-43BA-8AAE-E9EBD671529B}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\17 Loneliness.mp3" cid="{4E4B86EB-1B40-443E-A23B-28AD6D4406BF}" tid="{264B83F2-B122-49C0-9CEB-D203FD856F99}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\18 Jasmine.mp3" cid="{D946B8A2-419A-43CE-990E-5CE1A85F63E9}" tid="{5C9CBC79-E304-40C1-B65C-6EAF29769B92}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\19 Suzuka.mp3" cid="{7EDCF7DC-1609-40D8-A985-5EB0EF2ADEB8}" tid="{E65D4D28-808C-45C8-92C7-5494E9339985}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\20 Jungle.mp3" cid="{C722B558-94FA-4A15-A24A-6CB44571A2D9}" tid="{674ADD96-C69E-4F32-9481-6F3BF60E011D}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\21 Another Day.mp3" cid="{56FCB60D-3E7B-417A-B4D4-294EC3E1ADE5}" tid="{84B38024-8A4D-4FEB-928F-62D0FD157124}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\22 Eye Catch.mp3" cid="{FA7D950B-D736-4B61-A8FF-58D2E3846E19}" tid="{7C697D91-AD2F-4817-A0A2-FC1E7D49A4DA}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\23 Grand.mp3" cid="{AD2A7FCC-EF94-45E6-A65D-D6F09FAD4B7C}" tid="{95325156-D6E8-43F2-9021-0E6D27ACAD90}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\24 Over.mp3" cid="{B3C37A89-E1A3-408A-BBD9-2F80685B1FEC}" tid="{AE9FDB54-6E3D-4F8F-99C0-B0F8647271C4}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\25 Asiatic.mp3" cid="{8AACCDDA-6626-4176-AFBE-77489794C09C}" tid="{22770500-B35D-4B6D-892A-DFECAAA0F2D2}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\26 Expectation.mp3" cid="{D9BF3C23-F8EF-4D94-AD02-5BA832100EC9}" tid="{7AAA0D67-118D-4041-AF17-6599F4454449}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\27 Tears.mp3" cid="{0AFE27B1-8FE7-433D-9067-C515B935ABCE}" tid="{C6F4B957-2210-4176-9832-E5D71E2EA8A1}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\28 [Untranslated].mp3" cid="{3AEA6FFD-FC63-44EB-939C-49CE6878533D}" tid="{B2BB8F9D-CBA6-4CB0-8E7B-FD3C0C970204}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\29 Day Break.mp3" cid="{679B2AA8-FDC6-4D63-8E9B-0758106E012A}" tid="{A2D526F4-EB3D-4CB8-A7B8-2C819CAFB2AE}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\30 Jade.mp3" cid="{989FC5DA-4E84-4ED6-9211-5D1E6CC8A401}" tid="{076D563D-4110-4EFA-934B-76106B452CD3}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\01 Get Higher.wma" cid="{0C0530D2-26D9-43FB-98B2-298DF3362D98}" tid="{3E6266B5-38DB-4FBF-81C0-F2563D76E3A0}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\02 Future.wma" cid="{C20D4092-3E1C-4885-862D-AE78DA0F0582}" tid="{E7D991F5-47BC-4738-9663-987AEAB5D7A3}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\03 Crash.wma" cid="{8DFBB013-8FCE-4E87-811D-002541F3FB17}" tid="{98614545-721C-4476-A93F-138C4BA31A4D}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\04 Dance.wma" cid="{459AD7A2-0246-4643-800C-F6C74FBDCEA5}" tid="{0A39CC1A-29AD-4AD4-BA15-EE85B8B50219}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\05 Overthrow.wma" cid="{44924B6B-3892-4C8B-9C9A-3FC8CC9A87A7}" tid="{B0A0CEDB-F171-47F2-AEE3-BF151A6D475F}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\06 Change.wma" cid="{DE5F8434-8E55-4532-8EED-AB8D103322DE}" tid="{185CAFC2-EDFB-43BB-9E49-0680D13F1748}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\07 A DATE.wma" cid="{D89CFA74-C216-467B-B4FD-BF70F1227FE7}" tid="{BBB7AFF0-B23F-4885-9FF3-3BDBA706C55D}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\08 Handle.wma" cid="{A4843113-12EE-4C78-BFA3-326203FB1B5F}" tid="{63494221-13C8-4632-A523-A69911A154B3}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\09 Panic.wma" cid="{C79C91E8-8DCD-4A4D-9F56-BBFB59CC57E1}" tid="{7457D998-8D98-42EF-9F53-02A69D2C6278}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\10 Away.wma" cid="{87873B9B-283A-4263-A64A-8AF1E6569B70}" tid="{C90FD640-F90C-4EBD-A42C-6B9D8E0BD380}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\11 Next.wma" cid="{E2150535-5942-4EF7-B8AE-CB543EEF72BF}" tid="{CB95EB5F-2C3E-4158-B58B-146E4B8DC7F1}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\12 Amity.wma" cid="{57470E52-1E05-4B6E-941E-AA0A0117C83D}" tid="{4BFB5BD1-422C-4259-ABA7-AD3796E2C018}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\13 Start.wma" cid="{7B3E2947-2DBE-4031-9AB1-B78EDEE9B5F8}" tid="{165EE06D-7BF0-43EE-8DB9-97CB31B0E9DE}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\14 Wander.wma" cid="{3A5B71E5-9513-4511-8AE1-95206B25AAC5}" tid="{F3A480F0-D83F-42CB-B66E-667970F851D0}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\15 Operation.wma" cid="{CD2CE862-DBAF-4C76-8723-B42B5BE0F428}" tid="{32FDF944-9B6A-4815-BA08-9ECB035E8C70}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\16 Intoxication.wma" cid="{3CC1EC05-29AE-47CD-B8CA-F97D42EAAC81}" tid="{E3951A43-BE11-4779-87F8-359F5DE243DF}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\17 Hiding.wma" cid="{C9FEA98C-03C8-40A2-A4E4-631F07FC5491}" tid="{38E99783-AEB7-435A-9185-CB99CF8F06B6}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\18 Formation.wma" cid="{73C694A1-2F03-493B-A17D-22F4C24EB412}" tid="{EB3F3FD5-B9C1-41E0-B910-7C1F7511080D}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\19 Relax.wma" cid="{EFA80F78-13BB-479E-8EF6-8A1D37140017}" tid="{5D590AAD-D7FD-48BE-8F7D-8D153071BC62}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\20 Slender.wma" cid="{A3E21267-A1E3-4DA1-A127-45A4768ECBD3}" tid="{CE3BC5F8-03F3-436A-B0D0-8F57CAB6EAB9}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\21 Setsuna.wma" cid="{3F218DA2-BBA8-4188-9AB2-1ACE39B469C0}" tid="{F409F565-63B4-4196-973D-F61B2EF5FA6E}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\22 不知 UNKNOWN.wma" cid="{7564FC03-FDB2-4CD5-9530-EED549CB8760}" tid="{FAD55138-B3E7-474D-9AC5-9E400D03B4D7}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\23 Skillful.wma" cid="{D1F874B4-61C7-47B3-AFC0-A172A669307F}" tid="{217B3810-3859-4F05-9D68-0B859562C072}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\24 Smile.wma" cid="{E33E25AA-2E4A-4E00-A02B-AB82BCAE06F7}" tid="{85EDDB41-91E8-4395-88A1-3710ADB2862A}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\25 月の家.wma" cid="{52760D20-85B7-45F8-A111-72F399B14966}" tid="{45AA1A8A-E9A2-4867-842E-94579A74AC62}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\26 Breeze.wma" cid="{C2AB4DC6-11E6-4A75-B6AF-8B3BDD2FACFA}" tid="{EB18AA21-CEAC-41FE-AEC7-6B6334E350C1}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\27 Secret.wma" cid="{A9840D8D-ADE9-4D3C-A295-69A816D6E28A}" tid="{F7BF35FA-818A-4461-9CEB-8C95F35F6CA7}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\28 Pleasure.wma" cid="{EF7CA4B7-4C17-4630-B5C0-DAE502E484AA}" tid="{9AC440E8-D62B-4363-B2AF-2DF743E2033F}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\29 Mellow.wma" cid="{E0213287-4AC4-46A7-8C1A-618B28AB3229}" tid="{12E1D21F-B994-47C7-9A84-BCE3C8E01D46}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\30 Through The Night.wma" cid="{9122EFBA-524E-4E1E-9D69-CEBA02680EB3}" tid="{9A789092-CA47-4230-812E-C6107FB2A6E5}"/>
-            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\31 昼の月.wma" cid="{346825A7-7424-4919-9DE8-B1B6E25FB6C2}" tid="{5EE68138-0129-43EC-826E-825FDB82E637}"/>
-            <media src="..\Various artists\Scryed - OST 1\01 - Alter.mp3" cid="{5439A4C8-70A7-4BB5-91FC-D8F8DD969A9B}" tid="{27EA40E3-560C-42BC-8D6D-96E383AC4929}"/>
-            <media src="..\Various artists\Scryed - OST 1\02 - Reckless Fire.mp3" cid="{746F01AC-50F6-4FB5-8841-D2EB4965AD8E}" tid="{F1016BF9-BE07-42AA-8556-3309A790DB9E}"/>
-            <media src="..\Various artists\Scryed - OST 1\03 - Juvenile Delinquency.mp3" cid="{10B0C552-0F06-4439-8DEB-68F1F573A08D}" tid="{8883071E-E7AD-4169-BCB9-D52644813517}"/>
-            <media src="..\Various artists\Scryed - OST 1\04 - Feeling No Care to Be Powered.mp3" cid="{90EE973F-A442-45E8-826B-1C1AE23B046F}" tid="{EBBD32D0-55CB-4198-9E2C-B3FEEE18C67A}"/>
-            <media src="..\Various artists\Scryed - OST 1\05 - Reversing Former.mp3" cid="{7DEF1A3B-21D6-4147-9EBC-8CC565EFE4B0}" tid="{19519DD5-FDDA-4C28-9794-2173571CDA79}"/>
-            <media src="..\Various artists\Scryed - OST 1\06 - Featuring the Wind.mp3" cid="{092ED904-E214-4989-A7FB-26D1A6BE7F7F}" tid="{CB54B01E-E546-41D6-B398-0B59CEBFD479}"/>
-            <media src="..\Various artists\Scryed - OST 1\07 - Extended Play.mp3" cid="{DD70E4C4-1A39-46E6-88DC-4831BBD2E245}" tid="{BE3B386A-A5A2-427D-90CF-D9D98EC591C6}"/>
-            <media src="..\Various artists\Scryed - OST 1\08 - Magma.mp3" cid="{2AE69693-B0A4-4D09-BFCC-B236B87471D7}" tid="{C82DE341-6D24-43F8-AC76-1A9AD6A32B0C}"/>
-            <media src="..\Various artists\Scryed - OST 1\09 - The 1st. 2nd. 3rd..mp3" cid="{6C19823F-770E-42D2-B2C6-30BEC3AD34A2}" tid="{8A2A1830-CEDE-485C-9891-C8FC42098DB9}"/>
-            <media src="..\Various artists\Scryed - OST 1\10 - I&apos;m Not Angry.mp3" cid="{53521DC6-022E-4B8F-959C-8F1370A97119}" tid="{24D2F72A-244E-43B5-B847-7D9CCB44EBC1}"/>
-            <media src="..\Various artists\Scryed - OST 1\11 - Home Lost Ground.mp3" cid="{08FDECAB-C162-4FC7-8DD1-8960473C9957}" tid="{A2254AFC-9B30-4629-89E8-FF10DE678B16}"/>
-            <media src="..\Various artists\Scryed - OST 1\12 - Usual Coincidence.mp3" cid="{70234183-C7B0-4653-856B-389792E4B3C7}" tid="{CC20F138-1882-4877-9805-24DB9F82CD4D}"/>
-            <media src="..\Various artists\Scryed - OST 1\13 - Mother Earth.mp3" cid="{9378899E-DFAC-4D52-A0C2-CE5C7B34C3F6}" tid="{7F48BE52-0838-4BF6-BAD7-B266DA120440}"/>
-            <media src="..\Various artists\Scryed - OST 1\14 - Customer with Strange Air.mp3" cid="{A11C3F67-076E-4573-9201-A74988FA067D}" tid="{24121A39-86CA-486F-8DF7-BDCE864456C9}"/>
-            <media src="..\Various artists\Scryed - OST 1\15 - The First Defeat in My Life.mp3" cid="{6A49E9F5-F71A-47ED-8216-0034A4574D20}" tid="{7D0A8CFB-C079-4746-8770-E2501F71FE10}"/>
-            <media src="..\Various artists\Scryed - OST 1\16 - My Image in Your Mind.mp3" cid="{AF656E8D-EE70-4A23-8DA9-1459D4D03C72}" tid="{585FA68A-6D35-485C-AB9F-BF8AEF5A26DF}"/>
-            <media src="..\Various artists\Scryed - OST 1\17 - All I Need Is Love.mp3" cid="{0FED7C5D-F8FF-4B65-8404-AA7B04380498}" tid="{C4EC9F7B-EDA0-4CED-AF92-A0273BA1EF01}"/>
-            <media src="..\Various artists\Scryed - OST 1\18 - Sneaky Feel.mp3" cid="{E81C797F-62B1-41DD-A2E3-EA5891551199}" tid="{EB5C33E8-6D6C-4C1D-81C7-1B1F1E1A42A7}"/>
-            <media src="..\Various artists\Scryed - OST 1\19 - Good Speed.mp3" cid="{0E467D85-6954-4A4E-B060-76F002E7A975}" tid="{A873AD2B-EAC1-489F-8E13-B505AC07F083}"/>
-            <media src="..\Various artists\Scryed - OST 1\20 - The Opposite.mp3" cid="{42C4FD6B-C84C-4A07-91B4-0107E4928052}" tid="{F6EFE4FB-BD46-44D9-8E42-BD98371A90C5}"/>
-            <media src="..\Various artists\Scryed - OST 1\21 - Drastic My Soul.mp3" cid="{CECCD173-CFD7-4442-8147-F36A7A4D45E7}" tid="{1F51E722-A8BF-4834-8EDE-4B3B41DDEA74}"/>
-            <media src="..\Various artists\Scryed - OST 2\01 - The 2nd Round.mp3" tid="{37D1544B-8AAF-4F07-A396-C60ED715EB0C}"/>
-            <media src="..\Various artists\Scryed - OST 2\02 - It Rings a Bell For the Traveler..mp3" tid="{1EE6F545-022E-416A-9680-D89C795AA0D5}"/>
-            <media src="..\Various artists\Scryed - OST 2\03 - She Misses Someone.mp3" tid="{F88D0821-4136-429E-8997-A84472195757}"/>
-            <media src="..\Various artists\Scryed - OST 2\04 - My Lost Mind.mp3" tid="{77470D7C-8BB8-4816-A547-9D7260BE335D}"/>
-            <media src="..\Various artists\Scryed - OST 2\05 - Best Worst Wishes.mp3" tid="{109B3AAD-B5D1-4CC3-9A50-E34E81EAAECA}"/>
-            <media src="..\Various artists\Scryed - OST 2\06 - Anonymous Opposites.mp3" tid="{FB6ED2AB-84AE-476B-8869-254499565841}"/>
-            <media src="..\Various artists\Scryed - OST 2\07 - Ominous Dream.mp3" tid="{961A7EFC-EC99-473E-B7AF-9CAFF84A1453}"/>
-            <media src="..\Various artists\Scryed - OST 2\08 - Extraordinary Feat.mp3" tid="{C79241B9-F18F-451B-B580-B90FEB42262A}"/>
-            <media src="..\Various artists\Scryed - OST 2\09 - Fight With Their Solitude.mp3" tid="{5DAA04D2-3AE9-427C-93CE-E1841421D1B1}"/>
-            <media src="..\Various artists\Scryed - OST 2\10 - Discovery.mp3" tid="{88D1D821-6081-4B78-B9C5-AB67F54C79E5}"/>
-            <media src="..\Various artists\Scryed - OST 2\11 - Lost Ground.mp3" tid="{A467C928-78D4-474C-BB5E-57A8A47A6A77}"/>
-            <media src="..\Various artists\Scryed - OST 2\12 - Drown in the Life.mp3" tid="{20971E4B-4DC9-4E98-B9C1-9508EA6CE621}"/>
-            <media src="..\Various artists\Scryed - OST 2\13 - Hold.mp3" tid="{24C52B2A-9EAC-4A66-8D4A-73274A1B6FC8}"/>
-            <media src="..\Various artists\Scryed - OST 2\14 - Less Than Zero.mp3" tid="{3120A885-93BE-4DF8-9F8A-DEB801FD31DB}"/>
-            <media src="..\Various artists\Scryed - OST 2\15 - Waiting For the End of the Ground.mp3" tid="{B427D132-C339-467F-90B8-355D272F1174}"/>
-            <media src="..\Various artists\Scryed - OST 2\16 - In His Memory.mp3" tid="{6D944218-8817-411E-9679-2CE678C4C44E}"/>
-            <media src="..\Various artists\Scryed - OST 2\17 - Heroes.mp3" tid="{3FAE549A-EBD1-49CC-B400-871FBA3ED843}"/>
-            <media src="..\Various artists\Scryed - OST 2\18 - Finished Shapes.mp3" tid="{A5407A6C-2C9D-4EB7-ABF0-2C39C36DA8D1}"/>
-            <media src="..\Various artists\Scryed - OST 2\19 - Each Parting.mp3" tid="{3945E209-DC83-4447-8E19-8033B187CF14}"/>
-            <media src="..\Various artists\Scryed - OST 2\20 - Previous Notice.mp3" tid="{1F6556F3-F32B-4F52-B1C4-3D0D21E3CF64}"/>
-            <media src="..\Various artists\Scryed - OST 2\21 - Reckless Fire(TV Size Version).mp3" tid="{2CFC2D78-7C2D-4B1B-A66A-735A93AAA1E4}"/>
-            <media src="..\Various artists\Scryed - Reckless Fire Single\01 - Reckless Fire.mp3" cid="{D689BDFA-2178-4448-A200-555116D05713}" tid="{4EFD4CE2-D6B7-40EA-BF42-AF509AB7E074}"/>
-            <media src="..\Various artists\Scryed - Reckless Fire Single\02 - Magma.mp3" cid="{383CB490-A69B-479B-9BC9-ECD979822CDB}" tid="{EA5210E2-A220-41BE-AF79-F6DDE50DD87E}"/>
-            <media src="..\Various artists\Scryed - Reckless Fire Single\03 - Reckless Fire (Karaoke).mp3" cid="{E234DE16-2452-47CE-8ED1-ECB93BD70A5D}" tid="{8A5D1216-3F12-4AA3-A782-C4228E7174BA}"/>
-            <media src="..\Various artists\Scryed - Reckless Fire Single\04 - Magma (Karaoke).mp3" cid="{F0126A91-BEFE-4B2A-8164-C222BFD20289}" tid="{DBE717DE-819E-4F8B-9C70-604758EAFB85}"/>
-            <media src="..\Various artists\Scryed - Drastic My Soul Single\01 - Drastic My Soul.mp3" cid="{CECCD173-CFD7-4442-8147-F36A7A4D45E7}" tid="{22D320C2-6999-4E76-9CE1-BB86A7274063}"/>
-            <media src="..\Various artists\Scryed - Drastic My Soul Single\02 - All I Need is Love.mp3" cid="{0FED7C5D-F8FF-4B65-8404-AA7B04380498}" tid="{8E2E7BB6-FC40-47A1-965B-8723A7F83286}"/>
-            <media src="..\Various artists\Scryed - Drastic My Soul Single\03 - Drastic My Soul (Karaoke).mp3" cid="{CECCD173-CFD7-4442-8147-F36A7A4D45E7}" tid="{A84A104C-7BA0-4709-82E4-F71C14983481}"/>
-            <media src="..\Various artists\Scryed - Drastic My Soul Single\04 - All I Need is Love (Karaoke).mp3" cid="{0FED7C5D-F8FF-4B65-8404-AA7B04380498}" tid="{9FD4A5EF-4929-444B-BAA7-D0B5E98C03A8}"/>
-            <media src="..\Various artists\Hellsing- Raid\01 Logos Naki World.mp4" cid="{33F4DBFD-5276-4F8A-99CD-20B1F15B4245}" tid="{6979245E-83B5-420B-A184-6134F2B73BAA}"/>
-            <media src="..\Various artists\Hellsing- Raid\02 Baka Koe No Nirvana - Urami Genkin.mp4" cid="{EE17B72F-082E-422D-B0CF-F0C6F7BD8B75}" tid="{DD7F9BC9-6182-462F-A67F-44A4D1A41489}"/>
-            <media src="..\Various artists\Hellsing- Raid\03 Gakuon Yuugi Nengemishou.mp4" cid="{A0ECEDD6-3E72-41FB-B026-AF0C9A2F6C76}" tid="{2106B086-9F7C-4797-AE67-059E1FD826B4}"/>
-            <media src="..\Various artists\Hellsing- Raid\04 Hisshou Myougou Renge Kyoku.mp4" cid="{D20B5F8C-968D-4A7A-BA09-B7FC677A73A8}" tid="{BADC3AE1-15C3-45A1-9E0C-BB3111A1B071}"/>
-            <media src="..\Various artists\Hellsing- Raid\05 Kamigami E No Kyou - Katteni Yarasetemoraimasu.mp4" cid="{7B873536-BA13-41B6-BECF-0AE83D5FFC19}" tid="{50CED874-835B-4FD7-98BD-29F84B8AC649}"/>
-            <media src="..\Various artists\Hellsing- Raid\06 Kannouteki Yuuwaku No Wana Ni Hammatta Hidariashi.mp4" cid="{B6C958E5-EB8E-4A82-A189-C9DF91D93234}" tid="{BBB8229F-32E8-40D3-A415-1776678918CC}"/>
-            <media src="..\Various artists\Hellsing- Raid\07 Dravula Seito To R&amp;R.mp4" cid="{B3EF7758-FF60-4772-82A6-10BE09FAF82A}" tid="{7C76F757-8BBF-4725-A60D-3C593B938FF9}"/>
-            <media src="..\Various artists\Hellsing- Raid\08 P.S. Namuamidabutsu.mp4" cid="{098131BB-84B8-4532-AC71-AF664B7EBD68}" tid="{CD747E2C-A9C9-4C3C-9E26-B1CED9F031DB}"/>
-            <media src="..\Various artists\Hellsing- Raid\09 Chaso No Umi - Shouzoushu No Omowaku.mp4" cid="{50288802-F0E8-47D4-B602-D35BE4F9DCE8}" tid="{D7409730-8EA1-4C74-BDC7-D428C6A94BB9}"/>
-            <media src="..\Various artists\Hellsing- Raid\10 Genzai - Shojo Wo Mamorinukenaiga Tameni.mp4" cid="{C11F93AC-8E14-4DE1-947E-4ABCF24E083F}" tid="{4978D634-7B75-4B17-AC76-D371FF73F067}"/>
-            <media src="..\Various artists\Hellsing- Raid\11 Taisedou No Bosatsu - Featuring Tabei Tatuo.mp4" cid="{38065423-91F1-4CD3-827C-28ED3C6ABAD3}" tid="{13A44702-5AB8-47BD-B2B7-4AA56F5186B8}"/>
-            <media src="..\Various artists\Hellsing- Raid\12 Kamen Sinpu To Chapel No Kane.mp4" cid="{D9DFE839-A8DA-4C39-8189-182578B9CF4D}" tid="{8664AA14-3106-4488-B2C3-48C6EEBED885}"/>
-            <media src="..\Various artists\Hellsing- Raid\13 Akuma No Shiwaza Kamiwazaka.mp4" tid="{18E131C4-11B1-43F2-B263-A45C13B71522}"/>
-            <media src="..\Various artists\Hellsing- Raid\14 Shina No Muku.mp4" cid="{396FA69C-F08D-4784-AFE9-842ED1195334}" tid="{1925F788-AAF4-4677-8957-21713FD5C818}"/>
-            <media src="..\Various artists\Hellsing- Raid\15 Fuseijitsu Na Michi No Ue De No Survival.mp4" cid="{4FD934A4-169F-4BD5-B2C6-5D619E8D26B1}" tid="{4C9D9218-3656-4AA5-8221-E4E5EA4A943D}"/>
-            <media src="..\Various artists\Hellsing- Raid\16 Bakuzen Drum No Nageki.mp4" cid="{38AD08D0-A4FC-4254-AC58-4B4AAED1BD58}" tid="{07EFFA45-4617-4C1C-A38D-8F6819143B1E}"/>
-            <media src="..\Various artists\Hellsing- Raid\17 Sei (Sei) Mono E No Chinkonkyoku.mp4" cid="{392ECB22-BF8D-4B25-8A90-F5AA40FE7D7D}" tid="{7B84A08C-66D0-4048-972F-5DA03F303BE2}"/>
-            <media src="..\Various artists\Hellsing- Raid\18 Hi Shinkeishou Teki Sute Kyoku - Omaera Ittai Nan Nan Da.mp4" cid="{CC40C341-EAD9-458E-84E0-25E1F7AAD1B1}" tid="{760C6A2F-89C7-4FE8-BD23-D5BADD7BFC41}"/>
-            <media src="..\Various artists\Hellsing- Raid\19 Sensou Suru Nara Yumi, Yari, Ken Da Tatakae!.mp4" cid="{8F0EF040-0EAD-4052-8E81-6A3EC0E47826}" tid="{12AFDB85-A77C-411F-B88F-9182EB99EB8A}"/>
-            <media src="..\Various artists\Hellsing- Raid\20 Shine (Ending Edit).mp4" cid="{7A74A769-B7C7-4347-94E9-D660FB551A60}" tid="{EA10238E-3114-48DD-921E-EA9FDCD0F664}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\01 seikai saishuu reimeiki.mp4" tid="{EBB69EC4-2D6B-497B-A4D8-A03F241CE169}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\02 hagakure no wasei.mp4" tid="{3A6108FC-7EE1-40B2-91FD-C13794287B03}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\03 Sky Of God Master.mp4" tid="{C41C670E-CB4B-47B9-9342-0DBB14574917}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\04 tsumitsukuri na nikui yatsu.mp4" tid="{087CA437-6430-47EB-B3CE-1A86E5A3F63B}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\05 SOUL kyuumeitai.mp4" tid="{CB77E93C-716D-4486-8049-739ADFFC1A46}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\06 I.B.C.J. houiami.mp4" tid="{27872F72-1993-4DC2-B112-5B92C0C48316}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\07 shishou oka deno juugekisen.mp4" cid="{13B6EC7F-5883-4B2D-9EED-2ED84FD118F8}" tid="{572F8D69-585A-4181-A353-85BA65C62FA0}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\08 shishou oka deno juugekisen.mp4" tid="{AAB073AC-8D2F-48F7-BE87-27177F98AEF0}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\09 genshouku jibaku LOVE SONG.mp4" tid="{75FD6E43-B224-42DA-A5FF-D94CD8A4B046}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\10 shi-kuretto karuma SERENADE.mp4" tid="{F2F03A99-7DAA-4BFA-A2DC-2F25D11AD47D}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\11 kikyou kaoru iroha michi.mp4" tid="{08DD0B17-4815-4F9B-AFF6-BD9B8E75CD91}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\12 shinrikyou.mp4" tid="{63D57BC6-4FC5-4955-87DC-2645389F4D69}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\13 netsu tsukusareta BACK GROUND.mp4" tid="{A48D7FFE-97E0-4C9A-8D8F-D9D8C5648A5B}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\14 gentenkaiko RHYTHM NATION.mp4" tid="{D9DFCE8D-0CC5-4366-AF0A-2A046A716CD6}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\15 mayonaka no ansatsusha.mp4" tid="{CF191FF5-685C-4DC2-B7C5-8928817EB046}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\16 Ambiguous Drum&apos;s Grief.mp4" tid="{156796F9-7CFD-47FC-8A3F-B6E4B1CB8638}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\17 tsumihoroboshi shinpushi.mp4" tid="{A7A4CE0D-66E0-4C74-8F18-BDE352B13FB6}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\18 saraba ponkotsu WORLD.mp4" tid="{87606F9C-348E-4074-8ABC-A6A9C43D8C1D}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\19 666 yori 777.mp4" tid="{6903198A-AA50-45E1-9F27-44A7318001F4}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\20 taima no kemuri ga me ni shimiru.mp4" tid="{B2744206-F20A-4CBD-8264-BC1FC4C47193}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\21 aa seishun no ero makai.mp4" tid="{FBC3C51B-4A3B-441D-8FBA-068FD4D5C1EA}"/>
-            <media src="..\Various artists\Hellsing 2- Ruins\22 kisenu dekigoto.mp4" tid="{00F46F0A-4354-41A2-9B01-C15B7D31CF50}"/>
-            <media src="..\Yasushi Ishii\Hellsing- Raid\01 The World Without Logos.wma" cid="{63F2FFC2-A829-4A33-B35E-CAF152E067D6}" tid="{50881A78-5D25-412E-9B66-E2F479E64B19}"/>
-            <media src="..\Yasushi Ishii\Hellsing- Raid\02 Fool Cross Over Nirvana (Grudge Prohibited).wma" cid="{685ADB75-4807-4620-8C41-A2C223E5BBC7}" tid="{CA315A76-CE34-4571-8ACC-1774474B0CE4}"/>
-            <media src="..\Yasushi Ishii\Hellsing- Raid\03 Musical Play Smiling Rebellious Flower.wma" cid="{CE449E38-712E-47AE-8273-0A145C0F8BDD}" tid="{03A27B63-5121-40D9-8390-983440AD1F6D}"/>
-            <media src="..\Yasushi Ishii\Hellsing- Raid\04 Certain Victory Lotus Sutra Tune.wma" cid="{B0923799-133E-4A2E-89BB-077A57871BFC}" tid="{1CA5C269-FC59-4CB6-B87A-1D3AA4AA1518}"/>
-            <media src="..\Yasushi Ishii\Hellsing- Raid\05 Services to Gods (Do on Our Own Accord).wma" cid="{BCD17CB0-66C4-4E62-AE47-30AC09D97E10}" tid="{7038C9F2-3099-4E87-8C25-208D13BADDD4}"/>
-            <media src="..\Yasushi Ishii\Hellsing- Raid\06 A Left Foot Trapped in a Sensual Seduction.wma" cid="{8C4AD9E5-10D9-4C77-A4F6-271E9F35C894}" tid="{A9CD782E-60C2-4D1F-87FD-3F6F33101C0A}"/>
-            <media src="..\Yasushi Ishii\Hellsing- Raid\07 Dracula&apos;s Holy Pupil and R &amp; R.wma" cid="{91E2020E-D917-41F1-8877-70B345161302}" tid="{2C4E3432-DF1D-4182-95E4-713329A1A507}"/>
-            <media src="..\Yasushi Ishii\Hellsing- Raid\08 P.S. Lord Amitabha Have Mercy on Me.wma" cid="{7C4D4FC7-9A3C-47A2-A2EA-9A4DAA94491A}" tid="{9D4F705C-0A10-40CA-8045-238314BAEC5C}"/>
-            <media src="..\Yasushi Ishii\Hellsing- Raid\09 Sea of Chaos (Creator&apos;s Ulterior Motive).wma" cid="{7D9DC00A-66B4-45B5-B866-1B29958CCB65}" tid="{DA834AAC-0278-4FFD-A8F6-9F0D67853AA8}"/>
-            <media src="..\Yasushi Ishii\Hellsing- Raid\10 Original Sin (For Not Keeping Virginity).wma" cid="{8D9BC06C-1B77-4039-9806-3EA4809410D2}" tid="{C26E3552-DEDA-455C-B8BA-4072CA5C71E6}"/>
-            <media src="..\Yasushi Ishii\Hellsing- Raid\11 Bodhisattva of Cathedral.wma" cid="{32180533-C7E2-412A-89A7-F509FD9414E2}" tid="{AE506DD8-357C-43BF-B266-34FC3482FF76}"/>
-            <media src="..\Yasushi Ishii\Hellsing- Raid\12 The Mask of the Priest and the Bell of the Chapel.wma" cid="{D5494701-EB8C-47F2-95C5-9EB7BBD719E5}" tid="{A6673F9D-030A-4244-8B16-46AFA2E2F8FA}"/>
-            <media src="..\Yasushi Ishii\Hellsing- Raid\13 Act of Demon or the Work of God.wma" cid="{43699FC3-2320-4BB9-A7C4-A015FD4C9DD2}" tid="{6AAE7588-56C9-41B7-8EEE-80AC6A42AC25}"/>
-            <media src="..\Yasushi Ishii\Hellsing- Raid\14 Pure Death.wma" cid="{06E3CB05-8CAF-43F5-81A4-1CC62D506023}" tid="{3285EE86-6B78-453F-AE69-410D1E62C061}"/>
-            <media src="..\Yasushi Ishii\Hellsing- Raid\15 Survival on the Street of Insincerity.wma" cid="{6F9E80FF-EDEF-45F6-BC72-C354281D003D}" tid="{09E08B32-1168-451B-BCFC-7186BDC822B7}"/>
-            <media src="..\Yasushi Ishii\Hellsing- Raid\16 Ambiguous Drum&apos;s Grief.wma" cid="{FD7EEE60-9B7C-4A3B-BC6E-10A7CCFA5247}" tid="{C1EF11B0-13A2-411F-9221-E4F9DF02C0B6}"/>
-            <media src="..\Yasushi Ishii\Hellsing- Raid\17 Requiem for the Living.wma" cid="{4183FA5D-C21C-46A6-A73A-26985926B812}" tid="{B2403762-963E-4750-BAF7-A39A7C035944}"/>
-            <media src="..\Yasushi Ishii\Hellsing- Raid\18 Non-Neurosis Tunes (Who the Hell Are You-).wma" cid="{25D6EA01-F138-4604-81B0-8F59D6B64D28}" tid="{3A04BEEA-527C-48DD-8378-70769A6EE648}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\01 Come On.mp3" cid="{F4C54D44-1A4B-4985-96AC-91458855FAF8}" tid="{56B4EAA5-F0FD-431F-93AF-0F50DC53996A}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\02 Through the Night.mp3" cid="{65AFF7CB-9185-4482-A562-573DB016E1F4}" tid="{105EDFDE-5964-4193-8FA7-B27476AA1838}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\03 Go.mp3" cid="{5C6944A8-21F0-46EC-A394-877207892D74}" tid="{AB76ED41-9202-4106-977B-750F3883DFF1}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\04 Desire.mp3" cid="{F713482F-F902-456A-AB07-BCEC34F8181A}" tid="{C5C5D524-DEA5-44D5-80CA-104F0C511DE8}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\05 Chase.mp3" cid="{1B1B5527-CA7D-4670-8F77-72A19DF73C58}" tid="{72FB3056-B740-49C7-BF19-9BDF9F85F52D}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\06 Crisis.mp3" cid="{942952D5-F140-4D13-8C92-DEE80B11221C}" tid="{809C28C7-CB0C-4D70-BF7C-2C58A926C25E}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\07 Hack.mp3" cid="{7EB5F6F0-3487-410E-8835-69A4FB9270DA}" tid="{D448C625-2A22-4C79-958B-2DF323BFBCE6}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\08 Flight.mp3" cid="{43BA9F2B-6AE6-44D7-BEE4-F9277787F0C3}" tid="{85752980-446A-4114-BDAA-CB32916288CE}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\09 Uneasiness.mp3" cid="{2DCE8B6F-2270-4068-8F03-48971045E4BE}" tid="{C7780627-CCCA-4DB0-A974-F8F8F9B03C43}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\10 Silence.mp3" cid="{BC90EAD5-A4A7-4848-8781-62DD34790C51}" tid="{F5FE274D-D6B3-4053-96EF-4E053D080332}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\11 Power.mp3" cid="{0950243D-AC63-4581-BF8E-4B1C90689DE6}" tid="{C2B23F99-E207-4DC0-8B0C-ABE60D35C71C}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\12 Freedom.mp3" cid="{09768234-56D5-4C6F-B4DD-55AD02B69E1F}" tid="{9FA6D44B-7AA4-40A5-98E4-53C78689F1BE}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\13 Edge.mp3" cid="{2C3CFE4D-916A-4745-AC28-2594F3C9646F}" tid="{1E973AC8-4F44-417F-A373-313E7282C7F4}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\14 Gentle.mp3" cid="{792D7DD2-8149-4793-8632-AFF5CF437FD5}" tid="{312F74C6-178B-4843-95A6-5182FC6A5086}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\15 Tension.mp3" cid="{24277FBE-E0BF-461E-A6A2-9B8C17EE98D3}" tid="{09EFD58A-DB58-475B-8F64-981E118ED0CF}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\16 Fear.mp3" cid="{E41CD1F3-817D-40BD-B1CE-923777E6069C}" tid="{9EC5C8E6-4D2A-4410-9350-F5BBB987374A}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\17 Loneliness.mp3" cid="{4E4B86EB-1B40-443E-A23B-28AD6D4406BF}" tid="{837E6CF9-413B-4EB1-AFA4-7294A68CB5D7}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\18 Jasmine.mp3" cid="{D946B8A2-419A-43CE-990E-5CE1A85F63E9}" tid="{AC02D189-3B9B-44AF-B709-0D73B40914DD}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\19 Suzuka.mp3" cid="{7EDCF7DC-1609-40D8-A985-5EB0EF2ADEB8}" tid="{00836F53-D4D8-456B-B09A-951473F213DB}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\20 Jungle.mp3" cid="{C722B558-94FA-4A15-A24A-6CB44571A2D9}" tid="{2270B13A-3FD0-4C67-92E8-CE70947E3767}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\21 Another Day.mp3" cid="{56FCB60D-3E7B-417A-B4D4-294EC3E1ADE5}" tid="{7839277D-EF61-4DFB-AE72-9B3C08E80967}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\22 Eye Catch.mp3" cid="{FA7D950B-D736-4B61-A8FF-58D2E3846E19}" tid="{4BB82DB8-AA0D-4F03-9807-BB8731161055}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\23 Grand.mp3" cid="{AD2A7FCC-EF94-45E6-A65D-D6F09FAD4B7C}" tid="{98AE97B8-0047-4961-AF9E-3113A16BE4C4}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\24 Over.mp3" cid="{B3C37A89-E1A3-408A-BBD9-2F80685B1FEC}" tid="{CE5BCB37-31A6-491F-8C32-6A364B2BE379}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\25 Asiatic.mp3" cid="{8AACCDDA-6626-4176-AFBE-77489794C09C}" tid="{FA2C33E4-BA0A-4F2D-98B3-5CE51348DECA}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\26 Expectation.mp3" cid="{D9BF3C23-F8EF-4D94-AD02-5BA832100EC9}" tid="{8BDF8CB5-A40D-455F-AF13-90D97437FCEC}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\27 Tears.mp3" cid="{0AFE27B1-8FE7-433D-9067-C515B935ABCE}" tid="{CB445795-B922-49D6-891D-44567557169B}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\28 [Untranslated].mp3" cid="{3AEA6FFD-FC63-44EB-939C-49CE6878533D}" tid="{2B5D12A9-EAE5-4AA3-B348-ACA0291C3807}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\29 Day Break.mp3" cid="{679B2AA8-FDC6-4D63-8E9B-0758106E012A}" tid="{327091CF-9CE6-4002-B02C-49DC8F261126}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 1\30 Jade.mp3" cid="{989FC5DA-4E84-4ED6-9211-5D1E6CC8A401}" tid="{BFD697BD-5017-446D-BBD7-8AF48FC4B730}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\01 Get Higher.wma" cid="{0C0530D2-26D9-43FB-98B2-298DF3362D98}" tid="{DC3A02DE-A712-4DBA-9FFE-1B3351BF5973}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\02 Future.wma" cid="{C20D4092-3E1C-4885-862D-AE78DA0F0582}" tid="{BA2CCE85-8355-4587-9E11-2A2E1CA1AD15}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\03 Crash.wma" cid="{8DFBB013-8FCE-4E87-811D-002541F3FB17}" tid="{8EF3C99D-871A-4E29-9896-AE53BC0227F5}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\04 Dance.wma" cid="{459AD7A2-0246-4643-800C-F6C74FBDCEA5}" tid="{17EFFF96-337A-4ADC-9A08-E9B621072485}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\05 Overthrow.wma" cid="{44924B6B-3892-4C8B-9C9A-3FC8CC9A87A7}" tid="{1FEEABDB-73C7-42A6-B76B-0F30FFF3CBBA}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\06 Change.wma" cid="{DE5F8434-8E55-4532-8EED-AB8D103322DE}" tid="{AE51BCB8-D270-4588-9C83-5E46A7779C39}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\07 A DATE.wma" cid="{D89CFA74-C216-467B-B4FD-BF70F1227FE7}" tid="{5AE036DD-669F-49FA-9235-A450DAC1C008}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\08 Handle.wma" cid="{A4843113-12EE-4C78-BFA3-326203FB1B5F}" tid="{E67450AD-0ACC-4C60-9C3A-FF124F025006}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\09 Panic.wma" cid="{C79C91E8-8DCD-4A4D-9F56-BBFB59CC57E1}" tid="{592AB6BA-143D-41A0-BC5B-D12A139B4959}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\10 Away.wma" cid="{87873B9B-283A-4263-A64A-8AF1E6569B70}" tid="{C6549FFF-3AF2-41F0-8D61-C1163BE89257}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\11 Next.wma" cid="{E2150535-5942-4EF7-B8AE-CB543EEF72BF}" tid="{7EE07005-6C39-4146-8FB7-56E465737BC0}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\12 Amity.wma" cid="{57470E52-1E05-4B6E-941E-AA0A0117C83D}" tid="{0128F55A-BEDF-4DE5-B962-0A701C70910C}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\13 Start.wma" cid="{7B3E2947-2DBE-4031-9AB1-B78EDEE9B5F8}" tid="{D0F9BA09-6B67-4C6B-A464-49A07287BE83}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\14 Wander.wma" cid="{3A5B71E5-9513-4511-8AE1-95206B25AAC5}" tid="{26B461B7-2299-450F-85D7-4B2DDC02D63E}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\15 Operation.wma" cid="{CD2CE862-DBAF-4C76-8723-B42B5BE0F428}" tid="{E869832E-2479-433E-814F-D19C6E85A955}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\16 Intoxication.wma" cid="{3CC1EC05-29AE-47CD-B8CA-F97D42EAAC81}" tid="{BDE063E3-AC98-486A-848A-80F80BAFA316}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\17 Hiding.wma" cid="{C9FEA98C-03C8-40A2-A4E4-631F07FC5491}" tid="{F02B2036-BF26-40D8-A9DE-E4440AF58936}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\18 Formation.wma" cid="{73C694A1-2F03-493B-A17D-22F4C24EB412}" tid="{BEF83C59-648D-4495-8B00-D3E78E2F0EAE}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\19 Relax.wma" cid="{EFA80F78-13BB-479E-8EF6-8A1D37140017}" tid="{DF566419-6F14-40A5-ABFB-528E454A895D}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\20 Slender.wma" cid="{A3E21267-A1E3-4DA1-A127-45A4768ECBD3}" tid="{762E45D5-770B-47AB-BA34-35D10EA40B73}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\21 Setsuna.wma" cid="{3F218DA2-BBA8-4188-9AB2-1ACE39B469C0}" tid="{4B8CA596-D72C-4BEC-9D38-D94542647415}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\22 不知 UNKNOWN.wma" cid="{7564FC03-FDB2-4CD5-9530-EED549CB8760}" tid="{ABE7F1C8-ADF0-4A5C-B3C1-CB54EC8D1E2F}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\23 Skillful.wma" cid="{D1F874B4-61C7-47B3-AFC0-A172A669307F}" tid="{ED3924FE-AA20-4A8C-A519-EB2DEEB6B691}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\24 Smile.wma" cid="{E33E25AA-2E4A-4E00-A02B-AB82BCAE06F7}" tid="{4799BD96-E3DD-4BB5-A990-0D688EC63C5A}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\25 月の家.wma" cid="{52760D20-85B7-45F8-A111-72F399B14966}" tid="{80A249B5-D67A-46B3-B7E2-8089F074CE09}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\26 Breeze.wma" cid="{C2AB4DC6-11E6-4A75-B6AF-8B3BDD2FACFA}" tid="{D81EA946-4C0D-4BE8-B39A-41F93DCD5AAA}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\27 Secret.wma" cid="{A9840D8D-ADE9-4D3C-A295-69A816D6E28A}" tid="{AEBA2CB3-5B54-4CD3-BE88-5245AF12A8C6}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\28 Pleasure.wma" cid="{EF7CA4B7-4C17-4630-B5C0-DAE502E484AA}" tid="{6116274E-CDE3-48EE-BB10-1F771A55D9C1}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\29 Mellow.wma" cid="{E0213287-4AC4-46A7-8C1A-618B28AB3229}" tid="{F034C47A-A9C6-4203-B3D4-9953893FA83A}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\30 Through The Night.wma" cid="{9122EFBA-524E-4E1E-9D69-CEBA02680EB3}" tid="{1E2ABF32-95EA-4774-9DFF-DDA8186C499C}"/>
+            <media src="..\Kō Ōtani\Outlaw Star Original Soundtrack Vol. 2\31 昼の月.wma" cid="{346825A7-7424-4919-9DE8-B1B6E25FB6C2}" tid="{009423B2-98FE-4F71-9118-D92D727BB6D6}"/>
+            <media src="..\Various artists\Scryed - OST 1\01 - Alter.mp3" cid="{5439A4C8-70A7-4BB5-91FC-D8F8DD969A9B}" tid="{B3787F28-873F-4825-B6DF-CF2DAF06E9CD}"/>
+            <media src="..\Various artists\Scryed - OST 1\02 - Reckless Fire.mp3" cid="{746F01AC-50F6-4FB5-8841-D2EB4965AD8E}" tid="{616A7756-6D91-4ACD-BC7B-2F3DB29A8D50}"/>
+            <media src="..\Various artists\Scryed - OST 1\03 - Juvenile Delinquency.mp3" cid="{10B0C552-0F06-4439-8DEB-68F1F573A08D}" tid="{2708B8A2-858B-4162-96DF-AC093CD69AED}"/>
+            <media src="..\Various artists\Scryed - OST 1\04 - Feeling No Care to Be Powered.mp3" cid="{90EE973F-A442-45E8-826B-1C1AE23B046F}" tid="{478A55D4-69F9-4035-920D-19768D22F1BD}"/>
+            <media src="..\Various artists\Scryed - OST 1\05 - Reversing Former.mp3" cid="{7DEF1A3B-21D6-4147-9EBC-8CC565EFE4B0}" tid="{AE1FB2BB-9A0B-4061-81A8-4301BDFFB8A6}"/>
+            <media src="..\Various artists\Scryed - OST 1\06 - Featuring the Wind.mp3" cid="{092ED904-E214-4989-A7FB-26D1A6BE7F7F}" tid="{BE45FAC7-3E9E-4EEA-97A3-545D4403AAF6}"/>
+            <media src="..\Various artists\Scryed - OST 1\07 - Extended Play.mp3" cid="{DD70E4C4-1A39-46E6-88DC-4831BBD2E245}" tid="{950CBC36-A0DA-4208-A8F3-2CEBEB56A98C}"/>
+            <media src="..\Various artists\Scryed - OST 1\08 - Magma.mp3" cid="{2AE69693-B0A4-4D09-BFCC-B236B87471D7}" tid="{32C31324-1C1E-4DB3-BF76-6411D0610EB5}"/>
+            <media src="..\Various artists\Scryed - OST 1\09 - The 1st. 2nd. 3rd..mp3" cid="{6C19823F-770E-42D2-B2C6-30BEC3AD34A2}" tid="{AD945C9E-A658-4060-ACBF-C9C089D90ABE}"/>
+            <media src="..\Various artists\Scryed - OST 1\10 - I&apos;m Not Angry.mp3" cid="{53521DC6-022E-4B8F-959C-8F1370A97119}" tid="{85C8033B-EF45-4FD8-9346-58EBDF927D86}"/>
+            <media src="..\Various artists\Scryed - OST 1\11 - Home Lost Ground.mp3" cid="{08FDECAB-C162-4FC7-8DD1-8960473C9957}" tid="{0CBEBEE9-A52A-4174-BF1B-97E6BA3AC459}"/>
+            <media src="..\Various artists\Scryed - OST 1\12 - Usual Coincidence.mp3" cid="{70234183-C7B0-4653-856B-389792E4B3C7}" tid="{042A5C19-3C37-4492-8D4F-D4FF009D43DC}"/>
+            <media src="..\Various artists\Scryed - OST 1\13 - Mother Earth.mp3" cid="{9378899E-DFAC-4D52-A0C2-CE5C7B34C3F6}" tid="{1DBEFB25-6BB2-4C7B-A88A-4BA4510B1394}"/>
+            <media src="..\Various artists\Scryed - OST 1\14 - Customer with Strange Air.mp3" cid="{A11C3F67-076E-4573-9201-A74988FA067D}" tid="{0C98F216-42DD-4D9B-93AD-F65D068AA432}"/>
+            <media src="..\Various artists\Scryed - OST 1\15 - The First Defeat in My Life.mp3" cid="{6A49E9F5-F71A-47ED-8216-0034A4574D20}" tid="{706EC046-84B8-4886-BB6E-D0FC0AFB7F12}"/>
+            <media src="..\Various artists\Scryed - OST 1\16 - My Image in Your Mind.mp3" cid="{AF656E8D-EE70-4A23-8DA9-1459D4D03C72}" tid="{25F25C31-04B7-4161-A614-F73525CA2264}"/>
+            <media src="..\Various artists\Scryed - OST 1\17 - All I Need Is Love.mp3" cid="{0FED7C5D-F8FF-4B65-8404-AA7B04380498}" tid="{903297E0-E5D2-4DF3-AD00-E5A54AE94A14}"/>
+            <media src="..\Various artists\Scryed - OST 1\18 - Sneaky Feel.mp3" cid="{E81C797F-62B1-41DD-A2E3-EA5891551199}" tid="{52F4D2B9-51AE-46C8-A2EE-14229A31D20A}"/>
+            <media src="..\Various artists\Scryed - OST 1\19 - Good Speed.mp3" cid="{0E467D85-6954-4A4E-B060-76F002E7A975}" tid="{566C37B4-98EB-46E0-A89A-AD8C261C3CFC}"/>
+            <media src="..\Various artists\Scryed - OST 1\20 - The Opposite.mp3" cid="{42C4FD6B-C84C-4A07-91B4-0107E4928052}" tid="{94239828-4CC0-4DBE-8AD9-9AFB7AAB967D}"/>
+            <media src="..\Various artists\Scryed - OST 1\21 - Drastic My Soul.mp3" cid="{CECCD173-CFD7-4442-8147-F36A7A4D45E7}" tid="{3EA34655-70E7-4D75-8A28-1AB16D6C6258}"/>
+            <media src="..\Various artists\Scryed - OST 2\01 - The 2nd Round.mp3" tid="{01728D24-A2BA-47D8-88B7-49A347E8CEF1}"/>
+            <media src="..\Various artists\Scryed - OST 2\02 - It Rings a Bell For the Traveler..mp3" tid="{6F3BD620-2715-4538-8DC5-32432BF279F5}"/>
+            <media src="..\Various artists\Scryed - OST 2\03 - She Misses Someone.mp3" tid="{B76416C8-9D3A-4036-91CF-6D059B742D95}"/>
+            <media src="..\Various artists\Scryed - OST 2\04 - My Lost Mind.mp3" tid="{44CB7872-2C12-409D-84E5-A8B6E7ECD543}"/>
+            <media src="..\Various artists\Scryed - OST 2\05 - Best Worst Wishes.mp3" tid="{DEFFCB1F-7ED8-4B29-BD57-F9065DD797F7}"/>
+            <media src="..\Various artists\Scryed - OST 2\06 - Anonymous Opposites.mp3" tid="{57C2E6EB-217E-4356-9D8F-E67F35967AC8}"/>
+            <media src="..\Various artists\Scryed - OST 2\07 - Ominous Dream.mp3" tid="{5C258063-83B5-44F9-990A-3FE7734EDB9E}"/>
+            <media src="..\Various artists\Scryed - OST 2\08 - Extraordinary Feat.mp3" tid="{4B4630E6-E5F6-4496-BAD1-A83908E34550}"/>
+            <media src="..\Various artists\Scryed - OST 2\09 - Fight With Their Solitude.mp3" tid="{32F0984D-F241-422C-B0A6-3C99E49EF91D}"/>
+            <media src="..\Various artists\Scryed - OST 2\10 - Discovery.mp3" tid="{AAA84B2A-4F19-4853-9A02-5A9FFA5D94C7}"/>
+            <media src="..\Various artists\Scryed - OST 2\11 - Lost Ground.mp3" tid="{34E458D1-9131-4768-A217-97A2C5981FE7}"/>
+            <media src="..\Various artists\Scryed - OST 2\12 - Drown in the Life.mp3" tid="{AF70B85F-46BE-4552-863D-BF31BEB71CE5}"/>
+            <media src="..\Various artists\Scryed - OST 2\13 - Hold.mp3" tid="{15948941-3E06-4BD0-9D23-D92C5E4839BD}"/>
+            <media src="..\Various artists\Scryed - OST 2\14 - Less Than Zero.mp3" tid="{1166E933-C25B-4D5E-9CF1-6D85BA8B3BDA}"/>
+            <media src="..\Various artists\Scryed - OST 2\15 - Waiting For the End of the Ground.mp3" tid="{65FD2722-5E24-48F0-BEC2-65E417ABE965}"/>
+            <media src="..\Various artists\Scryed - OST 2\16 - In His Memory.mp3" tid="{E5545E39-13C1-4F4C-B010-AD5CBA6E1973}"/>
+            <media src="..\Various artists\Scryed - OST 2\17 - Heroes.mp3" tid="{D47D1327-9ED5-4F50-9945-1D23CB67954F}"/>
+            <media src="..\Various artists\Scryed - OST 2\18 - Finished Shapes.mp3" tid="{640596C5-5EDD-4042-92C9-0FA24D4E978F}"/>
+            <media src="..\Various artists\Scryed - OST 2\19 - Each Parting.mp3" tid="{F739007B-8EFA-4AD8-84B5-14BC55771BA0}"/>
+            <media src="..\Various artists\Scryed - OST 2\20 - Previous Notice.mp3" tid="{B38E81BE-F4A3-4E73-86EC-EDCE37CBD74D}"/>
+            <media src="..\Various artists\Scryed - OST 2\21 - Reckless Fire(TV Size Version).mp3" tid="{D4C900EE-2205-48D7-B46E-BDF65DADFECF}"/>
+            <media src="..\Various artists\Scryed - Reckless Fire Single\01 - Reckless Fire.mp3" cid="{D689BDFA-2178-4448-A200-555116D05713}" tid="{9D4486BF-6BA0-450E-9853-5C2090105D1A}"/>
+            <media src="..\Various artists\Scryed - Reckless Fire Single\02 - Magma.mp3" cid="{383CB490-A69B-479B-9BC9-ECD979822CDB}" tid="{42E728AF-1B84-4536-BE00-4F45C7174C82}"/>
+            <media src="..\Various artists\Scryed - Reckless Fire Single\03 - Reckless Fire (Karaoke).mp3" cid="{E234DE16-2452-47CE-8ED1-ECB93BD70A5D}" tid="{19595B2A-84C0-489F-9144-414DEEC2DF07}"/>
+            <media src="..\Various artists\Scryed - Reckless Fire Single\04 - Magma (Karaoke).mp3" cid="{F0126A91-BEFE-4B2A-8164-C222BFD20289}" tid="{13E8B50F-AC38-4A00-B0EF-7505C5373D9E}"/>
+            <media src="..\Various artists\Scryed - Drastic My Soul Single\01 - Drastic My Soul.mp3" cid="{CECCD173-CFD7-4442-8147-F36A7A4D45E7}" tid="{2731A163-4373-4587-BE18-C0C8CCC21406}"/>
+            <media src="..\Various artists\Scryed - Drastic My Soul Single\02 - All I Need is Love.mp3" cid="{0FED7C5D-F8FF-4B65-8404-AA7B04380498}" tid="{68794D1F-1558-46BB-BE27-04B5B18F5898}"/>
+            <media src="..\Various artists\Scryed - Drastic My Soul Single\03 - Drastic My Soul (Karaoke).mp3" cid="{CECCD173-CFD7-4442-8147-F36A7A4D45E7}" tid="{EEDD3F06-8E3E-41AD-AFAE-D38FCDA8CF8E}"/>
+            <media src="..\Various artists\Scryed - Drastic My Soul Single\04 - All I Need is Love (Karaoke).mp3" cid="{0FED7C5D-F8FF-4B65-8404-AA7B04380498}" tid="{191CD32F-F3DD-4EF7-A077-942F49C684C9}"/>
+            <media src="..\Yasushi Ishii\Hellsing- Raid\01 The World Without Logos.wma" cid="{63F2FFC2-A829-4A33-B35E-CAF152E067D6}" tid="{9FFB3CB6-C61A-40D1-B817-E9A3250E7612}"/>
+            <media src="..\Yasushi Ishii\Hellsing- Raid\02 Fool Cross Over Nirvana (Grudge Prohibited).wma" cid="{685ADB75-4807-4620-8C41-A2C223E5BBC7}" tid="{2F429340-73E5-44E3-A7B5-1ABFB4DFFC2D}"/>
+            <media src="..\Yasushi Ishii\Hellsing- Raid\03 Musical Play Smiling Rebellious Flower.wma" cid="{CE449E38-712E-47AE-8273-0A145C0F8BDD}" tid="{794F8D8B-6816-474D-820B-A34A0DD3C634}"/>
+            <media src="..\Yasushi Ishii\Hellsing- Raid\04 Certain Victory Lotus Sutra Tune.wma" cid="{B0923799-133E-4A2E-89BB-077A57871BFC}" tid="{52013613-211A-4FE1-90AB-B9A3001F0576}"/>
+            <media src="..\Yasushi Ishii\Hellsing- Raid\05 Services to Gods (Do on Our Own Accord).wma" cid="{BCD17CB0-66C4-4E62-AE47-30AC09D97E10}" tid="{650AD1A9-DDA4-4FF5-960A-C73106E0F449}"/>
+            <media src="..\Yasushi Ishii\Hellsing- Raid\06 A Left Foot Trapped in a Sensual Seduction.wma" cid="{8C4AD9E5-10D9-4C77-A4F6-271E9F35C894}" tid="{FC6F9A75-DCC4-4DEE-8551-9F59D698C668}"/>
+            <media src="..\Yasushi Ishii\Hellsing- Raid\07 Dracula&apos;s Holy Pupil and R &amp; R.wma" cid="{91E2020E-D917-41F1-8877-70B345161302}" tid="{3E6ABE05-9E47-4820-9B59-D1230A3C5991}"/>
+            <media src="..\Yasushi Ishii\Hellsing- Raid\08 P.S. Lord Amitabha Have Mercy on Me.wma" cid="{7C4D4FC7-9A3C-47A2-A2EA-9A4DAA94491A}" tid="{4CD87892-0C8A-4293-AC08-F66E1A8047BA}"/>
+            <media src="..\Yasushi Ishii\Hellsing- Raid\09 Sea of Chaos (Creator&apos;s Ulterior Motive).wma" cid="{7D9DC00A-66B4-45B5-B866-1B29958CCB65}" tid="{C2F0C1AA-63A5-4887-8F73-FE5F63FA3BAC}"/>
+            <media src="..\Yasushi Ishii\Hellsing- Raid\10 Original Sin (For Not Keeping Virginity).wma" cid="{8D9BC06C-1B77-4039-9806-3EA4809410D2}" tid="{A70EB9E3-CD18-4DAC-AAEF-95E24E887E19}"/>
+            <media src="..\Yasushi Ishii\Hellsing- Raid\11 Bodhisattva of Cathedral.wma" cid="{32180533-C7E2-412A-89A7-F509FD9414E2}" tid="{822482E8-04CF-4A6D-ADE6-B046F7C84CA5}"/>
+            <media src="..\Yasushi Ishii\Hellsing- Raid\12 The Mask of the Priest and the Bell of the Chapel.wma" cid="{D5494701-EB8C-47F2-95C5-9EB7BBD719E5}" tid="{29883C56-E0F5-48C8-A4E6-87E3E02640FF}"/>
+            <media src="..\Yasushi Ishii\Hellsing- Raid\13 Act of Demon or the Work of God.wma" cid="{43699FC3-2320-4BB9-A7C4-A015FD4C9DD2}" tid="{82C2D197-0513-4D3F-A0F1-304FBA7413F4}"/>
+            <media src="..\Yasushi Ishii\Hellsing- Raid\14 Pure Death.wma" cid="{06E3CB05-8CAF-43F5-81A4-1CC62D506023}" tid="{1159D7B8-C7CC-49AB-8D85-DA29F944C15F}"/>
+            <media src="..\Yasushi Ishii\Hellsing- Raid\15 Survival on the Street of Insincerity.wma" cid="{6F9E80FF-EDEF-45F6-BC72-C354281D003D}" tid="{7D20EC2B-A3EC-439C-8DA3-01C1D48A5E06}"/>
+            <media src="..\Yasushi Ishii\Hellsing- Raid\16 Ambiguous Drum&apos;s Grief.wma" cid="{FD7EEE60-9B7C-4A3B-BC6E-10A7CCFA5247}" tid="{A459C225-2F70-4935-9F2A-D861C474036F}"/>
+            <media src="..\Yasushi Ishii\Hellsing- Raid\17 Requiem for the Living.wma" cid="{4183FA5D-C21C-46A6-A73A-26985926B812}" tid="{59FE7FBC-45A8-4831-97F6-3A5D87FC4B73}"/>
+            <media src="..\Yasushi Ishii\Hellsing- Raid\18 Non-Neurosis Tunes (Who the Hell Are You-).wma" cid="{25D6EA01-F138-4604-81B0-8F59D6B64D28}" tid="{35A52C01-B7E3-47F8-A085-EAEC83FC0DCC}"/>
             <media src="..\Yasushi Ishii\Hellsing- Raid\19 When You Start the War, Fight With Arrows, Spears and Swords-.wma" cid="{C9B6DC1B-4D41-42B3-A042-E486C03DA901}" tid="{FE83A823-8E35-4CF5-8365-94F19D94EF36}"/>
             <media src="..\Yasushi Ishii\Hellsing 2- Ruins\01 The World&apos;s Last Sagacious Period.wma" cid="{EF5D708B-9A03-47D5-BEE3-6961AFA5BB67}" tid="{9B008512-CCD3-427A-8B37-4FB80334C340}"/>
             <media src="..\Yasushi Ishii\Hellsing 2- Ruins\02 Hidden Leaves Harmony.wma" cid="{58C673CC-0F1C-42CA-B59F-98173384C213}" tid="{74D19700-A32B-4635-8C46-DA9837474DCF}"/>
             <media src="..\Yasushi Ishii\Hellsing 2- Ruins\03 Sky of God Master.wma" cid="{E6BA7A18-A710-4A69-B3DD-B53BA8DA111E}" tid="{57D56FEC-14BC-4D14-AFF0-9F22F86CD4B2}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\04 Hatred Guy of Sinfulness.wma" cid="{0B9EDF4D-0FC5-433A-A0B1-F04F91A2D47C}" tid="{DE002833-87BF-4C0A-BF9A-EBAAB3D46CEC}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\05 Soul Rescuer.wma" cid="{0E24622C-0366-460D-A45A-8410767E9C9A}" tid="{EDAA72C9-1C6F-44C7-AB7E-C423A96DB19E}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\06 I.B.C.J. Siege Rope.wma" cid="{E25EACB9-431E-4D08-904D-8738896C2FB9}" tid="{C0FEE5C0-D0E2-47D5-8365-3E48EA5B1495}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\07 Sever Gun Fight at the Hill of Casualties.wma" cid="{13B6EC7F-5883-4B2D-9EED-2ED84FD118F8}" tid="{77F4B130-160F-4CCB-B96B-75C96D460E3E}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\08 Sould Police Chapter&apos;s Reverse Side Circumstance.wma" cid="{114428C8-4AF6-45D5-9855-FE351AF8523B}" tid="{3F22DA2D-BC7E-45EC-9F33-2D66A474417E}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\09 Primary Colored Suicide Bombing Love Song.wma" cid="{625FBC66-05AB-48C6-9987-3612E71BBC3B}" tid="{BE40D633-B4D7-4C7D-9F22-7490308B4FF7}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\10 Secret Karma Serenade.wma" cid="{0398EE22-9CDD-4666-9520-5608DCE40613}" tid="{C47D0753-9BC2-42ED-AB91-F16D821BEB0C}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\11 The Japanese Alphabet Road With Chinese Bellflower&apos;s Sweet Smell.wma" cid="{7BD7D54B-034C-4D40-B32D-BC57D6CDB5A1}" tid="{F4656679-92CD-4457-BD99-30F5D58C69F6}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\12 Echoing Truth.wma" cid="{160A6CAD-E1F3-42F3-837F-B1D54B7F18CF}" tid="{EC5B5869-421C-413C-92F3-8886985F3744}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\13 Fabricated Background.wma" cid="{79DF0764-383E-4948-9DAD-2B9CFFE268A6}" tid="{24A3F2DC-A606-4D22-9212-81CE5E4C2686}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\14 Origin Reflection Rhythm Nation.wma" cid="{A508CA2D-A92D-4C93-9C8D-17B68B45946C}" tid="{C9ECAA07-1D74-4643-B37D-46E9F3752FA0}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\15 Midnight Assassin.wma" cid="{7365BFB6-0801-46FA-8791-875C0BAE9F0B}" tid="{F3A6A260-BA0C-4047-B022-96520A78C855}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\16 The World Without Logos.wma" cid="{EB66BAF8-C34A-4671-899C-42B25360A5BB}" tid="{184E7C21-70E7-48BF-9523-126DDA97707A}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\17 Gyspy of Atonement.wma" cid="{7E4AF5F6-AA16-4C70-A053-67CF94B1513D}" tid="{3FB01BE0-302C-4BEF-A28F-B92E193947D5}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\18 Goodbye Used World.wma" cid="{F39C0CED-D3AD-4A21-BA3F-4F3F26E512CB}" tid="{A630F3DE-64A0-4EB0-B045-97B439092DEB}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\19 From 666 to 777.wma" cid="{DDCC14A7-92AA-437E-AEE4-E46AE235C9E0}" tid="{FFEFFB78-3ECD-490F-8581-0744ABF6B884}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\20 Hemp Smoke Stings the Eyes.wma" cid="{C4E39D04-52E8-476F-A755-06A5F84414F2}" tid="{E6946D19-EDAE-4990-82A1-D883F22D0CA5}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\21 Aha, Springtime of Life&apos;s Erotic Hell.wma" cid="{D4E29BB8-452A-435F-AB12-C81937A69C05}" tid="{D912E08F-7C5B-4C97-BA9A-93F079E10605}"/>
-            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\22 Unexpected Incident.wma" cid="{BF7BB1BB-A4CB-48F7-8686-401D57234EFB}" tid="{57D14209-9090-466A-BD27-B93528F76B04}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\01 Way Home.mp3" cid="{DD26ADA2-21F3-4D6E-8189-E59799176AC0}" tid="{1A23EC7B-714C-487C-A226-995B26B5AF94}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\02 Equivalent Exchange.mp3" cid="{024F6399-3CA2-41C7-A3F8-053C45908A6D}" tid="{01C94063-145F-41EC-8739-530CE94F1129}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\03 Melissa (TV Size ver).mp3" cid="{8EABD287-C5DD-49D6-96A0-D3CD27423170}" tid="{121DBB66-EDFB-4E1A-97DF-4BAF24C00132}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\04 Title.mp3" cid="{683A770A-1EA7-48AB-9196-3FF00C7D6DF2}" tid="{DDE11D5E-0CDC-4B37-A6EA-87EC56ED4DAE}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\05 Heavenly Spirit.mp3" cid="{6EB6A912-10B5-406F-AA8D-D90F5FF220F1}" tid="{A072F9F4-1CA8-40AA-A379-21011491BD3B}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\06 Avenue.mp3" cid="{FACF09AE-ECF7-45EE-96DB-3E2E735EC039}" tid="{FC7B75D2-EFEC-4F49-912D-3FC8F032D901}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\07 Memories.mp3" cid="{3154E240-2BFF-4CD7-B4A8-3E071BD14E19}" tid="{8BCFEF84-72D8-4802-A3D5-7D82BE900779}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\08 Favorite Daughter.mp3" cid="{A9E0F8C1-431B-4066-8D36-FA763E74D80E}" tid="{6D04AF87-1174-4749-B06A-CAB4D404803F}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\09 Pint-sized Alchemist.mp3" cid="{7BC86EBF-C6B7-4C9C-B874-F1F4B2C13CD8}" tid="{6CCD804C-34C5-49C6-AEB9-970BE533469D}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\10 Harmony.mp3" cid="{AABE6A2B-B191-4373-9ED3-B703CE7E6C13}" tid="{6B92CBDC-5164-4D64-B2C5-CA3083AE3CE0}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\11 Unrest.mp3" cid="{F31358F6-C892-4889-A24C-FF4419EF5B26}" tid="{631343D3-D92A-407A-8ECB-A74929178088}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\12 Infiltration.mp3" cid="{62EA44BF-A0ED-4504-ABE4-5DB258A5105E}" tid="{2C6A207A-4643-43FC-A64C-745A9EA6E00B}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\13 Despicable Acts.mp3" cid="{87C8837B-A764-4197-BA3D-C01292BB25CE}" tid="{3230BA88-2D20-45F7-9F27-65E3495C9E64}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\14 Fortify.mp3" cid="{71B05514-6C3E-4DF9-AB56-36C124C2420D}" tid="{D5E14AEC-5306-4F94-9A11-413F38110254}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\15 Invasion.mp3" cid="{CA05F6EB-FB7A-48B2-A839-FDE847D35FE5}" tid="{2EE9DC27-39F2-4656-BFD8-611500024368}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\16 Fate.mp3" cid="{D5A513D1-7B0C-4271-B325-03EAD7643020}" tid="{8F22DFC8-5B75-4670-A222-6E5FBFB420C1}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\17 Parting.mp3" cid="{B4406EFD-6BC2-4F41-8467-50D7EDD99AEC}" tid="{4B4A89A0-1B85-469F-9A25-4EF799150A28}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\18 Pathetic.mp3" cid="{3B5AF902-5722-4670-84C9-A31ED6186BE8}" tid="{F1C89FD2-2230-432F-8911-D6AC237AB436}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\19 Atonement.mp3" cid="{7CF12774-383A-47AC-886D-5C88E1748203}" tid="{5E15C9B6-626C-4584-BB5C-164C3F9B613B}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\20 Beaming Sunlight.mp3" cid="{04058880-3FE7-450D-8EEE-007D3B554437}" tid="{766F3AF9-33F3-4291-B2C2-89507F9CE7C3}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\21 Philosopher&apos;s Stone.mp3" cid="{9FDB8E8E-A782-406A-AB9E-05250063FF68}" tid="{7B284157-5EB5-4891-81A5-D52EC7905DDD}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\22 Ishbal.mp3" cid="{AC00BD67-81C6-40AB-B95D-16E375514730}" tid="{2E24E6E3-C8C3-4407-AA76-03436D8C138C}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\23 Heaven.mp3" cid="{7F5B99B9-097F-4BCC-9DC2-813678437997}" tid="{A69CBC25-733B-4326-9EB3-730A0E93BEA7}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\24 Scar.mp3" cid="{FDAF435D-EC6F-416E-A3E3-D407BB3F0EA5}" tid="{5F405100-12DF-4660-B08E-A4AFD187F975}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\25 Ominous Clouds.mp3" cid="{8F213817-9B17-4998-AF06-503B0735D04A}" tid="{33E238D6-8FC1-4ED1-92F0-15B43E2CAAC5}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\26 Taboo.mp3" cid="{12DFFF7B-6558-4DEC-8B5B-B2FE8F52BCB1}" tid="{2620A75A-97DF-47D3-B7E0-08E0B21A3A2C}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\27 Amestris.mp3" cid="{AB4E9E29-EB73-4044-9AEB-4C13822E7C3A}" tid="{FAAB7F24-6A8C-4B6B-8300-719BDB2AB061}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\28 Reunion.mp3" cid="{3100DE57-9BC7-4019-837F-91E84640D137}" tid="{CEB7DD5F-F3E6-4D59-AA0B-F1B2D23A41A8}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\29 Warmth.mp3" cid="{5984B2E8-F8CF-42CA-86E4-B9E68E153E6F}" tid="{BCC32A8C-908A-43F2-BFCB-B1F84D7550C7}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\30 Heart of Steel.mp3" cid="{C84A9E0A-DDFB-44AC-B53A-B909AC95B914}" tid="{B2D30D65-E1A5-4839-BFD7-B542C4815025}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\31 Road to Manhood.mp3" cid="{411283BA-49A8-40DE-BBE5-4941BF5F17FF}" tid="{01ADA685-AACE-4849-9A54-7C43493F042E}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\32 Brothers.mp3" cid="{2C696671-419B-480D-A9B1-CFE4C2B0B4E1}" tid="{B30D6697-DC23-4191-B016-0236E5BDA517}"/>
-            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\33 Indelible Sin (TV size version).mp3" cid="{95EF5A7E-606A-47ED-AF62-3688EC2EBE93}" tid="{9EE51F70-C548-4D76-A5A8-F99DC98B6784}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\01 READY STEADY GO.wma" cid="{75A7CEAB-6A49-4BF1-9490-F4E0DFD6C20C}" tid="{7F566EFA-904A-4FC7-B390-DC935ED56BC6}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\02 Tenderness.wma" cid="{7CBAFD0C-0071-42D7-A339-010453E5128B}" tid="{30E62710-675A-4251-AAF0-84B783A0BBB9}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\03 Sin.wma" cid="{6B98992C-2CDA-4155-A43E-E153E95504A5}" tid="{D93A8F4E-7B0D-45CF-9631-F8EBB051745D}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\04 Courageous Fight.wma" cid="{25A4E8DF-3AC2-4132-8766-2689A23C7D39}" tid="{D6B32456-DFFD-4B73-9551-8E71430B43F4}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\05 Homunculus.wma" cid="{336D80EB-D953-4FC0-BDE3-1A237B869BCF}" tid="{7D5F0E04-F327-44D7-A676-9EE90EA9CB58}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\06 Solitude.wma" cid="{252E93BE-2DD0-4039-BC58-C1BB79C2253B}" tid="{91618D83-7DCF-4EE2-BB46-64375C0B9EFC}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\07 Pointless Argument.wma" cid="{EA8582E6-9BB6-452C-98EF-2B2EDA88A7BA}" tid="{8950FB5A-315A-47A2-8F28-DE071EA65D41}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\08 Remnants.wma" cid="{BA942190-DB1C-48C8-A00C-808F4CE49929}" tid="{A994C14F-D986-46D9-88A7-CED5C3615464}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\09 Loneliness.wma" cid="{1D7EAF34-4416-45B7-BF82-28DA67C6A651}" tid="{22590135-57AA-46C3-97EC-54C0F37433FF}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\10 Lust.wma" cid="{5B20F791-FEFB-43DA-8F26-D3E2AFD4997D}" tid="{CF77196E-2990-47B9-B790-73DF03E67ACC}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\11 Pulse.wma" cid="{7BDFFE3B-3106-41D4-A1CB-0C1BFF69E778}" tid="{EEBDB330-7CAA-405C-BA0D-39604D41D670}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\12 Life and Death.wma" cid="{DB91E38F-5ED1-40C0-882C-ED82C867EA4B}" tid="{675E1A4C-8027-4953-A66D-E04E8E1A2AAE}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\13 Great Speed.wma" cid="{F530B2FD-C1FD-4DFB-9EB5-E8A7C99EE3B5}" tid="{E83346D7-1C3F-430E-8373-A4FE4057BB80}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\14 Greed.wma" cid="{670DB9B6-E811-423B-ACF3-2F9C9CA9A565}" tid="{5EB0CEA2-E421-4AD2-BE36-16E369D180CF}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\15 The Thread of Life.wma" cid="{471C0F31-78A3-431C-906B-22F5FEC84973}" tid="{503C0F1F-6914-475B-9148-5B285C9FECDE}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\16 Transient Life.wma" cid="{A20CE6D7-5555-4B03-BEE7-CB0ECEDE1007}" tid="{C8273361-A273-4FD6-8BE7-0E033807DE91}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\17 Resentment.wma" cid="{1EABAA3D-7E99-4CA9-AAC5-D58B113C682B}" tid="{7C3885B3-6250-4F50-B17A-23E437917603}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\18 Inspiration.wma" cid="{7F8F71FF-1BC0-4FB2-8A9B-93CF3E63C436}" tid="{6787708A-AFE6-4398-8B0F-117BA90DD807}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\19 Emptiness.wma" cid="{1B5CF826-FEDF-4FD1-8F95-AA5B9D9180A5}" tid="{13B53162-EFAF-402C-AFA9-A53600F03E97}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\20 Horizon.wma" cid="{CFE4B288-16BA-49C7-869E-264338AE84B5}" tid="{4FE26CAE-1108-4711-810C-3723D6138FCC}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\21 Immortality.wma" cid="{E191350F-C770-43DF-A0E4-0C93A2BF2A6A}" tid="{742F1F72-EF9B-4EA9-80F5-8700EA61E8D9}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\22 Eternity.wma" cid="{AF8EB622-9A00-40DA-8675-1825D5AA8D13}" tid="{81FE735F-8FEA-49BD-94BE-D4D50309183E}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\23 Gorgeousness.wma" cid="{9DBD846F-D8BB-4738-ADA8-91D40651F804}" tid="{E6B5D790-4615-4D39-887D-2FA0C9B4E95A}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\24 Deep Forest.wma" cid="{43C4F871-0D10-4597-936E-3369B00A253F}" tid="{2D092606-7D74-44D8-B86A-9B202D906C00}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\25 Dante.wma" cid="{69497103-29EA-4061-9B96-3B0DDE97EAFB}" tid="{53E86C1C-D51E-4206-9CDE-46AD8B6F8510}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\26 Precautionary Rules.wma" cid="{E2C8AADC-84BD-4253-AC66-0316516D2000}" tid="{EF4DAD6A-717B-41D3-9C36-D2D72B23CBE3}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\27 Revelation.wma" cid="{2F247499-6DB1-42DC-A8A7-D517B6EB7147}" tid="{12686546-228B-40E2-9907-2F36DA5FFE64}"/>
-            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\28 Patriotism.wma" cid="{B1BBF257-6322-45D1-8F80-50DBC29A9FC2}" tid="{B5CA4D87-133D-4B51-B6DA-83A67F46FA18}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\04 Hatred Guy of Sinfulness.wma" cid="{0B9EDF4D-0FC5-433A-A0B1-F04F91A2D47C}" tid="{35D6091A-02AA-47A1-AF40-08AE896C9CAB}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\05 Soul Rescuer.wma" cid="{0E24622C-0366-460D-A45A-8410767E9C9A}" tid="{0BF7C4B2-A3A5-4981-981A-CEB811481994}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\06 I.B.C.J. Siege Rope.wma" cid="{E25EACB9-431E-4D08-904D-8738896C2FB9}" tid="{D73353FE-0C77-4CEA-A678-05018201FB27}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\07 Sever Gun Fight at the Hill of Casualties.wma" cid="{13B6EC7F-5883-4B2D-9EED-2ED84FD118F8}" tid="{2CA32EDC-F23A-4A18-BCC8-87D76EDE06E8}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\08 Sould Police Chapter&apos;s Reverse Side Circumstance.wma" cid="{114428C8-4AF6-45D5-9855-FE351AF8523B}" tid="{1CFCC29F-1A98-4DB3-BD20-A8878F74D326}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\09 Primary Colored Suicide Bombing Love Song.wma" cid="{625FBC66-05AB-48C6-9987-3612E71BBC3B}" tid="{6736FBB5-5FC0-4BA5-A9A4-7F1B0DC156EB}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\10 Secret Karma Serenade.wma" cid="{0398EE22-9CDD-4666-9520-5608DCE40613}" tid="{E18D4556-AD98-4A19-B4B1-123F0F4E0878}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\11 The Japanese Alphabet Road With Chinese Bellflower&apos;s Sweet Smell.wma" cid="{7BD7D54B-034C-4D40-B32D-BC57D6CDB5A1}" tid="{C2FDB981-EB8D-4972-A8D1-0FADB0ACD4ED}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\12 Echoing Truth.wma" cid="{160A6CAD-E1F3-42F3-837F-B1D54B7F18CF}" tid="{827CAA9D-4E1E-4438-8DE5-21EF0063D5F4}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\13 Fabricated Background.wma" cid="{79DF0764-383E-4948-9DAD-2B9CFFE268A6}" tid="{ED9E2D23-2B03-4F98-9065-3214C7F0F1B7}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\14 Origin Reflection Rhythm Nation.wma" cid="{A508CA2D-A92D-4C93-9C8D-17B68B45946C}" tid="{58E92EC9-D5B6-4841-AAED-6E5C544DDEDB}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\15 Midnight Assassin.wma" cid="{7365BFB6-0801-46FA-8791-875C0BAE9F0B}" tid="{E3F1C3C1-D9A8-466D-AC10-C898BEC0B839}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\16 The World Without Logos.wma" cid="{EB66BAF8-C34A-4671-899C-42B25360A5BB}" tid="{BAD1C4AE-2E38-429B-8195-C548CED3BF48}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\17 Gyspy of Atonement.wma" cid="{7E4AF5F6-AA16-4C70-A053-67CF94B1513D}" tid="{F00B1050-0D75-4501-8F12-838AE764C254}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\18 Goodbye Used World.wma" cid="{F39C0CED-D3AD-4A21-BA3F-4F3F26E512CB}" tid="{8D92011E-670B-4884-9528-47C76D44663C}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\19 From 666 to 777.wma" cid="{DDCC14A7-92AA-437E-AEE4-E46AE235C9E0}" tid="{93A394D5-D4B3-4B0F-8268-90538F49A0B9}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\20 Hemp Smoke Stings the Eyes.wma" cid="{C4E39D04-52E8-476F-A755-06A5F84414F2}" tid="{79E92E18-504F-4713-846A-9A5B60F90B38}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\21 Aha, Springtime of Life&apos;s Erotic Hell.wma" cid="{D4E29BB8-452A-435F-AB12-C81937A69C05}" tid="{78428019-727C-4342-8118-69E84910E109}"/>
+            <media src="..\Yasushi Ishii\Hellsing 2- Ruins\22 Unexpected Incident.wma" cid="{BF7BB1BB-A4CB-48F7-8686-401D57234EFB}" tid="{85F92FD4-7592-4E20-A40B-E2668ACF814E}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\01 Way Home.mp3" cid="{DD26ADA2-21F3-4D6E-8189-E59799176AC0}" tid="{DC9E1D4E-82CA-47CC-9C8F-AFA2201C9DD5}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\02 Equivalent Exchange.mp3" cid="{024F6399-3CA2-41C7-A3F8-053C45908A6D}" tid="{143A01EA-7906-4F78-9C12-1FD9A0FD8D3F}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\03 Melissa (TV Size ver).mp3" cid="{8EABD287-C5DD-49D6-96A0-D3CD27423170}" tid="{73FD9778-E719-4629-B7C0-5534626D20A6}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\04 Title.mp3" cid="{683A770A-1EA7-48AB-9196-3FF00C7D6DF2}" tid="{2CA8FA4E-EC61-4663-88BE-C4873F0E07B6}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\05 Heavenly Spirit.mp3" cid="{6EB6A912-10B5-406F-AA8D-D90F5FF220F1}" tid="{48188DE1-6D52-4D88-A86C-94D6FB71F8DB}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\06 Avenue.mp3" cid="{FACF09AE-ECF7-45EE-96DB-3E2E735EC039}" tid="{C2FB8454-AE54-4692-9014-4D19BA2E955E}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\07 Memories.mp3" cid="{3154E240-2BFF-4CD7-B4A8-3E071BD14E19}" tid="{91637169-FB78-4017-AA60-0AA2AFD1A35B}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\08 Favorite Daughter.mp3" cid="{A9E0F8C1-431B-4066-8D36-FA763E74D80E}" tid="{8BBCC0D9-C490-4F7C-A311-ABC187F00FE0}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\09 Pint-sized Alchemist.mp3" cid="{7BC86EBF-C6B7-4C9C-B874-F1F4B2C13CD8}" tid="{769C03AF-C2A9-41D0-9D13-37FE47B04041}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\10 Harmony.mp3" cid="{AABE6A2B-B191-4373-9ED3-B703CE7E6C13}" tid="{BF7FCDC7-7FD8-4823-BD20-9AFCE1F2944E}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\11 Unrest.mp3" cid="{F31358F6-C892-4889-A24C-FF4419EF5B26}" tid="{236EC7B8-1168-4261-8275-DA7F16CB48AA}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\12 Infiltration.mp3" cid="{62EA44BF-A0ED-4504-ABE4-5DB258A5105E}" tid="{6F9BC1C0-31BC-4D9D-BAA0-3A3F015E1793}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\13 Despicable Acts.mp3" cid="{87C8837B-A764-4197-BA3D-C01292BB25CE}" tid="{BC941654-5DF6-4E81-A898-F51455E3304B}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\14 Fortify.mp3" cid="{71B05514-6C3E-4DF9-AB56-36C124C2420D}" tid="{0704D6F8-26AF-4AAC-B85B-3793CDE8575F}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\15 Invasion.mp3" cid="{CA05F6EB-FB7A-48B2-A839-FDE847D35FE5}" tid="{35C2D8FA-2ECB-499C-8DCA-AA512965389A}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\16 Fate.mp3" cid="{D5A513D1-7B0C-4271-B325-03EAD7643020}" tid="{480A3924-1D19-4EBF-A68D-AF7067C7FB89}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\17 Parting.mp3" cid="{B4406EFD-6BC2-4F41-8467-50D7EDD99AEC}" tid="{249690F4-893D-4F7B-A68B-A4D5D1ED8EAD}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\18 Pathetic.mp3" cid="{3B5AF902-5722-4670-84C9-A31ED6186BE8}" tid="{983D3B4D-412D-4825-9225-8A66BE4226A8}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\19 Atonement.mp3" cid="{7CF12774-383A-47AC-886D-5C88E1748203}" tid="{03111BF4-FA49-4250-8FDA-845DED67EB11}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\20 Beaming Sunlight.mp3" cid="{04058880-3FE7-450D-8EEE-007D3B554437}" tid="{26D5497E-EF8E-47CD-AAB4-971845770F01}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\21 Philosopher&apos;s Stone.mp3" cid="{9FDB8E8E-A782-406A-AB9E-05250063FF68}" tid="{4521CA3C-8E6D-4736-A857-1DE2D44DBDE7}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\22 Ishbal.mp3" cid="{AC00BD67-81C6-40AB-B95D-16E375514730}" tid="{25BF2A05-4C26-4561-9FE4-7CB2BD4DA66A}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\23 Heaven.mp3" cid="{7F5B99B9-097F-4BCC-9DC2-813678437997}" tid="{704AA356-24AF-4BC6-89FE-2BFDFE30D422}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\24 Scar.mp3" cid="{FDAF435D-EC6F-416E-A3E3-D407BB3F0EA5}" tid="{94121FE7-D4F0-4630-A3E8-902B14E39217}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\25 Ominous Clouds.mp3" cid="{8F213817-9B17-4998-AF06-503B0735D04A}" tid="{21654E53-7099-4229-9A75-5203F23F0B96}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\26 Taboo.mp3" cid="{12DFFF7B-6558-4DEC-8B5B-B2FE8F52BCB1}" tid="{869120A8-BB14-4B95-8D21-23ADB667062D}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\27 Amestris.mp3" cid="{AB4E9E29-EB73-4044-9AEB-4C13822E7C3A}" tid="{A71E70CF-273D-4F18-B67E-BED6013580BB}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\28 Reunion.mp3" cid="{3100DE57-9BC7-4019-837F-91E84640D137}" tid="{D5CFA77B-71AF-46A5-B4BE-1AC0513747EE}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\29 Warmth.mp3" cid="{5984B2E8-F8CF-42CA-86E4-B9E68E153E6F}" tid="{83EE1EC3-78B4-4DEF-91D6-43934728FA92}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\30 Heart of Steel.mp3" cid="{C84A9E0A-DDFB-44AC-B53A-B909AC95B914}" tid="{D27E0461-9127-4583-A59F-F69F98343930}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\31 Road to Manhood.mp3" cid="{411283BA-49A8-40DE-BBE5-4941BF5F17FF}" tid="{49097435-E1B2-4176-8A0A-DB9FC8A6900C}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\32 Brothers.mp3" cid="{2C696671-419B-480D-A9B1-CFE4C2B0B4E1}" tid="{D6750D00-7CB3-46D7-B4F5-51E9F0D2A84F}"/>
+            <media src="..\Various artists\サウンドトラック\FULLMETAL ALCHEMIST ORIGINAL SOUNDTRACK 1\33 Indelible Sin (TV size version).mp3" cid="{95EF5A7E-606A-47ED-AF62-3688EC2EBE93}" tid="{0DC4902B-C5FE-4087-85E2-965EB4E08CDF}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\01 READY STEADY GO.wma" cid="{75A7CEAB-6A49-4BF1-9490-F4E0DFD6C20C}" tid="{72A13748-D111-408C-9D6D-A9F27F1A8D5C}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\02 Tenderness.wma" cid="{7CBAFD0C-0071-42D7-A339-010453E5128B}" tid="{D3B1239D-F584-4684-B8FE-B3E7DEFFB092}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\03 Sin.wma" cid="{6B98992C-2CDA-4155-A43E-E153E95504A5}" tid="{9886D3D3-AC3F-4335-97C5-BCFA8C72E746}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\04 Courageous Fight.wma" cid="{25A4E8DF-3AC2-4132-8766-2689A23C7D39}" tid="{62990636-5F85-427B-93C8-92884C55BE12}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\05 Homunculus.wma" cid="{336D80EB-D953-4FC0-BDE3-1A237B869BCF}" tid="{A33C24DB-C66C-465F-94C0-0C959784C3F9}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\06 Solitude.wma" cid="{252E93BE-2DD0-4039-BC58-C1BB79C2253B}" tid="{9AC3FC13-EBA6-4387-96DF-16CA7970C549}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\07 Pointless Argument.wma" cid="{EA8582E6-9BB6-452C-98EF-2B2EDA88A7BA}" tid="{06403194-B7F3-497B-8B75-614E24D5A8EA}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\08 Remnants.wma" cid="{BA942190-DB1C-48C8-A00C-808F4CE49929}" tid="{FA4DE374-F18E-4934-86BB-53BB5D310D75}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\09 Loneliness.wma" cid="{1D7EAF34-4416-45B7-BF82-28DA67C6A651}" tid="{CDCC9572-308B-4CBC-9556-1A4C422BAC36}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\10 Lust.wma" cid="{5B20F791-FEFB-43DA-8F26-D3E2AFD4997D}" tid="{A8837212-0235-4D1F-9C47-3C6A275AEFFC}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\11 Pulse.wma" cid="{7BDFFE3B-3106-41D4-A1CB-0C1BFF69E778}" tid="{87DD14B7-8BD3-4F77-8507-C3AC226BE2D4}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\12 Life and Death.wma" cid="{DB91E38F-5ED1-40C0-882C-ED82C867EA4B}" tid="{D719B5BC-B895-4FCB-AAD8-490AC005DF53}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\13 Great Speed.wma" cid="{F530B2FD-C1FD-4DFB-9EB5-E8A7C99EE3B5}" tid="{42BF3834-6004-4A83-BD90-ADE77E767888}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\14 Greed.wma" cid="{670DB9B6-E811-423B-ACF3-2F9C9CA9A565}" tid="{0B565D95-4A7D-4C1C-82FF-5340CB6B3269}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\15 The Thread of Life.wma" cid="{471C0F31-78A3-431C-906B-22F5FEC84973}" tid="{1AEB619A-F7F6-41FC-B53D-59D684CE4EA5}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\16 Transient Life.wma" cid="{A20CE6D7-5555-4B03-BEE7-CB0ECEDE1007}" tid="{C9E19701-6364-4EC5-AC1C-E7BB487EC58A}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\17 Resentment.wma" cid="{1EABAA3D-7E99-4CA9-AAC5-D58B113C682B}" tid="{6A55F6D2-C72B-4845-89E2-619D077458CA}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\18 Inspiration.wma" cid="{7F8F71FF-1BC0-4FB2-8A9B-93CF3E63C436}" tid="{42D72E5F-EB54-4EA0-BE81-411201A475C2}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\19 Emptiness.wma" cid="{1B5CF826-FEDF-4FD1-8F95-AA5B9D9180A5}" tid="{45CFE67E-1F8A-42F0-A621-3819AB9E862B}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\20 Horizon.wma" cid="{CFE4B288-16BA-49C7-869E-264338AE84B5}" tid="{31FA4A2B-7A81-48CF-BF49-CFFA3FB39A85}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\21 Immortality.wma" cid="{E191350F-C770-43DF-A0E4-0C93A2BF2A6A}" tid="{2119E54A-7C85-4131-B84B-36E3EB668E93}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\22 Eternity.wma" cid="{AF8EB622-9A00-40DA-8675-1825D5AA8D13}" tid="{6528CBEC-909C-45BD-A6EC-0D61B010ECE3}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\23 Gorgeousness.wma" cid="{9DBD846F-D8BB-4738-ADA8-91D40651F804}" tid="{A5107F31-38F1-4E43-BFCA-EEC977C35A65}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\24 Deep Forest.wma" cid="{43C4F871-0D10-4597-936E-3369B00A253F}" tid="{34DDAF58-1E99-425D-A454-8168F945D032}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\25 Dante.wma" cid="{69497103-29EA-4061-9B96-3B0DDE97EAFB}" tid="{657862DA-540B-400C-966E-E6129B443F85}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\26 Precautionary Rules.wma" cid="{E2C8AADC-84BD-4253-AC66-0316516D2000}" tid="{4EE61E07-6B29-4D09-98C1-F83808ACCDD2}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\27 Revelation.wma" cid="{2F247499-6DB1-42DC-A8A7-D517B6EB7147}" tid="{C87349E8-C509-421D-B718-E4AB7AD52017}"/>
+            <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\28 Patriotism.wma" cid="{B1BBF257-6322-45D1-8F80-50DBC29A9FC2}" tid="{AAEF559E-7E88-4502-BA7D-E30E0375D813}"/>
             <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\29 Reflection.wma" cid="{BD2A9681-BA7C-4CE8-ACDF-FC040A429B79}" tid="{A8C7D123-8BA6-4C08-BD73-5600F5BB20E1}"/>
             <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 2\30 To the Other Side of the Door.wma" cid="{DF348493-DB5C-42E6-A4B5-6EF2B0045908}" tid="{A75B821C-7D80-4167-A598-F197F2CE6597}"/>
             <media src="..\Various artists\Fullmetal Alchemist Original Soundtrack 3\01 リライト.wma" cid="{9B3AB2DA-28DC-4CCE-A6D8-A3DB3E43E11B}" tid="{CBD3190E-5137-4151-B554-3839152DEDE1}"/>
