@@ -2,12 +2,7 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.16299.192"/>
-        <meta name="ItemCount" content="145"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
+        <meta name="ItemCount" content="148"/>
         <author/>
         <title>Singles</title>
     </head>
@@ -99,14 +94,14 @@
             <media src="..\澤野 弘之\Kill la Kill Original Soundtrack\Blumenkranz.mp3" tid="{E302A453-D458-4A83-8A59-F7C289030A44}"/>
             <media src="..\澤野 弘之\Kill la Kill Original Soundtrack\Kiる厭KiLL.mp3" tid="{DE5FBEE3-803C-4BB0-8F13-F1602508FE5C}"/>
             <media src="..\澤野 弘之\Kill la Kill Original Soundtrack\Before my body is dry.mp3" tid="{C3E63D85-72B2-4591-9A25-3806EC04C3EC}"/>
-            <media src="..\Toto\Toto IV\Toto - Africa.mp3" tid="{9F9DDAA6-29CF-4553-A9D9-FC639BAEDC46}" cid="{76E2855C-9072-4B85-BC2F-B0B587EF090A}"/>
+            <media src="..\Toto\Toto IV\10 Africa.mp3" tid="{9F9DDAA6-29CF-4553-A9D9-FC639BAEDC46}" cid="{76E2855C-9072-4B85-BC2F-B0B587EF090A}"/>
             <media src="..\Lemon Demon\Reaganomics\Lemon Demon - Reaganomics.mp3" tid="{882AA0AC-533F-4B25-BADE-2C721382BD2B}"/>
             <media src="..\Various artists\YouTube\Avast Fluttershys Ass - 20% Cooler Yay Equaliser Edition.mp3" tid="{DCE2438A-26AC-473B-82F8-FDF45FF89996}"/>
             <media src="..\Azuma Hitomi\Harinezumi\01. Harinezumi.mp3" albumTitle="Harinezumi " albumArtist="Azuma Hitomi" trackTitle="Harinezumi" trackArtist="Azuma Hitomi" duration="299154" tid="{F84747FB-4F20-4ED8-8796-48355F361695}" cid="{329E799A-ACE8-4599-9F5A-47E019468113}"/>
             <media src="..\Girls Love Shoes\Stars\04 Home.mp3" tid="{0FECFE77-8CEA-475C-8935-320C365128C2}"/>
             <media src="..\Azuma Hitomi\Harinezumi\02. Onaji Yume.mp3" albumTitle="Harinezumi " albumArtist="Azuma Hitomi" trackTitle="Onaji Yume" trackArtist="Azuma Hitomi" duration="373890" tid="{4A7C43F9-7753-470F-9EEE-8FBB7BF20CE5}" cid="{A07A2897-8B6F-454B-BB6C-5007358EBE87}"/>
             <media src="..\Various artists\Spice and Wolf II\01 Mitsu no Yoake.mp3" tid="{4AFE138B-50B0-4989-8BE2-C1571971B66E}"/>
-            <media src="..\Various artists\Spice and Wolf\02 Tabi no Tochuu.mp3" albumTitle="Spice and Wolf" albumArtist="Various artists" trackTitle="Tabi no Tochuu" trackArtist="Kiyoura Natsumi" duration="294716" tid="{D093E212-52BA-48A3-B043-3B27C8F53BCA}"/>
+            <media src="..\Various Artists\Spice and Wolf II\02 Tabi no Tochuu.mp3" albumTitle="Spice and Wolf" albumArtist="Various artists" trackTitle="Tabi no Tochuu" trackArtist="Kiyoura Natsumi" duration="294716" tid="{D093E212-52BA-48A3-B043-3B27C8F53BCA}"/>
             <media src="..\Various artists\Spice and Wolf\30 Ringo Biyori ~ The Wolf Whistling Song.mp3" albumTitle="Single" albumArtist="Rocky Chack" trackTitle="Ringo Biyori" trackArtist="Rocky Chack" duration="292884" tid="{91523049-0903-49F6-AE19-8FFBCEDF8DDE}"/>
             <media src="..\Azuma Hitomi\Harinezumi\03. Down By The Salley Gardens.mp3" albumTitle="Harinezumi " albumArtist="Azuma Hitomi" trackTitle="Down By The Salley Gardens" trackArtist="Azuma Hitomi" duration="199314" tid="{1C01DD16-AF4E-45C1-BC0B-AE4A0A8252F4}" cid="{7E37E423-BE4D-4D93-B74D-B43D4E9503F4}"/>
             <media src="..\Various artists\YouTube\UN Owen Was Her- Full version.mp3" albumTitle="YouTube" albumArtist="Various artists" trackTitle="U.N. Owen Was Her" trackArtist="Touhou Project" duration="320817" tid="{21790CE2-DD2D-4217-AB41-9A62C03B0DDA}"/>
@@ -125,20 +120,23 @@
             <media src="..\Yui\Rolling Star\01 Rolling Star.mp3" albumTitle="Bleach Original Soundtrack 5" albumArtist="Yui" trackTitle="Rolling Star" trackArtist="Yui" duration="89918" tid="{FBF826CB-179F-40D0-981D-D61349DF5F98}"/>
             <media src="..\Aqua Timez\ALONES\ALONES - Aqua Timez.mp3" albumTitle="Alones" albumArtist="Aqua Timez" trackTitle="Alones" trackArtist="Aqua Timez" duration="94965" cid="{62A6449F-B67D-4BBA-A91A-EF13EB63BC58}" tid="{18DF70AE-9756-495E-AD9F-36AFE46306A7}"/>
             <media src="..\Giorgio Tozzi\A Giorgio Tozzi Christmas\09 Giorgio Tozzi - God Rest Ye Merry Gentlemen.mp3" tid="{EB236941-FD5E-4C79-BAA0-3DBDD510EC21}"/>
-            <media src="..\Rockapella\Modern A Cappella\Rockapella - Zombie Jamboree.mp3" tid="{A7DEBE25-A0A9-4390-99C4-62E796F48B02}"/>
+            <media src="..\Rockapella\Modern A Cappella\01 Zombie Jamboree.mp3" tid="{A7DEBE25-A0A9-4390-99C4-62E796F48B02}"/>
             <media src="..\Sufjan Stevens\Illinoise\09 Chicago.mp3" cid="{D5210B4A-43DC-4B78-9227-A92EA6B4CA97}" tid="{35FAE9E9-0FFD-4597-A695-741C0E89E8C8}"/>
             <media src="..\Lemon Jelly\Lost Horizons\Nice Weather For Ducks.mp3" serviceId="{B11E3D00-0100-11DB-89CA-0019B92A3933}" albumTitle="Lost Horizons" albumArtist="Lemon Jelly" trackTitle="Nice Weather for Ducks" trackArtist="Lemon Jelly" duration="238961" cid="{6982CB16-3B13-406C-8CCC-619DC4D89A59}" tid="{425743E4-CA66-409B-87D5-4E98F8350FA6}"/>
             <media src="..\Dimrain47\Dimrain47 #1\02 Twilight Techno.mp3" tid="{443C987C-F570-4983-A34C-A16AE1C54DBB}"/>
             <media src="..\Newgrounds\Newgrounds Audio Portal\Chaoz Fantasy.mp3" tid="{C793D2E7-9D92-4486-A761-9E143DDDCC93}"/>
-            <media src="..\Caramell\Caramelldansen\Caramell - Caramelldansen (Speedycake Remix).mp3" albumTitle="Speedy Mixes" albumArtist="Caramell" trackTitle="Caramelldansen" trackArtist="Caramell" duration="176726" cid="{58F2CB43-C27D-40FC-983C-DF6E6A7DBDE1}" tid="{26969B65-2B36-4556-931A-6B1525AD3456}"/>
+            <media src="..\Caramell\Speedy Mixes\01 Caramelldansen (Speedycake Remix).mp3" albumTitle="Speedy Mixes" albumArtist="Caramell" trackTitle="Caramelldansen" trackArtist="Caramell" duration="176726" cid="{58F2CB43-C27D-40FC-983C-DF6E6A7DBDE1}" tid="{26969B65-2B36-4556-931A-6B1525AD3456}"/>
             <media src="..\Kayo Konishi &amp; Yukio Kondo\Elfen Lied Original Soundtrack\01 - Lilium (Opening Version).mp3" albumTitle="Elfen Lied Original Soundtrack" albumArtist="Kayo Konishi &amp; Yukio Kondo" trackTitle="Lilium (Full Version)" trackArtist="Kumiko Noma" duration="338086" cid="{F146D9A9-1A83-433C-9A11-B47735A494E7}" tid="{2E954869-3AE6-4177-B0C1-BF9E305F990B}"/>
+            <media src="..\Various artists\Summer Eletrohits 1\04 Dragostea Din Tei.mp3" cid="{9FBC8EFC-6DE2-4F91-ABFE-F6F228C2234D}" tid="{AE3DC934-9D39-4D59-8652-E80CC37F5D5B}"/>
+            <media src="..\Gabry Ponte\Haiducii vs. O-Zone\01 Haiducii Vs O-Zone - Dragostea Din Tei (Rmx Gabry Ponte).mp3" tid="{991EC478-BE1A-49C3-8924-D393361ECD0E}"/>
+            <media src="..\System Dance 11\Dragostea Din Tei\03-System Dance 11-Dragostea Din Tei.mp3" cid="{5BBDCBA1-C44C-4E46-861B-90448038525B}" tid="{BFD6871A-BC28-4D27-95AF-36EF95834E07}"/>
             <media src="..\O Android Technologies, Inc\Parody of Ma Ya Hi, aka Drag\My PC Is On Fire - Dell Laptop Tribute Video (Numa Numa Song).mp3" albumTitle="Parody of &quot;Ma Ya Hi&quot;, aka Drag" albumArtist="O Android Technologies, Inc." trackTitle="My PC" trackArtist="O Android Technologies, Inc." duration="215857" tid="{CCC49F1E-C013-4FB1-AC49-BD9D59788874}"/>
             <media src="..\Jonathan Coulton\Portal\01 Still Alive.mp3" serviceId="{9327BC01-0100-11DB-89CA-0019B92A3933}" albumTitle="Portal" albumArtist="Jonathan Coulton (Portal)" trackTitle="Still Alive" trackArtist="Jonathan Coulton" duration="176487" cid="{936BAD05-2620-4915-9624-7629D944B1CE}" tid="{A6883A61-4F40-446B-8D29-1817D6EB4C63}"/>
             <media src="..\Jonathan Coulton\Best. Concert. Ever\Jonathan Coulton - Re_ Your Brains.mp3" serviceId="{9F27BC01-0100-11DB-89CA-0019B92A3933}" albumTitle="Best. Concert. Ever." albumArtist="Jonathan Coulton" trackTitle="Re: Your Brains" trackArtist="Jonathan Coulton" duration="277456" tid="{6C40A43E-81BC-4BC9-9E4A-E6BC193859A4}"/>
             <media src="..\The Lonely Island\YouTube Channel\I Just Had Sex (feat. Akon).mp3" serviceId="{F20E6701-0500-11DB-89CA-0019B92A3933}" albumTitle="Turtleneck &amp; Chain" albumArtist="The Lonely Island" trackTitle="I Just Had Sex (feat. Akon)" trackArtist="The Lonely Island" duration="175315" tid="{4CDA5A73-8AFC-4915-8F6B-1B54D343C2A5}"/>
-            <media src="..\Various artists\Paranoia Agent Original Soundtrack\Paranoia Agent - Yume no Shima Shinen Kouen.mp3" serviceId="{414E7400-0500-11DB-89CA-0019B92A3933}" albumTitle="Mousou - Paranoia Agent Original Soundtrack" albumArtist="Soundtrack" trackTitle="Yume no Shima Shinen Kouen" trackArtist="Susumu Hirasawa" duration="223665" cid="{7EF7B1E4-E142-4421-93B3-783104DC2723}" tid="{DAE2117A-ADFB-4E9C-B15C-959B1E33F3A5}"/>
+            <media src="..\Various Artists\Paranoia Agent Original Soundtrack\01 Yume no Shima Shinen Kouen.mp3" serviceId="{414E7400-0500-11DB-89CA-0019B92A3933}" albumTitle="Mousou - Paranoia Agent Original Soundtrack" albumArtist="Soundtrack" trackTitle="Yume no Shima Shinen Kouen" trackArtist="Susumu Hirasawa" duration="223665" cid="{7EF7B1E4-E142-4421-93B3-783104DC2723}" tid="{DAE2117A-ADFB-4E9C-B15C-959B1E33F3A5}"/>
             <media src="..\Basshunter\Now You&apos;re Gone- The Album\10 I Can Walk On Water.mp3" serviceId="{117DDF00-0500-11DB-89CA-0019B92A3933}" albumTitle="Now You&apos;re Gone - The Album" albumArtist="Basshunter" trackTitle="I Can Walk On Water" trackArtist="Basshunter" duration="222101" cid="{46CC57CD-CC1D-44C1-A0C8-1FFDA5512ADA}" tid="{37B13358-554D-4311-917F-3DFAEBF5DBB2}"/>
-            <media src="..\Men Without Hats\Rhythm of Youth\14 The Safety Dance.wma" cid="{DCD4F5EF-050A-4367-90EF-B6AE03FCB849}" tid="{53091716-203A-459E-BA3E-8D4C573A7421}"/>
+            <media src="..\Men Without Hats\Rhythm of Youth [With Folk of the 80&apos;s EP]\14 The Safety Dance.wma" cid="{DCD4F5EF-050A-4367-90EF-B6AE03FCB849}" tid="{53091716-203A-459E-BA3E-8D4C573A7421}"/>
             <media src="..\Various artists\Mortal Kombat\Mortal Combat Techno Remix.mp3" serviceId="{38EF1B00-0500-11DB-89CA-0019B92A3933}" albumTitle="Mortal Kombat [Original Soundtrack]" albumArtist="Soundtrack" trackTitle="Mortal Combat Techno Remix" trackArtist="Crystal Method" duration="201480" cid="{789B8A21-E7EB-430F-902B-CCBBDF5AE8E3}" tid="{6CF3694B-0731-4499-BB3C-6D07753B457F}"/>
             <media src="..\Flobots\Platypus\04 Handle Bars.mp3" cid="{B500183E-980E-4A6A-9571-0DEF3A499345}" tid="{B87B56FE-F65D-4083-8D41-1303907F4A74}"/>
             <media src="..\Red Army Choir\Best of the Red Army Choir\01 USSR National Anthem.mp3" albumTitle="Songs of the Soviet Union" albumArtist="Red Army Choir" trackTitle="USSR National Anthem" trackArtist="Red Army Choir" duration="211348" tid="{FB5A38A1-EEAA-4518-8FD8-535DE21AC8B7}"/>
@@ -156,6 +154,8 @@
             <media src="..\Tatsuya Uemura\Zero Wing Original Soundtrack\01 All Your Base.mp3" albumTitle="Zero Wing Original Soundtrack" albumArtist="Zero Wing" trackTitle="All Your Base Are Belong To Us" trackArtist="Zero Wing" duration="234828" tid="{489A7739-67C5-433C-80B5-AD4D93EF7F14}"/>
             <media src="..\Eiffel 65\Europop\05 Blue (Da Ba Dee).mp3" serviceId="{155C0D00-0100-11DB-89CA-0019B92A3933}" albumTitle="Uploaded by Simpson" albumArtist="Various artists" trackTitle="Blue (Da Ba Dee)" trackArtist="Eiffel 65" duration="285735" cid="{1B50D529-F98B-4D45-B537-23930C2CE546}" tid="{26EED199-1E65-489D-BA4B-5DDFCFC55DB7}"/>
             <media src="..\Gary Jules\ZEI\01 Mad World.mp3" serviceId="{D9270E02-0100-11DB-89CA-0019B92A3933}" albumTitle="ZEI" albumArtist="Gary Jules" trackTitle="Mad World" trackArtist="Gary Jules" duration="187645" cid="{F63DF3D0-90A9-4B77-BFA9-8DA7F1785316}" tid="{996A9946-6705-40A7-85EA-7B190707C10B}"/>
+            <media src="..\The O Zone\Discozone [Bonus Track]\03 Dragostea Din Tei.wma" tid="{B0EA4495-963A-4E8C-BAEE-1536F0EE38E2}"/>
+            <media src="..\Haiducii\Dragostea Din Tei\01 Dragostea Din Tei.wma" tid="{CCB0C13C-A006-4861-873D-FA7B9B9EFDAB}"/>
         </seq>
     </body>
 </smil>
