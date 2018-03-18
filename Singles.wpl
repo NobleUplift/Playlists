@@ -14,13 +14,11 @@
     <body>
         <seq>
             <media src="..\Wintergatan\Marble Machine\01 Marble Machine.mp3"/>
-            <media src="..\Various Artists\Refrain of Evangelion\16 Zankoku na Tenshi no Thesis (TV Size Version).mp3" tid="{6F528295-E600-444F-BF49-CB02C44179F6}"/>
-            <media src="..\Shiro Sagisu\Evangelion 2.0 You Can (Not) Advance OST [Disc 2]\11 Kyo no Hi wa Sayonara - Tribute to _Sound of Music_.mp3" tid="{B6C418D8-B0F2-485E-917B-18D6822B7547}"/>
             <media src="..\Boney M\Nightflight to Venus\02 Ra Ra Rasputin.mp3" cid="{D4005C8E-1D54-42D8-8EA8-907D002AE2DC}" tid="{7D2B3F9E-3FFB-413A-AFAB-C47CECC2510D}"/>
-            <media src="..\Wehrmacht Choir\Songs of the Wehrmacht\01 Erika - German Marching Song.mp3" tid="{B3ED122F-E9DE-4ECC-A893-194D315D4FE8}"/>
             <media src="..\DJ SHU\スーパーユーロビート　ＶＯＬ．１８１ Disc 1\17 ガス・ガス・ガス.mp3" cid="{1B08302E-BC8E-487C-997C-3ABD4F7C6AC6}" tid="{259DC87F-830C-4E51-BC35-1E468F6DC978}"/>
             <media src="..\Various Artists\Initial D Super Euro-Best\11 Deja vu.mp3" tid="{D7087643-70F5-436C-B3E8-E9A255A971C2}"/>
             <media src="..\Queen\Greatest Hits\14 Flash Gordon.mp3" cid="{AE5ED856-0429-42E4-A8DA-15D3EDA07DEA}" tid="{98DCD6B2-3B7B-44D3-A3B9-958880105ADB}"/>
+            <media src="..\Wehrmacht Choir\Songs of the Wehrmacht\01 Erika - German Marching Song.mp3" tid="{B3ED122F-E9DE-4ECC-A893-194D315D4FE8}"/>
             <media src="..\Nena\99 Luftballons\11 99 Luftballons.mp3" cid="{707A6BC4-9E53-42C0-BADB-6D7FC1157B95}" tid="{F8AC19B4-D2AF-4783-A386-2555C08FC9FB}"/>
             <media src="..\Skips Marley\Lions\01 Lions.mp3" cid="{07FE75CD-3568-4AEC-A6D6-78FA1B6C4691}" tid="{19E260A6-C0A5-4A55-9B81-CB10C0133276}"/>
             <media src="..\Enya\A Day Without Rain\03 Only Time.mp3" cid="{1BC22494-1BD9-49D9-A764-8672546CF964}" tid="{75A11B8A-C11E-45BB-AFA5-4299267AC4F0}"/>
@@ -78,6 +76,8 @@
             <media src="..\Maximum The Hormone\Buiikikaesu\02 Zetsubou Billy.mp3" cid="{F828B193-FC63-4A10-BB23-1B756D3EBA23}" tid="{40096303-49C9-4D09-95A6-D299F7D6396D}"/>
             <media src="..\Maximum The Hormone\Buiikikaesu\03 Kuso Breakin Nou Breakin Lily.mp3" cid="{7A009B5F-22D2-478B-B341-409EA897EC1E}" tid="{71155CE5-8902-418E-9B93-5C40833B1E01}"/>
             <media src="..\Maximum The Hormone\Buiikikaesu\10 What&apos;s Up, People!-.mp3" cid="{F1CD7818-486B-41F0-B53F-72F653A5A6B3}" tid="{FD37B994-0494-4DA7-BC69-214200FA3821}"/>
+            <media src="..\Various Artists\Refrain of Evangelion\16 Zankoku na Tenshi no Thesis (TV Size Version).mp3" tid="{6F528295-E600-444F-BF49-CB02C44179F6}"/>
+            <media src="..\Shiro Sagisu\Evangelion 2.0 You Can (Not) Advance OST [Disc 2]\11 Kyo no Hi wa Sayonara - Tribute to _Sound of Music_.mp3" tid="{B6C418D8-B0F2-485E-917B-18D6822B7547}"/>
             <media src="..\Queen\Jazz\04 Bicycle Race.mp3" cid="{82FCD83E-2AB3-4F9B-B190-FE69EF2541B5}" tid="{F4EB5950-14B6-42DA-A07F-2CE0B1F14D42}"/>
             <media src="..\Queen\A Night at the Opera\11 Bohemian Rhapsody.mp3" cid="{CB29D719-D3AF-4F93-AF63-F1FDE248C0F5}" tid="{F73EFF66-7D06-4941-8828-605B662F2ED9}"/>
             <media src="..\Queen\The Game\03 Another One Bites the Dust.mp3" cid="{C1CFF87E-4DF4-4101-A775-C72259E3A958}" tid="{217C98F0-4D55-4FE1-94E6-0EEA470C3A0E}"/>
