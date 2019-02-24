@@ -2,19 +2,20 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.17134.471"/>
-        <meta name="ItemCount" content="148"/>
+        <meta name="ItemCount" content="184"/>
         <author/>
         <title>Singles</title>
     </head>
     <body>
         <seq>
-            <media src="..\Sia\1000 Forms of Fear\01-01- Chandelier.mp3"/>
+            <media src="..\Halogen\U Got That\01-01- U Got That.mp3" cid="{E5B6CDB7-EADB-4340-A2AF-E113470B8FC8}" tid="{6E9F0174-277C-4D84-B9FD-B88759E37E79}"/>
+            <media src="..\Toby Fox\Undertale Soundtrack\01-100- Megalovania.mp3" cid="{67212EF2-319C-42C5-86B3-73905E62B822}" tid="{5026A63F-5D56-4AA0-89AB-10FB0A96F78E}"/>
             <media src="..\Little Big\Funeral Rave [Explicit]\01-05- Big Dick [Explicit].mp3" cid="{60146E63-8256-4C4F-8B19-C9F9C87DDD85}" tid="{5C53EFF5-7633-42D8-8088-F5C40DA97716}"/>
             <media src="..\Tennessee Ernie Ford\Sixteen Tons\01-01- Sixteen Tons.mp3" cid="{36379354-F724-48E1-8815-2C5B95092887}" tid="{ABFFB32D-8F56-4F6B-8B15-CBAB1D9FA215}"/>
             <media src="..\Stromae\Racine Carrée (Standard US Version)\01-02- Papaoutai.mp3" cid="{32B38B7F-7360-4A2E-8CEC-48645E41C019}" tid="{48BDA233-B559-4B06-815C-47F79131D118}"/>
             <media src="..\Sia\1000 Forms of Fear\01-08- Elastic Heart.mp3" cid="{A7FA64A5-14CB-4D30-81AB-A584C2F2F98F}" tid="{D8E322F3-58A3-406C-B874-FF6D4600D714}"/>
             <media src="..\Stuck in the Sound\Pursuit\02 Let’s Go.mp3" cid="{4A3B22CF-FDF3-41A6-98E9-60EE644FF690}" tid="{17C837D7-68B9-4254-B47C-21C1693BF037}"/>
-            <media src="..\Queen\Greatest Hits\14 Flash Gordon.mp3" cid="{AE5ED856-0429-42E4-A8DA-15D3EDA07DEA}" tid="{85DEB958-442E-4C69-A588-005478605931}"/>
+            <media src="..\Sia\1000 Forms of Fear\01-01- Chandelier.mp3" cid="{5B033E2E-AD2F-48F2-84A4-DA8EB436ADD2}" tid="{C57D8879-B952-4924-B04B-7CFE39870940}"/>
             <media src="..\Wintergatan\Marble Machine\01 Marble Machine.mp3" tid="{BDC7BE43-A3AF-4CEE-B5A2-8596F86C95E9}"/>
             <media src="..\Boney M\Nightflight to Venus\02 Ra Ra Rasputin.mp3" cid="{D4005C8E-1D54-42D8-8EA8-907D002AE2DC}" tid="{02CD8CCC-B719-48E9-B796-446B0B84D5D4}"/>
             <media src="..\Nena\99 Luftballons\11 99 Luftballons.mp3" cid="{E621B7C9-78DE-457B-AFF0-C303A3AF3E22}" tid="{65DD724A-41F1-48F9-9DEF-2CCCBA05D8F4}"/>
@@ -79,6 +80,7 @@
             <media src="..\Maximum The Hormone\Buiikikaesu\10 What&apos;s Up, People!-.mp3" cid="{F1CD7818-486B-41F0-B53F-72F653A5A6B3}" tid="{A5A8CB04-6C4E-4BC1-8826-2BA74AD0411B}"/>
             <media src="..\Various Artists\Refrain of Evangelion\16 Zankoku na Tenshi no Thesis (TV Size Version).mp3" tid="{DE1570FF-76DE-4DAE-82F7-D1620409F0D9}" cid="{97309F68-34D4-42C5-842D-19A901BB6310}"/>
             <media src="..\Shiro Sagisu\Evangelion 2.0 You Can (Not) Advance OST [Disc 2]\11 Kyo no Hi wa Sayonara - Tribute to _Sound of Music_.mp3" tid="{D16E10FD-BA43-400C-8B1D-22DB93B73738}"/>
+            <media src="..\Queen\Greatest Hits\14 Flash Gordon.mp3" cid="{AE5ED856-0429-42E4-A8DA-15D3EDA07DEA}" tid="{85DEB958-442E-4C69-A588-005478605931}"/>
             <media src="..\Queen\Jazz\04 Bicycle Race.mp3" cid="{82FCD83E-2AB3-4F9B-B190-FE69EF2541B5}" tid="{B55A4460-784C-46F8-968E-A539275A395C}"/>
             <media src="..\Queen\A Night at the Opera\11 Bohemian Rhapsody.mp3" cid="{CB29D719-D3AF-4F93-AF63-F1FDE248C0F5}" tid="{A78F298C-5563-4108-A087-798A140EF61D}"/>
             <media src="..\Queen\The Game\03 Another One Bites the Dust.mp3" cid="{C1CFF87E-4DF4-4101-A775-C72259E3A958}" tid="{4AFB18AD-55F5-40DC-AABE-4995718A3B53}"/>
