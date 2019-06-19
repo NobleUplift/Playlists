@@ -13,13 +13,13 @@
     </head>
     <body>
         <seq>
-            <media src="..\Halogen\U Got That\01-01- U Got That.mp3" cid="{E5B6CDB7-EADB-4340-A2AF-E113470B8FC8}" tid="{D12A50CE-0697-47D2-9142-2761528B8312}"/>
-            <media src="..\Toby Fox\Undertale Soundtrack\01-100- Megalovania.mp3" cid="{67212EF2-319C-42C5-86B3-73905E62B822}" tid="{AB72A655-65D0-4967-81D0-5AFB468DEBD9}"/>
-            <media src="..\Little Big\Funeral Rave [Explicit]\01-05- Big Dick [Explicit].mp3" cid="{60146E63-8256-4C4F-8B19-C9F9C87DDD85}" tid="{1DCB83C3-3C99-4354-8D8B-C54E1F2F99FF}"/>
-            <media src="..\Tennessee Ernie Ford\Sixteen Tons\01-01- Sixteen Tons.mp3" cid="{36379354-F724-48E1-8815-2C5B95092887}" tid="{FC9913D9-08C1-40D4-825B-E5B8783135BB}"/>
-            <media src="..\Stromae\Racine Carrée (Standard US Version)\01-02- Papaoutai.mp3" cid="{32B38B7F-7360-4A2E-8CEC-48645E41C019}" tid="{03A4B87F-82AD-4358-8836-3C571ED1DC4A}"/>
-            <media src="..\Sia\1000 Forms of Fear\01-08- Elastic Heart.mp3" cid="{A7FA64A5-14CB-4D30-81AB-A584C2F2F98F}" tid="{54902B3F-06AC-412F-B4CE-E40EA0D5C8EB}"/>
-            <media src="..\Stuck in the Sound\Pursuit\02 Let’s Go.mp3" cid="{4A3B22CF-FDF3-41A6-98E9-60EE644FF690}" tid="{AB3CB51A-D627-4478-B335-171975C49597}"/>
+            <media src="..\Halogen\U Got That\01-01- U Got That.mp3" cid="{7B57F046-35EC-4941-9B83-8E9C52715B70}" tid="{D12A50CE-0697-47D2-9142-2761528B8312}"/>
+            <media src="..\Toby Fox\Undertale Soundtrack\01-100- Megalovania.mp3" cid="{4DDBF61E-5D25-48EC-8C51-2B6ECFB13FC5}" tid="{AB72A655-65D0-4967-81D0-5AFB468DEBD9}"/>
+            <media src="..\Little Big\Funeral Rave [Explicit]\01-05- Big Dick [Explicit].mp3" cid="{66D99DFD-1434-4741-AB6C-302A80CF09BB}" tid="{1DCB83C3-3C99-4354-8D8B-C54E1F2F99FF}"/>
+            <media src="..\Tennessee Ernie Ford\Sixteen Tons\01-01- Sixteen Tons.mp3" cid="{48487718-56A3-4400-9546-BFB4259F3F11}" tid="{FC9913D9-08C1-40D4-825B-E5B8783135BB}"/>
+            <media src="..\Stromae\Racine Carrée (Standard US Version)\01-02- Papaoutai.mp3" cid="{A5758FCC-7225-44F8-9BCE-4271618DE2B8}" tid="{03A4B87F-82AD-4358-8836-3C571ED1DC4A}"/>
+            <media src="..\Sia\1000 Forms Of Fear\08 Elastic Heart.mp3" cid="{77E16DF9-A6C6-4B12-8141-83D092D6950D}" tid="{109F221A-C009-40E3-9D25-3E2140EE3AAE}"/>
+            <media src="..\Stuck in the Sound\Pursuit\02 Let’s Go.mp3" cid="{410F8DD6-BD15-430D-A5CE-453399797708}" tid="{AB3CB51A-D627-4478-B335-171975C49597}"/>
             <media src="..\Wintergatan\Marble Machine\01 Marble Machine.mp3" tid="{829BFFC8-138F-4302-90D5-491BD4707F13}"/>
             <media src="..\Boney M\Nightflight to Venus\02 Ra Ra Rasputin.mp3" cid="{D4005C8E-1D54-42D8-8EA8-907D002AE2DC}" tid="{82F90015-8BF4-4006-81A1-71D702B13033}"/>
             <media src="..\Nena\99 Luftballons\11 99 Luftballons.mp3" cid="{E621B7C9-78DE-457B-AFF0-C303A3AF3E22}" tid="{94C3B12C-7B6F-4B3A-9ABD-470D97527770}"/>
@@ -33,7 +33,7 @@
             <media src="..\Bag Raiders\Bag Raiders\03 Shooting Stars.mp3" tid="{891D6425-9216-40DC-B3FF-1679FCE5EB68}" cid="{0FD653FA-D9BC-468F-8259-A6156E92DABD}"/>
             <media src="..\M83\Hurry Up, We&apos;re Dreaming Disc 1\02 Midnight City.mp3" cid="{0CB45971-583C-442A-B0FF-AB51DB459676}" tid="{149592AC-B5C6-4276-B615-48E51A0EEA75}"/>
             <media src="..\M83\Hurry Up, We&apos;re Dreaming Disc 1\03 Reunion.mp3" cid="{FC25A7B2-8931-49B8-97C4-B7C9106487DC}" tid="{6EB5E548-F9DC-4413-8689-5E536F4A2031}"/>
-            <media src="..\Kana Hanazawa\Renai Circulation\01 Renai Circulation.mp3" tid="{28E467CE-462C-457C-81C0-1C9EF51ABF8B}"/>
+            <media src="..\Kana Hanazawa\Renai Circulation\01 Renai Circulation.mp3" tid="{28E467CE-462C-457C-81C0-1C9EF51ABF8B}" cid="{2A09D2DC-C7AB-41F7-A8B3-E47FF6B1DE93}"/>
             <media src="..\Alan Walker\NoCopyrightSounds\Alan Walker - Spectre.mp3" tid="{842AEB19-ED36-4872-9DB7-1D0555DC352D}" cid="{4FE32E76-165A-40F8-BB2B-5558017A5B98}"/>
             <media src="..\Jai Wolf\Indian Summer - Single\Jai Wolf - Indian Summer.mp3" cid="{1F0BB9EF-37A2-48E0-9219-9C9A33301CC3}" tid="{D86D7A23-FFCF-4DD9-96B2-23D9657F4EBD}"/>
             <media src="..\Disturbed\Immortalized [Deluxe Edition]\11 The Sound Of Silence.mp3" cid="{92BA1F98-C2B9-4A77-AC51-8062E9FC387F}" tid="{EA1AA748-4B42-4812-B494-353760123AA3}"/>
@@ -47,13 +47,13 @@
             <media src="..\Various Artists\[C] Money of Soul and Possibility Control\[C] The Money of Soul and Possibility Control OP.mp3" tid="{4C0F1263-ADE3-44A5-9E5C-C1E9B47F39DA}"/>
             <media src="..\Yoko Shimomura\Hyper Street Fighter II Anniversary Edition Original Soundtrack\CPS2 - Guile&apos;s Theme - Stage.mp3" tid="{424FBDC1-5147-4163-8238-E22825C2C2E3}"/>
             <media src="..\Andrew W.K\I Get Wet\07 She Is Beautiful.mp3" cid="{8FD5EC42-B951-4BCC-818F-C5925E7547AC}" tid="{67369669-D628-4C6C-B05B-2B72D52492C4}"/>
-            <media src="..\Calvin Harris\I Need Your Love\01 I Need Your Love ft. Ellie Goulding.mp3" tid="{CBD14503-3761-401A-AD07-382884ED1509}"/>
+            <media src="..\Calvin Harris\I Need Your Love\01 I Need Your Love ft. Ellie Goulding.mp3" tid="{CBD14503-3761-401A-AD07-382884ED1509}" cid="{0064C0BD-7457-43C1-A78B-9476A5FA5F8D}"/>
             <media src="..\Fun\Some Nights\03 We Are Young.mp3" tid="{89E82DBA-8D61-4CCD-B8FA-83DF26B94ABF}" cid="{A1BEE500-0EC0-4151-9EC2-8E81663D15FC}"/>
             <media src="..\Fun\Some Nights\02 Some Nights.mp3" cid="{568619DA-6457-4082-A507-A37E131CBC83}" tid="{8F5A468A-3C7C-4E70-B8D2-EC690B5A8EAD}"/>
             <media src="..\Tokio Hotel\Humanoid En\02 Human Connect to Human.mp3" cid="{4E95B9FB-E1A6-43C9-A030-BD7178BC788C}" tid="{D683363A-8C14-4C6E-AF99-18E4BCDC69FC}"/>
             <media src="..\豊崎愛生\Don&apos;t say  lazy_\01 - Don&apos;t say &apos;lazy&apos;.mp3" cid="{A6A154F4-EEF5-4E4E-8D96-B5D11B4BC31F}" tid="{6B655647-9E38-41A2-9DB5-A1EE9E7CAAEB}"/>
             <media src="..\Friedrich Liechtenstein\Supergeil\01 Supergeil (feat. Friedrich Liechtenstein).mp3" tid="{166E519E-32E0-4E68-8EF0-262820DE1D02}" cid="{AD7C96B5-6544-44CF-AE12-29F1DE620AB4}"/>
-            <media src="..\Cheeseburger\Commin&apos; Home - Single\01 Commin&apos; Home.mp3" tid="{00EE7A59-88FC-4077-B37B-3B9F84D65601}"/>
+            <media src="..\Cheeseburger\Commin&apos; Home - Single\01 Commin&apos; Home.mp3" tid="{00EE7A59-88FC-4077-B37B-3B9F84D65601}" cid="{D441E9FC-D552-4290-9229-A01BFE8E2093}"/>
             <media src="..\The Thermals\The Body, the Blood, the Machine\04 A Pillar of Salt.mp3" cid="{1DB60E33-76A7-4F4A-AE91-1533396CFFC7}" tid="{E3D438DA-E77C-45EF-9730-5EF3B14B3EBC}"/>
             <media src="..\The Thermals\The Body, the Blood, the Machine\05 Returning to the Fold.mp3" cid="{79797754-BD27-44BE-9DDD-4D3743CDDE0D}" tid="{AAF480CD-4341-47FF-8FCB-5D3599412E06}"/>
             <media src="..\Simon Viklund\PAYDAY 2 Official Soundtrack\40_Full_Force_Forward_Hype_Train.mp3" tid="{ABF160A6-3A49-453F-B379-446C3E971982}"/>
@@ -67,7 +67,7 @@
             <media src="..\Rammstein\Rosenrot\05 Wo Bist Du.mp3" cid="{48A5649A-F1F5-49C1-B5D2-C90073AA7E2D}" tid="{CDD19E5C-E14D-49B5-AFA6-05A36A8A4772}"/>
             <media src="..\Rammstein\Rosenrot\07 Zerstören.mp3" cid="{CE0DFA9B-8ABF-4EBE-A10A-7A2CAB9AE57B}" tid="{B1262751-CCF4-4926-9880-FB5799324D62}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\03 Waidmanns Heil.mp3" cid="{B3D33289-EF8C-4277-BD6C-0045FAF26934}" tid="{75511ECB-5B52-4BE8-8B04-CC5257FE6172}"/>
-            <media src="..\Rammstein\YouTube Channel\86 Haifisch (Intro).mp3" tid="{A6DEEB75-6837-4B9B-9A6C-ED17035C24AC}" cid="{D3FE3224-4FF3-487D-92A5-EC71C6EC5DCE}"/>
+            <media src="..\Rammstein\YouTube Channel\86 Haifisch (Intro).mp3" tid="{A6DEEB75-6837-4B9B-9A6C-ED17035C24AC}" cid="{F7F38A99-36AA-4804-B08C-FC549CEB72D6}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\04 Haifisch.mp3" cid="{DBA5CF09-3DCF-4E9B-87E9-7C6854BB34B4}" tid="{C4E68AA0-2C73-49F1-A11E-85201786B879}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\02 Ich Tu Dir Weh.mp3" cid="{EE001F7C-7DEE-456B-A7A9-246369307D14}" tid="{30B24DA2-1BA5-43FC-AD73-D13941E8625E}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\08 Pussy.mp3" cid="{E72952BB-015A-4276-9E98-5EB8C5BB0352}" tid="{46D3ACDF-FCC7-4141-8CDD-E828E1E760C9}"/>
@@ -91,13 +91,13 @@
             <media src="..\LMFAO\Sorry for Party Rocking [Deluxe Edition]\04 Sexy and I Know It.mp3" cid="{3617A505-0152-486C-B052-8C7DF2807490}" tid="{FB8E5C4B-D93F-43DB-9C14-BEB79373A3B8}"/>
             <media src="..\LMFAO\Party Rock\13 Yes.mp3" cid="{12ABD683-57B2-405B-B697-4AC0583FE1B5}" tid="{A37BE179-76B3-4263-8756-ACC31CBC9CCB}"/>
             <media src="..\LMFAO\Sorry for Party Rocking [Deluxe Edition]\02 Sorry for Party Rocking.mp3" cid="{E61E17F6-E774-45A7-83FD-A80CD22202A1}" tid="{266655E6-EC79-4855-B3D4-49DE9747918C}"/>
-            <media src="..\The Flairs\Truckers Delight - EP\01 Truckers Delight.mp3" tid="{3FF725DB-3FA8-4862-B0B6-2BDCA3C5532C}"/>
+            <media src="..\The Flairs\Truckers Delight - EP\01 Truckers Delight.mp3" tid="{3FF725DB-3FA8-4862-B0B6-2BDCA3C5532C}" cid="{9B1ABD5A-64D4-4471-976E-F5A850D68FD7}"/>
             <media src="..\Pentatonix\PTX, Vol. 2\06 I Need Your Love.mp3" cid="{6E66BD2E-88AD-48FD-B624-4E7F5237D408}" tid="{F77F40AB-47FB-41AF-BEB4-0E450FAAB22D}"/>
             <media src="..\Nicky Romero\Toulouse\Nicky Romero - Toulouse.mp3" tid="{DC4AC061-8692-4775-BB18-6B819F9F1940}" cid="{C6C21D4F-7C04-440F-994D-7F6975C5F5AF}"/>
             <media src="..\Pentatonix\PTX, Vol. 2\08 Daft Punk- Around the World-Digital Love-Get Lucky-Harder Better Faster.mp3" cid="{C8D725FD-44BE-43C6-AA38-04C17327E1C4}" tid="{3C09CD2D-D1C2-4037-BD32-0D95BDD639D9}"/>
-            <media src="..\Mittsies\Exordium\02 Stratum (Extended Mix).mp3" tid="{AB8ECDDA-C64B-43E1-A0F8-631AC71D936D}"/>
+            <media src="..\Mittsies\Exordium\02 Stratum (Extended Mix).mp3" tid="{AB8ECDDA-C64B-43E1-A0F8-631AC71D936D}" cid="{566D1BCE-93EA-41FA-BB23-D0E347713BD5}"/>
             <media src="..\Various Artists\Lana Del Rey vs Cedric Gervais\01 Lana Del Rey vs Cedric Gervais &apos;Summertime Sadness&apos; Remix.mp3" tid="{C4F4A9ED-6421-40A5-84F5-E703BBE3A540}"/>
-            <media src="..\Martin Garrix\Animals\Martin Garrix - Animals (Official Video).mp3" tid="{53938E8C-F8D7-4B76-BA7B-AF9AF799525F}"/>
+            <media src="..\Martin Garrix\Animals\Martin Garrix - Animals (Official Video).mp3" tid="{53938E8C-F8D7-4B76-BA7B-AF9AF799525F}" cid="{AE577530-1A6F-4237-8150-BE5925A22DEB}"/>
             <media src="..\Nero\Welcome Reality\13 Promises.mp3" albumTitle="YouTube" albumArtist="Various artists" trackTitle="Promises" trackArtist="Nero" duration="239882" tid="{16DD294F-99F0-4C64-A36A-BDB906ADDDCF}" cid="{186E0969-0F9D-425E-A72A-B2B7780D5D97}"/>
             <media src="..\Various Artists\Borderlands\28 Mad Moxxi Theme.mp3" tid="{7AA747A5-59F8-49DB-B361-C2981337804A}"/>
             <media src="..\Schandmaul\Narrenkonig\01 Walpurgisnacht.mp3" cid="{B361D958-0FA6-4F35-9D6A-7FECDB200D47}" tid="{2826EFB1-0398-41AC-A77A-E455DF5309DB}"/>
@@ -118,15 +118,15 @@
             <media src="..\Policeman\Galo Sengen\ポリスマン／GAL男宣言.mp3" tid="{FFC6721D-B2C7-4AF2-A47B-5DC8AD2D96E2}"/>
             <media src="..\Kalafina\After Eden\03 Magia.mp3" tid="{CAD5AFE8-8371-4659-BD75-B157ABC43E57}" cid="{E424F2C8-4D03-426C-9F46-C81E33DA2D45}"/>
             <media src="..\Various Artists\Fullmetal Alchemist Final Best\07 Period.mp3" tid="{455FBC69-DEF6-43A4-A486-DA143FAA0F34}" cid="{FFB993A3-0F11-4FF6-B6D4-3DDE3D8EB0EF}"/>
-            <media src="..\Lia\Toki o Kizamu Uta - TORCH\01 Toki wo Kizamu Uta.mp3" tid="{170968D0-71FF-4FCA-8106-128CC8A60346}"/>
-            <media src="..\Luna Haruna\OVERFLY\01 Overfly.mp3" tid="{A2A448BD-9F55-4DC0-8472-1D79574A3B1E}"/>
+            <media src="..\Lia\Toki o Kizamu Uta - TORCH\01 Toki wo Kizamu Uta.mp3" tid="{170968D0-71FF-4FCA-8106-128CC8A60346}" cid="{52F1FFE2-CD1D-4884-AA01-B1F42B726FEA}"/>
+            <media src="..\Luna Haruna\OVERFLY\01 Overfly.mp3" tid="{A2A448BD-9F55-4DC0-8472-1D79574A3B1E}" cid="{8A47FAC8-3351-49EB-B137-5717EB837E02}"/>
             <media src="..\Gotye\Making Mirrors\03 Somebody That I Used To Know (feat. Kimbra).mp3" cid="{1D9181D1-FD0D-4506-B375-F90D23394F4C}" tid="{88D84F4C-BAB4-4FD8-BBE6-EB5B78F9756C}"/>
-            <media src="..\Jeremy Soule\Skyrim Soundtrack\01 Dragonborn.mp3" tid="{F11F0D5A-7C50-4B3F-A5BA-CD952C3CC82B}"/>
+            <media src="..\Jeremy Soule\Skyrim Soundtrack\01 Dragonborn.mp3" tid="{F11F0D5A-7C50-4B3F-A5BA-CD952C3CC82B}" cid="{6A9DBBC8-FFFA-4F14-AAAF-568F0AAA07CD}"/>
             <media src="..\澤野 弘之\Kill la Kill Original Soundtrack\Blumenkranz.mp3" tid="{81FB8AB1-08DC-4D43-BF5C-897000A81111}"/>
             <media src="..\澤野 弘之\Kill la Kill Original Soundtrack\Kiる厭KiLL.mp3" tid="{FCACC6E9-3603-407F-BE06-58A89C99BBED}"/>
             <media src="..\澤野 弘之\Kill la Kill Original Soundtrack\Before my body is dry.mp3" tid="{BCEF248B-2282-4108-9914-2A575444CADE}"/>
             <media src="..\Toto\Toto IV\10 Africa.mp3" tid="{57D54DEF-6703-42A8-84C0-91043C343BBE}" cid="{76E2855C-9072-4B85-BC2F-B0B587EF090A}"/>
-            <media src="..\Lemon Demon\Reaganomics\Lemon Demon - Reaganomics.mp3" tid="{A8AA2362-E4AF-4C50-B08B-B32F37D15B3E}"/>
+            <media src="..\Lemon Demon\Reaganomics\Lemon Demon - Reaganomics.mp3" tid="{A8AA2362-E4AF-4C50-B08B-B32F37D15B3E}" cid="{367F8A7D-C531-431D-B05A-3B64B208BB1E}"/>
             <media src="..\Various Artists\YouTube\Avast Fluttershys Ass - 20% Cooler Yay Equaliser Edition.mp3" tid="{F6B381E5-656B-437A-80AE-A02391DE5C0C}"/>
             <media src="..\Azuma Hitomi\Harinezumi\01. Harinezumi.mp3" albumTitle="Harinezumi " albumArtist="Azuma Hitomi" trackTitle="Harinezumi" trackArtist="Azuma Hitomi" duration="299154" tid="{501C762F-A021-49DA-BCC1-C30B2338AB6A}" cid="{329E799A-ACE8-4599-9F5A-47E019468113}"/>
             <media src="..\Girls Love Shoes\Stars\04 Home.mp3" tid="{81A2C255-7856-4C6D-ADFB-B84A80E99113}" cid="{EA4D7BB9-9500-4592-87F8-C47C1F4BA194}"/>
@@ -150,10 +150,10 @@
             <media src="..\Hey Mercedes\Everynight Fire Works\07 Our Weekend Starts on Wednesday.mp3" serviceId="{134A1E00-0100-11DB-89CA-0019B92A3933}" albumTitle="Everynight Fire Works" albumArtist="Hey Mercedes" trackTitle="Our Weekend Starts On Wednesday" trackArtist="Hey Mercedes" duration="136091" cid="{8B62FC87-38CF-409A-BDA1-F9508D1F16D6}" tid="{CAAD1D89-3345-47FF-A50C-8CE2B875226B}"/>
             <media src="..\Yui\Rolling Star\01 Rolling Star.mp3" albumTitle="Bleach Original Soundtrack 5" albumArtist="Yui" trackTitle="Rolling Star" trackArtist="Yui" duration="89918" tid="{B1BAACBE-2E3B-44FD-B703-E981367156F0}"/>
             <media src="..\Aqua Timez\ALONES\ALONES - Aqua Timez.mp3" albumTitle="Alones" albumArtist="Aqua Timez" trackTitle="Alones" trackArtist="Aqua Timez" duration="94965" cid="{62A6449F-B67D-4BBA-A91A-EF13EB63BC58}" tid="{12B05981-EC21-4A30-BABC-9166327E518B}"/>
-            <media src="..\Giorgio Tozzi\A Giorgio Tozzi Christmas\09 Giorgio Tozzi - God Rest Ye Merry Gentlemen.mp3" tid="{C824AEF6-E51F-49F9-8C84-4C6DB7D08D34}"/>
+            <media src="..\Giorgio Tozzi\A Giorgio Tozzi Christmas\09 Giorgio Tozzi - God Rest Ye Merry Gentlemen.mp3" tid="{C824AEF6-E51F-49F9-8C84-4C6DB7D08D34}" cid="{FCB294B6-A5DA-43E2-A022-DB7DF56AAF82}"/>
             <media src="..\Trans-Siberian Orchestra\The Lost Christmas Eve\16 Wish Liszt (Toy Shop Madness) [Instrumental].wma" cid="{20A6FA5C-758F-45D2-AA62-94CB9CC3580A}" tid="{A0E0CB65-7EC3-4633-8030-E825777514A4}"/>
             <media src="..\Trans-Siberian Orchestra\The Lost Christmas Eve\04 Wizards in Winter [Instrumental].wma" cid="{B9967658-819F-4285-BC12-C9556D8E68C8}" tid="{A75F4FB4-8097-49D8-A7B1-5391A1FF7A80}"/>
-            <media src="..\Rockapella\Modern A Cappella\01 Zombie Jamboree.mp3" tid="{A263C268-BA60-4BAA-BC99-738BAE983161}"/>
+            <media src="..\Rockapella\Modern A Cappella\01 Zombie Jamboree.mp3" tid="{A263C268-BA60-4BAA-BC99-738BAE983161}" cid="{FA437700-3414-4E55-A36B-4B7C9F3E4C49}"/>
             <media src="..\Sufjan Stevens\Illinoise\09 Chicago.mp3" cid="{D5210B4A-43DC-4B78-9227-A92EA6B4CA97}" tid="{14DFBF14-35DC-41D8-BCE8-79A424CBCE86}"/>
             <media src="..\Lemon Jelly\Lost Horizons\Nice Weather For Ducks.mp3" serviceId="{B11E3D00-0100-11DB-89CA-0019B92A3933}" albumTitle="Lost Horizons" albumArtist="Lemon Jelly" trackTitle="Nice Weather for Ducks" trackArtist="Lemon Jelly" duration="238961" cid="{6982CB16-3B13-406C-8CCC-619DC4D89A59}" tid="{9638431D-98F9-4F84-990C-3D48C9847994}"/>
             <media src="..\Various Artists\Dance Dance Revolution\03 Butterfly (Japanese Techno).mp3" cid="{4A8318E9-531D-418E-A63B-4B280FFC54A2}" tid="{F7659648-58F5-48D5-AA10-DAACC025CD0A}"/>
@@ -162,37 +162,37 @@
             <media src="..\Caramell\Speedy Mixes\01 Caramelldansen (Speedycake Remix).mp3" albumTitle="Speedy Mixes" albumArtist="Caramell" trackTitle="Caramelldansen" trackArtist="Caramell" duration="176726" cid="{58F2CB43-C27D-40FC-983C-DF6E6A7DBDE1}" tid="{B80D802D-2716-4A97-BAC6-C8B8AB59E08E}"/>
             <media src="..\Kayo Konishi &amp; Yukio Kondo\Elfen Lied Original Soundtrack\01 - Lilium (Opening Version).mp3" albumTitle="Elfen Lied Original Soundtrack" albumArtist="Kayo Konishi &amp; Yukio Kondo" trackTitle="Lilium (Full Version)" trackArtist="Kumiko Noma" duration="338086" cid="{F146D9A9-1A83-433C-9A11-B47735A494E7}" tid="{E0C9B0E2-C9BC-437B-AF3F-C349F742E602}"/>
             <media src="..\Various Artists\Summer Eletrohits 1\04 Dragostea Din Tei.mp3" cid="{9FBC8EFC-6DE2-4F91-ABFE-F6F228C2234D}" tid="{0D3DE27F-E933-444E-BBD4-872C88880EB6}"/>
-            <media src="..\Gabry Ponte\Haiducii vs. O-Zone\01 Haiducii Vs O-Zone - Dragostea Din Tei (Rmx Gabry Ponte).mp3" tid="{449C2F61-D9EE-4E70-B0F3-AF5309EDCF22}"/>
+            <media src="..\Gabry Ponte\Haiducii vs. O-Zone\01 Haiducii Vs O-Zone - Dragostea Din Tei (Rmx Gabry Ponte).mp3" tid="{449C2F61-D9EE-4E70-B0F3-AF5309EDCF22}" cid="{A99FC263-F4AD-43AE-BBA5-F4738AC88D00}"/>
             <media src="..\System Dance 11\Dragostea Din Tei\03-System Dance 11-Dragostea Din Tei.mp3" cid="{5BBDCBA1-C44C-4E46-861B-90448038525B}" tid="{FF765A0E-EB2F-4FBC-B963-47C823E7B9EC}"/>
             <media src="..\O Android Technologies, Inc\Parody of Ma Ya Hi, aka Drag\My PC Is On Fire - Dell Laptop Tribute Video (Numa Numa Song).mp3" albumTitle="Parody of &quot;Ma Ya Hi&quot;, aka Drag" albumArtist="O Android Technologies, Inc." trackTitle="My PC" trackArtist="O Android Technologies, Inc." duration="215857" tid="{150F6ACF-A2EB-4347-A86A-94F597D98BC9}"/>
             <media src="..\Jonathan Coulton\Portal\01 Still Alive.mp3" serviceId="{9327BC01-0100-11DB-89CA-0019B92A3933}" albumTitle="Portal" albumArtist="Jonathan Coulton (Portal)" trackTitle="Still Alive" trackArtist="Jonathan Coulton" duration="176487" cid="{936BAD05-2620-4915-9624-7629D944B1CE}" tid="{77C6A026-A182-4B95-9D7A-FFE87E336624}"/>
-            <media src="..\Jonathan Coulton\Best. Concert. Ever\Jonathan Coulton - Re_ Your Brains.mp3" serviceId="{9F27BC01-0100-11DB-89CA-0019B92A3933}" albumTitle="Best. Concert. Ever." albumArtist="Jonathan Coulton" trackTitle="Re: Your Brains" trackArtist="Jonathan Coulton" duration="277456" tid="{8912CB51-BDC8-44FE-A2E5-747D5AD79DA4}"/>
-            <media src="..\The Lonely Island\YouTube Channel\I Just Had Sex (feat. Akon).mp3" serviceId="{F20E6701-0500-11DB-89CA-0019B92A3933}" albumTitle="Turtleneck &amp; Chain" albumArtist="The Lonely Island" trackTitle="I Just Had Sex (feat. Akon)" trackArtist="The Lonely Island" duration="175315" tid="{CEA99666-8074-4966-9DCB-1F8B5B2223F8}"/>
+            <media src="..\Jonathan Coulton\Best. Concert. Ever\Jonathan Coulton - Re_ Your Brains.mp3" serviceId="{9F27BC01-0100-11DB-89CA-0019B92A3933}" albumTitle="Best. Concert. Ever." albumArtist="Jonathan Coulton" trackTitle="Re: Your Brains" trackArtist="Jonathan Coulton" duration="277456" tid="{8912CB51-BDC8-44FE-A2E5-747D5AD79DA4}" cid="{75B9BD0F-5C61-485B-8ADD-36003C1A5DAC}"/>
+            <media src="..\The Lonely Island\YouTube Channel\I Just Had Sex (feat. Akon).mp3" serviceId="{F20E6701-0500-11DB-89CA-0019B92A3933}" albumTitle="Turtleneck &amp; Chain" albumArtist="The Lonely Island" trackTitle="I Just Had Sex (feat. Akon)" trackArtist="The Lonely Island" duration="175315" tid="{CEA99666-8074-4966-9DCB-1F8B5B2223F8}" cid="{6B7EFA78-7B4D-4E6F-8F5B-010D63458557}"/>
             <media src="..\Various Artists\Paranoia Agent Original Soundtrack\01 Yume no Shima Shinen Kouen.mp3" serviceId="{414E7400-0500-11DB-89CA-0019B92A3933}" albumTitle="Mousou - Paranoia Agent Original Soundtrack" albumArtist="Soundtrack" trackTitle="Yume no Shima Shinen Kouen" trackArtist="Susumu Hirasawa" duration="223665" cid="{7EF7B1E4-E142-4421-93B3-783104DC2723}" tid="{98A5B2E3-3686-4003-9916-9A2F0CD1F6C6}"/>
             <media src="..\Basshunter\Now You&apos;re Gone- The Album\10 I Can Walk On Water.mp3" serviceId="{117DDF00-0500-11DB-89CA-0019B92A3933}" albumTitle="Now You&apos;re Gone - The Album" albumArtist="Basshunter" trackTitle="I Can Walk On Water" trackArtist="Basshunter" duration="222101" cid="{46CC57CD-CC1D-44C1-A0C8-1FFDA5512ADA}" tid="{5C8A1A95-5193-49DC-BCFD-623E8EF3731B}"/>
             <media src="..\a-ha\Hunting High and Low\01 Take on Me.wma" cid="{A853C0BD-7231-4E25-9176-5266EF1D30A5}" tid="{DE1F1A66-1727-4491-A282-BDA5B9B89C65}"/>
             <media src="..\Men Without Hats\Rhythm of Youth [With Folk of the 80&apos;s EP]\14 The Safety Dance.wma" cid="{6D675A9E-B9D7-44A6-9CBA-7C7EBCB9078E}" tid="{C47667F4-7E3C-44C6-8285-BC123AD53D6A}"/>
             <media src="..\Various Artists\Mortal Kombat [Original Soundtrack]\15 Mortal Combat Techno Remix.mp3" serviceId="{38EF1B00-0500-11DB-89CA-0019B92A3933}" albumTitle="Mortal Kombat [Original Soundtrack]" albumArtist="Soundtrack" trackTitle="Mortal Combat Techno Remix" trackArtist="Crystal Method" duration="201480" cid="{789B8A21-E7EB-430F-902B-CCBBDF5AE8E3}" tid="{4593DF82-76D9-4CCB-881F-BB6AFD076B2B}"/>
             <media src="..\Flobots\Platypus\04 Handle Bars.mp3" cid="{B500183E-980E-4A6A-9571-0DEF3A499345}" tid="{9FC1EB72-3C70-4A15-B123-0DAF56B6B8BF}"/>
-            <media src="..\Red Army Choir\Best of the Red Army Choir\01 USSR National Anthem.mp3" albumTitle="Songs of the Soviet Union" albumArtist="Red Army Choir" trackTitle="USSR National Anthem" trackArtist="Red Army Choir" duration="211348" tid="{4CA73B4C-4FEC-48E3-99A2-5F88DC73E1AA}"/>
+            <media src="..\Red Army Choir\Best of the Red Army Choir\01 USSR National Anthem.mp3" albumTitle="Songs of the Soviet Union" albumArtist="Red Army Choir" trackTitle="USSR National Anthem" trackArtist="Red Army Choir" duration="211348" tid="{4CA73B4C-4FEC-48E3-99A2-5F88DC73E1AA}" cid="{2A1CEBD7-55BA-4ECE-AC36-2B2CC3822223}"/>
             <media src="..\KOKIA\Ai no Melody+Chōwa Oto (With Reflection)\02 Chōwa Oto (With Reflection) (調和oto 〜with reflection〜 Melody of Love+Harmony, Sound (With Reflection)).mp3" albumTitle="Ai no Uta" albumArtist="KOKIA" trackTitle="Chouwa oto ~with reflection~" trackArtist="KOKIA" duration="278184" cid="{CDD62655-B7DD-4B1A-A079-6153266FBE55}" tid="{DA7F5C2F-58B6-4704-8BCE-492057D7AD45}"/>
             <media src="..\The Strokes\First Impressions of Earth\04 Razor Blade.mp3" cid="{A708EBF3-EEE0-4946-8EFF-FD6338BA4742}" tid="{137D6751-A8F8-45C7-9283-5E7BE35941F2}"/>
             <media src="..\Thirty Seconds To Mars\A Beautiful Lie\03 The Kill.mp3" serviceId="{54B57E00-0500-11DB-89CA-0019B92A3933}" albumTitle="A Beautiful Lie" albumArtist="Thirty Seconds to Mars" trackTitle="The Kill" trackArtist="30 Seconds To Mars" duration="227578" cid="{FB4FF400-F642-4B7A-BA69-1DD947659798}" tid="{6B23F719-0A42-499A-8BF7-1D1BBB9D173F}"/>
             <media src="..\Band of Horses\Everything All the Time\02 Wicked Gil.mp3" cid="{A74EA808-CD92-4B91-A1B0-4D388D984749}" tid="{A0F152BD-CCC2-412D-A30A-41BEE3968E69}"/>
             <media src="..\Destroyer\Streethawk  A Seduction\09 Helena.mp3" cid="{F0DE2E50-CAD9-4740-BC97-C5FCDCABAEEF}" tid="{A471BD8C-0710-4773-9FAE-B4059A884A43}"/>
-            <media src="..\Dr. Horrible&apos;s Sing-Along Blog\Act 3\04 Dr Horrible is Here.mp3" albumTitle="Dr. Horrible’s Sing-Along Blog" albumArtist="Various artists" trackTitle="Dr. Horrible is Here" trackArtist="Jed and Joss Whedon" duration="163221" tid="{BDC7C069-39B2-417F-B7FC-DDB4B9653BB1}"/>
+            <media src="..\Dr. Horrible&apos;s Sing-Along Blog\Act 3\04 Dr Horrible is Here.mp3" albumTitle="Dr. Horrible’s Sing-Along Blog" albumArtist="Various artists" trackTitle="Dr. Horrible is Here" trackArtist="Jed and Joss Whedon" duration="163221" tid="{BDC7C069-39B2-417F-B7FC-DDB4B9653BB1}" cid="{59404F8E-92A9-43EC-B6C0-1C6E3128B739}"/>
             <media src="..\Don Davis\The Matrix Revolutions\16 Navras.mp3" cid="{04658D9C-C71A-4297-A937-C53746809671}" tid="{8B2A5DCB-BD7C-4975-81EF-9629A81D4ADB}"/>
             <media src="..\Various Artists\FLCL-Furikuri Soundtrack\17 Ride on Shooting Star.mp3" serviceId="{73B07B00-0500-11DB-89CA-0019B92A3933}" albumTitle="FLCL/Furikuri Soundtrack" albumArtist="Original Soundtrack" trackTitle="Ride on Shooting Star" trackArtist="The Pillows" duration="140781" cid="{6EC812A5-D3B1-48D3-AD17-B6C1EB2BE38B}" tid="{94BD9961-43A0-486B-B28B-3EB8CB9144E7}"/>
             <media src="..\Tenacious D\The Pick of Destiny\13 Beelzeboss (The Final Showdown).mp3" serviceId="{CF768700-0100-11DB-89CA-0019B92A3933}" albumTitle="The Pick of Destiny" albumArtist="Tenacious D" trackTitle="Beelzeboss (The Final Showdown)" trackArtist="Tenacious D" duration="335856" cid="{D809856D-E6FA-423F-9996-E728D6723CE2}" tid="{C645E9CF-B8EC-4D1B-94EC-5DC2AEF546B5}"/>
             <media src="..\The Beatles\The Beatles 1\16 Eleanor Rigby.wma" serviceId="{0F574100-0500-11DB-89CA-0019B92A3933}" albumTitle="The Beatles 1" albumArtist="The Beatles" trackTitle="Eleanor Rigby" trackArtist="The Beatles" duration="126826" cid="{2E37C652-BE7F-4567-A8F2-A8B674B39009}" tid="{5A313E79-EE8A-40A3-9546-AB8A5BD7D355}"/>
             <media src="..\The Beatles\The Beatles 1\11 Yesterday.wma" serviceId="{0A574100-0500-11DB-89CA-0019B92A3933}" albumTitle="The Beatles 1" albumArtist="The Beatles" trackTitle="Yesterday" trackArtist="The Beatles" duration="125433" cid="{C5FF31D5-5494-429B-85ED-3AAAF9D37AEB}" tid="{3822C498-1F68-40C6-851F-0C3C5D7508FB}"/>
-            <media src="..\Steven Reineke\The Best of Steven Reineke\Pilatus - Mountain of Dragons.mp3" tid="{C6397AEB-F873-4888-9A77-ABD26EF6DDCF}"/>
+            <media src="..\Steven Reineke\The Best of Steven Reineke\Pilatus - Mountain of Dragons.mp3" tid="{C6397AEB-F873-4888-9A77-ABD26EF6DDCF}" cid="{84619C47-F2EA-4CD1-844E-02D14E8CE0F6}"/>
             <media src="..\Tatsuya Uemura\Zero Wing Original Soundtrack\01 All Your Base.mp3" albumTitle="Zero Wing Original Soundtrack" albumArtist="Zero Wing" trackTitle="All Your Base Are Belong To Us" trackArtist="Zero Wing" duration="234828" tid="{9EF53182-05A8-42FF-A544-192BCD6689EE}"/>
             <media src="..\Eiffel 65\Europop\05 Blue (Da Ba Dee).mp3" serviceId="{155C0D00-0100-11DB-89CA-0019B92A3933}" albumTitle="Uploaded by Simpson" albumArtist="Various artists" trackTitle="Blue (Da Ba Dee)" trackArtist="Eiffel 65" duration="285735" cid="{1B50D529-F98B-4D45-B537-23930C2CE546}" tid="{A5656A3F-F910-46AE-9EF9-E9A55FB0A5CF}"/>
             <media src="..\Gary Jules\ZEI\01 Mad World.mp3" serviceId="{D9270E02-0100-11DB-89CA-0019B92A3933}" albumTitle="ZEI" albumArtist="Gary Jules" trackTitle="Mad World" trackArtist="Gary Jules" duration="187645" cid="{F63DF3D0-90A9-4B77-BFA9-8DA7F1785316}" tid="{BA940907-35A8-42D6-8598-71B2B552AA05}"/>
-            <media src="..\The O Zone\Discozone [Bonus Track]\03 Dragostea Din Tei.wma" tid="{81B290D2-EAE7-453E-99ED-8ABB299A19B9}"/>
-            <media src="..\Haiducii\Dragostea Din Tei\01 Dragostea Din Tei.wma" tid="{3DDAB48F-1295-4AB7-8E48-2C2D7E6E73B0}"/>
-            <media src="..\Oasis\(What&apos;s The Story) Morning Glory-\03 Wonderwall.wma" tid="{EF95A377-A9AA-4198-86B8-ED8068F05722}"/>
+            <media src="..\The O Zone\Discozone [Bonus Track]\03 Dragostea Din Tei.wma" tid="{81B290D2-EAE7-453E-99ED-8ABB299A19B9}" cid="{E0FA287F-F5C4-49F5-B83A-737480560D96}"/>
+            <media src="..\Haiducii\Dragostea Din Tei\01 Dragostea Din Tei.wma" tid="{3DDAB48F-1295-4AB7-8E48-2C2D7E6E73B0}" cid="{E942CDD0-5AB7-4F89-BFF1-A91E406DED4F}"/>
+            <media src="..\Oasis\(What&apos;s The Story) Morning Glory-\03 Wonderwall.wma" tid="{EF95A377-A9AA-4198-86B8-ED8068F05722}" cid="{C11662B1-0193-431A-9B25-A79572B27E90}"/>
             <media src="..\Seether\Karma and Effect\02 Remedy.wma" cid="{222614CB-D708-4EE1-8A29-D5072F5EC561}" tid="{7E28A225-6ECF-4254-AB9D-662CB112A7CC}"/>
             <media src="..\Godsmack\The Other Side\01 Running Blind.wma" cid="{87D1133E-0A3D-4AE0-AD89-53B7E8A6D80A}" tid="{C1DE742B-8269-45CB-AF46-6844471CB5C4}"/>
             <media src="..\The White Stripes\Seven Nation Army\01 Seven Nation Army.mp3" cid="{42A920B0-C8AA-41B4-AF0F-5E91C971B236}" tid="{F53EFA3B-27A7-4859-B24E-DC6B7414D132}"/>
