@@ -13,6 +13,9 @@
     </head>
     <body>
         <seq>
+            <media src="..\Jeanette Olsson\Edelweiss\01-01- Edelweiss.mp3" tid="{76213507-7200-4054-A521-9DD53F682CDA}"/>
+            <media src="..\Rufus Wainwright\Vibrate The Best Of [Explicit]\01-04- Hallelujah.mp3" tid="{21E46B67-F861-469D-ADB4-3B9D12C0E155}"/>
+            <media src="..\Various Artists\Battle Tendency 「Leicht Verwendbar」\01-24- Awaken.mp3" tid="{6B478EF0-1D41-4174-A074-C2B95E5F05F6}"/>
             <media src="..\Halogen\U Got That\01-01- U Got That.mp3" cid="{7B57F046-35EC-4941-9B83-8E9C52715B70}" tid="{D12A50CE-0697-47D2-9142-2761528B8312}"/>
             <media src="..\Toby Fox\Undertale Soundtrack\01-100- Megalovania.mp3" cid="{4DDBF61E-5D25-48EC-8C51-2B6ECFB13FC5}" tid="{AB72A655-65D0-4967-81D0-5AFB468DEBD9}"/>
             <media src="..\Little Big\Funeral Rave [Explicit]\01-05- Big Dick [Explicit].mp3" cid="{66D99DFD-1434-4741-AB6C-302A80CF09BB}" tid="{1DCB83C3-3C99-4354-8D8B-C54E1F2F99FF}"/>
