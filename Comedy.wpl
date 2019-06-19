@@ -13,6 +13,9 @@
     </head>
     <body>
         <seq>
+            <media src="..\Sia\1000 Forms Of Fear\01 Chandelier.mp3" cid="{6FA106B5-32F3-48C0-B25E-5ABB12733DA7}" tid="{3AB466C3-4335-4C34-A055-AFC69B3931A6}"/>
+            <media src="..\Skips Marley\Lions\01 Lions.mp3" cid="{07FE75CD-3568-4AEC-A6D6-78FA1B6C4691}" tid="{E28DF2BE-77D8-4A10-B144-223D07DB5F45}"/>
+            <media src="..\Enya\A Day Without Rain\03 Only Time.mp3" cid="{1BC22494-1BD9-49D9-A764-8672546CF964}" tid="{971E85EF-185E-4352-9DF4-1255B6F1E82D}"/>
             <media src="..\Irish Rovers\14 Drunken Sailor.mp3" albumTitle="40 Years A-Rovin&apos;" albumArtist="Irish Rovers" trackTitle="Drunken Sailor" trackArtist="Irish Rovers" duration="158000" cid="{4CD931A0-B1A3-4E37-AED4-B81015B7189E}" tid="{C103B653-9602-4D31-8B76-D852DF94092E}"/>
             <media src="..\The Arrogant Worms\Dirt!\06 Gaelic Song.mp3" serviceId="{3308CB01-0100-11DB-89CA-0019B92A3933}" albumTitle="Dirt!" albumArtist="The Arrogant Worms" trackTitle="Gaelic Song" trackArtist="The Arrogant Worms" duration="176000" cid="{964F525C-5875-4502-A10E-EACF2A11DEB5}" tid="{42A33CFC-3730-4522-937B-D2EC151358C7}"/>
             <media src="..\Lemon Demon\Ultimate Showdown of Ultimate Destiny\12 The Ultimate Showdown Of Ultimate Destiny.mp3" albumTitle="Lemonic Demonade" albumArtist="Lemon Demon" trackTitle="The Ultimate Showdown Of Ultimate Destiny" trackArtist="Lemon Demon" duration="213138" tid="{8D8CF752-EA67-4F55-A9F2-98BE11608E86}"/>
