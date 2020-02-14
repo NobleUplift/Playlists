@@ -1,7 +1,7 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.16299.192"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.18362.449"/>
         <meta name="ItemCount" content="25"/>
         <meta name="IsFavorite"/>
         <meta name="ContentPartnerListID"/>
@@ -13,63 +13,63 @@
     </head>
     <body>
         <seq>
-            <media src="..\The Strokes\Is This It\01 Is This It.mp3" cid="{6EC66FDC-CDF7-4E5B-9492-3B697B9C1DD4}" tid="{79BE9373-13D1-45E2-BA33-D561033BA3FF}"/>
-            <media src="..\The Strokes\Is This It\02 The Modern Age.mp3" cid="{18AE04E4-CADD-41EF-BB23-1779A5DEB50B}" tid="{F7253A42-2C03-4147-A9DF-04904FD790CE}"/>
-            <media src="..\The Strokes\Is This It\03 Soma.mp3" cid="{9994F32D-415F-48D2-9E77-DF2FE01A8B3D}" tid="{16523A4B-86C1-49E2-B0B5-F6374F76C118}"/>
-            <media src="..\The Strokes\Is This It\04 Barely Legal.mp3" cid="{4BEC1954-C7BD-4793-ACC1-F2331E82BC15}" tid="{F08C4429-59DF-405B-968A-8272E411FD87}"/>
-            <media src="..\The Strokes\Is This It\05 Someday.mp3" cid="{3257C1C4-655C-41B6-ABDC-7C7173504D2D}" tid="{5C5AA4D2-DF4B-42A5-8570-24F637F2E027}"/>
-            <media src="..\The Strokes\Is This It\06 Alone, Together.mp3" cid="{9878823B-65D5-49A9-87C0-930F9710795A}" tid="{7211F457-63D5-4D71-A580-1853A3DA9818}"/>
-            <media src="..\The Strokes\Is This It\07 Last Nite.mp3" cid="{DC995F55-12D5-4C32-B47A-D1D83BBFD4E4}" tid="{8715269D-C866-4B20-AD27-4F7EDBC3D07E}"/>
-            <media src="..\The Strokes\Is This It\08 Hard to Explain.mp3" cid="{FB9673F5-8DC6-4669-856D-9C07B9DA7685}" tid="{A62949FD-F071-4AF8-BD11-F2BBC5536F31}"/>
-            <media src="..\The Strokes\Is This It\09 When It Started.mp3" cid="{D3AED476-B777-4606-8356-09170F04E024}" tid="{BD64CC78-D5F8-4122-83EC-4772170ACEB0}"/>
-            <media src="..\The Strokes\Is This It\10 Trying Your Luck.mp3" cid="{981016B1-C992-4EA3-8544-F1877B4D20FC}" tid="{A74BBD9A-CCC1-4D36-8848-B61A60DA645D}"/>
-            <media src="..\The Strokes\Is This It\11 Take It or Leave It.mp3" cid="{E0701B4C-3B7A-40E4-A644-34B2CFC8AE1C}" tid="{5C7F49DA-1740-4999-AEE7-83C778682252}"/>
-            <media src="..\Strokes\Room On Fire\01 What Ever Happened-.mp3" cid="{9E7904C7-1CA4-43FA-A99D-F31A66D6564B}" tid="{87F083A4-1479-4531-9A6D-ECAA43E31D0A}"/>
-            <media src="..\Strokes\Room On Fire\02 Reptilia.mp3"/>
-            <media src="..\Strokes\Room On Fire\03 Automatic Stop.mp3"/>
-            <media src="..\Strokes\Room On Fire\04 12-51.mp3"/>
-            <media src="..\Strokes\Room On Fire\05 You Talk Way Too Much.mp3"/>
-            <media src="..\Strokes\Room On Fire\06 Between Love &amp; Hate.mp3"/>
-            <media src="..\Strokes\Room On Fire\07 Meet Me In The Bathroom.mp3"/>
-            <media src="..\Strokes\Room On Fire\08 Under Control.mp3"/>
-            <media src="..\Strokes\Room On Fire\09 The Way It Is.mp3"/>
-            <media src="..\Strokes\Room On Fire\10 The End Has No End.mp3"/>
-            <media src="..\Strokes\Room On Fire\11 I Can&apos;t Win.mp3"/>
-            <media src="..\The Strokes\First Impressions of Earth\01 You Only Live Once.mp3" cid="{DB9DECBC-D413-4FD1-B55F-B7C7DBF1B50A}" tid="{518E9805-9224-4224-8983-4E8D17B74E48}"/>
-            <media src="..\The Strokes\First Impressions of Earth\02 Juicebox.mp3" cid="{9AE768A8-EE82-4748-B99B-7D2BF57765C6}" tid="{FCCD3C08-DD68-431E-BF6C-376D27E5649A}"/>
-            <media src="..\The Strokes\First Impressions of Earth\03 Heart in a Cage.mp3" cid="{E47EBF23-7172-40F0-BC96-7DC778C40460}" tid="{790A77AC-4D1A-4CF2-9E62-1A5D75157B22}"/>
-            <media src="..\The Strokes\First Impressions of Earth\04 Razor Blade.mp3" cid="{A708EBF3-EEE0-4946-8EFF-FD6338BA4742}" tid="{A7BFD0E6-A2BC-44D6-BB4C-274116D9440D}"/>
-            <media src="..\The Strokes\First Impressions of Earth\05 On the Other Side.mp3" cid="{04F930FF-8E0C-47B9-BFBD-DC961D90E52E}" tid="{CC27F5DD-69C8-4FDB-B7FD-EDCFB3A3CF6B}"/>
-            <media src="..\The Strokes\First Impressions of Earth\06 Vision of Division.mp3" cid="{CF14CBAA-6017-4A76-8BAB-16DB195A834D}" tid="{D5BA2B58-73E2-4832-8C2A-2B2F8DCDA0D5}"/>
-            <media src="..\The Strokes\First Impressions of Earth\07 Ask Me Anything.mp3" cid="{4431A8FE-C986-4254-82CC-A96A63193E33}" tid="{014BF909-B9D6-4E0C-BA1B-E09171DF7A4A}"/>
-            <media src="..\The Strokes\First Impressions of Earth\08 Electricityscape.mp3" cid="{ACDCA649-F438-4BED-83E6-A3751579D075}" tid="{31636AEE-EDF0-4E8C-8675-5C38484B4F18}"/>
-            <media src="..\The Strokes\First Impressions of Earth\09 Killing Lies.mp3" cid="{DC88B48D-5E50-4ABB-BF80-B209743A66B7}" tid="{19A4EC7D-FFFD-426E-BE70-732F73D5A330}"/>
-            <media src="..\The Strokes\First Impressions of Earth\10 Fear of Sleep.mp3" cid="{24415B76-FC82-4BD6-A7C8-41470FA27FC9}" tid="{F0C5BB9D-A0E3-4C85-9D32-CE2770D9C1B6}"/>
-            <media src="..\The Strokes\First Impressions of Earth\11 15 Minutes.mp3" cid="{0CB2389F-C6BA-4D14-8DC6-057C0AE96FEC}" tid="{728EAEA3-5AD7-4758-9215-59A5313F448B}"/>
-            <media src="..\The Strokes\First Impressions of Earth\12 Ize of the World.mp3" cid="{3D6EFFE6-A9A3-4DAC-B841-B020D1055D37}" tid="{C8EF0A0D-56EC-47B5-9D03-C2DAC48809FD}"/>
-            <media src="..\The Strokes\First Impressions of Earth\13 Evening Sun.mp3" cid="{0810E2DF-08DA-426E-B7E4-FB0147FC0522}" tid="{F1E8FAE5-EBFB-4835-A407-A4C13BA6C528}"/>
-            <media src="..\The Strokes\First Impressions of Earth\14 Red Light.mp3" cid="{57FD32AC-EB8D-4BCD-944D-B8B9FE1D7FB5}" tid="{1F14A992-A678-44F6-B6E3-1D481FFB42F3}"/>
-            <media src="..\The Strokes\Angles\01 Machu Picchu.mp3"/>
-            <media src="..\The Strokes\Angles\02 Under Cover of Darkness.mp3"/>
-            <media src="..\The Strokes\Angles\03 Two Kinds of Happiness.mp3"/>
-            <media src="..\The Strokes\Angles\04 You&apos;re so Right.mp3"/>
-            <media src="..\The Strokes\Angles\05 Taken for a Fool.mp3"/>
-            <media src="..\The Strokes\Angles\06 Games.mp3"/>
-            <media src="..\The Strokes\Angles\07 Call Me Back.mp3"/>
-            <media src="..\The Strokes\Angles\08 Gratisfaction.mp3"/>
-            <media src="..\The Strokes\Angles\09 Metabolism.mp3"/>
-            <media src="..\The Strokes\Angles\10 Life Is Simple in the Moonlight.mp3"/>
-            <media src="..\The Strokes\Comedown Machine\01 Tap Out.mp3"/>
-            <media src="..\The Strokes\Comedown Machine\02 All the Time.mp3"/>
-            <media src="..\The Strokes\Comedown Machine\03 One Way Trigger.mp3"/>
-            <media src="..\The Strokes\Comedown Machine\04 Welcome to Japan.mp3"/>
-            <media src="..\The Strokes\Comedown Machine\05 80s Comedown Machine.mp3"/>
-            <media src="..\The Strokes\Comedown Machine\06 50-50.mp3"/>
-            <media src="..\The Strokes\Comedown Machine\07 Slow Animals.mp3"/>
-            <media src="..\The Strokes\Comedown Machine\08 Partners in Crime.mp3"/>
-            <media src="..\The Strokes\Comedown Machine\09 Chances.mp3"/>
-            <media src="..\The Strokes\Comedown Machine\10 Happy Ending.mp3"/>
-            <media src="..\The Strokes\Comedown Machine\11 Call It Fate, Call It Karma.mp3"/>
+            <media src="..\The Strokes\Is This It\01 Is This It.mp3" cid="{6EC66FDC-CDF7-4E5B-9492-3B697B9C1DD4}" tid="{000CA5A6-E540-4F12-8055-2EA92FD1B793}"/>
+            <media src="..\The Strokes\Is This It\02 The Modern Age.mp3" cid="{18AE04E4-CADD-41EF-BB23-1779A5DEB50B}" tid="{83E8EAD8-B892-43DE-8247-88100B000883}"/>
+            <media src="..\The Strokes\Is This It\03 Soma.mp3" cid="{9994F32D-415F-48D2-9E77-DF2FE01A8B3D}" tid="{47C9E20C-27A9-479A-80E3-01BB1199F32A}"/>
+            <media src="..\The Strokes\Is This It\04 Barely Legal.mp3" cid="{4BEC1954-C7BD-4793-ACC1-F2331E82BC15}" tid="{545FC1F1-9849-4286-9F8C-FD1A69A8C995}"/>
+            <media src="..\The Strokes\Is This It\05 Someday.mp3" cid="{3257C1C4-655C-41B6-ABDC-7C7173504D2D}" tid="{B37C8CF4-9A49-4609-9D21-DB4CBB32AEBE}"/>
+            <media src="..\The Strokes\Is This It\06 Alone, Together.mp3" cid="{9878823B-65D5-49A9-87C0-930F9710795A}" tid="{EF7CDF14-B052-440F-8082-97AB8F8ED6BF}"/>
+            <media src="..\The Strokes\Is This It\07 Last Nite.mp3" cid="{DC995F55-12D5-4C32-B47A-D1D83BBFD4E4}" tid="{C41AF349-2EA1-4513-99E4-51B3AC6B6B0C}"/>
+            <media src="..\The Strokes\Is This It\08 Hard to Explain.mp3" cid="{FB9673F5-8DC6-4669-856D-9C07B9DA7685}" tid="{60D7AACE-E6EB-40C6-984B-5494AC98512F}"/>
+            <media src="..\The Strokes\Is This It\09 When It Started.mp3" cid="{D3AED476-B777-4606-8356-09170F04E024}" tid="{E409CC89-926B-4590-8C05-2CD6C44F4611}"/>
+            <media src="..\The Strokes\Is This It\10 Trying Your Luck.mp3" cid="{981016B1-C992-4EA3-8544-F1877B4D20FC}" tid="{725CF4C8-6485-414B-852B-DB073D6BAA91}"/>
+            <media src="..\The Strokes\Is This It\11 Take It or Leave It.mp3" cid="{E0701B4C-3B7A-40E4-A644-34B2CFC8AE1C}" tid="{8AEA297C-E57E-453B-BA44-728A5AD14894}"/>
+            <media src="..\The Strokes\Room On Fire\01 What Ever Happened-.mp3" cid="{9E7904C7-1CA4-43FA-A99D-F31A66D6564B}" tid="{E3D9C786-D24E-4E89-B56C-2EFAB5D2F90C}"/>
+            <media src="..\The Strokes\Room On Fire\02 Reptilia.mp3" cid="{24DD1D41-94FC-496E-A0F6-D842D81443B1}" tid="{A3C32729-6C80-4786-AAB0-A7C457183589}"/>
+            <media src="..\The Strokes\Room On Fire\03 Automatic Stop.mp3" cid="{700C456E-4C77-4E06-BA18-7AA504D3DFA9}" tid="{8FB78649-8FF4-46B9-8A03-DE1A79C729E5}"/>
+            <media src="..\The Strokes\Room On Fire\04 12-51.mp3" cid="{5CC0136B-5342-487D-88CD-435176558346}" tid="{77208216-9B3A-41CD-A8B6-00A1B626200F}"/>
+            <media src="..\The Strokes\Room On Fire\05 You Talk Way Too Much.mp3" cid="{15F56A6D-342D-44B3-9F1F-D01CCC4C5A08}" tid="{47F5A59D-2C96-4798-AB4A-D009B342FFD7}"/>
+            <media src="..\The Strokes\Room On Fire\06 Between Love &amp; Hate.mp3" cid="{8E52ED92-A1D7-4748-801D-C36127FA513E}" tid="{0B8EDEA4-BDC2-400C-9B30-7705E2641292}"/>
+            <media src="..\The Strokes\Room On Fire\07 Meet Me In The Bathroom.mp3" cid="{41C92755-54D0-496B-BA62-44F777C7AC96}" tid="{358CAEC2-BCCF-47A5-B7F2-B88986D79E06}"/>
+            <media src="..\The Strokes\Room On Fire\08 Under Control.mp3" cid="{B3FC9014-EE09-4FB8-8C27-CEC91567B1B1}" tid="{B382D4E6-3EBB-4076-B845-F378EDBE0AD0}"/>
+            <media src="..\The Strokes\Room On Fire\09 The Way It Is.mp3" cid="{FAEEFB3B-0C7B-45F0-B692-A6AB55BCB397}" tid="{5541776F-32E0-442B-9BB6-4F17F546049D}"/>
+            <media src="..\The Strokes\Room On Fire\10 The End Has No End.mp3" cid="{AA225550-2987-4B3C-B960-A22AFC8EC60C}" tid="{B5FB8F6D-BB94-46A2-B31F-CEE4666CC556}"/>
+            <media src="..\The Strokes\Room On Fire\11 I Can&apos;t Win.mp3" cid="{F24598B3-A96C-4819-8F92-D1754C315A30}" tid="{E6183E4A-58AD-4269-80B2-1E4306D160EF}"/>
+            <media src="..\The Strokes\First Impressions of Earth\01 You Only Live Once.mp3" cid="{DB9DECBC-D413-4FD1-B55F-B7C7DBF1B50A}" tid="{ACB91574-5B90-4D3D-825B-527F53583C89}"/>
+            <media src="..\The Strokes\First Impressions of Earth\02 Juicebox.mp3" cid="{9AE768A8-EE82-4748-B99B-7D2BF57765C6}" tid="{B3565190-3A9C-4708-ABE1-E9F97A2A7394}"/>
+            <media src="..\The Strokes\First Impressions of Earth\03 Heart in a Cage.mp3" cid="{E47EBF23-7172-40F0-BC96-7DC778C40460}" tid="{A639C689-4BCB-47BB-A9CF-1D300C18B657}"/>
+            <media src="..\The Strokes\First Impressions of Earth\04 Razor Blade.mp3" cid="{A708EBF3-EEE0-4946-8EFF-FD6338BA4742}" tid="{4DEF6AE2-0F2E-4DC1-904F-A1F8BF6492BB}"/>
+            <media src="..\The Strokes\First Impressions of Earth\05 On the Other Side.mp3" cid="{04F930FF-8E0C-47B9-BFBD-DC961D90E52E}" tid="{C9CA18E5-1385-4D35-BAE5-E85215AB34A8}"/>
+            <media src="..\The Strokes\First Impressions of Earth\06 Vision of Division.mp3" cid="{CF14CBAA-6017-4A76-8BAB-16DB195A834D}" tid="{F6F9ACE1-C928-4BF2-9536-6930C75366F2}"/>
+            <media src="..\The Strokes\First Impressions of Earth\07 Ask Me Anything.mp3" cid="{4431A8FE-C986-4254-82CC-A96A63193E33}" tid="{696E69CF-3B69-41E0-9695-958D6C5AF665}"/>
+            <media src="..\The Strokes\First Impressions of Earth\08 Electricityscape.mp3" cid="{ACDCA649-F438-4BED-83E6-A3751579D075}" tid="{1ED50E7A-9FFE-473D-8CDD-A2AF45BE2EE9}"/>
+            <media src="..\The Strokes\First Impressions of Earth\09 Killing Lies.mp3" cid="{DC88B48D-5E50-4ABB-BF80-B209743A66B7}" tid="{B81E0787-2151-40C6-A0A3-6C175B889408}"/>
+            <media src="..\The Strokes\First Impressions of Earth\10 Fear of Sleep.mp3" cid="{24415B76-FC82-4BD6-A7C8-41470FA27FC9}" tid="{80CB5257-230A-43F4-AE01-D1490D2BEF57}"/>
+            <media src="..\The Strokes\First Impressions of Earth\11 15 Minutes.mp3" cid="{0CB2389F-C6BA-4D14-8DC6-057C0AE96FEC}" tid="{150AAA02-854E-4EA2-BC19-47B6926D7C7D}"/>
+            <media src="..\The Strokes\First Impressions of Earth\12 Ize of the World.mp3" cid="{3D6EFFE6-A9A3-4DAC-B841-B020D1055D37}" tid="{AB971043-33A1-437F-99D8-3FEACA5EB318}"/>
+            <media src="..\The Strokes\First Impressions of Earth\13 Evening Sun.mp3" cid="{0810E2DF-08DA-426E-B7E4-FB0147FC0522}" tid="{44F4F836-4A86-4E81-B993-5BEC2B88F679}"/>
+            <media src="..\The Strokes\First Impressions of Earth\14 Red Light.mp3" cid="{57FD32AC-EB8D-4BCD-944D-B8B9FE1D7FB5}" tid="{17DE7626-3C11-42E1-BB44-02712B6EC367}"/>
+            <media src="..\The Strokes\Angles\01 Machu Picchu.mp3" cid="{068DB10A-9461-49B3-95DC-098C761453F0}" tid="{9A4E6CB5-6E46-4318-BC73-A8918E39F8F4}"/>
+            <media src="..\The Strokes\Angles\02 Under Cover of Darkness.mp3" cid="{2142EFD1-993D-419D-B816-708B6A05FE6F}" tid="{A8F13E6E-DAC3-4A05-8DFB-4F54D60B0CA0}"/>
+            <media src="..\The Strokes\Angles\03 Two Kinds of Happiness.mp3" cid="{139D7A88-C397-429D-9167-D805C5FE7AFF}" tid="{71443019-0D05-4770-8F08-123224533012}"/>
+            <media src="..\The Strokes\Angles\04 You&apos;re so Right.mp3" cid="{5D683467-B6E7-4B32-BC0C-8CB6842B4930}" tid="{3182DE98-49E7-431A-8BFA-5CABDCF243B8}"/>
+            <media src="..\The Strokes\Angles\05 Taken for a Fool.mp3" cid="{83295850-E0E5-458D-AB87-AF98EB9D9FC7}" tid="{B283AC53-53B3-4F82-8713-49DB9AB9CB83}"/>
+            <media src="..\The Strokes\Angles\06 Games.mp3" cid="{50741A13-1E92-4B3E-B3DB-4A296A2017C0}" tid="{AA94224D-F82B-4C25-A634-6A7D7F8FC893}"/>
+            <media src="..\The Strokes\Angles\07 Call Me Back.mp3" cid="{43E15F26-997B-4146-BABF-904638143684}" tid="{1725C8BF-B654-47F1-92CA-4CDA501B753B}"/>
+            <media src="..\The Strokes\Angles\08 Gratisfaction.mp3" cid="{EBDD91CB-452A-434B-B5CB-A2DEE9DB5E9F}" tid="{FD689F80-90BF-4623-85B7-63E0FE0FEFAF}"/>
+            <media src="..\The Strokes\Angles\09 Metabolism.mp3" cid="{3D782C8A-1E91-4D84-96FE-DC56B2802113}" tid="{34F98BA9-065B-48EF-AB0E-B607A6C6C449}"/>
+            <media src="..\The Strokes\Angles\10 Life Is Simple in the Moonlight.mp3" cid="{B4E5624E-F4BB-4FEE-B841-44748515866E}" tid="{3CDA3025-8C38-45F8-9CC6-4443D5FBF2B1}"/>
+            <media src="..\The Strokes\Comedown Machine\01 Tap Out.mp3" cid="{6D65AD42-2F38-475B-94BA-5BB4EE4F911D}" tid="{85A01B0F-4FE7-425A-8416-D6361F38981B}"/>
+            <media src="..\The Strokes\Comedown Machine\02 All the Time.mp3" cid="{1A8E4918-A337-4304-8E75-5FDB76546EEC}" tid="{FAD43892-7316-4B7D-B64A-31FF3D76ACBD}"/>
+            <media src="..\The Strokes\Comedown Machine\03 One Way Trigger.mp3" cid="{706B30BF-6C7F-4F5C-B655-2F873D5AE399}" tid="{48CE48A8-8BBF-43A4-BF36-583AE2732D5E}"/>
+            <media src="..\The Strokes\Comedown Machine\04 Welcome to Japan.mp3" cid="{01B7F988-74BA-4C71-BA85-ABE34BCFBBD0}" tid="{91180485-4BB7-4443-A741-3246759766F4}"/>
+            <media src="..\The Strokes\Comedown Machine\05 80s Comedown Machine.mp3" cid="{D516E68E-832E-4513-A0DE-7729424B57EB}" tid="{A82F9CB9-2597-465C-B5AA-1ED40447EA2A}"/>
+            <media src="..\The Strokes\Comedown Machine\06 50-50.mp3" cid="{2AB78BBC-7638-4B8F-9A3B-3C16A2DB8A49}" tid="{5E7BBF6B-161B-4CE5-B738-D06228C00418}"/>
+            <media src="..\The Strokes\Comedown Machine\07 Slow Animals.mp3" cid="{76800716-E1FF-489A-B780-3B34E83C3353}" tid="{FD7B4852-1A1D-4322-882A-E3C194B9275A}"/>
+            <media src="..\The Strokes\Comedown Machine\08 Partners in Crime.mp3" cid="{EF4ABE34-2B90-4E5E-BE58-15B6AE3FF751}" tid="{BA0B6852-4076-435C-B4B7-E2BA8F93B66A}"/>
+            <media src="..\The Strokes\Comedown Machine\09 Chances.mp3" cid="{F327B0A2-834C-4147-BC9C-72CEDBBB6BAF}" tid="{6D9ACF39-84EB-4C17-AB98-6BD82225F692}"/>
+            <media src="..\The Strokes\Comedown Machine\10 Happy Ending.mp3" cid="{7ABCB3D2-5ED1-4056-A727-CA4C8CAD5707}" tid="{AE5FA52F-801D-4897-B629-E437729380FE}"/>
+            <media src="..\The Strokes\Comedown Machine\11 Call It Fate, Call It Karma.mp3" cid="{3C778C62-AD62-42AB-ACA8-F11D57D9EDA7}" tid="{DEEF5E88-0F77-4FA6-A1CC-BBEDC84633F0}"/>
         </seq>
     </body>
 </smil>
