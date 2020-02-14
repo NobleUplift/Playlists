@@ -2,48 +2,53 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.18362.449"/>
-        <meta name="ItemCount" content="0"/>
+        <meta name="ItemCount" content="118"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>Energy</title>
     </head>
     <body>
         <seq>
-            <media src="..\Various Artists\Battle Tendency 「Leicht Verwendbar」\01-24- Awaken.mp3" cid="{891CB612-4124-4A4D-9A1B-0D0A5D1E4A2B}" tid="{E8BD5BD8-D7DF-43C4-A469-4106595570E8}"/>
-            <media src="..\Maximum The Hormone\Buiikikaesu\02 Zetsubou Billy.mp3" cid="{F828B193-FC63-4A10-BB23-1B756D3EBA23}" tid="{899B1DBC-EF34-469C-913A-4D9DA62F03A4}"/>
-            <media src="..\Maximum The Hormone\Buiikikaesu\03 Kuso Breakin Nou Breakin Lily.mp3" cid="{7A009B5F-22D2-478B-B341-409EA897EC1E}" tid="{918727C8-A84D-4F1F-903F-BA905C6DD76A}"/>
-            <media src="..\Maximum The Hormone\Buiikikaesu\10 What&apos;s Up, People!-.mp3" cid="{F1CD7818-486B-41F0-B53F-72F653A5A6B3}" tid="{10870A53-EA8F-45D8-BBE2-6C7A8621C117}"/>
-            <media src="..\Rammstein\Herzeleid\01 Wollt Ihr das Bett in Flammen Sehen.mp3" cid="{E0AC7F03-100E-49CF-9B4F-F7CDC30D358A}" tid="{68967D50-3124-47E9-AF37-E2B642AD0306}"/>
-            <media src="..\Rammstein\Herzeleid\02 Der Meister.mp3" cid="{522805DB-5723-4BA4-ADA5-E367189487D5}" tid="{E51C8755-6A1B-4C81-A173-A51309FF1DD0}"/>
-            <media src="..\Rammstein\Herzeleid\03 Weisses Fleisch.mp3" cid="{C0620F68-126F-49FC-89A2-E981E6A580C8}" tid="{1495D921-FE42-46EF-9F65-A98E6773F03A}"/>
-            <media src="..\Rammstein\Herzeleid\04 Asche Zu Asche.mp3" cid="{4EF4A506-A16B-47F9-A043-FB91A7E0A7D0}" tid="{116222DA-4241-417E-A14D-565C45E3B7EE}"/>
-            <media src="..\Rammstein\Herzeleid\06 Du Riechst So Gut.mp3" cid="{0C3F50E7-C8E0-4D4C-A8FF-C3396CD08903}" tid="{DEB5813E-687A-47ED-A164-11FE7515C49C}"/>
-            <media src="..\Rammstein\Herzeleid\07 Das Alte Lied.mp3" cid="{6DB2583B-C83D-4791-92E4-2BBC921A6FA5}" tid="{D8DDEC8A-5AD2-40A9-A9E8-0D5EA8819FC8}"/>
-            <media src="..\Rammstein\Herzeleid\08 Heirate Mich.mp3" cid="{90440DF6-5797-4B74-B4E9-B1001D134F0C}" tid="{5F3BFBDD-0E1E-41FD-B2C2-3ABDED98E4FD}"/>
-            <media src="..\Rammstein\Herzeleid\10 Laichzeit.mp3" cid="{8C3FF186-1925-47A5-8EF3-FB5795CE379C}" tid="{540D6EA3-FF5F-4764-9863-9865F4DE13E9}"/>
-            <media src="..\Rammstein\Sehnsucht\01 Sehnsucht.mp3" cid="{47985F4A-42AB-4DB3-AF86-C16A431701ED}" tid="{37062377-D4D3-4299-A6AD-D720EC137AC0}"/>
-            <media src="..\Rammstein\Sehnsucht\02 Engel.mp3" cid="{4CB368EE-4B5E-45B8-ACFD-776E387E1046}" tid="{087DBFC2-8027-4673-BEBF-E8F94CCCD779}"/>
-            <media src="..\Rammstein\Sehnsucht\03 Tier.mp3" cid="{D1890C33-93DE-475A-A7D5-9EEE6F3835F0}" tid="{405EFCF2-FDD8-4E98-AFC7-954F96511AB0}"/>
-            <media src="..\Rammstein\Sehnsucht\04 Bestrafe Mich.mp3" cid="{35736D1C-3136-48C7-A89B-2427E83C7822}" tid="{0A640EE9-5B1D-488C-B3F6-4C8F46F866AD}"/>
-            <media src="..\Rammstein\Sehnsucht\05 Du Hast.mp3" cid="{63C1752F-D60F-4457-A9C6-E3C3CC4B2D6E}" tid="{27E7FB1A-FFF1-4244-A044-63DB7723EB61}"/>
-            <media src="..\Rammstein\Sehnsucht\06 Bück Dich.mp3" cid="{B2FD6715-AB02-4A19-93B0-D85F43C56645}" tid="{79DD91C2-EF6B-4421-8076-CE24E73DEF4D}"/>
-            <media src="..\Rammstein\Sehnsucht\10 Eifersucht.mp3" cid="{25EF5E3B-63F0-415D-8126-DF2531531F45}" tid="{A9C796B3-8DBE-4252-9CE9-D0496D094041}"/>
-            <media src="..\Rammstein\Sehnsucht\11 Küss Mich (Fellfrosch).mp3" cid="{BD46D8CA-CE38-4D09-B6E9-CA513E48E87B}" tid="{DC4C5EC9-0E41-4D09-8535-3AC6DF9F093E}"/>
-            <media src="..\Rammstein\Mutter\01 Mein Herz Brennt.mp3" cid="{71BFB456-1050-485E-BBDB-E66EDD32EC26}" tid="{DFE1F01F-0C21-4430-ACE6-5BC5F67242D2}"/>
-            <media src="..\Rammstein\Mutter\02 Links 2 3 4.mp3" cid="{335089EC-2B0D-4FCB-9421-3C9F85F03550}" tid="{B2382116-F65D-43BB-87B3-86E3B9687698}"/>
-            <media src="..\Rammstein\Mutter\03 Sonne.mp3" cid="{2D2D4029-3FD4-47C6-836F-B0CF89EF5ECA}" tid="{BD2F327A-EFC1-4CD3-BB94-0756698AA1D8}"/>
-            <media src="..\Rammstein\Mutter\04 Ich Will.mp3" cid="{326838C5-BE61-44E6-9816-AFD49F75387F}" tid="{7D999472-E15A-4CDC-BE8C-977951FB02E3}"/>
-            <media src="..\Rammstein\Mutter\05 Feuer Frei!.mp3" cid="{F586517A-113F-4A3F-A029-0A6939B00626}" tid="{6FD023EE-C1DF-4F2B-954C-71E015D5E025}"/>
-            <media src="..\Rammstein\Mutter\06 Mutter.mp3" cid="{A4A8B293-D87D-40D2-9439-C953E3E6E29E}" tid="{87CADEEE-5131-4150-A6D8-7AF6B6371A0D}"/>
-            <media src="..\Rammstein\Mutter\07 Spieluhr.mp3" cid="{8A3D3008-DDE4-4282-A913-18F0707E0DB2}" tid="{6A6F64B0-9D54-4F32-9C6D-B7AF806AF4B6}"/>
-            <media src="..\Rammstein\Mutter\08 Zwitter.mp3" cid="{C9CB2658-1730-4C22-8D2F-5D7FBA45FF20}" tid="{C348CF85-99E6-438F-BC5F-B8AEB89866E8}"/>
-            <media src="..\Rammstein\Mutter\09 Rein Raus.mp3" cid="{C0BE2622-B3B8-4333-9998-C2C03DF7F1CE}" tid="{FBB0FF46-8FB3-4054-B637-DC90B12E5585}"/>
-            <media src="..\Rammstein\Mutter\10 Adios.mp3" cid="{0A165279-5832-49DF-AE91-89378E9FDC60}" tid="{7FD79EDD-73EF-43AB-843B-70EB16DFD2FB}"/>
-            <media src="..\Rammstein\Reise, Reise\01 Reise, Reise.mp3" cid="{5208F75F-944C-42C8-824F-AE34F0268FF6}" tid="{D9FE03B3-256B-4620-B6B0-C4D9521DDBF5}"/>
-            <media src="..\Rammstein\Reise, Reise\02 Mein Teil.mp3" cid="{0D23F727-7BBC-4C12-A837-3E7334260D2C}" tid="{3807062B-DDA5-4D9D-A3F9-5E1201D16262}"/>
-            <media src="..\Rammstein\Reise, Reise\03 Dalai Lama.mp3" cid="{77930275-E71B-4F31-B1F5-38CB3391829B}" tid="{BB240538-0E08-4C67-BAD8-C200B3EF7F51}"/>
-            <media src="..\Rammstein\YouTube Channel\88 Keine Lust (Intro).mp3" cid="{FC2C09CC-B698-4736-B433-D336AC5C273E}" tid="{7C2AC9C7-F36D-4D01-A055-A5475BFA661F}"/>
-            <media src="..\Rammstein\Reise, Reise\04 Keine Lust.mp3" cid="{DBBD29D0-95D4-4571-9548-73A2A1B9E4A5}" tid="{4A3657D0-FFBA-4580-9E74-FECC9CA36762}"/>
-            <media src="..\Rammstein\Reise, Reise\06 Amerika.mp3" cid="{BD95819B-405A-4C3E-9C2E-9F5402CD9E6C}" tid="{8E5E3CBD-D474-478C-9422-7A2DAE470289}"/>
+            <media src="C:\Users\Public\Music\Various Artists\Battle Tendency 「Leicht Verwendbar」\01-24- Awaken.mp3" cid="{891CB612-4124-4A4D-9A1B-0D0A5D1E4A2B}" tid="{E8BD5BD8-D7DF-43C4-A469-4106595570E8}"/>
+            <media src="C:\Users\Public\Music\Maximum The Hormone\Buiikikaesu\02 Zetsubou Billy.mp3" cid="{F828B193-FC63-4A10-BB23-1B756D3EBA23}" tid="{899B1DBC-EF34-469C-913A-4D9DA62F03A4}"/>
+            <media src="C:\Users\Public\Music\Maximum The Hormone\Buiikikaesu\03 Kuso Breakin Nou Breakin Lily.mp3" cid="{7A009B5F-22D2-478B-B341-409EA897EC1E}" tid="{918727C8-A84D-4F1F-903F-BA905C6DD76A}"/>
+            <media src="C:\Users\Public\Music\Maximum The Hormone\Buiikikaesu\10 What&apos;s Up, People!-.mp3" cid="{F1CD7818-486B-41F0-B53F-72F653A5A6B3}" tid="{10870A53-EA8F-45D8-BBE2-6C7A8621C117}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Herzeleid\01 Wollt Ihr das Bett in Flammen Sehen.mp3" cid="{E0AC7F03-100E-49CF-9B4F-F7CDC30D358A}" tid="{68967D50-3124-47E9-AF37-E2B642AD0306}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Herzeleid\02 Der Meister.mp3" cid="{522805DB-5723-4BA4-ADA5-E367189487D5}" tid="{E51C8755-6A1B-4C81-A173-A51309FF1DD0}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Herzeleid\03 Weisses Fleisch.mp3" cid="{C0620F68-126F-49FC-89A2-E981E6A580C8}" tid="{1495D921-FE42-46EF-9F65-A98E6773F03A}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Herzeleid\04 Asche Zu Asche.mp3" cid="{4EF4A506-A16B-47F9-A043-FB91A7E0A7D0}" tid="{116222DA-4241-417E-A14D-565C45E3B7EE}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Herzeleid\06 Du Riechst So Gut.mp3" cid="{0C3F50E7-C8E0-4D4C-A8FF-C3396CD08903}" tid="{DEB5813E-687A-47ED-A164-11FE7515C49C}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Herzeleid\07 Das Alte Lied.mp3" cid="{6DB2583B-C83D-4791-92E4-2BBC921A6FA5}" tid="{D8DDEC8A-5AD2-40A9-A9E8-0D5EA8819FC8}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Herzeleid\08 Heirate Mich.mp3" cid="{90440DF6-5797-4B74-B4E9-B1001D134F0C}" tid="{5F3BFBDD-0E1E-41FD-B2C2-3ABDED98E4FD}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Herzeleid\10 Laichzeit.mp3" cid="{8C3FF186-1925-47A5-8EF3-FB5795CE379C}" tid="{540D6EA3-FF5F-4764-9863-9865F4DE13E9}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Sehnsucht\01 Sehnsucht.mp3" cid="{47985F4A-42AB-4DB3-AF86-C16A431701ED}" tid="{37062377-D4D3-4299-A6AD-D720EC137AC0}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Sehnsucht\02 Engel.mp3" cid="{4CB368EE-4B5E-45B8-ACFD-776E387E1046}" tid="{087DBFC2-8027-4673-BEBF-E8F94CCCD779}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Sehnsucht\03 Tier.mp3" cid="{D1890C33-93DE-475A-A7D5-9EEE6F3835F0}" tid="{405EFCF2-FDD8-4E98-AFC7-954F96511AB0}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Sehnsucht\04 Bestrafe Mich.mp3" cid="{35736D1C-3136-48C7-A89B-2427E83C7822}" tid="{0A640EE9-5B1D-488C-B3F6-4C8F46F866AD}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Sehnsucht\05 Du Hast.mp3" cid="{63C1752F-D60F-4457-A9C6-E3C3CC4B2D6E}" tid="{27E7FB1A-FFF1-4244-A044-63DB7723EB61}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Sehnsucht\06 Bück Dich.mp3" cid="{B2FD6715-AB02-4A19-93B0-D85F43C56645}" tid="{79DD91C2-EF6B-4421-8076-CE24E73DEF4D}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Sehnsucht\10 Eifersucht.mp3" cid="{25EF5E3B-63F0-415D-8126-DF2531531F45}" tid="{A9C796B3-8DBE-4252-9CE9-D0496D094041}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Sehnsucht\11 Küss Mich (Fellfrosch).mp3" cid="{BD46D8CA-CE38-4D09-B6E9-CA513E48E87B}" tid="{DC4C5EC9-0E41-4D09-8535-3AC6DF9F093E}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Mutter\01 Mein Herz Brennt.mp3" cid="{71BFB456-1050-485E-BBDB-E66EDD32EC26}" tid="{DFE1F01F-0C21-4430-ACE6-5BC5F67242D2}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Mutter\02 Links 2 3 4.mp3" cid="{335089EC-2B0D-4FCB-9421-3C9F85F03550}" tid="{B2382116-F65D-43BB-87B3-86E3B9687698}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Mutter\03 Sonne.mp3" cid="{2D2D4029-3FD4-47C6-836F-B0CF89EF5ECA}" tid="{BD2F327A-EFC1-4CD3-BB94-0756698AA1D8}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Mutter\04 Ich Will.mp3" cid="{326838C5-BE61-44E6-9816-AFD49F75387F}" tid="{7D999472-E15A-4CDC-BE8C-977951FB02E3}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Mutter\05 Feuer Frei!.mp3" cid="{F586517A-113F-4A3F-A029-0A6939B00626}" tid="{6FD023EE-C1DF-4F2B-954C-71E015D5E025}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Mutter\06 Mutter.mp3" cid="{A4A8B293-D87D-40D2-9439-C953E3E6E29E}" tid="{87CADEEE-5131-4150-A6D8-7AF6B6371A0D}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Mutter\07 Spieluhr.mp3" cid="{8A3D3008-DDE4-4282-A913-18F0707E0DB2}" tid="{6A6F64B0-9D54-4F32-9C6D-B7AF806AF4B6}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Mutter\08 Zwitter.mp3" cid="{C9CB2658-1730-4C22-8D2F-5D7FBA45FF20}" tid="{C348CF85-99E6-438F-BC5F-B8AEB89866E8}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Mutter\09 Rein Raus.mp3" cid="{C0BE2622-B3B8-4333-9998-C2C03DF7F1CE}" tid="{FBB0FF46-8FB3-4054-B637-DC90B12E5585}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Mutter\10 Adios.mp3" cid="{0A165279-5832-49DF-AE91-89378E9FDC60}" tid="{7FD79EDD-73EF-43AB-843B-70EB16DFD2FB}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Reise, Reise\01 Reise, Reise.mp3" cid="{5208F75F-944C-42C8-824F-AE34F0268FF6}" tid="{D9FE03B3-256B-4620-B6B0-C4D9521DDBF5}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Reise, Reise\02 Mein Teil.mp3" cid="{0D23F727-7BBC-4C12-A837-3E7334260D2C}" tid="{3807062B-DDA5-4D9D-A3F9-5E1201D16262}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Reise, Reise\03 Dalai Lama.mp3" cid="{77930275-E71B-4F31-B1F5-38CB3391829B}" tid="{BB240538-0E08-4C67-BAD8-C200B3EF7F51}"/>
+            <media src="C:\Users\Public\Music\Rammstein\YouTube Channel\88 Keine Lust (Intro).mp3" cid="{FC2C09CC-B698-4736-B433-D336AC5C273E}" tid="{7C2AC9C7-F36D-4D01-A055-A5475BFA661F}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Reise, Reise\04 Keine Lust.mp3" cid="{DBBD29D0-95D4-4571-9548-73A2A1B9E4A5}" tid="{4A3657D0-FFBA-4580-9E74-FECC9CA36762}"/>
+            <media src="C:\Users\Public\Music\Rammstein\Reise, Reise\06 Amerika.mp3" cid="{BD95819B-405A-4C3E-9C2E-9F5402CD9E6C}" tid="{8E5E3CBD-D474-478C-9422-7A2DAE470289}"/>
             <media src="..\Rammstein\Reise, Reise\07 Moskau.mp3" cid="{FC41443B-C51E-4CD6-BBFD-AF790077444A}" tid="{65260A88-70D1-4C2A-8EBA-C8486A4F102A}"/>
             <media src="..\Rammstein\Reise, Reise\08 Morgenstern.mp3" cid="{5E06D8A9-B314-4058-9B9B-0173E2C47665}" tid="{17E37A30-B88B-42B7-B6FE-1BF285FFE311}"/>
             <media src="..\Rammstein\Reise, Reise\10 Ohne Dich.mp3" cid="{D7C3332D-51C8-46A4-B1CC-4EF4678C100F}" tid="{4C058865-F5BE-45E9-99B0-0C7200F20913}"/>
