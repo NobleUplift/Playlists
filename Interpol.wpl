@@ -1,8 +1,13 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.351"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.746"/>
         <meta name="ItemCount" content="52"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>Interpol</title>
     </head>
@@ -60,6 +65,19 @@
             <media src="..\Interpol\El Pintor\08 Ancient Ways.mp3"/>
             <media src="..\Interpol\El Pintor\09 Tidal Wave.mp3"/>
             <media src="..\Interpol\El Pintor\10 Twice as Hard.mp3"/>
+            <media src="..\Interpol\Marauder\01 If You Really Love Nothing.mp3"/>
+            <media src="..\Interpol\Marauder\02 The Rover.mp3"/>
+            <media src="..\Interpol\Marauder\03 Complications.mp3"/>
+            <media src="..\Interpol\Marauder\04 Flight Of Fancy.mp3"/>
+            <media src="..\Interpol\Marauder\05 Stay In Touch.mp3"/>
+            <media src="..\Interpol\Marauder\06 Interlude 1.mp3"/>
+            <media src="..\Interpol\Marauder\07 Mountain Child.mp3"/>
+            <media src="..\Interpol\Marauder\08 NYSMAW.mp3"/>
+            <media src="..\Interpol\Marauder\09 Surveillance.mp3"/>
+            <media src="..\Interpol\Marauder\10 Number 10.mp3"/>
+            <media src="..\Interpol\Marauder\11 Party&apos;s Over.mp3"/>
+            <media src="..\Interpol\Marauder\12 Interlude 2.mp3"/>
+            <media src="..\Interpol\Marauder\13 It Probably Matters.mp3"/>
         </seq>
     </body>
 </smil>
