@@ -1,7 +1,7 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.546"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.746"/>
         <meta name="ItemCount" content="186"/>
         <author/>
         <title>Singles</title>
@@ -12,10 +12,23 @@
             <media src="..\Mystery Skulls\Forever [Explicit]\04 Hellbent (feat Snowblood).mp3" cid="{0E6621CD-19B8-419F-95EB-9EBD9C818610}" tid="{81B3E8BA-31E8-45E9-84E9-8F76F1A13A37}"/>
             <media src="..\Mystery Skulls\Ultra Rare Vol 1\03 Freaking Out.mp3" cid="{0CC15606-38CE-4D32-A504-01F5B38BA34C}" tid="{F942AD3B-4D13-4E06-955C-CBA9443A6566}"/>
             <media src="..\Silva Hound\01 ADDICT (feat. Michael Kovach &amp; Chi-Chi) - HAZBIN HOTEL.mp3" cid="{EB989D7C-275D-43ED-A90B-CB75CA43A815}" tid="{DC3D6CC7-56D5-479C-99CB-EAA553B1F505}"/>
-            <media src="..\Jreg\Centricide\05 All The Same To Me.mp3" tid="{9E291465-E9C5-4B1D-B230-14AC31FA8E00}"/>
-            <media src="..\Jreg\Centricide\04 Leftist Unity.mp3" tid="{C8B719F4-FA02-40DE-929A-1A049FFA2B42}"/>
+            <media src="..\Jreg\Agree with Me\01 - Agree with Me.mp3" cid="{D0A24126-5102-4321-97E5-8D70BDD69331}" tid="{2F8BF1A7-08DA-4105-8945-F6E4CE1BB350}"/>
+            <media src="..\Jreg\Office Life\01 - Office Life.mp3" cid="{CD1007D4-0E2A-485F-8CBC-E6F510AA8169}" tid="{90C67DE3-1F6A-4AD7-A29E-ECEA1159495F}"/>
+            <media src="..\Jreg\All the Same to Me\01 - All the Same to Me.mp3" tid="{AC0F00A8-D578-48E1-8BDF-46D57B947C39}"/>
+            <media src="..\Jreg\Leftist Unity\01 - Leftist Unity.mp3" cid="{17AC2B8D-FF93-4822-8606-837A002840D4}" tid="{C95C2357-F13B-43B0-8201-5418F94DB0E4}"/>
+            <media src="..\Jreg\Ancapistan (feat Take Five)\01 - Ancapistan (feat. Take_Five).mp3" tid="{906789E7-BACD-4797-8D86-BAFA163239CE}"/>
+            <media src="..\Jreg\The Accelerationist Song\01 - A C C E L E R A T E.mp3" tid="{5DAB224A-EF6C-498A-8F66-A233CE3933F4}"/>
+            <media src="..\Jreg\Hi F B I (feat Take Five)\01 - Hi F.B.I. (feat. Take_Five).mp3" tid="{59A0A347-6788-4A08-8739-C02890E5873E}"/>
+            <media src="..\Jreg\I Want to Die in a War\01 - I Want to Die in a War.mp3" cid="{354E695C-AA92-4FBD-9466-45BE8CC72350}" tid="{88A71530-99FF-4619-A7AB-01972F36B194}"/>
             <media src="..\S3RL\Hentai\01 Hentai.mp3" cid="{8F79E00C-1673-4C1B-987B-0D5AA41F364B}" tid="{1CFD3759-5885-4DF6-8B3E-504A94BEF798}"/>
             <media src="..\S3RL\Mtc - Single\01 Mtc.mp3" cid="{8981F93C-250F-47E4-9E4A-9521DBCEAB2F}" tid="{37BA8CDE-1B49-4175-93C8-FF0CEFB81C02}"/>
+            <media src="..\Chris Ray Gun\Social Justice The Musical\01 Social Justice Warfare.mp3"/>
+            <media src="..\Chris Ray Gun\Social Justice The Musical\02 The Gawker Song.mp3"/>
+            <media src="..\Chris Ray Gun\Social Justice The Musical\03 Everything is Sexist (Acoustic).mp3"/>
+            <media src="..\Chris Ray Gun\Social Justice The Musical\04 We Didn&apos;t Start the SocJus.mp3"/>
+            <media src="..\Chris Ray Gun\Social Justice The Musical\05 The Times They Are A-Changin&apos; - Social Justice- The Musical.mp3"/>
+            <media src="..\Chris Ray Gun\Social Justice The Musical\06 Ain&apos;t No Rest for the Triggered.mp3"/>
+            <media src="..\Chris Ray Gun\Social Justice The Musical\07 Come Be PC.mp3"/>
             <media src="..\The Living Tombstone\Drunk [Explicit]\01 Drunk [Explicit].mp3" cid="{069058CA-81B5-4C8B-B92C-A3002E484659}" tid="{683AE422-7961-4FF4-94D5-7E12A7400F4F}"/>
             <media src="..\Pepper Coyote\Blast Radius\14 No Cock Like Horse Cock.mp3" cid="{8E2595F7-FD3F-469B-8BF7-1DBB5B8263FE}" tid="{0E497805-B0CE-41BC-A7F7-78EC021F311F}"/>
             <media src="..\Jeanette Olsson\Edelweiss\01-01- Edelweiss.mp3" tid="{469D8249-B5C5-4C33-9ABC-D9E2EE84EDAF}" cid="{231C9CE8-EC47-4F60-8D7F-813D6F8F45FB}"/>
