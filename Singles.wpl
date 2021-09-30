@@ -1,19 +1,38 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.746"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1151"/>
         <meta name="ItemCount" content="186"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>Singles</title>
     </head>
     <body>
         <seq>
+            <media src="..\Tom MacDonald\I Hate Hip-Hop [Explicit]\01 - I Hate Hip-Hop [Explicit]_472bb086-0c2e-453a-8092-16dbf060065f.mp3" cid="{AF08D284-C599-4C81-8710-FC6C97F1088F}" tid="{088EC91F-F900-4465-8A19-41EA2DB2BE77}"/>
+            <media src="..\Tom MacDonald\Best Rapper Ever\01 - Best Rapper Ever_c89e1c0e-7a7b-4517-a809-e803f700eefd.mp3" cid="{FF9A0E5F-8E90-4EB9-9D4B-DB67065E6FBE}" tid="{D8DD8B0F-D241-4B32-A6EE-667B83717912}"/>
+            <media src="..\Tom MacDonald\No Lives Matter\01 - No Lives Matter_67d8c211-45f8-49b7-b9cc-9c60a34166ac.mp3" cid="{6CF51369-13B3-4703-8F70-85C992313D98}" tid="{BA4B9E71-597C-450F-B5DB-98EE529ECA43}"/>
+            <media src="..\Tom MacDonald\Clown World\01 - Clown World_18bab02c-78c1-4fa3-baae-3de460352259.mp3" cid="{CAC75264-1B9D-4CE8-A6B8-DEDE6052C99B}" tid="{1CC5D45A-D921-42E1-9F1A-53E54F65322A}"/>
+            <media src="..\Tom MacDonald\Fake Woke\01 - Fake Woke_a351fe6b-5cbf-4fd6-9e55-05202dee07f0.mp3" cid="{83452CB3-7258-47D8-95F6-2B6F523F9963}" tid="{BFF5D345-775B-47F6-A6E6-DBDF57198FE1}"/>
+            <media src="..\Tom MacDonald\Everybody Hates Me [Explicit]\01 - Everybody Hates Me [Explicit]_752cda8f-c97d-4199-acf3-3c5659637112.mp3" cid="{B3232D79-D945-4357-A84B-C152BA069244}" tid="{AC62F5ED-5A8A-4CC1-AAF9-F8BEF154A9DE}"/>
+            <media src="..\Tom MacDonald\Cancelled\01 - Cancelled_68df4767-0dc0-47cd-aa31-6c23128719af.mp3" cid="{11216510-E528-436C-A90D-B47932E70340}" tid="{9368B03C-4FA5-4A19-9AF2-242B6FB48AE3}"/>
+            <media src="..\Tom MacDonald\People So Stupid\01 - People So Stupid_342d01d8-edf4-4ed4-8c90-8c61424087f9.mp3" cid="{6DB66EE1-F75F-4C2D-821C-D1D6414239F4}" tid="{10AD2665-71AB-4742-AB4E-CA95D7C88B78}"/>
+            <media src="..\Tom MacDonald\Snowflakes\01 - Snowflakes_928491e6-a519-423d-a81f-9c3a3cdb6007.mp3" cid="{A6D98A0E-A15C-479E-9ACD-03BB3D3368A8}" tid="{631243F2-3E01-41BE-9AB2-B57655CC1AFC}"/>
+            <media src="..\Tom MacDonald\No Response [Explicit]\01 - No Response [Explicit]_3672f6ed-a1bc-4b56-81de-6b8ed0a515f3.mp3" tid="{AC396CD7-661F-45B2-A10F-ACB2FE9337BD}" cid="{FB79508D-E114-473F-9D35-CB03539F69B6}"/>
+            <media src="..\Tom MacDonald\Politically Incorrect [Explicit]\01 - Politically Incorrect [Explicit]_2c8e7ab3-68e2-4bf5-b9c2-3c550623bec2.mp3" cid="{6B98AAED-0B1F-4F61-865F-6FDEC713FE04}" tid="{96885FAF-8862-4806-BD85-138F816CD170}"/>
+            <media src="..\Tom MacDonald\Straight White Male\01 - Straight White Male [Explicit]_31e95d7e-ebe3-405b-9576-9da80aa6e334.mp3" cid="{E7EE37DF-BD78-4C3F-8DEF-00B32EC619D0}" tid="{54FE3F8B-9820-4D6E-B909-17E0784367CF}"/>
+            <media src="..\The Offspring\01 Dividing By Zero_Slim Pickens Does The Right Thing And Rides The Bomb To Hell.mp3" tid="{7C766C25-426D-4DE6-90D0-D8F31ADC960F}"/>
+            <media src="..\Danger\09 17 2007\01 - 4_30_c92077d0-371d-469a-ad25-dc482a77c9e0.mp3" cid="{16A22957-B406-45A6-839C-BB2318F731DB}" tid="{A33229F1-D483-4621-9F6F-447A20321E5A}"/>
             <media src="..\Mystery Skulls\Forever [Explicit]\06 Ghost [Explicit].mp3" cid="{B251DE73-6A0D-4D51-8E08-021951FD746A}" tid="{D725B4BF-CC4D-4832-B0EA-D23F223CAD02}"/>
             <media src="..\Mystery Skulls\Forever [Explicit]\04 Hellbent (feat Snowblood).mp3" cid="{0E6621CD-19B8-419F-95EB-9EBD9C818610}" tid="{81B3E8BA-31E8-45E9-84E9-8F76F1A13A37}"/>
             <media src="..\Mystery Skulls\Ultra Rare Vol 1\03 Freaking Out.mp3" cid="{0CC15606-38CE-4D32-A504-01F5B38BA34C}" tid="{F942AD3B-4D13-4E06-955C-CBA9443A6566}"/>
             <media src="..\Silva Hound\01 ADDICT (feat. Michael Kovach &amp; Chi-Chi) - HAZBIN HOTEL.mp3" cid="{EB989D7C-275D-43ED-A90B-CB75CA43A815}" tid="{DC3D6CC7-56D5-479C-99CB-EAA553B1F505}"/>
-            <media src="..\Jreg\Agree with Me\01 - Agree with Me.mp3" cid="{D0A24126-5102-4321-97E5-8D70BDD69331}" tid="{2F8BF1A7-08DA-4105-8945-F6E4CE1BB350}"/>
             <media src="..\Jreg\Office Life\01 - Office Life.mp3" cid="{CD1007D4-0E2A-485F-8CBC-E6F510AA8169}" tid="{90C67DE3-1F6A-4AD7-A29E-ECEA1159495F}"/>
+            <media src="..\Jreg\Agree with Me\01 - Agree with Me.mp3" cid="{A626DBAA-5D09-46F3-995D-485B11317265}" tid="{2F8BF1A7-08DA-4105-8945-F6E4CE1BB350}"/>
             <media src="..\Jreg\All the Same to Me\01 - All the Same to Me.mp3" tid="{AC0F00A8-D578-48E1-8BDF-46D57B947C39}"/>
             <media src="..\Jreg\Leftist Unity\01 - Leftist Unity.mp3" cid="{17AC2B8D-FF93-4822-8606-837A002840D4}" tid="{C95C2357-F13B-43B0-8201-5418F94DB0E4}"/>
             <media src="..\Jreg\Ancapistan (feat Take Five)\01 - Ancapistan (feat. Take_Five).mp3" tid="{906789E7-BACD-4797-8D86-BAFA163239CE}"/>
@@ -22,15 +41,8 @@
             <media src="..\Jreg\I Want to Die in a War\01 - I Want to Die in a War.mp3" cid="{354E695C-AA92-4FBD-9466-45BE8CC72350}" tid="{88A71530-99FF-4619-A7AB-01972F36B194}"/>
             <media src="..\S3RL\Hentai\01 Hentai.mp3" cid="{8F79E00C-1673-4C1B-987B-0D5AA41F364B}" tid="{1CFD3759-5885-4DF6-8B3E-504A94BEF798}"/>
             <media src="..\S3RL\Mtc - Single\01 Mtc.mp3" cid="{8981F93C-250F-47E4-9E4A-9521DBCEAB2F}" tid="{37BA8CDE-1B49-4175-93C8-FF0CEFB81C02}"/>
-            <media src="..\Chris Ray Gun\Social Justice The Musical\01 Social Justice Warfare.mp3"/>
-            <media src="..\Chris Ray Gun\Social Justice The Musical\02 The Gawker Song.mp3"/>
-            <media src="..\Chris Ray Gun\Social Justice The Musical\03 Everything is Sexist (Acoustic).mp3"/>
-            <media src="..\Chris Ray Gun\Social Justice The Musical\04 We Didn&apos;t Start the SocJus.mp3"/>
-            <media src="..\Chris Ray Gun\Social Justice The Musical\05 The Times They Are A-Changin&apos; - Social Justice- The Musical.mp3"/>
-            <media src="..\Chris Ray Gun\Social Justice The Musical\06 Ain&apos;t No Rest for the Triggered.mp3"/>
-            <media src="..\Chris Ray Gun\Social Justice The Musical\07 Come Be PC.mp3"/>
             <media src="..\The Living Tombstone\Drunk [Explicit]\01 Drunk [Explicit].mp3" cid="{069058CA-81B5-4C8B-B92C-A3002E484659}" tid="{683AE422-7961-4FF4-94D5-7E12A7400F4F}"/>
-            <media src="..\Pepper Coyote\Blast Radius\14 No Cock Like Horse Cock.mp3" cid="{8E2595F7-FD3F-469B-8BF7-1DBB5B8263FE}" tid="{0E497805-B0CE-41BC-A7F7-78EC021F311F}"/>
+            <media src="..\Pepper Coyote\Blast Radius\14 No Cock Like Horse Cock.mp3" cid="{9B68D334-1B9D-423A-A091-5B2DBFA1691C}" tid="{0E497805-B0CE-41BC-A7F7-78EC021F311F}"/>
             <media src="..\Jeanette Olsson\Edelweiss\01-01- Edelweiss.mp3" tid="{469D8249-B5C5-4C33-9ABC-D9E2EE84EDAF}" cid="{231C9CE8-EC47-4F60-8D7F-813D6F8F45FB}"/>
             <media src="..\Rufus Wainwright\Vibrate The Best Of [Explicit]\01-04- Hallelujah.mp3" tid="{570603B0-4E77-49BF-8FD0-7FC5F81B2002}" cid="{84409EC3-182B-4739-81D9-02D9AF90C308}"/>
             <media src="..\Various Artists\Battle Tendency 「Leicht Verwendbar」\01-24- Awaken.mp3" tid="{78E510BB-7DA4-4876-BF30-B4B13B37D138}" cid="{9431997C-C670-48DA-BDB7-554A5BF9AB08}"/>
@@ -81,6 +93,13 @@
             <media src="..\AWOLNATION\Megalithic Symphony\10 Sail.mp3" cid="{DDF5AF83-A8CC-4088-A0EB-2BC647B5CC0F}" tid="{5B982787-4307-4924-8597-B9565628CE64}"/>
             <media src="..\Goodnight Radio\Sophia So Far\01 Sophia So Far.mp3" cid="{AF8D10BC-6A68-4F17-90C3-D956C8F51F88}" tid="{D1E4D016-0153-40B9-9E98-8E07A61E8741}"/>
             <media src="..\Various Artists\日本アニメ(ーター)見本市 「ME!ME!ME!」 [Ambient Remix]\ME!ME!ME! Feat. Daoko [Ambient Remix].mp3" tid="{3E052605-1160-4192-9CA9-4390184B591B}" cid="{AAA3B51D-2989-4997-B7AC-9907521564B4}"/>
+            <media src="..\Chris Ray Gun\Social Justice The Musical\01 Social Justice Warfare.mp3" tid="{15E3052A-56D4-4073-B33A-94F2DB1D706E}"/>
+            <media src="..\Chris Ray Gun\Social Justice The Musical\02 The Gawker Song.mp3" cid="{A21894AF-E4F0-4BF2-A483-A9FEB2731CB8}" tid="{8AD9CC2D-5E81-4D83-B3D0-7EE359252437}"/>
+            <media src="..\Chris Ray Gun\Social Justice The Musical\03 Everything is Sexist (Acoustic).mp3" tid="{ADEC920D-0DD0-4BFA-BE59-F486224C941E}"/>
+            <media src="..\Chris Ray Gun\Social Justice The Musical\04 We Didn&apos;t Start the SocJus.mp3" tid="{0D02D8AB-443F-447C-ABFB-20DFF0354736}"/>
+            <media src="..\Chris Ray Gun\Social Justice The Musical\05 The Times They Are A-Changin&apos; - Social Justice- The Musical.mp3" tid="{40FEF737-3DA2-434B-940F-C6C42ABBA3FD}"/>
+            <media src="..\Chris Ray Gun\Social Justice The Musical\06 Ain&apos;t No Rest for the Triggered.mp3" tid="{AC9E6C55-BC7F-4C10-9194-872DF3EC6F1C}"/>
+            <media src="..\Chris Ray Gun\Social Justice The Musical\07 Come Be PC.mp3" tid="{E14F441F-53F7-4BE8-8292-8A959BF85018}"/>
             <media src="..\Rammstein\YouTube Channel\88 Keine Lust (Intro).mp3" tid="{AB1C587F-B7BA-4AA3-A65A-03F49DF954E8}" cid="{FC2C09CC-B698-4736-B433-D336AC5C273E}"/>
             <media src="..\Rammstein\Reise, Reise\04 Keine Lust.mp3" cid="{DBBD29D0-95D4-4571-9548-73A2A1B9E4A5}" tid="{56A22A4A-544E-43F6-A16F-6CB7D1AC6D75}"/>
             <media src="..\Rammstein\Reise, Reise\05 Los.mp3" cid="{0BBC2956-9570-4CE6-8AF6-BC3CA418A202}" tid="{509CC331-6930-484F-BD91-7C4F1AC1524B}"/>
