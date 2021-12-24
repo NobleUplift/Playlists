@@ -1,24 +1,30 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1151"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1266"/>
         <meta name="ItemCount" content="12"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
         <title>Singles - Tom MacDonald</title>
     </head>
     <body>
         <seq>
-            <media src="..\Tom MacDonald\I Hate Hip-Hop [Explicit]\01 - I Hate Hip-Hop [Explicit]_472bb086-0c2e-453a-8092-16dbf060065f.mp3" cid="{AF08D284-C599-4C81-8710-FC6C97F1088F}" tid="{088EC91F-F900-4465-8A19-41EA2DB2BE77}"/>
-            <media src="..\Tom MacDonald\Best Rapper Ever\01 - Best Rapper Ever_c89e1c0e-7a7b-4517-a809-e803f700eefd.mp3"/>
-            <media src="..\Tom MacDonald\No Lives Matter\01 - No Lives Matter_67d8c211-45f8-49b7-b9cc-9c60a34166ac.mp3"/>
-            <media src="..\Tom MacDonald\Clown World\01 - Clown World_18bab02c-78c1-4fa3-baae-3de460352259.mp3"/>
-            <media src="..\Tom MacDonald\Fake Woke\01 - Fake Woke_a351fe6b-5cbf-4fd6-9e55-05202dee07f0.mp3"/>
-            <media src="..\Tom MacDonald\Everybody Hates Me [Explicit]\01 - Everybody Hates Me [Explicit]_752cda8f-c97d-4199-acf3-3c5659637112.mp3"/>
-            <media src="..\Tom MacDonald\Cancelled\01 - Cancelled_68df4767-0dc0-47cd-aa31-6c23128719af.mp3"/>
-            <media src="..\Tom MacDonald\People So Stupid\01 - People So Stupid_342d01d8-edf4-4ed4-8c90-8c61424087f9.mp3"/>
-            <media src="..\Tom MacDonald\Snowflakes\01 - Snowflakes_928491e6-a519-423d-a81f-9c3a3cdb6007.mp3"/>
-            <media src="..\Tom MacDonald\No Response [Explicit]\01 - No Response [Explicit]_3672f6ed-a1bc-4b56-81de-6b8ed0a515f3.mp3"/>
-            <media src="..\Tom MacDonald\Politically Incorrect [Explicit]\01 - Politically Incorrect [Explicit]_2c8e7ab3-68e2-4bf5-b9c2-3c550623bec2.mp3"/>
-            <media src="..\Tom MacDonald\Straight White Male\01 - Straight White Male [Explicit]_31e95d7e-ebe3-405b-9576-9da80aa6e334.mp3"/>
+            <media src="..\Tom MacDonald\I Hate Hip-Hop [Explicit]\01 - I Hate Hip-Hop [Explicit]_472bb086-0c2e-453a-8092-16dbf060065f.mp3" cid="{AF08D284-C599-4C81-8710-FC6C97F1088F}" tid="{3A82ACAC-E0D0-4E1C-8C09-5652CEB004FA}"/>
+            <media src="..\Tom MacDonald\Best Rapper Ever\01 - Best Rapper Ever_c89e1c0e-7a7b-4517-a809-e803f700eefd.mp3" tid="{B78A6CA1-0800-4D5D-8E3F-E20F0830D470}"/>
+            <media src="..\Tom MacDonald\No Lives Matter\01 - No Lives Matter_67d8c211-45f8-49b7-b9cc-9c60a34166ac.mp3" tid="{AFC2729A-F7A6-4161-8237-AFB03CAF6DCC}"/>
+            <media src="..\Tom MacDonald\Clown World\01 - Clown World_18bab02c-78c1-4fa3-baae-3de460352259.mp3" tid="{94F4132D-8FBA-47C4-BBBF-D74A7E409F20}"/>
+            <media src="..\Tom MacDonald\Fake Woke\01 - Fake Woke_a351fe6b-5cbf-4fd6-9e55-05202dee07f0.mp3" tid="{1452015B-7573-4378-AB46-2BF3C194A2DC}"/>
+            <media src="..\Tom MacDonald\Everybody Hates Me [Explicit]\01 - Everybody Hates Me [Explicit]_752cda8f-c97d-4199-acf3-3c5659637112.mp3" tid="{662B97EB-0F72-42D0-8CB6-44FC61C49715}"/>
+            <media src="..\Tom MacDonald\Cancelled\01 - Cancelled_68df4767-0dc0-47cd-aa31-6c23128719af.mp3" tid="{32207F5A-64CB-4D12-9468-F96EE3CC91A5}"/>
+            <media src="..\Tom MacDonald\People So Stupid\01 - People So Stupid_342d01d8-edf4-4ed4-8c90-8c61424087f9.mp3" tid="{1B4DB24D-0EB0-48D9-B354-DA04A7410584}"/>
+            <media src="..\Tom MacDonald\Snowflakes\01 - Snowflakes_928491e6-a519-423d-a81f-9c3a3cdb6007.mp3" tid="{0BF74695-95D9-4AE0-B4AA-F32CF420F835}"/>
+            <media src="..\Tom MacDonald\No Response [Explicit]\01 - No Response [Explicit]_3672f6ed-a1bc-4b56-81de-6b8ed0a515f3.mp3" tid="{22DE329D-5B2E-4B8F-BF51-80FC14541A14}"/>
+            <media src="..\Tom MacDonald\Politically Incorrect [Explicit]\01 - Politically Incorrect [Explicit]_2c8e7ab3-68e2-4bf5-b9c2-3c550623bec2.mp3" tid="{AB41E0BB-8639-4CE0-AA99-73C1FB9D3F51}"/>
+            <media src="..\Tom MacDonald\Straight White Male\01 - Straight White Male [Explicit]_31e95d7e-ebe3-405b-9576-9da80aa6e334.mp3" tid="{517BFEF4-75F1-4E07-B77D-68C2FA0EDD47}"/>
         </seq>
     </body>
 </smil>

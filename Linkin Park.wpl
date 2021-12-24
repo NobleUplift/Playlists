@@ -1,51 +1,56 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.15063.0"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1266"/>
         <meta name="ItemCount" content="26"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>Linkin Park</title>
     </head>
     <body>
         <seq>
-            <media src="..\Linkin Park\Hybrid Theory\01 Papercut.mp3" cid="{9757A461-B36F-483C-8C1E-0A6409A74DB3}" tid="{033B8F22-3956-4328-9E61-F7E9EC21C4D9}"/>
-            <media src="..\Linkin Park\Hybrid Theory\02 One Step Closer.mp3"/>
-            <media src="..\Linkin Park\Hybrid Theory\03 With You.mp3"/>
-            <media src="..\Linkin Park\Hybrid Theory\04 Points of Authority.mp3"/>
-            <media src="..\Linkin Park\Hybrid Theory\05 Crawling.mp3"/>
-            <media src="..\Linkin Park\Hybrid Theory\06 Runaway.mp3"/>
-            <media src="..\Linkin Park\Hybrid Theory\07 By Myself.mp3"/>
-            <media src="..\Linkin Park\Hybrid Theory\08 In the End.mp3"/>
-            <media src="..\Linkin Park\Hybrid Theory\09 Place for My Head.mp3"/>
-            <media src="..\Linkin Park\Hybrid Theory\10 Forgotten.mp3"/>
-            <media src="..\Linkin Park\Hybrid Theory\11 Cure for the Itch.mp3"/>
-            <media src="..\Linkin Park\Hybrid Theory\12 Pushing Me Away.mp3"/>
-            <media src="..\Linkin Park\Meteora\01 Foreword.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Foreword" trackArtist="Linkin Park" duration="13440" cid="{EC519863-A8C5-4F47-93C4-AC0B0FEDB04E}" tid="{A69B4D41-81DF-4E34-B6C8-95E2A7CA32EC}"/>
-            <media src="..\Linkin Park\Meteora\02 Don&apos;t Stay.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Don&apos;t Stay" trackArtist="Linkin Park" duration="187933" cid="{3A890816-D9E3-4A8B-9FD3-9A123DBD48E5}" tid="{22A73D0C-BAB3-47A5-9D63-A3223E17FC5F}"/>
-            <media src="..\Linkin Park\Meteora\03 Somewhere I Belong.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Somewhere I Belong" trackArtist="Linkin Park" duration="213933" cid="{2F7B8F53-0C24-4C81-9187-4C1B15C9A9EE}" tid="{A8BAA86A-1CEF-406E-AB29-FD8125C56E23}"/>
-            <media src="..\Linkin Park\Meteora\04 Lying from You.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Lying from You" trackArtist="Linkin Park" duration="175053" cid="{DF4E42E1-314E-4C0C-8EF3-840FFD9DCE4C}" tid="{007596E6-BB7D-48E1-A03A-0C0C798DB793}"/>
-            <media src="..\Linkin Park\Meteora\05 Hit the Floor.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Hit the Floor" trackArtist="Linkin Park" duration="164213" cid="{68925573-D77A-4715-A9E7-68F8BE9727EA}" tid="{14A4CF8C-3A6D-48D2-83E0-E6768AE49EEB}"/>
-            <media src="..\Linkin Park\Meteora\06 Easier to Run.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Easier to Run" trackArtist="Linkin Park" duration="204173" cid="{40F0A1B6-8472-4E24-B5B3-A753DC0DEAF7}" tid="{CAA9B38C-09B8-4087-9ECB-428FBA8E765B}"/>
-            <media src="..\Linkin Park\Meteora\07 Faint.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Faint" trackArtist="Linkin Park" duration="162106" cid="{49C983C3-CA19-4120-870D-A2C61994DCE7}" tid="{1357B7CC-22B2-41B3-90E9-3C237B5DFCB0}"/>
-            <media src="..\Linkin Park\Meteora\08 Figure.09.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Figure.09" trackArtist="Linkin Park" duration="197506" cid="{11135152-2EAB-495E-A2B8-695DC7E83CFE}" tid="{85FE39D1-2129-43EC-A881-5F3DB29459C6}"/>
-            <media src="..\Linkin Park\Meteora\09 Breaking the Habit.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Breaking the Habit" trackArtist="Linkin Park" duration="196133" cid="{C4774C6C-E60B-4900-B4AE-617E24CAEFC1}" tid="{73838EBE-7079-4614-9891-5373B775B447}"/>
-            <media src="..\Linkin Park\Meteora\10 From the Inside.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="From the Inside" trackArtist="Linkin Park" duration="175506" cid="{F1DD1CA6-513F-48B2-85F5-DBE290F7E4F1}" tid="{179C5CB3-F52B-44A4-909C-426DD24C0D77}"/>
-            <media src="..\Linkin Park\Meteora\11 Nobody&apos;s Listening.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Nobody&apos;s Listening" trackArtist="Linkin Park" duration="178866" cid="{A8395A60-8117-4F9A-9482-712D79B6B98B}" tid="{00E24AEF-0E92-4E57-BB35-EB98730C7CAF}"/>
-            <media src="..\Linkin Park\Meteora\12 Session.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Session" trackArtist="Linkin Park" duration="144733" cid="{0E18D596-2BDE-4583-9E59-798FF8AC1068}" tid="{1F16C2E9-04FB-4EA2-BF60-2BA0E9AB996A}"/>
-            <media src="..\Linkin Park\Meteora\13 Numb.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Numb" trackArtist="Linkin Park" duration="189506" cid="{DDB612F3-0F79-4188-BE61-93046E3111C2}" tid="{6148D3D9-8EA4-498E-A49F-16C2DAA0E80E}"/>
-            <media src="..\Linkin Park\Somewhere I Belong\03 My December (Live).mp3" albumTitle="Somewhere I Belong" albumArtist="Linkin Park" trackTitle="My December (Live)" trackArtist="Linkin Park" duration="267972" cid="{90CDDB73-02C0-4BB2-8B6B-B190A9658DC6}" tid="{D236397B-E0C7-443F-A618-EBDAB6C30FB3}"/>
-            <media src="..\Linkin Park\Minutes to Midnight\01 Wake.mp3" cid="{9C00664C-FB07-420F-AFC1-755E045619CD}" tid="{9FD261BD-002F-4090-9987-C20391C20D09}"/>
-            <media src="..\Linkin Park\Minutes to Midnight\02 Given Up.mp3" cid="{D16CD812-818B-435A-9119-65468B7AFF87}" tid="{AE4F83BB-A09E-4E47-9BCA-1B66EA9E7405}"/>
-            <media src="..\Linkin Park\Minutes to Midnight\03 Leave out All the Rest.mp3" cid="{1239BBCC-EE8C-499E-838F-623FD91C4165}" tid="{72D36D8B-9A39-471E-AB08-6425B85CB6E0}"/>
-            <media src="..\Linkin Park\Minutes to Midnight\04 Bleed It Out.mp3"/>
-            <media src="..\Linkin Park\Minutes to Midnight\05 Shadow of the Day.mp3"/>
-            <media src="..\Linkin Park\Minutes to Midnight\06 What I&apos;ve Done.mp3"/>
-            <media src="..\Linkin Park\Minutes to Midnight\07 Hands Held High.mp3"/>
-            <media src="..\Linkin Park\Minutes to Midnight\08 No More Sorrow.mp3"/>
-            <media src="..\Linkin Park\Minutes to Midnight\09 Valentine&apos;s Day.mp3"/>
-            <media src="..\Linkin Park\Minutes to Midnight\10 In Between.mp3"/>
-            <media src="..\Linkin Park\Minutes to Midnight\11 In Pieces.mp3"/>
-            <media src="..\Linkin Park\Minutes to Midnight\12 The Little Things Give You Away.mp3"/>
+            <media src="..\Linkin Park\Hybrid Theory\01 Papercut.mp3" cid="{9757A461-B36F-483C-8C1E-0A6409A74DB3}" tid="{CEAA36AB-0FAC-44CD-9D88-20A5326B7525}"/>
+            <media src="..\Linkin Park\Hybrid Theory\02 One Step Closer.mp3" cid="{C6E915B7-3455-466F-9CC1-11C4B860C58F}" tid="{1713E2FD-EE29-4B02-9A48-04DC1F9B7EB1}"/>
+            <media src="..\Linkin Park\Hybrid Theory\03 With You.mp3" cid="{16F33EE9-DCE0-4396-936F-7ED298109299}" tid="{678BA3AD-AEB3-4549-A6D4-FD50B9A67FA6}"/>
+            <media src="..\Linkin Park\Hybrid Theory\04 Points of Authority.mp3" cid="{C7DE1F1B-57CE-430D-B83A-1B99AC9FBEED}" tid="{6B3B4AF0-8142-4697-876C-36D23F893B6B}"/>
+            <media src="..\Linkin Park\Hybrid Theory\05 Crawling.mp3" cid="{3612FD81-83DC-4FB8-8C4D-259739B6E384}" tid="{4E3290F9-4124-4F61-87F4-618AACDA6D09}"/>
+            <media src="..\Linkin Park\Hybrid Theory\06 Runaway.mp3" cid="{F65ACB56-6F3B-450A-BF61-0AFD000C1BAC}" tid="{6913B57E-98A9-4A8D-B02A-9BB2F2721F23}"/>
+            <media src="..\Linkin Park\Hybrid Theory\07 By Myself.mp3" cid="{85177F5A-84B8-491B-9020-9A44BD10D609}" tid="{A4446C2C-026F-460C-ADF9-286A0763B792}"/>
+            <media src="..\Linkin Park\Hybrid Theory\08 In the End.mp3" cid="{CBD8A97B-1078-4C96-BF3B-6597BBEF284B}" tid="{AADC87FC-C8C1-48EB-A318-82223DD72106}"/>
+            <media src="..\Linkin Park\Hybrid Theory\09 Place for My Head.mp3" cid="{1459D3C9-D9AD-4B79-82CC-209C11C7CB61}" tid="{1CFD44BE-FC1F-4D85-8ABA-4BE028C5BC7B}"/>
+            <media src="..\Linkin Park\Hybrid Theory\10 Forgotten.mp3" cid="{42C04780-F451-404F-965B-A43D4EF88D4A}" tid="{2E088BFD-0A3B-4C9C-93D4-9DD78B4B936B}"/>
+            <media src="..\Linkin Park\Hybrid Theory\11 Cure for the Itch.mp3" cid="{04FE9005-80B2-4282-8BC4-F75B0DDD716F}" tid="{7830978E-9BD1-4B5D-AFBC-E0D3F9DD5B2A}"/>
+            <media src="..\Linkin Park\Hybrid Theory\12 Pushing Me Away.mp3" cid="{548B6AA6-8E96-426F-BB76-05E7338F48BF}" tid="{8CA71CCA-71BA-45B7-9FB7-B79DAA820AEA}"/>
+            <media src="..\Linkin Park\Meteora\01 Foreword.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Foreword" trackArtist="Linkin Park" duration="13440" cid="{EC519863-A8C5-4F47-93C4-AC0B0FEDB04E}" tid="{13F5D072-99F7-4816-A178-54BA57A430A8}"/>
+            <media src="..\Linkin Park\Meteora\02 Don&apos;t Stay.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Don&apos;t Stay" trackArtist="Linkin Park" duration="187933" cid="{3A890816-D9E3-4A8B-9FD3-9A123DBD48E5}" tid="{B5EC5E4A-A9E5-4A29-9908-5E6A358E9043}"/>
+            <media src="..\Linkin Park\Meteora\03 Somewhere I Belong.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Somewhere I Belong" trackArtist="Linkin Park" duration="213933" cid="{2F7B8F53-0C24-4C81-9187-4C1B15C9A9EE}" tid="{132A22BF-06DA-4301-852D-7BA6E51205E1}"/>
+            <media src="..\Linkin Park\Meteora\04 Lying from You.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Lying from You" trackArtist="Linkin Park" duration="175053" cid="{DF4E42E1-314E-4C0C-8EF3-840FFD9DCE4C}" tid="{37316559-C4B8-44A6-B839-1126D799B635}"/>
+            <media src="..\Linkin Park\Meteora\05 Hit the Floor.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Hit the Floor" trackArtist="Linkin Park" duration="164213" cid="{68925573-D77A-4715-A9E7-68F8BE9727EA}" tid="{DCAE13FF-BDED-48FD-81D4-387C35CBEEAF}"/>
+            <media src="..\Linkin Park\Meteora\06 Easier to Run.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Easier to Run" trackArtist="Linkin Park" duration="204173" cid="{40F0A1B6-8472-4E24-B5B3-A753DC0DEAF7}" tid="{A56C89A9-F0C5-40BE-996A-67504468684B}"/>
+            <media src="..\Linkin Park\Meteora\07 Faint.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Faint" trackArtist="Linkin Park" duration="162106" cid="{49C983C3-CA19-4120-870D-A2C61994DCE7}" tid="{5FEBC8F9-AC3E-4508-8640-FF1C39037B72}"/>
+            <media src="..\Linkin Park\Meteora\08 Figure.09.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Figure.09" trackArtist="Linkin Park" duration="197506" cid="{11135152-2EAB-495E-A2B8-695DC7E83CFE}" tid="{DD617A38-945E-401E-B4DE-179CDD42A42F}"/>
+            <media src="..\Linkin Park\Meteora\09 Breaking the Habit.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Breaking the Habit" trackArtist="Linkin Park" duration="196133" cid="{C4774C6C-E60B-4900-B4AE-617E24CAEFC1}" tid="{F6649869-553C-4212-AB70-BE06FF8B2437}"/>
+            <media src="..\Linkin Park\Meteora\10 From the Inside.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="From the Inside" trackArtist="Linkin Park" duration="175506" cid="{F1DD1CA6-513F-48B2-85F5-DBE290F7E4F1}" tid="{96DAD9AF-C710-410A-B874-C63133916BD5}"/>
+            <media src="..\Linkin Park\Meteora\11 Nobody&apos;s Listening.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Nobody&apos;s Listening" trackArtist="Linkin Park" duration="178866" cid="{A8395A60-8117-4F9A-9482-712D79B6B98B}" tid="{B4FAC24B-A57D-4020-A353-0AF82C983CB8}"/>
+            <media src="..\Linkin Park\Meteora\12 Session.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Session" trackArtist="Linkin Park" duration="144733" cid="{0E18D596-2BDE-4583-9E59-798FF8AC1068}" tid="{3A6DA6C9-A747-42DA-A51C-FABB91C7845D}"/>
+            <media src="..\Linkin Park\Meteora\13 Numb.mp3" albumTitle="Meteora" albumArtist="Linkin Park" trackTitle="Numb" trackArtist="Linkin Park" duration="189506" cid="{DDB612F3-0F79-4188-BE61-93046E3111C2}" tid="{8FCCECDC-12DD-4AA9-88E8-110CF65D3394}"/>
+            <media src="..\Linkin Park\Somewhere I Belong\03 My December (Live).mp3" albumTitle="Somewhere I Belong" albumArtist="Linkin Park" trackTitle="My December (Live)" trackArtist="Linkin Park" duration="267972" cid="{90CDDB73-02C0-4BB2-8B6B-B190A9658DC6}" tid="{43A0C11F-343A-4B40-9DD2-4CBC9AED1C86}"/>
+            <media src="..\Linkin Park\Minutes to Midnight\01 Wake.mp3" cid="{9C00664C-FB07-420F-AFC1-755E045619CD}" tid="{E08A8F3F-ACE9-4633-93FE-D185F5D3B847}"/>
+            <media src="..\Linkin Park\Minutes to Midnight\02 Given Up.mp3" cid="{D16CD812-818B-435A-9119-65468B7AFF87}" tid="{CC97D1BA-6E72-4B12-825F-9C2577A921F7}"/>
+            <media src="..\Linkin Park\Minutes to Midnight\03 Leave out All the Rest.mp3" cid="{1239BBCC-EE8C-499E-838F-623FD91C4165}" tid="{BB750052-71E2-4247-8CC6-525189D7B9DE}"/>
+            <media src="..\Linkin Park\Minutes to Midnight\04 Bleed It Out.mp3" cid="{B985CA1C-B374-4F4F-A89C-85A90D8CBBC9}" tid="{F10E3D4C-744F-428F-81DD-4DEA768C126D}"/>
+            <media src="..\Linkin Park\Minutes to Midnight\05 Shadow of the Day.mp3" cid="{A366118D-FE3E-4B4F-9544-E9E180504056}" tid="{B3B57C99-B001-412E-B50E-99D9B4D12AD5}"/>
+            <media src="..\Linkin Park\Minutes to Midnight\06 What I&apos;ve Done.mp3" cid="{778FD28E-09AC-4856-BFC2-60F0A3666CCD}" tid="{29DD063B-8F0E-4BFF-BCD5-22CECB866D5F}"/>
+            <media src="..\Linkin Park\Minutes to Midnight\07 Hands Held High.mp3" cid="{452824A2-43F7-4851-8213-9FF0F05DDFA4}" tid="{08BA9D9F-4971-4966-8684-2686498FA396}"/>
+            <media src="..\Linkin Park\Minutes to Midnight\08 No More Sorrow.mp3" cid="{23AB5F73-DB37-4E0F-B2EF-9112DBC9C0F2}" tid="{99374FAF-24A2-4292-A5CA-00941FADC79B}"/>
+            <media src="..\Linkin Park\Minutes to Midnight\09 Valentine&apos;s Day.mp3" cid="{EF6238F5-7F97-4DCC-B901-5CEED55234EA}" tid="{B45F5A87-1DA4-4EA6-9F50-346E48FAF1DA}"/>
+            <media src="..\Linkin Park\Minutes to Midnight\10 In Between.mp3" cid="{2C6F8551-51FD-4C46-9D3C-CDD782C90C4A}" tid="{9EFBA833-5ECF-4D56-BB55-FDB40D23E637}"/>
+            <media src="..\Linkin Park\Minutes to Midnight\11 In Pieces.mp3" cid="{0F22843D-F55F-44E6-884A-40A564015406}" tid="{EB9E29F0-79C6-4545-8FEE-93AEE092BA5E}"/>
+            <media src="..\Linkin Park\Minutes to Midnight\12 The Little Things Give You Away.mp3" cid="{58D68DD6-1139-4207-B25B-F96E3B482551}" tid="{A646DB5B-1C70-40E5-A55C-0001436C6706}"/>
             <media src="..\Linkin Park\Live in Texas Disc 1\01 Somewhere I Belong.wma" serviceId="{57497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Somewhere I Belong" trackArtist="Linkin Park" duration="217803" cid="{F95926AF-324A-4CFB-9F4F-A0B100D17681}" tid="{3A3F366F-F5D9-43BD-A02D-5A55E0BDBF1A}"/>
             <media src="..\Linkin Park\Live in Texas Disc 1\02 Lying from You.wma" serviceId="{59497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Lying from You" trackArtist="Linkin Park" duration="187524" cid="{62958E90-DC03-420D-8CC9-DB59E72C0B24}" tid="{5C5BC60F-803E-487B-831A-1E9F1EFDC380}"/>
             <media src="..\Linkin Park\Live in Texas Disc 1\03 Papercut.wma" serviceId="{5B497C00-0100-11DB-89CA-0019B92A3933}" albumTitle="Live in Texas Disc 1" albumArtist="Linkin Park" trackTitle="Papercut" trackArtist="Linkin Park" duration="186188" cid="{A3A7BCA2-58B9-4F7D-812F-2240DB0424BE}" tid="{502E654E-8092-42CC-8531-3CDF18147F1D}"/>

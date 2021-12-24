@@ -1,50 +1,55 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.351"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1266"/>
         <meta name="ItemCount" content="44"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>Robyn</title>
     </head>
     <body>
         <seq>
-            <media src="..\Robyn\Robyn [US Bonus Track]\01 Curriculum Vitae.mp3" cid="{020066D6-0603-41F9-8CBC-0272B0ACE9F6}" tid="{7C800BE6-F3E8-43C6-9E86-BB184D31BE9D}"/>
-            <media src="..\Robyn\Robyn [US Bonus Track]\02 Konichiwa Bitches.mp3" cid="{1BCCFB13-4551-4275-81BC-0E61AA84746D}" tid="{B284E9BF-C724-4490-84A2-D99E69997F71}"/>
-            <media src="..\Robyn\Robyn [US Bonus Track]\03 Cobrastyle.mp3" cid="{6406B6E7-8AD6-4C7E-B09B-EF3566B0FA31}" tid="{A5F0F6C9-D25D-49BD-ADEA-69D67021472C}"/>
-            <media src="..\Robyn\Robyn [US Bonus Track]\04 Handle Me.mp3" cid="{192A54BD-5F78-4379-BFB0-A397589E741E}" tid="{14E5EC19-77B4-4678-96E6-D887B0B63109}"/>
-            <media src="..\Robyn\Robyn [US Bonus Track]\05 Bum Like You.mp3" cid="{3B3D31A1-E9AD-4279-961B-53CC51BE3D4A}" tid="{0F55B618-1AC4-4144-9756-08472D960886}"/>
-            <media src="..\Robyn\Robyn [US Bonus Track]\06 Be Mine!.mp3" cid="{8886403B-BDD5-497C-99F4-E28DABBB15AE}" tid="{C33F5AB2-B473-44E9-B064-8759B4EAB879}"/>
-            <media src="..\Robyn\Robyn [US Bonus Track]\07 With Every Heartbeat.mp3" cid="{BFB5EAE6-A4E7-4981-99F1-F486A1A65041}" tid="{F3D575F6-BDA1-41FC-A0F7-3885560656F3}"/>
-            <media src="..\Robyn\Robyn [US Bonus Track]\08 Who&apos;s That Girl.mp3" cid="{9B5297F3-9F23-4739-BBAC-91C90F701E19}" tid="{16A4096C-92BC-4204-BA7B-D50C7C29060D}"/>
-            <media src="..\Robyn\Robyn [US Bonus Track]\09 Bionic Woman.mp3" cid="{6D8B1AC2-2264-4D64-9412-7E92459F9346}" tid="{62A69AC9-7140-48C8-AC5D-2723DF9577BB}"/>
-            <media src="..\Robyn\Robyn [US Bonus Track]\10 Crash and Burn Girl.mp3" cid="{C7F4BF1A-2B58-4591-BD68-884A657FAFB1}" tid="{A182701F-6BC7-4EAD-86B3-F967469DDEE6}"/>
-            <media src="..\Robyn\Robyn [US Bonus Track]\11 Robotboy.mp3" cid="{E30315E8-4AF7-4586-B2D3-292FA33E1EA1}" tid="{BF551DDB-4157-45F6-AA30-33C62DEA3CB3}"/>
-            <media src="..\Robyn\Robyn [US Bonus Track]\12 Eclipse.mp3" cid="{B0404066-307E-4A76-862D-BD6A2919EB0C}" tid="{2B142FF9-741F-4F97-BE4C-E24E2808BB86}"/>
-            <media src="..\Robyn\Robyn [US Bonus Track]\13 Should Have Known.mp3" cid="{D12466FA-E791-44DB-91B7-84A288746739}" tid="{E548BD78-FDDD-46DD-9D52-40A0043DFA92}"/>
-            <media src="..\Robyn\Robyn [US Bonus Track]\14 Any Time You Like.mp3" cid="{009946C4-7BAF-4757-820C-9224B86B6D20}" tid="{E69A19D4-D444-47B5-BA82-1B3BBEFDE88F}"/>
-            <media src="..\Robyn\Robyn [US Bonus Track]\15 Dream On.mp3" cid="{B2733657-4866-4FC4-92F5-866EE2BB7F5E}" tid="{ADDD409A-582D-4DC0-87D8-FFFACE017A6E}"/>
-            <media src="..\Robyn\Robyn [US Bonus Track]\16 Handle Me [-][Redone Remix].mp3" cid="{D486C1C6-F0CA-494C-B8CB-EA8A1C5F925E}" tid="{A359226D-0FDE-45BA-B558-8540463F6BC7}"/>
-            <media src="..\Robyn\Body Talk\01 Dancing on My Own [Radio Version][Version].mp3" cid="{95ACA88B-32B3-479C-BC7A-5C224D9E8F36}" tid="{C4598F45-DBB1-4E3B-9767-583F32124C76}"/>
-            <media src="..\Robyn\Body Talk\02 Fembot.mp3" cid="{FD783F89-41F4-47C4-B8CF-5D1557010EA6}" tid="{17A74FF4-CC92-4546-A1A2-665992AFB46F}"/>
-            <media src="..\Robyn\Body Talk\03 Don&apos;t F---ing Tell Me What to Do.mp3" cid="{23E939CD-8108-46F8-A9C1-F509701D033A}" tid="{57569AAB-1824-4C55-A596-8FB674C31FA3}"/>
-            <media src="..\Robyn\Body Talk\04 Indestructible.mp3" cid="{E2ACED48-1913-4F95-9F46-08F0EE91D4C2}" tid="{6B669877-77A0-48D9-8FC4-62F707465970}"/>
-            <media src="..\Robyn\Body Talk\05 Time Machine.mp3" cid="{CAD53BC4-7886-43D4-AFBE-E40A0439818B}" tid="{A115F792-C601-4633-B024-8403737C6934}"/>
-            <media src="..\Robyn\Body Talk\06 Love Kills.mp3" cid="{27BA35D2-FA48-40BC-AF49-65E504C3D5BC}" tid="{86471567-0A8B-4414-805E-2DFD551CC914}"/>
-            <media src="..\Robyn\Body Talk\07 Hang with Me.mp3" cid="{96F68D54-3DA1-4378-A3EA-8C32524C3166}" tid="{DA628117-F36C-45D6-9404-496D7EA4C940}"/>
-            <media src="..\Robyn\Body Talk\08 Call Your Girlfriend.mp3" cid="{523C684C-DC18-4E74-A621-A4C561B5EBDB}" tid="{5DB238AD-D6FD-4B9E-BD68-A1F3BBAE7D61}"/>
-            <media src="..\Robyn\Body Talk, Pt. 2\06 Criminal Intent.mp3" cid="{BB8A8765-D639-4071-A215-488EF7EA27D5}" tid="{F8A6EAEF-2F11-4DD4-A276-1C98D677280F}"/>
-            <media src="..\Robyn\Body Talk\09 None of Dem.mp3" cid="{986E6534-AEB0-42E6-8AFA-F19E9B858662}" tid="{EC699FCF-BED1-4163-9E10-72C4CA5112F6}"/>
-            <media src="..\Robyn\Body Talk\10 We Dance to the Beat.mp3" cid="{288D8D6D-0325-4A6D-B2C9-E6F176E4A1CD}" tid="{52AA17CC-28DE-4469-A273-FF309A28CE0B}"/>
-            <media src="..\Robyn\Body Talk\11 U Should Know Better.mp3" cid="{C2A16E30-A0ED-4F1B-8DF9-EB7246EF215B}" tid="{7E4E0399-DA56-41F9-96CB-E9CC65ABC034}"/>
-            <media src="..\Robyn\Body Talk\12 Dancehall Queen.mp3" cid="{B404927D-F876-436A-804B-CD22AFFE0EAD}" tid="{44BEF6B9-2208-4B18-9EA6-8DB3254CB87C}"/>
-            <media src="..\Robyn\Body Talk\13 Get Myself Together.mp3" cid="{88321D4E-4FAB-4D50-BCF2-25C56ABE345E}" tid="{D0DD3F8C-AF6E-46B3-9B09-A070D30AB777}"/>
-            <media src="..\Robyn\Body Talk, Pt. 1\04 Cry When You Get Older.mp3" cid="{3E2E5983-7EB9-4631-BB56-F872A1484D22}" tid="{3ED286E3-0FBC-4CF9-A6EC-753C389A80BB}"/>
-            <media src="..\Robyn\Body Talk, Pt. 1\07 Hang with Me [Acoustic Version][Version].mp3" cid="{F98592D3-7DFA-424F-840B-29543BB5FB8F}" tid="{121B11B7-F21E-46D4-9C19-7EB680860893}"/>
-            <media src="..\Robyn\Body Talk, Pt. 2\08 Indestructible [Acoustic Version][Version].mp3" cid="{FFB966CF-CB02-4384-B22A-FCF67A4C569F}" tid="{CE9743DD-8D08-4813-AF42-544B6207EED0}"/>
-            <media src="..\Robyn\Body Talk\14 In My Eyes.mp3" cid="{11111420-0AE6-4873-BB76-65DFBA1BD6CE}" tid="{1969A85C-CE66-473B-8D9C-41CEA9D31838}"/>
-            <media src="..\Robyn\Body Talk, Pt. 2\02 Include Me Out.mp3" cid="{4D5D1CA9-3CCA-4FD0-BDA1-C6538F1E8098}" tid="{1694E1D8-2400-4AA8-9C16-99295A5E6F9B}"/>
-            <media src="..\Robyn\Body Talk\15 Stars 4-Ever.mp3" cid="{442DEC14-9745-425C-9121-9100BBFB1F67}" tid="{00ADECA2-18EB-4C5F-932F-E293A5E7AF88}"/>
-            <media src="..\Robyn\Body Talk, Pt. 1\08 Jag Vet en Dejlig Rosa.mp3" cid="{C1081224-CA38-4BBC-A8B0-E44A048F933E}" tid="{2D386F02-53B0-4A39-A44D-FE83D33615F6}"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\01 Curriculum Vitae.mp3" cid="{020066D6-0603-41F9-8CBC-0272B0ACE9F6}" tid="{AD0F29E9-DB87-4B9F-895F-916F9A2B4C99}"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\02 Konichiwa Bitches.mp3" cid="{1BCCFB13-4551-4275-81BC-0E61AA84746D}" tid="{4DD006F3-9C83-4473-A881-4FF877B28B90}"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\03 Cobrastyle.mp3" cid="{6406B6E7-8AD6-4C7E-B09B-EF3566B0FA31}" tid="{63698E19-B6E5-4D8D-9368-952ECD9B85AA}"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\04 Handle Me.mp3" cid="{192A54BD-5F78-4379-BFB0-A397589E741E}" tid="{9EE8FAE7-7CDC-4EB0-8150-FCCE878B6411}"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\05 Bum Like You.mp3" cid="{3B3D31A1-E9AD-4279-961B-53CC51BE3D4A}" tid="{590947B2-2FCB-48B5-9C07-439321036418}"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\06 Be Mine!.mp3" cid="{8886403B-BDD5-497C-99F4-E28DABBB15AE}" tid="{A70DBD34-5363-460C-95CF-AA05636E062F}"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\07 With Every Heartbeat.mp3" cid="{BFB5EAE6-A4E7-4981-99F1-F486A1A65041}" tid="{023A681A-9881-4AD2-8D49-F66F3E3901C4}"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\08 Who&apos;s That Girl.mp3" cid="{9B5297F3-9F23-4739-BBAC-91C90F701E19}" tid="{16B53586-8C15-4266-9F3D-B1CF806717D0}"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\09 Bionic Woman.mp3" cid="{6D8B1AC2-2264-4D64-9412-7E92459F9346}" tid="{AD8C1692-BFCB-469E-B4D2-026633359368}"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\10 Crash and Burn Girl.mp3" cid="{C7F4BF1A-2B58-4591-BD68-884A657FAFB1}" tid="{8AA58006-241F-4A1D-A65B-3D32644BF4E1}"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\11 Robotboy.mp3" cid="{E30315E8-4AF7-4586-B2D3-292FA33E1EA1}" tid="{4EF20B1F-CA14-40A7-B79D-D842F3213D0F}"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\12 Eclipse.mp3" cid="{B0404066-307E-4A76-862D-BD6A2919EB0C}" tid="{BBEE50F9-DA5C-4B53-B573-95794C8D6B6E}"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\13 Should Have Known.mp3" cid="{D12466FA-E791-44DB-91B7-84A288746739}" tid="{8B476025-67E9-4403-ADB0-08345057AE20}"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\14 Any Time You Like.mp3" cid="{009946C4-7BAF-4757-820C-9224B86B6D20}" tid="{375F7B92-68C1-49E2-B0A0-E671818EDBED}"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\15 Dream On.mp3" cid="{B2733657-4866-4FC4-92F5-866EE2BB7F5E}" tid="{509163DD-1A76-4ECA-8607-F071B6CCE41B}"/>
+            <media src="..\Robyn\Robyn [US Bonus Track]\16 Handle Me [-][Redone Remix].mp3" cid="{D486C1C6-F0CA-494C-B8CB-EA8A1C5F925E}" tid="{8ED76826-3280-4679-99B8-D3B1338AE90D}"/>
+            <media src="..\Robyn\Body Talk\01 Dancing on My Own [Radio Version][Version].mp3" cid="{95ACA88B-32B3-479C-BC7A-5C224D9E8F36}" tid="{D9D19F50-BD3A-4203-B088-5791A7235338}"/>
+            <media src="..\Robyn\Body Talk\02 Fembot.mp3" cid="{FD783F89-41F4-47C4-B8CF-5D1557010EA6}" tid="{81E5D6CF-3255-4E6A-B24B-9231E12A6C5B}"/>
+            <media src="..\Robyn\Body Talk\03 Don&apos;t F---ing Tell Me What to Do.mp3" cid="{23E939CD-8108-46F8-A9C1-F509701D033A}" tid="{75AF48B3-A5CA-487A-865B-C08D67E822AF}"/>
+            <media src="..\Robyn\Body Talk\04 Indestructible.mp3" cid="{E2ACED48-1913-4F95-9F46-08F0EE91D4C2}" tid="{1FBCAA07-37B8-4716-BF93-AF19F4053884}"/>
+            <media src="..\Robyn\Body Talk\05 Time Machine.mp3" cid="{CAD53BC4-7886-43D4-AFBE-E40A0439818B}" tid="{34E01176-A824-4B00-825F-30DDF9CD725E}"/>
+            <media src="..\Robyn\Body Talk\06 Love Kills.mp3" cid="{27BA35D2-FA48-40BC-AF49-65E504C3D5BC}" tid="{3902F8E9-2632-453C-BF97-902514B50979}"/>
+            <media src="..\Robyn\Body Talk\07 Hang with Me.mp3" cid="{96F68D54-3DA1-4378-A3EA-8C32524C3166}" tid="{FD094715-A24A-4F29-9949-43E3385CFEAB}"/>
+            <media src="..\Robyn\Body Talk\08 Call Your Girlfriend.mp3" cid="{523C684C-DC18-4E74-A621-A4C561B5EBDB}" tid="{1A25C382-7AAB-4BD2-9F58-4B9C9691FDFA}"/>
+            <media src="..\Robyn\Body Talk, Pt. 2\06 Criminal Intent.mp3" cid="{BB8A8765-D639-4071-A215-488EF7EA27D5}" tid="{522689DA-299D-4426-B314-16543C6DE393}"/>
+            <media src="..\Robyn\Body Talk\09 None of Dem.mp3" cid="{986E6534-AEB0-42E6-8AFA-F19E9B858662}" tid="{7F38BCDB-0146-4EF7-B8A2-9AE9732DF1BC}"/>
+            <media src="..\Robyn\Body Talk\10 We Dance to the Beat.mp3" cid="{288D8D6D-0325-4A6D-B2C9-E6F176E4A1CD}" tid="{1C66845D-9756-44FA-98BB-0D02C810A571}"/>
+            <media src="..\Robyn\Body Talk\11 U Should Know Better.mp3" cid="{C2A16E30-A0ED-4F1B-8DF9-EB7246EF215B}" tid="{07F993F1-C34E-48C3-BC7F-0A7759C2A464}"/>
+            <media src="..\Robyn\Body Talk\12 Dancehall Queen.mp3" cid="{B404927D-F876-436A-804B-CD22AFFE0EAD}" tid="{593BE912-7E2E-46B9-BE25-573EEA1F3C18}"/>
+            <media src="..\Robyn\Body Talk\13 Get Myself Together.mp3" cid="{88321D4E-4FAB-4D50-BCF2-25C56ABE345E}" tid="{FEDC3915-AA8F-42A2-B914-E2BBD802E6E3}"/>
+            <media src="..\Robyn\Body Talk, Pt. 1\04 Cry When You Get Older.mp3" cid="{3E2E5983-7EB9-4631-BB56-F872A1484D22}" tid="{EC5CD4AE-6EA3-4E43-BF6D-571318A5D4C0}"/>
+            <media src="..\Robyn\Body Talk, Pt. 1\07 Hang with Me [Acoustic Version][Version].mp3" cid="{F98592D3-7DFA-424F-840B-29543BB5FB8F}" tid="{15BF1B9F-045E-46C2-A364-6DC345798672}"/>
+            <media src="..\Robyn\Body Talk, Pt. 2\08 Indestructible [Acoustic Version][Version].mp3" cid="{FFB966CF-CB02-4384-B22A-FCF67A4C569F}" tid="{1A48D670-A80A-4A02-9DAA-EF4266876089}"/>
+            <media src="..\Robyn\Body Talk\14 In My Eyes.mp3" cid="{11111420-0AE6-4873-BB76-65DFBA1BD6CE}" tid="{DA340205-7195-47A3-A962-E6FC81E36C15}"/>
+            <media src="..\Robyn\Body Talk, Pt. 2\02 Include Me Out.mp3" cid="{4D5D1CA9-3CCA-4FD0-BDA1-C6538F1E8098}" tid="{7ADFC389-6C58-429D-904E-E8CBC02C109B}"/>
+            <media src="..\Robyn\Body Talk\15 Stars 4-Ever.mp3" cid="{442DEC14-9745-425C-9121-9100BBFB1F67}" tid="{6A75D70E-44DD-4133-921A-99A25BBB19D1}"/>
+            <media src="..\Robyn\Body Talk, Pt. 1\08 Jag Vet en Dejlig Rosa.mp3" cid="{C1081224-CA38-4BBC-A8B0-E44A048F933E}" tid="{87708CA7-B1D7-4C4D-BA76-A6B103D2DC51}"/>
         </seq>
     </body>
 </smil>

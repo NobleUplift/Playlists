@@ -1,50 +1,56 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1151"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1266"/>
         <meta name="ItemCount" content="139"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
         <title>Tom MacDonald</title>
     </head>
     <body>
         <seq>
-            <media src="..\Tom MacDonald\Us Against The World\01 Us Against The World.mp3" cid="{E5454F35-1EF5-47E2-ACDB-B731794A18DE}" tid="{4EBDF4F9-A4CD-4680-99D4-4951D481C76E}"/>
-            <media src="..\Tom MacDonald\Us Against The World\02 No Lives Matter.mp3"/>
-            <media src="..\Tom MacDonald\Us Against The World\03 America.mp3"/>
-            <media src="..\Tom MacDonald\Us Against The World\04 Fake Woke.mp3"/>
-            <media src="..\Tom MacDonald\Us Against The World\05 Hello Hollywood.mp3"/>
-            <media src="..\Tom MacDonald\Us Against The World\06 Hulk Hogan.mp3"/>
-            <media src="..\Tom MacDonald\Us Against The World\07 Beautiful Day.mp3"/>
-            <media src="..\Tom MacDonald\Us Against The World\08 Balloons.mp3"/>
-            <media src="..\Tom MacDonald\Us Against The World\09 Best Rapper Ever.mp3"/>
-            <media src="..\Tom MacDonald\Us Against The World\10 Dear Slim.mp3"/>
-            <media src="..\Tom MacDonald\Us Against The World\11 Dummies.mp3"/>
-            <media src="..\Tom MacDonald\Us Against The World\12 Paranoid.mp3"/>
-            <media src="..\Tom MacDonald\Us Against The World\13 Spilt Milk.mp3"/>
-            <media src="..\Tom MacDonald\Us Against The World\14 Dear Alcohol.mp3"/>
-            <media src="..\Tom MacDonald\Us Against The World\15 Stfu.mp3"/>
-            <media src="..\Tom MacDonald\Us Against The World\16 Snowflakes.mp3"/>
-            <media src="..\Tom MacDonald\Us Against The World\17 Hate Mail.mp3"/>
-            <media src="..\Tom MacDonald\Us Against The World\18 Just Like Me.mp3"/>
-            <media src="..\Tom MacDonald\Us Against The World\19 Heroes.mp3"/>
-            <media src="..\Tom MacDonald\No Guts No Glory\01 We Want War.mp3"/>
-            <media src="..\Tom MacDonald\No Guts No Glory\02 Don&apos;t Look Down.mp3"/>
-            <media src="..\Tom MacDonald\No Guts No Glory\03 Every Rapper Ever.mp3"/>
-            <media src="..\Tom MacDonald\No Guts No Glory\04 Hypocrites.mp3"/>
-            <media src="..\Tom MacDonald\No Guts No Glory\05 Clown World.mp3"/>
-            <media src="..\Tom MacDonald\No Guts No Glory\06 Cancelled.mp3"/>
-            <media src="..\Tom MacDonald\No Guts No Glory\07 Stay Alive.mp3"/>
-            <media src="..\Tom MacDonald\No Guts No Glory\08 Angels.mp3"/>
-            <media src="..\Tom MacDonald\No Guts No Glory\09 Brainwashed.mp3"/>
-            <media src="..\Tom MacDonald\No Guts No Glory\10 Energy.mp3"/>
-            <media src="..\Tom MacDonald\No Guts No Glory\11 Bite My Tongue.mp3"/>
-            <media src="..\Tom MacDonald\No Guts No Glory\12 Worthless.mp3"/>
-            <media src="..\Tom MacDonald\No Guts No Glory\13 Withdrawals.mp3"/>
-            <media src="..\Tom MacDonald\No Guts No Glory\14 Goat.mp3"/>
-            <media src="..\Tom MacDonald\No Guts No Glory\15 Eminem.mp3"/>
-            <media src="..\Tom MacDonald\No Guts No Glory\16 Growth.mp3"/>
-            <media src="..\Tom MacDonald, Nova Rockafeller &amp; Brandon Hart\As Far as the Stars\01 As Far as the Stars.mp3"/>
-            <media src="..\Tom MacDonald, Nova Rockafeller &amp; Brandon Hart\As Far as the Stars\02 All for Nothing.mp3"/>
-            <media src="..\Tom MacDonald, Nova Rockafeller &amp; Brandon Hart\As Far as the Stars\03 Hometown Heroes.mp3"/>
+            <media src="..\Tom MacDonald\Us Against The World\01 Us Against The World.mp3" cid="{766E6E63-4D0A-44BF-ADD4-87187E63AB7C}" tid="{40B7BB7F-0655-441B-BF84-282A04571135}"/>
+            <media src="..\Tom MacDonald\Us Against The World\02 No Lives Matter.mp3" cid="{81296186-0A5E-4A26-B06C-1A7C483B40CC}" tid="{493D4E75-0327-4473-8A61-9163358B40B9}"/>
+            <media src="..\Tom MacDonald\Us Against The World\03 America.mp3" cid="{6E36394F-7A36-41E1-9290-06C971D1F468}" tid="{7A2EDC35-1B52-4653-882D-D137BFC4EEE8}"/>
+            <media src="..\Tom MacDonald\Us Against The World\04 Fake Woke.mp3" cid="{466518A3-A9A1-4E59-BE86-2199156B141A}" tid="{4207AE70-9928-43D5-8527-4D38771F18AE}"/>
+            <media src="..\Tom MacDonald\Us Against The World\05 Hello Hollywood.mp3" cid="{91F11117-6A8F-4D24-9D3C-B56897BCAE04}" tid="{AB6DAB7E-8910-4E0F-A087-C30D36A18F01}"/>
+            <media src="..\Tom MacDonald\Us Against The World\06 Hulk Hogan.mp3" cid="{EBDEBEAA-DDB6-4415-82E2-AFD94D172A01}" tid="{EBB0D274-C828-4ECF-AE46-D5D470705BA4}"/>
+            <media src="..\Tom MacDonald\Us Against The World\07 Beautiful Day.mp3" cid="{26FE36A7-1E67-48F0-BB41-4E534E9BACE1}" tid="{DB0557CE-8131-47C0-B5CE-D070DC0E4612}"/>
+            <media src="..\Tom MacDonald\Us Against The World\08 Balloons.mp3" cid="{326220BF-AA25-479B-B310-E0769AC52C59}" tid="{4DA2CF50-E74D-4798-B1F6-D0D8269FF865}"/>
+            <media src="..\Tom MacDonald\Us Against The World\09 Best Rapper Ever.mp3" cid="{DFB61B66-1013-4F25-AFC7-BAA14A64545B}" tid="{8EE8BDC6-8869-4BCD-8A08-62984791AEB9}"/>
+            <media src="..\Tom MacDonald\Us Against The World\10 Dear Slim.mp3" cid="{88F6210A-A0C5-4A3B-86AD-4BC56D4ABE37}" tid="{85815A33-636C-439B-A777-4A22D86B3F97}"/>
+            <media src="..\Tom MacDonald\Us Against The World\11 Dummies.mp3" cid="{7966BAA5-546A-4D48-A087-81EC3775359C}" tid="{680CC3DF-94EC-49C1-A71F-93E555D5ADCC}"/>
+            <media src="..\Tom MacDonald\Us Against The World\12 Paranoid.mp3" cid="{5C009D7B-C2A2-4198-9C94-9947B7950FDC}" tid="{51B17A45-075A-4C80-B831-B8E7B1225C03}"/>
+            <media src="..\Tom MacDonald\Us Against The World\13 Spilt Milk.mp3" cid="{1F050DD5-066B-4445-8B86-9F2E6A15323B}" tid="{3CABFDAB-D037-4280-87FA-5BF7B1FC68A6}"/>
+            <media src="..\Tom MacDonald\Us Against The World\14 Dear Alcohol.mp3" cid="{B06CDB81-B785-489B-9D33-06BF63D25FA2}" tid="{6E5FD4E4-6374-4955-A4DF-20679B740D56}"/>
+            <media src="..\Tom MacDonald\Us Against The World\15 Stfu.mp3" cid="{7B592287-F372-4A2A-8BF6-4FB2124F8FE5}" tid="{EEE1CF95-D38D-44A7-93EF-FE0DB0D11FC8}"/>
+            <media src="..\Tom MacDonald\Us Against The World\16 Snowflakes.mp3" cid="{B839061C-36B6-415B-983D-32EA36BFACC9}" tid="{B08FE84B-C1DF-4D63-B4E4-15DA490155AE}"/>
+            <media src="..\Tom MacDonald\Us Against The World\17 Hate Mail.mp3" cid="{0E0AA0D8-0318-47CD-BC18-2D33789A1991}" tid="{15907DDD-B2E9-4CDF-A3F2-ED2FB018892B}"/>
+            <media src="..\Tom MacDonald\Us Against The World\18 Just Like Me.mp3" cid="{C29F4CA2-B530-4E5A-AA91-A37E8C610A30}" tid="{85356F8F-6EAD-4A5C-9E83-AEF21C8297E3}"/>
+            <media src="..\Tom MacDonald\Us Against The World\19 Heroes.mp3" cid="{247D97B7-9A3D-4F48-9BD7-85C55078311E}" tid="{68CFC9A5-F708-4720-9292-2A52BFC73831}"/>
+            <media src="..\Tom MacDonald\No Guts No Glory\01 We Want War.mp3" cid="{08AA750E-F4A7-40F4-8068-351B010DC6A9}" tid="{3F041A63-E1B7-467B-A87E-5BD194F1B2AC}"/>
+            <media src="..\Tom MacDonald\No Guts No Glory\02 Don&apos;t Look Down.mp3" cid="{312A526B-DD68-4E60-987F-7B8999179AC6}" tid="{2A16EC40-F136-4294-8BCC-A40BE5A56AB4}"/>
+            <media src="..\Tom MacDonald\No Guts No Glory\03 Every Rapper Ever.mp3" cid="{EC00691E-0B3C-4341-9A70-3D0F935341A4}" tid="{395ED93E-7652-43A6-A1BB-9DC301BFEEB8}"/>
+            <media src="..\Tom MacDonald\No Guts No Glory\04 Hypocrites.mp3" cid="{0AC0DB0F-F631-4EFF-B7EE-2E9C0B86199E}" tid="{8B51BE96-2D74-4EC2-8917-16132626950A}"/>
+            <media src="..\Tom MacDonald\No Guts No Glory\05 Clown World.mp3" cid="{03B1D7DB-3E67-4876-BB18-726EA280A888}" tid="{F469546C-84A5-484A-8F60-4C05A1AFD5FB}"/>
+            <media src="..\Tom MacDonald\No Guts No Glory\06 Cancelled.mp3" cid="{52AF1B18-FAB1-4646-A3C0-69684BB4338A}" tid="{0E3D8705-A8E0-4365-89FA-4CB390F3F8A4}"/>
+            <media src="..\Tom MacDonald\No Guts No Glory\07 Stay Alive.mp3" cid="{9CC9E6C8-EF69-468A-9176-D46C9021D829}" tid="{B51F9B93-BF28-4E71-AA52-8155E1969F32}"/>
+            <media src="..\Tom MacDonald\No Guts No Glory\08 Angels.mp3" cid="{6B9F8AFD-7049-4D8C-ADAD-14887B080A2B}" tid="{5DDC9682-8609-4226-8F27-52D2FD19D02D}"/>
+            <media src="..\Tom MacDonald\No Guts No Glory\09 Brainwashed.mp3" cid="{1A74A3C5-CAA2-4273-8685-F33D8D0E1CCD}" tid="{2AB05D96-1590-4940-A49E-DD24BA1A6FD3}"/>
+            <media src="..\Tom MacDonald\No Guts No Glory\10 Energy.mp3" cid="{CEF54EBF-1DEF-4087-B55C-A58BDB936116}" tid="{B98F7CFA-0050-43BF-9A49-7A597F66DE5B}"/>
+            <media src="..\Tom MacDonald\No Guts No Glory\11 Bite My Tongue.mp3" cid="{155BE09E-AA82-4D02-B6E3-A29E639D6494}" tid="{03AD99A7-3C99-4055-8956-F5C47C0668B7}"/>
+            <media src="..\Tom MacDonald\No Guts No Glory\12 Worthless.mp3" cid="{F71B81F5-CE74-4C3F-BC34-EE0BC00973B5}" tid="{8FF0113F-66BA-445D-BFA9-C33C7C6FDF9C}"/>
+            <media src="..\Tom MacDonald\No Guts No Glory\13 Withdrawals.mp3" cid="{0887EF48-5FD0-4AD4-A15A-E3D2FDA053FF}" tid="{22212EEA-A572-4AE3-9244-174700E34E04}"/>
+            <media src="..\Tom MacDonald\No Guts No Glory\14 Goat.mp3" cid="{F169AABC-E36B-4724-9EF0-07548A993BFA}" tid="{7EC6C994-931D-4C5B-8F9D-D4500E7C1F6D}"/>
+            <media src="..\Tom MacDonald\No Guts No Glory\15 Eminem.mp3" cid="{2C4A9A2B-4E7E-471C-914D-BCE7D55F965C}" tid="{6F426B80-CA75-45CA-892A-F5FF21302459}"/>
+            <media src="..\Tom MacDonald\No Guts No Glory\16 Growth.mp3" cid="{CCFD98F9-0913-4CFD-BBFC-0219F593C0B4}" tid="{91A9A5E6-81C0-4F2E-959B-045597F34619}"/>
+            <media src="..\Tom MacDonald, Nova Rockafeller &amp; Brandon Hart\As Far as the Stars\01 As Far as the Stars.mp3" cid="{F7FC06C4-7352-4115-B37C-EF3490DB6F28}" tid="{F60B2D1C-A77F-486F-83F5-6A5D4DB1B9FB}"/>
+            <media src="..\Tom MacDonald, Nova Rockafeller &amp; Brandon Hart\As Far as the Stars\02 All for Nothing.mp3" cid="{505B14E3-BBCF-4337-ACEA-02D3DD3AFCA0}" tid="{2357CD35-0423-4D30-89FD-D9664F727392}"/>
+            <media src="..\Tom MacDonald, Nova Rockafeller &amp; Brandon Hart\As Far as the Stars\03 Hometown Heroes.mp3" cid="{5BAF1D06-5C5B-43DD-BD05-26FE0240DE0A}" tid="{CDF9F3F6-0976-47D5-A5A9-CC6F31089488}"/>
             <media src="..\Tom MacDonald, Nova Rockafeller &amp; Brandon Hart\As Far as the Stars\04 Best Nights of Our Lives.mp3"/>
             <media src="..\Tom MacDonald, Nova Rockafeller &amp; Brandon Hart\As Far as the Stars\05 No Good Bastards.mp3"/>
             <media src="..\Tom MacDonald, Nova Rockafeller &amp; Brandon Hart\As Far as the Stars\06 Church.mp3"/>

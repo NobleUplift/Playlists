@@ -1,101 +1,106 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.746"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1266"/>
         <meta name="ItemCount" content="18"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>Asian Kung-Fu Generation</title>
     </head>
     <body>
         <seq>
-            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\01 フラッシュバック.mp3" cid="{1EFC237D-B4EE-44DC-8F0A-A2E80AD38894}" tid="{0F3A81FA-382A-4B48-96AA-97CAA76C317F}"/>
-            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\02 未来の破片.mp3" cid="{2B5927BC-D926-43D6-8B47-ED8C41CCA018}" tid="{606C2A32-5B02-4C03-BCE5-414467303335}"/>
-            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\03 電波塔.mp3" cid="{1DB6F407-5A52-45A3-B0A1-92C3F1126D2B}" tid="{E14355A5-E278-4C8E-980D-8584FCD1C3A2}"/>
-            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\04 アンダースタンド.mp3" cid="{372BAD86-E44E-49F4-8CF1-ECE45CCEF95E}" tid="{FDD5CCCC-F4CF-4766-B9CC-F46EF7829D77}"/>
-            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\05 夏の日，残像.mp3" cid="{62161B08-4390-45F9-B833-82CCCD0C3304}" tid="{EBF42FAF-8DB9-426F-9DB9-CDD5CD7000DC}"/>
-            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\06 無限グライダー.mp3" cid="{B0D65906-D871-451C-965C-F895456089FA}" tid="{CF91210B-0A51-4B95-9374-F8CAB8D93115}"/>
-            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\07 その訳を.mp3" cid="{DF0DAA60-E531-48A0-963E-0BA3F4567F57}" tid="{9039AA56-B78A-4B40-A76F-8B894A67CFD8}"/>
-            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\08 Ｎ．Ｇ．Ｓ.mp3" cid="{20040FAC-EA71-4299-863D-B43F584F4749}" tid="{CF765CFB-B39D-47BA-A24F-33A61D5B245A}"/>
-            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\09 自閉探索.mp3" cid="{3F0F7843-6FD8-4B1A-9B5E-6C1E2DA78FB5}" tid="{F9EA4051-5971-48D9-85E9-935B40572C4D}"/>
-            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\10 Ｅ.mp3" cid="{DECC2E7F-DDB5-401A-91F1-FBC4988921B8}" tid="{DA6C049D-AC3E-4910-BF9A-CBA187D3AB2C}"/>
-            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\11 君という花.mp3" cid="{7466D009-D812-4373-AAD7-F2BD2E2D1C24}" tid="{48D5C72A-C3B5-44B5-8DB2-4999D62EBFE1}"/>
-            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\12 ノーネーム.mp3" cid="{96D96508-002B-4545-8E1A-F2C5AD5BF242}" tid="{E8E0D1F1-5FD6-40BA-9672-9BDC991B8D4B}"/>
-            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\13 Track 13.mp3" tid="{357D3891-523D-43C8-B074-91FC51377F46}" cid="{A04C979F-F005-4855-BC6D-3383CBB8D4B1}"/>
-            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\01 振動覚.wma" tid="{933B1CE4-D12A-4E76-A4E1-3535CDB77FBC}" cid="{7646545D-9A03-4A49-84F3-561F1D66C5D3}"/>
-            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\02 リライト.wma" tid="{2E087F83-6D49-4759-BE96-45498360241E}" cid="{A78A9CB2-632A-4698-999E-FDAC9F22A5AE}"/>
-            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\03 君の街まで.wma" tid="{1F793053-E24D-430B-8586-A26A9F4DE2A6}" cid="{77FF8762-DA42-4D46-B8EE-2D10E6B3B25D}"/>
-            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\04 マイワ-ルド.wma" tid="{48D53271-3AFF-476D-B1FD-392C400DAC6B}" cid="{A2862E23-F67A-4E8F-878C-B63D369F5635}"/>
-            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\05 夜の向こう.wma" tid="{2364C93B-69F4-4CC5-A868-468E8B39808F}" cid="{6B937422-A82F-49D9-949B-CDC16C9B4150}"/>
-            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\06 ラストシ-ン.wma" tid="{683C2D26-B152-4EDF-899A-EAF494F8F33F}" cid="{2CDF7270-404C-4B08-AB54-D60182D6104F}"/>
-            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\07 サイレン.wma" tid="{C506A728-3A8B-4FFC-B105-9AB651D8D97C}" cid="{627F4E48-4DCE-40A2-9AAF-428249F01051}"/>
-            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\08 Re-Re-.wma" tid="{6F1595E6-9571-4740-9F2D-064E0BBF2E40}" cid="{E1122876-A552-465B-A472-50CE8355E42D}"/>
-            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\09 24時.wma" tid="{73F9F291-814C-41E9-AC1C-F16BD11F899E}" cid="{0490994A-9882-4F26-9CBC-51646436134F}"/>
-            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\10 真夜中と真昼の夢.wma" tid="{EEA6F0D4-CD7D-4747-B0C8-725E0D4888B5}" cid="{2193B7B1-DC79-40DE-9F46-F9F4970E2696}"/>
-            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\11 海岸通り.wma" tid="{5764FD43-A42D-4E8F-A871-F656A5403151}" cid="{0EF6E700-F419-4BC3-A7EB-E91E957B2B5F}"/>
-            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\12 ル-プ &amp; ル-プ.wma" tid="{C6579D98-ED18-4A48-A212-696C924BCE63}" cid="{A887571F-555B-49C7-8B6E-D47E6D98E925}"/>
-            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\01 暗号のワルツ.mp3" tid="{6EFE5775-137B-4CD2-89AE-5EACC88185E7}" cid="{44628341-BEDF-470F-8A70-D8E35C971E9F}"/>
-            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\02 ワールドアパート.mp3" cid="{5CD73215-67ED-4922-885D-8A3B532C7FAF}" tid="{9461DE54-8772-4249-9AE1-31D1F6010A0B}"/>
-            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\03 ブラックアウト.mp3" cid="{626C7088-6C07-42F9-B663-9325308C7EE7}" tid="{1D8B44B6-B4BF-4CB8-A4A8-FD188F02AF15}"/>
-            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\04 桜草.mp3" cid="{9532F676-1ACB-410C-BBDD-10060245740F}" tid="{C146A7EE-98AF-4554-AC92-93B440BE7C3E}"/>
-            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\05 路地裏のうさぎ.mp3" cid="{CB63A24C-6219-4279-A028-8AB7F7B6C9BD}" tid="{85015D79-F820-4A74-BF55-442E697C896E}"/>
-            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\06 ブルートレイン.mp3" cid="{3E10D83E-98AB-43FF-89F8-7F97AFD8B732}" tid="{36168605-F247-4223-9AF2-93B883DF85A0}"/>
-            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\07 真冬のダンス.mp3" cid="{BAF940BD-3228-4263-ACF9-ED4B43C900FC}" tid="{E860E349-9138-4691-AEC8-EDDFBCF1368B}"/>
-            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\08 バタフライ.mp3" cid="{ED1EB770-C960-4261-B217-38B8DFA7FFE4}" tid="{D0E0070A-17CA-4850-BF05-BC4172671EFF}"/>
-            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\09 センスレス.mp3" cid="{865200C1-B6EC-4B89-9E1A-78D9C7A86A5A}" tid="{2F4F8CAB-1447-4DBC-B2D6-E1D75C6B6633}"/>
-            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\10 月光.mp3" cid="{9B029BA7-8E73-47AE-95F9-10F2FF1079C9}" tid="{59C67C50-AD1A-47DB-9EB6-7F9EA299811C}"/>
-            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\11 タイトロープ.mp3" cid="{0DA03D8A-88DC-4359-BE97-AD02EBD7EC88}" tid="{EF405605-53A7-4FAC-AA2C-4F1B8974296D}"/>
-            <media src="..\Asian Kung-Fu Generation\Hōkai Amplifier (崩壊アンプリファー)\01 遥か彼方（テレビ東京系アニメーション「ＮＡＲＵＴＯ」オープニング・テーマ）.wma" albumTitle="崩壊アンプリファー" albumArtist="Asian Kung-Fu Generation" trackTitle="遥か彼方（テレビ東京系アニメーション「ＮＡＲＵＴＯ」オープニング・テーマ）" trackArtist="Asian Kung-Fu Generation" duration="242694" cid="{4E94640B-2D6B-4248-A39B-E1D7C978C0C9}" tid="{503096E2-848E-4674-8915-8D71B64F2D2D}"/>
-            <media src="..\Asian Kung-Fu Generation\Hōkai Amplifier (崩壊アンプリファー)\02 羅針盤.wma" albumTitle="崩壊アンプリファー" albumArtist="Asian Kung-Fu Generation" trackTitle="羅針盤" trackArtist="Asian Kung-Fu Generation" duration="152926" cid="{A42E7986-F2C7-43C2-B0A7-0B3F54E668F0}" tid="{AADCEBB9-99D6-44C4-BB8A-5CD79E1AB8E4}"/>
-            <media src="..\Asian Kung-Fu Generation\Hōkai Amplifier (崩壊アンプリファー)\03 粉雪.wma" albumTitle="崩壊アンプリファー" albumArtist="Asian Kung-Fu Generation" trackTitle="粉雪" trackArtist="Asian Kung-Fu Generation" duration="226161" cid="{B81F17A8-87F5-463B-AF0D-E03E2E536095}" tid="{DFAF79D6-F621-42A2-BB2E-0ED558B61833}"/>
-            <media src="..\Asian Kung-Fu Generation\Hōkai Amplifier (崩壊アンプリファー)\04 青の歌.wma" albumTitle="崩壊アンプリファー" albumArtist="Asian Kung-Fu Generation" trackTitle="青の歌" trackArtist="Asian Kung-Fu Generation" duration="232431" cid="{5E16C4E9-C959-4B1E-BE06-1DD1DCB2B5D8}" tid="{68A154E2-9EE7-45A2-8789-1AD09D0C0620}"/>
-            <media src="..\Asian Kung-Fu Generation\Hōkai Amplifier (崩壊アンプリファー)\05 サンデイ.wma" albumTitle="崩壊アンプリファー" albumArtist="Asian Kung-Fu Generation" trackTitle="サンデイ" trackArtist="Asian Kung-Fu Generation" duration="243031" cid="{D3CBD212-914B-4BC3-B943-0CC42035C9D2}" tid="{47075C2A-FA85-4EA6-B4EC-E93273D41F9C}"/>
-            <media src="..\Asian Kung-Fu Generation\Hōkai Amplifier (崩壊アンプリファー)\06 １２.wma" albumTitle="崩壊アンプリファー" albumArtist="Asian Kung-Fu Generation" trackTitle="１２" trackArtist="Asian Kung-Fu Generation" duration="276456" cid="{CD1FC64D-23CF-4757-A72E-CF40EAF91640}" tid="{86316FA6-751E-4B2F-BF2D-BAB670E7B4DC}"/>
-            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\01 ワールド ワールド ワールド.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\02 アフターダーク.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\03 旅立つ君へ.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\04 ネオテニー.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\05 トラベログ.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\06 No. 9.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\07 ナイトダイビング.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\08 ライカ.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\09 惑星.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\10 転がる岩、君に朝が降る.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\11 ワールド ワールド.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\12 或る街の群青.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\13 新しい世界.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\01 All right part2.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\02 N2.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\03 1.2.3.4.5.6. Baby.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\04 AとZ.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\05 大洋航路.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\06 バイシクルレース.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\07 それでは、また明日.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\08 1980.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\09 マシンガンと形容詞.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\10 レールロード.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\11 踵で愛を打ち鳴らせ.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\12 アネモネの咲く春に.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Wonder Future\01 Easter.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Wonder Future\02 Little Lennon.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Wonder Future\03 Winner and Loser.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Wonder Future\04 Caterpillar.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Wonder Future\05 Eternal Sunshine.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Wonder Future\06 Planet of the Apes.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Wonder Future\07 Standard.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Wonder Future\08 Wonder Future.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Wonder Future\09 Prisoner in a Frame.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Wonder Future\10 Signal on the Street.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Wonder Future\11 Opera Glasses.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\01 クロックワーク.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\02 ホームタウン.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\03 レインボーフラッグ.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\04 サーカス.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\05 荒野を歩け.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\06 UCLA.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\07 モータープール.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\08 ダンシングガール.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\09 さようならソルジャー.mp3"/>
-            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\10 ボーイズ &amp; ガールズ.mp3"/>
+            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\01 フラッシュバック.mp3" cid="{1EFC237D-B4EE-44DC-8F0A-A2E80AD38894}" tid="{18F9C325-670E-4A97-A401-C80C3ACB5718}"/>
+            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\02 未来の破片.mp3" cid="{2B5927BC-D926-43D6-8B47-ED8C41CCA018}" tid="{D56392B8-F2C3-44A3-9DF7-75DEE2C282AA}"/>
+            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\03 電波塔.mp3" cid="{1DB6F407-5A52-45A3-B0A1-92C3F1126D2B}" tid="{5C09530B-EC57-4680-8359-C2497E5C1695}"/>
+            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\04 アンダースタンド.mp3" cid="{372BAD86-E44E-49F4-8CF1-ECE45CCEF95E}" tid="{9E0D9A03-A154-45F9-9621-EE6674549B03}"/>
+            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\05 夏の日，残像.mp3" cid="{62161B08-4390-45F9-B833-82CCCD0C3304}" tid="{3A08CA6F-0112-42C0-A65F-B40051F691F4}"/>
+            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\06 無限グライダー.mp3" cid="{B0D65906-D871-451C-965C-F895456089FA}" tid="{180C370C-243D-4F1D-9964-854880747666}"/>
+            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\07 その訳を.mp3" cid="{DF0DAA60-E531-48A0-963E-0BA3F4567F57}" tid="{4665EB0C-65FD-4E61-B175-EE1D8F631814}"/>
+            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\08 Ｎ．Ｇ．Ｓ.mp3" cid="{20040FAC-EA71-4299-863D-B43F584F4749}" tid="{F2E8C928-544C-4E19-9515-71664E17E7E3}"/>
+            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\09 自閉探索.mp3" cid="{3F0F7843-6FD8-4B1A-9B5E-6C1E2DA78FB5}" tid="{71C5EA8E-7DD7-4A9F-AD64-881339BFAB44}"/>
+            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\10 Ｅ.mp3" cid="{DECC2E7F-DDB5-401A-91F1-FBC4988921B8}" tid="{85D5D612-C339-4E31-AB86-45B2731886EE}"/>
+            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\11 君という花.mp3" cid="{7466D009-D812-4373-AAD7-F2BD2E2D1C24}" tid="{39F48FD8-D553-4356-90E3-AF0904ACE1F6}"/>
+            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\12 ノーネーム.mp3" cid="{96D96508-002B-4545-8E1A-F2C5AD5BF242}" tid="{C7DC38AE-46BD-42A8-BB09-E41D0EC984A8}"/>
+            <media src="..\Asian Kung-Fu Generation\Kimi Tsunagi Five M (君繋（キミツナギ）ファイブエム)\13 Track 13.mp3" tid="{BE75C523-D95F-47ED-B0FC-A5726833D848}" cid="{EEEAA095-4240-43BD-A2DB-9F9165C3F269}"/>
+            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\01 振動覚.wma" tid="{76C9D902-2370-49DD-A6F7-64AEF21B99CD}" cid="{7646545D-9A03-4A49-84F3-561F1D66C5D3}"/>
+            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\02 リライト.wma" tid="{FAD798D0-AAA3-49F5-897E-D8F0C7C9DD15}" cid="{A78A9CB2-632A-4698-999E-FDAC9F22A5AE}"/>
+            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\03 君の街まで.wma" tid="{3AE01723-9DE5-4D51-9BE5-2AA2C8B8EE0E}" cid="{77FF8762-DA42-4D46-B8EE-2D10E6B3B25D}"/>
+            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\04 マイワ-ルド.wma" tid="{0200BD1E-BDC8-49B3-AC71-1286BF1BDA4D}" cid="{A2862E23-F67A-4E8F-878C-B63D369F5635}"/>
+            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\05 夜の向こう.wma" tid="{FC73A489-4C96-4866-A75C-CF6A4BBA3750}" cid="{6B937422-A82F-49D9-949B-CDC16C9B4150}"/>
+            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\06 ラストシ-ン.wma" tid="{0BEC3047-452A-42F0-B233-5FCFD7C0E3F7}" cid="{2CDF7270-404C-4B08-AB54-D60182D6104F}"/>
+            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\07 サイレン.wma" tid="{8362F28A-7272-41C2-AE84-125CB74B636C}" cid="{627F4E48-4DCE-40A2-9AAF-428249F01051}"/>
+            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\08 Re-Re-.wma" tid="{0AAC7A5D-4AA0-48F2-AEEE-AD0F96B059F4}" cid="{E1122876-A552-465B-A472-50CE8355E42D}"/>
+            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\09 24時.wma" tid="{2E47D03A-F49A-4B7D-8307-DC2F68DDBE37}" cid="{0490994A-9882-4F26-9CBC-51646436134F}"/>
+            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\10 真夜中と真昼の夢.wma" tid="{1AB77722-3472-40F8-9A0E-6888C59F541E}" cid="{2193B7B1-DC79-40DE-9F46-F9F4970E2696}"/>
+            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\11 海岸通り.wma" tid="{48A73421-4BF0-4B69-9107-8D3496F62038}" cid="{0EF6E700-F419-4BC3-A7EB-E91E957B2B5F}"/>
+            <media src="..\Asian Kung-Fu Generation\Sol-fa (ソルファ)\12 ル-プ &amp; ル-プ.wma" tid="{1FF24FCC-BF14-4206-B8AB-2A3798D7CC8B}" cid="{A887571F-555B-49C7-8B6E-D47E6D98E925}"/>
+            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\01 暗号のワルツ.mp3" tid="{D704DB25-536F-40A7-A00E-41E3816BD959}" cid="{44628341-BEDF-470F-8A70-D8E35C971E9F}"/>
+            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\02 ワールドアパート.mp3" cid="{5CD73215-67ED-4922-885D-8A3B532C7FAF}" tid="{1927F3F8-86E2-4836-96BD-AA8734C1E8CD}"/>
+            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\03 ブラックアウト.mp3" cid="{626C7088-6C07-42F9-B663-9325308C7EE7}" tid="{CBE6EBCE-6F8E-4AB1-B299-47ED71646F0D}"/>
+            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\04 桜草.mp3" cid="{9532F676-1ACB-410C-BBDD-10060245740F}" tid="{C729795F-29A4-4791-938B-7253C040BA2F}"/>
+            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\05 路地裏のうさぎ.mp3" cid="{CB63A24C-6219-4279-A028-8AB7F7B6C9BD}" tid="{5BD74576-6241-4EEB-A930-2377E7F04D19}"/>
+            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\06 ブルートレイン.mp3" cid="{3E10D83E-98AB-43FF-89F8-7F97AFD8B732}" tid="{EC802646-3BD2-4D66-A5F4-23097B481E47}"/>
+            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\07 真冬のダンス.mp3" cid="{BAF940BD-3228-4263-ACF9-ED4B43C900FC}" tid="{AF14EE9F-C481-4417-B646-83D0296133E0}"/>
+            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\08 バタフライ.mp3" cid="{ED1EB770-C960-4261-B217-38B8DFA7FFE4}" tid="{99286469-279F-4A04-9FF0-4B18C24B847E}"/>
+            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\09 センスレス.mp3" cid="{865200C1-B6EC-4B89-9E1A-78D9C7A86A5A}" tid="{8D694961-FD1D-4423-BC76-4792AB9391FA}"/>
+            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\10 月光.mp3" cid="{9B029BA7-8E73-47AE-95F9-10F2FF1079C9}" tid="{14C1FF07-61FF-4D1C-B046-B09D50F0196B}"/>
+            <media src="..\Asian Kung-Fu Generation\Fanclub (ファンクラブ)\11 タイトロープ.mp3" cid="{0DA03D8A-88DC-4359-BE97-AD02EBD7EC88}" tid="{B3A5D63C-6885-453C-A76D-A044C2589D84}"/>
+            <media src="..\Asian Kung-Fu Generation\Hōkai Amplifier (崩壊アンプリファー)\01 遥か彼方（テレビ東京系アニメーション「ＮＡＲＵＴＯ」オープニング・テーマ）.wma" albumTitle="崩壊アンプリファー" albumArtist="Asian Kung-Fu Generation" trackTitle="遥か彼方（テレビ東京系アニメーション「ＮＡＲＵＴＯ」オープニング・テーマ）" trackArtist="Asian Kung-Fu Generation" duration="242694" cid="{4E94640B-2D6B-4248-A39B-E1D7C978C0C9}" tid="{5E3C2C4C-69A3-4329-8B7B-433CFEAA6A49}"/>
+            <media src="..\Asian Kung-Fu Generation\Hōkai Amplifier (崩壊アンプリファー)\02 羅針盤.wma" albumTitle="崩壊アンプリファー" albumArtist="Asian Kung-Fu Generation" trackTitle="羅針盤" trackArtist="Asian Kung-Fu Generation" duration="152926" cid="{A42E7986-F2C7-43C2-B0A7-0B3F54E668F0}" tid="{13CDD0B7-A850-458F-801E-1DB0039E89CA}"/>
+            <media src="..\Asian Kung-Fu Generation\Hōkai Amplifier (崩壊アンプリファー)\03 粉雪.wma" albumTitle="崩壊アンプリファー" albumArtist="Asian Kung-Fu Generation" trackTitle="粉雪" trackArtist="Asian Kung-Fu Generation" duration="226161" cid="{B81F17A8-87F5-463B-AF0D-E03E2E536095}" tid="{81A0199A-A108-4C82-A6AE-2045975A7282}"/>
+            <media src="..\Asian Kung-Fu Generation\Hōkai Amplifier (崩壊アンプリファー)\04 青の歌.wma" albumTitle="崩壊アンプリファー" albumArtist="Asian Kung-Fu Generation" trackTitle="青の歌" trackArtist="Asian Kung-Fu Generation" duration="232431" cid="{5E16C4E9-C959-4B1E-BE06-1DD1DCB2B5D8}" tid="{34DF7AAD-E787-4CE7-A05B-3665C7238F07}"/>
+            <media src="..\Asian Kung-Fu Generation\Hōkai Amplifier (崩壊アンプリファー)\05 サンデイ.wma" albumTitle="崩壊アンプリファー" albumArtist="Asian Kung-Fu Generation" trackTitle="サンデイ" trackArtist="Asian Kung-Fu Generation" duration="243031" cid="{D3CBD212-914B-4BC3-B943-0CC42035C9D2}" tid="{C585D6D6-1AC0-4700-AE24-33731EE7D386}"/>
+            <media src="..\Asian Kung-Fu Generation\Hōkai Amplifier (崩壊アンプリファー)\06 １２.wma" albumTitle="崩壊アンプリファー" albumArtist="Asian Kung-Fu Generation" trackTitle="１２" trackArtist="Asian Kung-Fu Generation" duration="276456" cid="{CD1FC64D-23CF-4757-A72E-CF40EAF91640}" tid="{33958A0F-59E5-418D-9882-033450677CEC}"/>
+            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\01 ワールド ワールド ワールド.mp3" cid="{50C8AFA3-CB1D-477F-A795-43697DF4701E}" tid="{F0D57A61-94BC-4248-A918-31D1D560EBDE}"/>
+            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\02 アフターダーク.mp3" cid="{62DADAE0-FA83-4E5F-BA28-98DA853245B6}" tid="{38653F81-E766-4015-8D3D-F79FE6ACD867}"/>
+            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\03 旅立つ君へ.mp3" cid="{3872F875-1FE8-452D-8018-79D9B3730343}" tid="{9413D613-880B-4E95-A4BE-A81AB238A037}"/>
+            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\04 ネオテニー.mp3" cid="{CD4BCD6D-7CE1-42C6-8801-A75AD460BD0E}" tid="{E14891EB-CE50-48B9-9618-CEA92C237578}"/>
+            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\05 トラベログ.mp3" cid="{CD5A870F-01E6-45AF-8A2C-46FA546C0D82}" tid="{4428377B-9109-450E-AA29-905051B89E94}"/>
+            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\06 No. 9.mp3" cid="{37F8A3E4-C40E-4065-A4F9-22E93FB3A72B}" tid="{853AB2BE-7B83-45B7-AD29-259FB86755DA}"/>
+            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\07 ナイトダイビング.mp3" cid="{4105AC37-AEE4-40F6-AE0B-9496F9E0E01C}" tid="{45AA98EF-48A4-4A4C-9A7A-DB90CDFBEA72}"/>
+            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\08 ライカ.mp3" cid="{3F8E4A1A-47FE-49AA-A9BC-6541BA8E99E9}" tid="{CEC18941-0D16-43FB-B113-EEF3C53E8437}"/>
+            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\09 惑星.mp3" cid="{8C24F714-955B-4220-8635-B8F811732A6B}" tid="{7EB7F280-9A10-49AD-83D9-1C3683CE8E1C}"/>
+            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\10 転がる岩、君に朝が降る.mp3" cid="{9A5D01B3-4E6E-4A0F-AE1B-4C624E283906}" tid="{2B4EF307-817C-4575-9DC8-B08143C74D58}"/>
+            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\11 ワールド ワールド.mp3" cid="{76ACE0C7-0A22-457B-BF79-3874235DF015}" tid="{4DC806CE-6B3C-471C-9FD1-E4298F5606B5}"/>
+            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\12 或る街の群青.mp3" cid="{8872102E-F665-4AF7-911D-62BA50EA6130}" tid="{94CA5097-2DF8-49E8-9EB8-8C9E114123EF}"/>
+            <media src="..\Asian Kung-Fu Generation\World World World (ワールド ワールド ワールド)\13 新しい世界.mp3" cid="{D1FC9874-7D5C-458B-B0E9-E039B11DB23B}" tid="{DF8020A0-EF42-4354-9949-1C530A91B49E}"/>
+            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\01 All right part2.mp3" cid="{106FDD48-385E-455E-91DA-39C7A9253DC4}" tid="{BA66B59B-E3B8-4012-89BC-B654B5EB8D01}"/>
+            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\02 N2.mp3" cid="{27120042-8C8A-457F-824D-95AC48F2DB4A}" tid="{5DC5C3E8-4D22-49DC-A032-F67A0DCCB981}"/>
+            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\03 1.2.3.4.5.6. Baby.mp3" cid="{F8F95BC2-162C-454A-A595-B060A49F096B}" tid="{177069CB-3359-46E2-A5B2-6B90CCDC853F}"/>
+            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\04 AとZ.mp3" cid="{3826FC0E-C9AF-4E1B-AA16-386023C40FD5}" tid="{91DF07E3-73F0-4744-9C39-3EAF86B05041}"/>
+            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\05 大洋航路.mp3" cid="{B9C39A9E-31E3-4FE6-9859-139F38E9E484}" tid="{9D5497EC-A228-4C82-8E6B-082EF2B43830}"/>
+            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\06 バイシクルレース.mp3" cid="{E2C2FEBF-F074-4F77-B3BD-F29818604168}" tid="{A8F0EB53-D512-4975-A516-D5D9D884AC5D}"/>
+            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\07 それでは、また明日.mp3" cid="{62A56190-DF6C-418D-B9B5-A02D159B2914}" tid="{1B71EF51-B451-4F88-94FE-B72B6C87B55B}"/>
+            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\08 1980.mp3" cid="{D6C32ADB-1695-4A49-88F6-587BF7EF37B6}" tid="{7FBC8A5A-B865-4362-8578-35A08F0BF028}"/>
+            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\09 マシンガンと形容詞.mp3" cid="{26221AA1-1E15-4AE7-B1D6-E34ADE477E25}" tid="{0E5B0595-4AE4-424D-84A0-8FFF34797F5D}"/>
+            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\10 レールロード.mp3" cid="{0718ADEB-FB57-4F1B-BD00-8698052F6605}" tid="{57E94DDA-9CCD-4EC4-8ED0-FAD5B96C3F34}"/>
+            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\11 踵で愛を打ち鳴らせ.mp3" cid="{2FCB0259-75B6-4F95-8FC3-33185CF0D722}" tid="{F1454315-5576-4513-96DC-A913808D2537}"/>
+            <media src="..\Asian Kung-Fu Generation\Landmark (ランドマーク)\12 アネモネの咲く春に.mp3" cid="{D6180F37-4AC6-4326-89D3-DEBF39761D6B}" tid="{C1A55D86-661D-4C61-A757-881815B7D5F8}"/>
+            <media src="..\Asian Kung-Fu Generation\Wonder Future\01 Easter.mp3" cid="{716141F5-38C2-495E-B33B-A2EAD019705F}" tid="{C5C6876F-616C-4166-B179-29BFB47E9349}"/>
+            <media src="..\Asian Kung-Fu Generation\Wonder Future\02 Little Lennon.mp3" cid="{173F661C-0EDC-4F1B-BA0B-5DAAC55DEC21}" tid="{40B16627-1095-443C-86FD-1BF96C27A78F}"/>
+            <media src="..\Asian Kung-Fu Generation\Wonder Future\03 Winner and Loser.mp3" cid="{2D0D8C01-DD2B-4F27-8B9B-BC36A5ECF719}" tid="{11EC99A8-C502-4B58-A5F1-14006BFF8D91}"/>
+            <media src="..\Asian Kung-Fu Generation\Wonder Future\04 Caterpillar.mp3" cid="{A62FF13D-7138-4300-A10E-1145ACDDDB2E}" tid="{380D45BD-15D9-49B6-B8BE-346274DE78EB}"/>
+            <media src="..\Asian Kung-Fu Generation\Wonder Future\05 Eternal Sunshine.mp3" cid="{A289511C-0671-411D-BCEB-2D263987887D}" tid="{985F5BB8-1D8E-448F-8427-E9F599C2FBA6}"/>
+            <media src="..\Asian Kung-Fu Generation\Wonder Future\06 Planet of the Apes.mp3" cid="{DA7615D0-48CC-4D70-8309-83DF6707B6B7}" tid="{9F5CE05D-FDA3-4F0F-8E73-6AC2F0B8EF6F}"/>
+            <media src="..\Asian Kung-Fu Generation\Wonder Future\07 Standard.mp3" cid="{6D88AD41-CA5E-452B-8DE2-1B735503988A}" tid="{F628FB23-8F0F-403A-A3AD-66BC2EB030EA}"/>
+            <media src="..\Asian Kung-Fu Generation\Wonder Future\08 Wonder Future.mp3" cid="{6FA40CCE-B83E-41EA-9CD5-746E3F0F6D83}" tid="{DCA732C2-4F60-4607-9D71-BBB1D78543D5}"/>
+            <media src="..\Asian Kung-Fu Generation\Wonder Future\09 Prisoner in a Frame.mp3" cid="{6DF41A3B-5B0E-434E-8EAE-80444EAB4B17}" tid="{8BD2E54B-A126-466F-AB01-732118D5D3B3}"/>
+            <media src="..\Asian Kung-Fu Generation\Wonder Future\10 Signal on the Street.mp3" cid="{97F6DD5A-33FC-4159-A1CC-4F82B9ECBDF1}" tid="{86466641-26EE-4F8E-903A-183ADA64F237}"/>
+            <media src="..\Asian Kung-Fu Generation\Wonder Future\11 Opera Glasses.mp3" cid="{9AB03E24-FADB-4CA1-B46A-075B018C1346}" tid="{6FD311F5-84BD-49D9-9D44-01F186178A7E}"/>
+            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\01 クロックワーク.mp3" cid="{C8548393-2BA2-48C5-B259-4E8D875B9B6C}" tid="{0D4B5253-C604-4CDE-BBC4-6BCFF0276B2F}"/>
+            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\02 ホームタウン.mp3" cid="{5165EE43-16FD-4583-9E7D-F9D5E8D9D627}" tid="{6CAB4B30-272E-4E06-8987-93BBC38C2287}"/>
+            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\03 レインボーフラッグ.mp3" cid="{9B57BB1D-6FE1-4DBD-80CA-56EC13F8B440}" tid="{92A3145A-9B4C-4E47-9DAE-B0660B9D48DC}"/>
+            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\04 サーカス.mp3" cid="{C71AD6A5-D439-4FEA-9A8A-E53803BB9A4C}" tid="{31CB8375-73F1-4E4E-9C8B-15642AEAEEE4}"/>
+            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\05 荒野を歩け.mp3" cid="{D61CB586-6C05-4928-93EC-2439D32B52BA}" tid="{BBFCC153-A702-4D46-8331-EFE328CCE2B4}"/>
+            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\06 UCLA.mp3" cid="{33977A2F-15F4-4A32-98F1-B2DC6FC267B4}" tid="{EFCBF746-B943-412C-8400-6232C7EFC5FD}"/>
+            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\07 モータープール.mp3" cid="{93AB6766-AC33-43EB-8ACE-7FD2388E1FAB}" tid="{E3B88532-9359-40F4-80A3-BC4AA8C36F0C}"/>
+            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\08 ダンシングガール.mp3" cid="{DE0BC463-A715-4556-91CF-B5164AF9F45B}" tid="{9AA5ABBD-41A9-4976-8958-50E1B7101304}"/>
+            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\09 さようならソルジャー.mp3" cid="{94E7B8ED-A159-499E-B1F5-29E0E0D9C3E3}" tid="{695B76C4-E48B-4E7F-B0F7-885E7ECE1F50}"/>
+            <media src="..\Asian Kung-Fu Generation\Hometown (ホームタウン)\10 ボーイズ &amp; ガールズ.mp3" cid="{3FD487BC-5DEA-4CDC-A173-0BD433B08912}" tid="{80AE4E54-C8AB-4D01-8A23-87E712478B75}"/>
         </seq>
     </body>
 </smil>

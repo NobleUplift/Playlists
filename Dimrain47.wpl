@@ -2,45 +2,40 @@
 <smil>
     <head>
         <meta name="IsNetworkFeed" content="FALSE"/>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.14393.351"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1266"/>
         <meta name="ItemCount" content="0"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
         <author/>
         <title>Dimrain47</title>
     </head>
     <body>
         <seq>
-            <media src="..\Dimrain47\Dimrain47 #1\01 Midnight Siege.mp3" tid="{CA6C90B8-14DF-4BC4-B119-FE8BCBE08B06}"/>
-            <media src="..\Dimrain47\Dimrain47 #1\02 Twilight Techno.mp3" tid="{D043AB5D-AC17-40F0-B2CA-DA55631B744C}"/>
-            <media src="..\Dimrain47\Dimrain47 #1\03 In Dream.mp3" tid="{10414C16-41C8-4124-AEB2-9986845CD9E8}"/>
-            <media src="..\Dimrain47\Dimrain47 #1\04 Frozen in Black &amp; Silver.mp3" tid="{135CEED9-8F08-4549-AD50-9B6A1DB7355C}"/>
-            <media src="..\Dimrain47\Dimrain47 #1\05 The Final Hour.mp3" tid="{6244CAC9-3CD8-42F6-87B3-0FF6AEDEFC3B}"/>
-            <media src="..\Dimrain47\Dimrain47 #1\06 A Question of Fate....mp3" tid="{9981F97E-8F20-4C41-B3D2-B01CB3FD848E}"/>
-            <media src="..\Dimrain47\Dimrain47 #1\07 Forsaken Neon.mp3" tid="{9425E773-9C73-466E-A244-E34975217471}"/>
-            <media src="..\Dimrain47\Dimrain47 #1\08 The Prototype.mp3" tid="{AC4E332A-1F27-4520-B9C0-E30164E1345C}"/>
-            <media src="..\Dimrain47\Dimrain47 #1\09 Revolutions.mp3" tid="{841F5B9E-954C-46EE-AD80-56F6B0A19352}"/>
-            <media src="..\Dimrain47\Dimrain47 #1\10 Through the Gates.mp3" tid="{F7406058-AFE4-4E60-A624-D9C68F454DA3}"/>
-            <media src="..\Dimrain47\Dimrain47 #2\11 Confines of a Memory.mp3" tid="{0B0A9824-DC8F-4CE9-9C72-C270E02B7FC0}"/>
-            <media src="..\Dimrain47\Dimrain47 #2\12 Unfinished Trance.mp3" tid="{167C1C04-61F2-4CBE-AE1F-EC4DCDB96D0F}"/>
-            <media src="..\Dimrain47\Dimrain47 #2\13 Surface.mp3" tid="{5E81A5B1-0192-4F96-88D1-9F3C25240017}"/>
-            <media src="..\Dimrain47\Dimrain47 #2\14 Infernoplex.mp3" tid="{E56A9976-7ECE-4BF8-86FC-D987C3BF9D2D}"/>
-            <media src="..\Dimrain47\Dimrain47 #2\15 The God of Noise.mp3" tid="{2334782A-D26E-4E91-8AA1-CD6936C17C0D}"/>
-            <media src="..\Dimrain47\Dimrain47 #3\16 Cloud Control.mp3" tid="{216A89CA-D20A-4698-9792-00E1F8A7FD2B}"/>
-            <media src="..\Dimrain47\Dimrain47 #3\17 Jetstream!.mp3" tid="{28D6E6C4-E3D7-4298-BE7D-B88FB4AED37F}"/>
-            <media src="..\Dimrain47\Dimrain47 #3\18 R.E.M. III.mp3" tid="{8890BDC7-4508-4BB8-AC9B-A15F47EFB667}"/>
-            <media src="..\Dimrain47\Dimrain47 #3\19 A Spectrum Wind.mp3" tid="{EBED5759-E76F-4FAD-A30F-6C254C61E496}"/>
-            <media src="..\Dimrain47\Dimrain47 #3\20 Every End....mp3" tid="{7E0352DF-097F-421B-8DBC-3E62D79C5D12}"/>
-            <media src="..\Dimrain47\Dimrain47 #3\21 Cerebral Infection.mp3" tid="{2D3AF241-2964-491E-83A1-D678274B27E9}"/>
-            <media src="..\Dimrain47\Dimrain47 #3\22 Operation Evolution.mp3" tid="{20E4FE8A-D703-4E03-A472-515F20A7AD61}"/>
-            <media src="..\Dimrain47\Dimrain47 #4\23 The Kriotube.mp3" tid="{1F3C6D01-EE1D-44AE-B605-B068EDC1BC8E}"/>
-            <media src="..\Dimrain47\Dimrain47 #4\24 Buzztone Symphony.mp3" tid="{77BD6A8D-5094-4BD9-AA4C-FB9915F25527}"/>
-            <media src="..\Dimrain47\Dimrain47 #5\25 At the Speed of Light.mp3" tid="{8586E7D5-D09A-44A1-B9C8-F22B3206B458}"/>
-            <media src="..\Dimrain47\Dimrain47 #5\26 Duality.mp3" tid="{940D5F04-4500-47E6-9087-029E6FD7A936}"/>
-            <media src="..\Dimrain47\Dimrain47 #5\27 The Falling Mists.mp3" tid="{527182A6-94A6-4751-8F2B-CD0DD134290A}"/>
+            <media src="..\Dimrain47\Dimrain47 #1\01 Midnight Siege.mp3" tid="{30B8381E-4C13-4AB3-8016-BCE9EC90D2BD}"/>
+            <media src="..\Dimrain47\Dimrain47 #1\02 Twilight Techno.mp3" tid="{1D21A20C-B7AE-45F2-AAE3-DDE64FE6160E}"/>
+            <media src="..\Dimrain47\Dimrain47 #1\03 In Dream.mp3" tid="{17DB58D3-75C4-4459-BA80-1BA619460CD0}"/>
+            <media src="..\Dimrain47\Dimrain47 #1\04 Frozen in Black &amp; Silver.mp3" tid="{2A95EC79-423B-4CF4-88A7-17F07B56141F}"/>
+            <media src="..\Dimrain47\Dimrain47 #1\05 The Final Hour.mp3" tid="{226975DC-CB7C-43AB-B0A2-D2221F0EE534}"/>
+            <media src="..\Dimrain47\Dimrain47 #1\06 A Question of Fate....mp3" tid="{39A2DFD9-C8E8-4945-BFEA-6D4C74CE867B}"/>
+            <media src="..\Dimrain47\Dimrain47 #1\07 Forsaken Neon.mp3" tid="{69FBA1BA-CDDB-4AF2-9D2D-5A2D366BB2C5}"/>
+            <media src="..\Dimrain47\Dimrain47 #1\08 The Prototype.mp3" tid="{24B6D44C-210A-42D0-BBD6-30004525ADB7}"/>
+            <media src="..\Dimrain47\Dimrain47 #1\09 Revolutions.mp3" tid="{FA662112-D310-4BB5-928E-1756E0304081}"/>
+            <media src="..\Dimrain47\Dimrain47 #1\10 Through the Gates.mp3" tid="{5C5D5AEC-7ACD-4DC8-9C8F-646F777DA9F6}"/>
+            <media src="..\Dimrain47\Dimrain47 #2\11 Confines of a Memory.mp3" tid="{C4F1FB77-8BDA-4B50-8373-71ED65E22B99}"/>
+            <media src="..\Dimrain47\Dimrain47 #2\12 Unfinished Trance.mp3" tid="{B06D8C50-7209-47B5-9153-FE743E9D466F}"/>
+            <media src="..\Dimrain47\Dimrain47 #2\13 Surface.mp3" tid="{F34658A3-E6BB-46FB-B34C-71AB707C5E6D}"/>
+            <media src="..\Dimrain47\Dimrain47 #2\14 Infernoplex.mp3" tid="{E94996F6-F168-489B-9555-D2A659C18EBC}"/>
+            <media src="..\Dimrain47\Dimrain47 #2\15 The God of Noise.mp3" tid="{DD176CFA-4B2B-4A13-BCF0-D07F22C8064A}"/>
+            <media src="..\Dimrain47\Dimrain47 #3\16 Cloud Control.mp3" tid="{7F3F68FE-0AFA-4C4A-97EC-6DB303D36AFF}"/>
+            <media src="..\Dimrain47\Dimrain47 #3\17 Jetstream!.mp3" tid="{C56A9D28-05D9-4AD9-B5F8-F41E5AD6458D}"/>
+            <media src="..\Dimrain47\Dimrain47 #3\18 R.E.M. III.mp3" tid="{76849577-C618-4FF8-A8AF-C5FAE45129EA}"/>
+            <media src="..\Dimrain47\Dimrain47 #3\19 A Spectrum Wind.mp3" tid="{2FCBD4FC-38C3-4E35-A84B-F5CD71BF6C81}"/>
+            <media src="..\Dimrain47\Dimrain47 #3\20 Every End....mp3" tid="{417FFFEF-DBD5-46B3-B824-02CF43041341}"/>
+            <media src="..\Dimrain47\Dimrain47 #3\21 Cerebral Infection.mp3" tid="{3373CD5B-8E69-48B0-9A71-D42521E65CB4}"/>
+            <media src="..\Dimrain47\Dimrain47 #3\22 Operation Evolution.mp3" tid="{384EB4AF-024A-4B5D-A0CE-AA7C151EB9B4}"/>
+            <media src="..\Dimrain47\Dimrain47 #4\23 The Kriotube.mp3" tid="{075F8559-40D4-4198-8E8C-AB63862D17A9}"/>
+            <media src="..\Dimrain47\Dimrain47 #4\24 Buzztone Symphony.mp3" tid="{E7B27839-C3E2-4148-AAAA-7BA70F8FF41F}"/>
+            <media src="..\Dimrain47\Dimrain47 #5\25 At the Speed of Light.mp3" tid="{B6280E51-0467-4361-BFC3-8B83074F0BEF}"/>
+            <media src="..\Dimrain47\Dimrain47 #5\26 Duality.mp3" tid="{DB53DFF8-4AB4-42D2-BA7B-E0C8A484C36B}"/>
+            <media src="..\Dimrain47\Dimrain47 #5\27 The Falling Mists.mp3" tid="{3813AD61-FDF0-47FD-A209-672135D849BD}"/>
         </seq>
     </body>
 </smil>

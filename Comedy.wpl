@@ -1,29 +1,24 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.17763.194"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1266"/>
         <meta name="ItemCount" content="8"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
         <author/>
         <title>Comedy</title>
     </head>
     <body>
         <seq>
-            <media src="..\Sia\1000 Forms Of Fear\01 Chandelier.mp3" cid="{6FA106B5-32F3-48C0-B25E-5ABB12733DA7}" tid="{3AB466C3-4335-4C34-A055-AFC69B3931A6}"/>
-            <media src="..\Skips Marley\Lions\01 Lions.mp3" cid="{07FE75CD-3568-4AEC-A6D6-78FA1B6C4691}" tid="{E28DF2BE-77D8-4A10-B144-223D07DB5F45}"/>
-            <media src="..\Enya\A Day Without Rain\03 Only Time.mp3" cid="{1BC22494-1BD9-49D9-A764-8672546CF964}" tid="{971E85EF-185E-4352-9DF4-1255B6F1E82D}"/>
-            <media src="..\Irish Rovers\14 Drunken Sailor.mp3" albumTitle="40 Years A-Rovin&apos;" albumArtist="Irish Rovers" trackTitle="Drunken Sailor" trackArtist="Irish Rovers" duration="158000" cid="{4CD931A0-B1A3-4E37-AED4-B81015B7189E}" tid="{C103B653-9602-4D31-8B76-D852DF94092E}"/>
-            <media src="..\The Arrogant Worms\Dirt!\06 Gaelic Song.mp3" serviceId="{3308CB01-0100-11DB-89CA-0019B92A3933}" albumTitle="Dirt!" albumArtist="The Arrogant Worms" trackTitle="Gaelic Song" trackArtist="The Arrogant Worms" duration="176000" cid="{964F525C-5875-4502-A10E-EACF2A11DEB5}" tid="{42A33CFC-3730-4522-937B-D2EC151358C7}"/>
-            <media src="..\Lemon Demon\Ultimate Showdown of Ultimate Destiny\12 The Ultimate Showdown Of Ultimate Destiny.mp3" albumTitle="Lemonic Demonade" albumArtist="Lemon Demon" trackTitle="The Ultimate Showdown Of Ultimate Destiny" trackArtist="Lemon Demon" duration="213138" tid="{8D8CF752-EA67-4F55-A9F2-98BE11608E86}"/>
-            <media src="..\Weird Al Yankovic\Running with Scissors\01 The Saga Begins.mp3" serviceId="{B7E53800-0500-11DB-89CA-0019B92A3933}" albumTitle="Running With Scissors" albumArtist="&quot;Weird Al&quot; Yankovic" trackTitle="The Saga Begins" trackArtist="&quot;Weird Al&quot; Yankovic" duration="328471" cid="{E2DACDCB-FD9B-40A2-9932-B91790489243}" tid="{C54B2EC2-2724-4A34-9E94-D8E710B08C8B}"/>
-            <media src="..\Raffi\Bananaphone\01 Bananaphone.wma" serviceId="{E35AF801-0100-11DB-89CA-0019B92A3933}" albumTitle="Bananaphone" albumArtist="Raffi" trackTitle="Bananaphone" trackArtist="Raffi" duration="198266" cid="{48E05307-C6A2-4B6A-84A3-1CE8A241C8AA}" tid="{9A59B8DB-A576-4637-9257-58FAAE70AFE4}"/>
-            <media src="..\Tay Zonday\Chocolate Rain\04 Chocolate Rain.mp3" albumTitle="Chocolate Rain" albumArtist="Tay Zonday" trackTitle="Chocolate Rain" trackArtist="Tay Zonday" duration="292392" tid="{6EE19A99-FFAA-4660-9AAA-3EB33797EBE8}"/>
-            <media src="..\Parry Gripp\Parry Gripp Mega-Party\Nom Nom Nom Nom Nom Nom Nom.mp3" cid="{BCC888AD-8FF4-4E01-BE90-F82938E20DBA}" tid="{78997916-6EAE-4F6F-A9FF-06BF79390AA8}"/>
-            <media src="..\Weezer\Pork and Beans.mp3" cid="{3C8E667F-A913-4D51-B5C9-BE465DF69E5E}" tid="{C9895737-B2F7-447C-975E-F098E6A54736}"/>
+            <media src="..\Sia\1000 Forms of Fear\01 Chandelier.mp3" cid="{30B4E582-79F1-4127-AF48-F2AD27A62F8A}" tid="{50231208-FC85-4B9D-B6B9-7D18C3064954}"/>
+            <media src="..\Skips Marley\Lions\01 Lions.mp3" cid="{07FE75CD-3568-4AEC-A6D6-78FA1B6C4691}" tid="{BFB123D2-C608-4A57-95F2-2FA6CE72722C}"/>
+            <media src="..\Enya\A Day Without Rain\03 Only Time.mp3" cid="{1BC22494-1BD9-49D9-A764-8672546CF964}" tid="{1A4E8FF0-ED41-4373-8BB0-8AD984B82AD6}"/>
+            <media src="..\Irish Rovers\14 Drunken Sailor.mp3" albumTitle="40 Years A-Rovin&apos;" albumArtist="Irish Rovers" trackTitle="Drunken Sailor" trackArtist="Irish Rovers" duration="158000" cid="{4CD931A0-B1A3-4E37-AED4-B81015B7189E}" tid="{263B566B-8832-4BE4-97EC-620BC9E8967A}"/>
+            <media src="..\The Arrogant Worms\Dirt!\06 Gaelic Song.mp3" serviceId="{3308CB01-0100-11DB-89CA-0019B92A3933}" albumTitle="Dirt!" albumArtist="The Arrogant Worms" trackTitle="Gaelic Song" trackArtist="The Arrogant Worms" duration="176000" cid="{964F525C-5875-4502-A10E-EACF2A11DEB5}" tid="{3AD07B4A-57F4-46EF-8266-76B029FA3FFC}"/>
+            <media src="..\Lemon Demon\Ultimate Showdown of Ultimate Destiny\12 The Ultimate Showdown Of Ultimate Destiny.mp3" albumTitle="Lemonic Demonade" albumArtist="Lemon Demon" trackTitle="The Ultimate Showdown Of Ultimate Destiny" trackArtist="Lemon Demon" duration="213138" tid="{B297F2D0-8A97-44A7-B7D1-D760C95E5E1D}"/>
+            <media src="..\Weird Al Yankovic\Running with Scissors\01 The Saga Begins.mp3" serviceId="{B7E53800-0500-11DB-89CA-0019B92A3933}" albumTitle="Running With Scissors" albumArtist="&quot;Weird Al&quot; Yankovic" trackTitle="The Saga Begins" trackArtist="&quot;Weird Al&quot; Yankovic" duration="328471" cid="{E2DACDCB-FD9B-40A2-9932-B91790489243}" tid="{CBA29CC1-253F-4207-A116-9298D26BDFB9}"/>
+            <media src="..\Raffi\Bananaphone\01 Bananaphone.wma" serviceId="{E35AF801-0100-11DB-89CA-0019B92A3933}" albumTitle="Bananaphone" albumArtist="Raffi" trackTitle="Bananaphone" trackArtist="Raffi" duration="198266" cid="{48E05307-C6A2-4B6A-84A3-1CE8A241C8AA}" tid="{70C7B893-D137-49E6-A8E9-7EB689A7AB4B}"/>
+            <media src="..\Tay Zonday\Chocolate Rain\04 Chocolate Rain.mp3" albumTitle="Chocolate Rain" albumArtist="Tay Zonday" trackTitle="Chocolate Rain" trackArtist="Tay Zonday" duration="292392" tid="{3DA5C907-F6BC-442D-8855-0F39C570F765}"/>
+            <media src="..\Parry Gripp\Parry Gripp Mega-Party\Nom Nom Nom Nom Nom Nom Nom.mp3" cid="{BCC888AD-8FF4-4E01-BE90-F82938E20DBA}" tid="{CA5F0C80-2079-4BAB-8D70-0D9330B0E2A0}"/>
+            <media src="..\Weezer\Pork and Beans.mp3" cid="{3C8E667F-A913-4D51-B5C9-BE465DF69E5E}" tid="{A91B9BD4-F4F6-4372-8661-00DB38EBB892}"/>
         </seq>
     </body>
 </smil>

@@ -1,49 +1,44 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.746"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1266"/>
         <meta name="ItemCount" content="0"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
         <author/>
         <title>Aurora</title>
     </head>
     <body>
         <seq>
-            <media src="..\Aurora\All My Demons Greeting Me as a Friend\01 Runaway.mp3" cid="{567500BD-D544-491F-86B1-022BEF7A5A19}" tid="{26D1E9B4-6700-4683-94F1-A4C9DC6C162D}"/>
-            <media src="..\Aurora\All My Demons Greeting Me as a Friend\02 Conqueror.mp3" cid="{227BE3CC-1511-4AEF-AD8D-18F7DE8AFCA6}" tid="{C8723B16-ECD1-4305-8E2A-D62D5929872F}"/>
-            <media src="..\Aurora\All My Demons Greeting Me as a Friend\03 Running with the Wolves.mp3" cid="{CC60DE29-EE41-4ADD-8560-32BB87AB8ED6}" tid="{4EFA2133-A750-47D5-A500-8A1E33CB65EB}"/>
-            <media src="..\Aurora\All My Demons Greeting Me as a Friend\04 Lucky.mp3" cid="{64E85693-9A68-47C0-AC31-95F0645CF741}" tid="{5F6D6473-7AB9-42C9-B5B5-64C1AB58F4F8}"/>
-            <media src="..\Aurora\All My Demons Greeting Me as a Friend\05 Winter Bird.mp3" cid="{E5A0115F-73CC-4B68-946B-73444BBC16DF}" tid="{F4B98EDA-DE4A-48EB-BDCE-0FC5DDF3B36E}"/>
-            <media src="..\Aurora\All My Demons Greeting Me as a Friend\06 I Went Too Far.mp3" cid="{E7476914-EDB9-4A53-8A06-650C1B384DC2}" tid="{3D1B6C6F-55CB-4DCD-9401-05B2CAC5B608}"/>
-            <media src="..\Aurora\All My Demons Greeting Me as a Friend\07 Through the Eyes of a Child.mp3" cid="{65FCA1B1-FB12-43FE-B0CE-A55D8F1E545E}" tid="{9A49C6EA-C92D-4895-A98C-35F8A0B612AC}"/>
-            <media src="..\Aurora\All My Demons Greeting Me as a Friend\08 Warrior.mp3" cid="{72046350-0BBF-4FE1-B94F-D2604F8C0836}" tid="{853C11A9-3C11-4057-84D8-049F539C460A}"/>
-            <media src="..\Aurora\All My Demons Greeting Me as a Friend\09 Murder Song (5, 4, 3, 2, 1).mp3" cid="{229690DE-F38C-4D66-90B5-9C20173E8231}" tid="{D906EF40-4B47-4A40-A0AE-29A24C814450}"/>
-            <media src="..\Aurora\All My Demons Greeting Me as a Friend\10 Home.mp3" cid="{61BCDC6B-C976-485B-972B-DAE3370DBE4F}" tid="{9477A14D-9023-4BCB-BBAD-7121E8641D33}"/>
-            <media src="..\Aurora\All My Demons Greeting Me as a Friend\11 Under the Water.mp3" cid="{79E8E55E-2BB8-432E-9213-0FA811A88E5C}" tid="{73732D8C-686F-4C61-A23D-A8778EE59F08}"/>
-            <media src="..\Aurora\All My Demons Greeting Me as a Friend\12 Black Water Lilies.mp3" cid="{3E56EFF5-7C85-4854-9FBD-00EC415773B1}" tid="{F7002575-2474-452C-9797-0AC97D8A2606}"/>
-            <media src="..\Aurora\Infections of a Different Kind (Step I)\01 - Queendom_d8fdeac7-a5c0-46cf-bc2b-9f0d603011b9.mp3" cid="{A706564F-B836-462F-89F2-32A781656C9D}" tid="{BDB1A203-271E-4CD2-AC17-6DF4EA9F1BDF}"/>
-            <media src="..\Aurora\Infections of a Different Kind (Step I)\02 - Forgotten Love_a5746c2b-df37-42e6-ab65-8cad56543e26.mp3" cid="{6232F2D0-DAC0-4862-B962-852EE83C68DE}" tid="{275DA48B-B5E5-405D-A6A1-E8FBEC941597}"/>
-            <media src="..\Aurora\Infections of a Different Kind (Step I)\03 - Gentle Earthquakes_f46c80a3-9129-492b-b177-b0a1601a91d2.mp3" cid="{8FE02982-3A6C-4037-837D-CC3677933570}" tid="{47D27F00-3D24-4CBC-9820-7C7B19C28F26}"/>
-            <media src="..\Aurora\Infections of a Different Kind (Step I)\04 - All Is Soft Inside_83430509-fb93-461b-b383-f748ba626308.mp3" cid="{36DF831F-7A53-45E1-9F27-0E95C9A2642F}" tid="{DAB82689-5668-48DF-B449-38BF0AC31643}"/>
-            <media src="..\Aurora\Infections of a Different Kind (Step I)\05 - It Happened Quiet_7cba1b8a-74d7-4966-84bf-b7df71b11bc4.mp3" cid="{F87B37C9-E264-48B9-99E4-36CF953D8056}" tid="{4A492A5B-A7A0-48B8-B4B5-249E6D03B7BD}"/>
-            <media src="..\Aurora\Infections of a Different Kind (Step I)\06 - Churchyard_66407964-0620-49c7-8f9b-9f28740fd2f9.mp3" cid="{E7D3D65B-AAC9-43D7-AAC0-0E58303A98BC}" tid="{A6FE2719-AA8B-4FC8-8F2F-C25879420D68}"/>
-            <media src="..\Aurora\Infections of a Different Kind (Step I)\07 - Soft Universe_459929c2-2add-495c-888a-4fbce0cb945c.mp3" cid="{05FF2146-5756-435A-8E79-E57D59B823E6}" tid="{DDA3AB94-FE86-47AC-B170-398F99BA5CDA}"/>
-            <media src="..\Aurora\Infections of a Different Kind (Step I)\08 - Infections Of A Different Kind_c8ee1f4e-e58d-457f-849e-343898f7ce14.mp3" cid="{B9BB86A4-E1FA-4BFA-A99F-6C130A571477}" tid="{3C9B8698-B7D3-4FA4-A2D3-BF337B57F8B8}"/>
-            <media src="..\Aurora\A Different Kind Of Human (Step II)\01 - The River_203042aa-9917-46fa-a293-196ce66ca892.mp3" cid="{D4F66D75-530C-4ABD-B8A8-A2782EA63FCB}" tid="{15C54CDE-4E9C-46EA-84C9-407E4B9D6C87}"/>
-            <media src="..\Aurora\A Different Kind Of Human (Step II)\02 - Animal_19474d93-9eaa-4b18-83a5-6506155358ea.mp3" cid="{EB26BD1A-9B62-43F9-96DF-ABAB744A6AF0}" tid="{FC02D6EC-175E-49F7-BF92-27731598B245}"/>
-            <media src="..\Aurora\A Different Kind Of Human (Step II)\03 - Dance On The Moon_7f3e8d01-a6ec-4791-acc2-3c5c5551c087.mp3" cid="{24D3EBB4-97D9-49EF-801A-B4CAC79A31EC}" tid="{9D1D7482-0675-4BDF-B62D-B52A9504EFE9}"/>
-            <media src="..\Aurora\A Different Kind Of Human (Step II)\04 - Daydreamer_794b2c13-c848-4c15-9c91-748505586333.mp3" cid="{7A5793F2-109A-400D-B000-D61E7DD76DDF}" tid="{73ED65D9-DAFF-47A2-B4D8-EC95AF4C5467}"/>
-            <media src="..\Aurora\A Different Kind Of Human (Step II)\05 - Hunger_c5892219-f256-442d-9653-cd67014b2d1b.mp3" cid="{DB895B8E-C6D9-4510-9EE8-641B33902D00}" tid="{ADABF9D5-9CD5-45BB-BF06-77F142896A02}"/>
-            <media src="..\Aurora\A Different Kind Of Human (Step II)\06 - Soulless Creatures_2c9a9866-cc8b-4146-8d38-29ea5356c380.mp3" cid="{4048A81D-4115-489A-9F11-3CD16D5A708E}" tid="{29734E49-F5FD-454A-8849-4987EF5CBBED}"/>
-            <media src="..\Aurora\A Different Kind Of Human (Step II)\07 - In Bottles_aacf8afa-25f9-4eea-b2e1-a27a7a2d55bc.mp3" cid="{E516A285-3408-4BE3-AB04-D250DDFB8EF1}" tid="{2F0CE05A-EF1A-465B-A5BC-297932AC49BC}"/>
-            <media src="..\Aurora\A Different Kind Of Human (Step II)\08 - A Different Kind Of Human_1c7c96cf-2fda-4788-a220-dc411df50c89.mp3" cid="{7B2AF2A4-2C87-4A93-81CD-A02F3308B272}" tid="{7CDEF455-9F24-41E6-9CE4-45F976E9686D}"/>
-            <media src="..\Aurora\A Different Kind Of Human (Step II)\09 - Apple Tree_4457e0b4-e051-476c-bae3-eb12c9a426f6.mp3" cid="{25154B9A-0A31-4158-BEEC-F2C783F5D148}" tid="{6D3EE029-10EE-4ED2-AB0B-4E7EE8886832}"/>
-            <media src="..\Aurora\A Different Kind Of Human (Step II)\10 - The Seed_db76774a-1941-4da4-8824-ede03b76ab25.mp3" cid="{5A6EE81D-905C-4808-8AA9-4B1532583F5D}" tid="{F9FBA81B-3BE7-49A6-95DF-59DA6BD78C6E}"/>
-            <media src="..\Aurora\A Different Kind Of Human (Step II)\11 - Mothership_2c78a747-f9fb-4774-bc08-e52fd3778e36.mp3" cid="{770610F9-691C-4794-AF97-935A974F0FDC}" tid="{67EB67D6-FACB-45B1-9B52-E883D3AB058A}"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\01 Runaway.mp3" cid="{567500BD-D544-491F-86B1-022BEF7A5A19}" tid="{1D5166CB-548E-409A-8F73-7983C658809B}"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\02 Conqueror.mp3" cid="{227BE3CC-1511-4AEF-AD8D-18F7DE8AFCA6}" tid="{AE90412C-1894-4A0C-8CFA-8D21E31A9D54}"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\03 Running with the Wolves.mp3" cid="{CC60DE29-EE41-4ADD-8560-32BB87AB8ED6}" tid="{79D5896A-003C-43CD-9297-E5B704550609}"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\04 Lucky.mp3" cid="{64E85693-9A68-47C0-AC31-95F0645CF741}" tid="{B34B9A17-C8FA-4B6D-94B9-15B899E10777}"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\05 Winter Bird.mp3" cid="{E5A0115F-73CC-4B68-946B-73444BBC16DF}" tid="{84B640E8-715F-4B02-A575-FCFCBCB7A372}"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\06 I Went Too Far.mp3" cid="{E7476914-EDB9-4A53-8A06-650C1B384DC2}" tid="{E277040B-7EDF-4FBF-B92C-001CFFA25E35}"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\07 Through the Eyes of a Child.mp3" cid="{65FCA1B1-FB12-43FE-B0CE-A55D8F1E545E}" tid="{C79E1BAD-D347-46F9-B6EF-735ABEF9244E}"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\08 Warrior.mp3" cid="{72046350-0BBF-4FE1-B94F-D2604F8C0836}" tid="{1792580E-393D-4BF0-847D-2480C26CF11D}"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\09 Murder Song (5, 4, 3, 2, 1).mp3" cid="{229690DE-F38C-4D66-90B5-9C20173E8231}" tid="{FD13852B-04EE-4162-9538-59B227EA4381}"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\10 Home.mp3" cid="{61BCDC6B-C976-485B-972B-DAE3370DBE4F}" tid="{6A83F75A-D1F9-4450-8630-E63930F333D3}"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\11 Under the Water.mp3" cid="{79E8E55E-2BB8-432E-9213-0FA811A88E5C}" tid="{6B3A95DC-27EA-4D73-9171-2EF85EF5D64C}"/>
+            <media src="..\Aurora\All My Demons Greeting Me as a Friend\12 Black Water Lilies.mp3" cid="{3E56EFF5-7C85-4854-9FBD-00EC415773B1}" tid="{DC0A4E43-8417-4ACB-A378-5A6F30CEEED4}"/>
+            <media src="..\Aurora\Infections of a Different Kind (Step I)\01 - Queendom_d8fdeac7-a5c0-46cf-bc2b-9f0d603011b9.mp3" cid="{A706564F-B836-462F-89F2-32A781656C9D}" tid="{37446213-C6C8-44FC-8446-C692B51FFA2E}"/>
+            <media src="..\Aurora\Infections of a Different Kind (Step I)\02 - Forgotten Love_a5746c2b-df37-42e6-ab65-8cad56543e26.mp3" cid="{6232F2D0-DAC0-4862-B962-852EE83C68DE}" tid="{863439C4-4B83-4B3A-9761-330CF0A66187}"/>
+            <media src="..\Aurora\Infections of a Different Kind (Step I)\03 - Gentle Earthquakes_f46c80a3-9129-492b-b177-b0a1601a91d2.mp3" cid="{8FE02982-3A6C-4037-837D-CC3677933570}" tid="{339F4D87-1B21-421E-BBEF-226712503AAD}"/>
+            <media src="..\Aurora\Infections of a Different Kind (Step I)\04 - All Is Soft Inside_83430509-fb93-461b-b383-f748ba626308.mp3" cid="{36DF831F-7A53-45E1-9F27-0E95C9A2642F}" tid="{E798CECB-745B-4078-A945-D6D3591CDF44}"/>
+            <media src="..\Aurora\Infections of a Different Kind (Step I)\05 - It Happened Quiet_7cba1b8a-74d7-4966-84bf-b7df71b11bc4.mp3" cid="{F87B37C9-E264-48B9-99E4-36CF953D8056}" tid="{F524B643-DF24-44ED-9FE4-0E709D772A94}"/>
+            <media src="..\Aurora\Infections of a Different Kind (Step I)\06 - Churchyard_66407964-0620-49c7-8f9b-9f28740fd2f9.mp3" cid="{E7D3D65B-AAC9-43D7-AAC0-0E58303A98BC}" tid="{A007E2F3-005F-4176-B1EB-A2399059BBE0}"/>
+            <media src="..\Aurora\Infections of a Different Kind (Step I)\07 - Soft Universe_459929c2-2add-495c-888a-4fbce0cb945c.mp3" cid="{05FF2146-5756-435A-8E79-E57D59B823E6}" tid="{BE4635AB-0242-44FF-9E56-BD3FCD5AC664}"/>
+            <media src="..\Aurora\Infections of a Different Kind (Step I)\08 - Infections Of A Different Kind_c8ee1f4e-e58d-457f-849e-343898f7ce14.mp3" cid="{B9BB86A4-E1FA-4BFA-A99F-6C130A571477}" tid="{C3765F66-65D4-4E9D-9821-DFC7F7E090E1}"/>
+            <media src="..\Aurora\A Different Kind Of Human (Step II)\01 - The River_203042aa-9917-46fa-a293-196ce66ca892.mp3" cid="{D4F66D75-530C-4ABD-B8A8-A2782EA63FCB}" tid="{3E8F09BE-1FA5-4477-9F4A-27E342900560}"/>
+            <media src="..\Aurora\A Different Kind Of Human (Step II)\02 - Animal_19474d93-9eaa-4b18-83a5-6506155358ea.mp3" cid="{EB26BD1A-9B62-43F9-96DF-ABAB744A6AF0}" tid="{A2A82904-C03E-431B-9B02-5BE398BB679E}"/>
+            <media src="..\Aurora\A Different Kind Of Human (Step II)\03 - Dance On The Moon_7f3e8d01-a6ec-4791-acc2-3c5c5551c087.mp3" cid="{24D3EBB4-97D9-49EF-801A-B4CAC79A31EC}" tid="{FFDD934B-D41B-473B-91F5-BCD1DC6635A7}"/>
+            <media src="..\Aurora\A Different Kind Of Human (Step II)\04 - Daydreamer_794b2c13-c848-4c15-9c91-748505586333.mp3" cid="{7A5793F2-109A-400D-B000-D61E7DD76DDF}" tid="{891720BF-1803-4B43-BAD9-C2692D1E2037}"/>
+            <media src="..\Aurora\A Different Kind Of Human (Step II)\05 - Hunger_c5892219-f256-442d-9653-cd67014b2d1b.mp3" cid="{DB895B8E-C6D9-4510-9EE8-641B33902D00}" tid="{015DA51F-F329-47E1-83E0-7AD32E95328A}"/>
+            <media src="..\Aurora\A Different Kind Of Human (Step II)\06 - Soulless Creatures_2c9a9866-cc8b-4146-8d38-29ea5356c380.mp3" cid="{4048A81D-4115-489A-9F11-3CD16D5A708E}" tid="{525A1F09-0F41-413C-8114-41DE1582A545}"/>
+            <media src="..\Aurora\A Different Kind Of Human (Step II)\07 - In Bottles_aacf8afa-25f9-4eea-b2e1-a27a7a2d55bc.mp3" cid="{E516A285-3408-4BE3-AB04-D250DDFB8EF1}" tid="{F73B2C3E-F2BD-45D3-B169-B25A844A1283}"/>
+            <media src="..\Aurora\A Different Kind Of Human (Step II)\08 - A Different Kind Of Human_1c7c96cf-2fda-4788-a220-dc411df50c89.mp3" cid="{7B2AF2A4-2C87-4A93-81CD-A02F3308B272}" tid="{AC5725C0-06FF-41A1-A80F-7B1B6D02982F}"/>
+            <media src="..\Aurora\A Different Kind Of Human (Step II)\09 - Apple Tree_4457e0b4-e051-476c-bae3-eb12c9a426f6.mp3" cid="{25154B9A-0A31-4158-BEEC-F2C783F5D148}" tid="{DFC18710-E48C-486B-B8A7-0E20E12561BB}"/>
+            <media src="..\Aurora\A Different Kind Of Human (Step II)\10 - The Seed_db76774a-1941-4da4-8824-ede03b76ab25.mp3" cid="{5A6EE81D-905C-4808-8AA9-4B1532583F5D}" tid="{2BD88974-E0E5-4DD1-8213-6B6015D4B344}"/>
+            <media src="..\Aurora\A Different Kind Of Human (Step II)\11 - Mothership_2c78a747-f9fb-4774-bc08-e52fd3778e36.mp3" cid="{770610F9-691C-4794-AF97-935A974F0FDC}" tid="{5DB7AF18-7A05-43B5-97C0-7992605FAE52}"/>
         </seq>
     </body>
 </smil>
