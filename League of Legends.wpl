@@ -1,0 +1,27 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1266"/>
+        <meta name="ItemCount" content="0"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
+        <title>League of Legends</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\League of Legends\The Music of League of Legends Vol. 1\13 - Get Jinxed.mp3"/>
+            <media src="..\Arcane &amp; League of Legends\Arcane League of Legends (Soundtrack from the Anim\08 - Dynasties and Dystopia (from the series Arcane League of Legends).mp3"/>
+            <media src="..\Arcane &amp; League of Legends\Arcane League of Legends (Soundtrack from the Anim\11 - What Could Have Been feat. Ray Chen (from the series Arcane League.mp3"/>
+            <media src="..\K-DA, Madison Beer &amp; (G)I-DLE [feat. Jaira Burns &amp;\POP-STARS\01 - POP_STARS.mp3"/>
+            <media src="..\K DA\ALL OUT\01 - THE BADDEST_7f862557-4e47-41ce-8ef2-0697b3584cfe.mp3"/>
+            <media src="..\K DA\ALL OUT\02 - MORE_73dd0db3-3aff-4dcb-9d9d-687edd1eb112.mp3"/>
+            <media src="..\K DA\ALL OUT\03 - VILLAIN_2c5079fd-7991-41d6-973c-6ca7888efab0.mp3"/>
+            <media src="..\K DA\ALL OUT\04 - DRUM GO DUM_8b154c20-7cf3-4858-b6d1-4c1503164b53.mp3"/>
+            <media src="..\K DA\ALL OUT\05 - I&apos;LL SHOW YOU_147f0f70-fdfe-4348-b085-e40a7a0342c5.mp3"/>
+        </seq>
+    </body>
+</smil>

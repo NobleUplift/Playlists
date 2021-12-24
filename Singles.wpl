@@ -2,12 +2,26 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1266"/>
-        <meta name="ItemCount" content="186"/>
+        <meta name="ItemCount" content="232"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>Singles</title>
     </head>
     <body>
         <seq>
+            <media src="..\League of Legends\The Music of League of Legends Vol. 1\13 - Get Jinxed.mp3"/>
+            <media src="..\Arcane &amp; League of Legends\Arcane League of Legends (Soundtrack from the Anim\08 - Dynasties and Dystopia (from the series Arcane League of Legends).mp3"/>
+            <media src="..\Arcane &amp; League of Legends\Arcane League of Legends (Soundtrack from the Anim\11 - What Could Have Been feat. Ray Chen (from the series Arcane League.mp3"/>
+            <media src="..\K-DA, Madison Beer &amp; (G)I-DLE [feat. Jaira Burns &amp;\POP-STARS\01 - POP_STARS.mp3"/>
+            <media src="..\K DA\ALL OUT\01 - THE BADDEST_7f862557-4e47-41ce-8ef2-0697b3584cfe.mp3"/>
+            <media src="..\K DA\ALL OUT\02 - MORE_73dd0db3-3aff-4dcb-9d9d-687edd1eb112.mp3"/>
+            <media src="..\K DA\ALL OUT\03 - VILLAIN_2c5079fd-7991-41d6-973c-6ca7888efab0.mp3"/>
+            <media src="..\K DA\ALL OUT\04 - DRUM GO DUM_8b154c20-7cf3-4858-b6d1-4c1503164b53.mp3"/>
+            <media src="..\K DA\ALL OUT\05 - I&apos;LL SHOW YOU_147f0f70-fdfe-4348-b085-e40a7a0342c5.mp3"/>
             <media src="..\Tom MacDonald\I Hate Hip-Hop [Explicit]\01 - I Hate Hip-Hop [Explicit]_472bb086-0c2e-453a-8092-16dbf060065f.mp3" cid="{AF08D284-C599-4C81-8710-FC6C97F1088F}" tid="{3A82ACAC-E0D0-4E1C-8C09-5652CEB004FA}"/>
             <media src="..\Tom MacDonald\Best Rapper Ever\01 - Best Rapper Ever_c89e1c0e-7a7b-4517-a809-e803f700eefd.mp3" cid="{FF9A0E5F-8E90-4EB9-9D4B-DB67065E6FBE}" tid="{B78A6CA1-0800-4D5D-8E3F-E20F0830D470}"/>
             <media src="..\Tom MacDonald\No Lives Matter\01 - No Lives Matter_67d8c211-45f8-49b7-b9cc-9c60a34166ac.mp3" cid="{6CF51369-13B3-4703-8F70-85C992313D98}" tid="{AFC2729A-F7A6-4161-8237-AFB03CAF6DCC}"/>
@@ -62,7 +76,7 @@
             <media src="..\M83\Hurry Up, We&apos;re Dreaming Disc 1\02 Midnight City.mp3" cid="{0CB45971-583C-442A-B0FF-AB51DB459676}" tid="{6A0EF296-902A-4EBB-BDF4-534914009B12}"/>
             <media src="..\M83\Hurry Up, We&apos;re Dreaming Disc 1\03 Reunion.mp3" cid="{FC25A7B2-8931-49B8-97C4-B7C9106487DC}" tid="{EE377357-9122-4851-9415-EF8A98DECD87}"/>
             <media src="..\Kana Hanazawa\Renai Circulation\01 Renai Circulation.mp3" tid="{F4F918B9-47D0-46F6-BE0C-E288FE394A36}" cid="{F345BF94-343B-472C-9B98-39C6FB5A13B9}"/>
-            <media src="..\Alan Walker\NoCopyrightSounds\Alan Walker - Spectre.mp3" tid="{01457FF6-734B-4F30-9838-BEFD3525A499}" cid="{E37D053E-B6A7-4804-A052-9DDD70B27A09}"/>
+            <media src="..\Alan Walker\NoCopyrightSounds\Alan Walker - Spectre.mp3" tid="{01457FF6-734B-4F30-9838-BEFD3525A499}" cid="{43F5B5CC-7BC2-443B-9804-6025D6BE78C0}"/>
             <media src="..\Jai Wolf\Indian Summer - Single\Jai Wolf - Indian Summer.mp3" cid="{1F0BB9EF-37A2-48E0-9219-9C9A33301CC3}" tid="{F0332942-3724-43DF-80E1-2360AA628746}"/>
             <media src="..\Disturbed\Immortalized [Deluxe Edition]\11 The Sound Of Silence.mp3" cid="{92BA1F98-C2B9-4A77-AC51-8062E9FC387F}" tid="{0D2CBDEA-3672-44C3-8175-0E5E4099CDB2}"/>
             <media src="..\Limp Bizkit\Results May Vary\11 Behind Blue Eyes.mp3" cid="{099CF003-724D-4856-90FB-A157163AE1A7}" tid="{0DFCF53A-168A-426C-B9FC-3D73860148C3}"/>
