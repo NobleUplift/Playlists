@@ -3,11 +3,6 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1151"/>
         <meta name="ItemCount" content="186"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
         <author/>
         <title>Singles</title>
     </head>
@@ -151,6 +146,10 @@
             <media src="..\Robyn\Body Talk\02 Fembot.mp3" cid="{FD783F89-41F4-47C4-B8CF-5D1557010EA6}" tid="{B2A16A05-BDDA-48B2-9094-230AF3868CED}"/>
             <media src="..\Robyn\Body Talk\08 Call Your Girlfriend.mp3" albumTitle="Body Talk" albumArtist="Robyn" trackTitle="Call Your Girlfriend" trackArtist="Robyn" duration="210050" tid="{C6023C15-78DE-4D39-B3AE-9B5337ACC795}" cid="{523C684C-DC18-4E74-A621-A4C561B5EBDB}"/>
             <media src="..\Green Day\American Idiot\03 Holiday.mp3" tid="{BAF9EBBD-BD00-48B6-BFD3-8E017EC816B2}" cid="{4E84969A-054E-4068-8A25-863636D8EB27}"/>
+            <media src="..\Oasis\(What&apos;s The Story) Morning Glory-\03 Wonderwall.wma" tid="{61305C9E-9773-497F-A4B6-C931DF17CF73}" cid="{9F669BFE-529C-45BD-AE4E-69221B35874C}"/>
+            <media src="..\Seether\Karma and Effect\02 Remedy.wma" cid="{222614CB-D708-4EE1-8A29-D5072F5EC561}" tid="{FBB1E0E5-4055-46FC-A4E9-6018EBE0AC40}"/>
+            <media src="..\Godsmack\The Other Side\01 Running Blind.wma" cid="{87D1133E-0A3D-4AE0-AD89-53B7E8A6D80A}" tid="{21432F25-7C3A-4F1A-B1C0-E4C7BBBF9F14}"/>
+            <media src="..\The White Stripes\Seven Nation Army\01 Seven Nation Army.mp3" cid="{42A920B0-C8AA-41B4-AF0F-5E91C971B236}" tid="{E493F2B6-CE11-45FB-BEB1-B13532F9E058}"/>
             <media src="..\Various Artists\FCSG01 - Girl Pop\03 Again and Again.mp3" tid="{D609612C-7B57-47E2-B17A-748AF9C6E016}" cid="{F78F731A-FD8D-4DB4-B194-4426CB288471}"/>
             <media src="..\DOLL$BOXX\ＤＯＬＬＳ　ＡＰＡＲＴＭＥＮＴ\03 Ｔａｋｅ　Ｍｙ　Ｃｈａｎｃｅ.mp3" cid="{23E31FB5-7063-4712-85FE-6EA68A2D29EA}" tid="{5C87AA87-429D-4529-A343-BC79336A9BAA}"/>
             <media src="..\World Order\World Order\01 World Order.mp3" tid="{FDB2C30D-A36A-460B-97D8-2F0D679CB863}" cid="{8501A724-1E95-4018-8A4E-B7F7F6B66EC9}"/>
@@ -232,10 +231,6 @@
             <media src="..\Gary Jules\ZEI\01 Mad World.mp3" serviceId="{D9270E02-0100-11DB-89CA-0019B92A3933}" albumTitle="ZEI" albumArtist="Gary Jules" trackTitle="Mad World" trackArtist="Gary Jules" duration="187645" cid="{F63DF3D0-90A9-4B77-BFA9-8DA7F1785316}" tid="{2619BF93-D4FD-485A-9677-24231074A37E}"/>
             <media src="..\The O Zone\Discozone [Bonus Track]\03 Dragostea Din Tei.wma" tid="{09996C8D-8DC4-43C2-A479-D63D81097CBD}" cid="{03902D4B-9F40-4A38-8B86-94EA1A4B2A22}"/>
             <media src="..\Haiducii\Dragostea Din Tei\01 Dragostea Din Tei.wma" tid="{7FB8D3F0-40AD-4773-9508-333D07A49E55}" cid="{30FEBC92-EF36-4661-867F-820706547107}"/>
-            <media src="..\Oasis\(What&apos;s The Story) Morning Glory-\03 Wonderwall.wma" tid="{61305C9E-9773-497F-A4B6-C931DF17CF73}" cid="{9F669BFE-529C-45BD-AE4E-69221B35874C}"/>
-            <media src="..\Seether\Karma and Effect\02 Remedy.wma" cid="{222614CB-D708-4EE1-8A29-D5072F5EC561}" tid="{FBB1E0E5-4055-46FC-A4E9-6018EBE0AC40}"/>
-            <media src="..\Godsmack\The Other Side\01 Running Blind.wma" cid="{87D1133E-0A3D-4AE0-AD89-53B7E8A6D80A}" tid="{21432F25-7C3A-4F1A-B1C0-E4C7BBBF9F14}"/>
-            <media src="..\The White Stripes\Seven Nation Army\01 Seven Nation Army.mp3" cid="{42A920B0-C8AA-41B4-AF0F-5E91C971B236}" tid="{E493F2B6-CE11-45FB-BEB1-B13532F9E058}"/>
         </seq>
     </body>
 </smil>
