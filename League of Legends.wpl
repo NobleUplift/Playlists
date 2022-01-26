@@ -2,26 +2,44 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1266"/>
-        <meta name="ItemCount" content="0"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
+        <meta name="ItemCount" content="32"/>
         <author/>
         <title>League of Legends</title>
     </head>
     <body>
         <seq>
-            <media src="..\League of Legends\The Music of League of Legends Vol. 1\13 - Get Jinxed.mp3"/>
+            <media src="..\League of Legends\The Music of League of Legends Vol. 1\01 - Demacia Rising.mp3" cid="{F4A4F92B-7755-4B9B-B9A4-35B256EDF735}" tid="{06BA85DC-9360-49AD-8E86-22AC43A75E32}"/>
+            <media src="..\League of Legends\The Music of League of Legends Vol. 1\02 - Tidecaller.mp3"/>
+            <media src="..\League of Legends\The Music of League of Legends Vol. 1\03 - Tiny Masterpiece of Evil.mp3"/>
+            <media src="..\League of Legends\The Music of League of Legends Vol. 1\04 - The Curse of the Sad Mummy.mp3"/>
+            <media src="..\League of Legends\The Music of League of Legends Vol. 1\05 - Quinn and Valor.mp3"/>
+            <media src="..\League of Legends\The Music of League of Legends Vol. 1\06 - Braum.mp3"/>
+            <media src="..\League of Legends\The Music of League of Legends Vol. 1\07 - Tales of the Rift.mp3"/>
+            <media src="..\League of Legends\The Music of League of Legends Vol. 1\08 - Lulu and Shaco&apos;s Quirky Encounter.mp3"/>
+            <media src="..\League of Legends\The Music of League of Legends Vol. 1\09 - Freljord.mp3"/>
+            <media src="..\League of Legends\The Music of League of Legends Vol. 1\10 - Rise of the Ascended.mp3"/>
+            <media src="..\League of Legends\The Music of League of Legends Vol. 1\11 - Daylight&apos;s End.mp3"/>
+            <media src="..\League of Legends\The Music of League of Legends Vol. 1\12 - Challengers.mp3"/>
+            <media src="..\League of Legends\The Music of League of Legends Vol. 1\13 - Get Jinxed.mp3" cid="{D79CBA65-284F-4759-BFBB-7282C3282182}" tid="{84E62372-D2A9-41E6-A533-DA82D68B026F}"/>
+            <media src="..\League of Legends\The Music of League of Legends Vol. 1\14 - Super Galaxy Rumble.mp3" cid="{956F4B14-E541-4B5D-90F1-E689A2E28756}" tid="{4BC734A8-8FB4-4B6C-968B-69A4A63CDC9A}"/>
+            <media src="..\League of Legends\The Music of League of Legends Vol. 1\15 - Reborn.mp3" cid="{C2A73918-BBF0-42D3-8E6B-AD10586F16B2}" tid="{0ADF2DC4-9698-4762-8AA6-E83B24E8DD0C}"/>
+            <media src="..\Arcane &amp; League of Legends\Arcane League of Legends (Soundtrack from the Anim\01 - Playground (from the series Arcane League of Legends).mp3" cid="{309C0679-49C0-4294-ACFE-95EE9598302F}" tid="{6AD45E15-29D1-457E-8578-95E10CF867E4}"/>
+            <media src="..\Arcane &amp; League of Legends\Arcane League of Legends (Soundtrack from the Anim\02 - Our Love (from the series Arcane League of Legends).mp3"/>
+            <media src="..\Arcane &amp; League of Legends\Arcane League of Legends (Soundtrack from the Anim\03 - Goodbye (from the series Arcane League of Legends).mp3"/>
+            <media src="..\Arcane &amp; League of Legends\Arcane League of Legends (Soundtrack from the Anim\04 - Dirty Little Animals (from the series Arcane League of Legends).mp3"/>
+            <media src="..\Arcane &amp; League of Legends\Arcane League of Legends (Soundtrack from the Anim\05 - Enemy feat. J.I.D. (from the series Arcane League of Legends).mp3"/>
+            <media src="..\Arcane &amp; League of Legends\Arcane League of Legends (Soundtrack from the Anim\06 - Guns for Hire (from the series Arcane League of Legends).mp3"/>
+            <media src="..\Arcane &amp; League of Legends\Arcane League of Legends (Soundtrack from the Anim\07 - Misfit Toys (from the series Arcane League of Legends).mp3"/>
             <media src="..\Arcane &amp; League of Legends\Arcane League of Legends (Soundtrack from the Anim\08 - Dynasties and Dystopia (from the series Arcane League of Legends).mp3"/>
+            <media src="..\Arcane &amp; League of Legends\Arcane League of Legends (Soundtrack from the Anim\09 - Snakes (from the series Arcane League of Legends) [Explicit].mp3"/>
+            <media src="..\Arcane &amp; League of Legends\Arcane League of Legends (Soundtrack from the Anim\10 - When Everything Went Wrong (from the series Arcane League of Legend.mp3"/>
             <media src="..\Arcane &amp; League of Legends\Arcane League of Legends (Soundtrack from the Anim\11 - What Could Have Been feat. Ray Chen (from the series Arcane League.mp3"/>
-            <media src="..\K-DA, Madison Beer &amp; (G)I-DLE [feat. Jaira Burns &amp;\POP-STARS\01 - POP_STARS.mp3"/>
-            <media src="..\K DA\ALL OUT\01 - THE BADDEST_7f862557-4e47-41ce-8ef2-0697b3584cfe.mp3"/>
-            <media src="..\K DA\ALL OUT\02 - MORE_73dd0db3-3aff-4dcb-9d9d-687edd1eb112.mp3"/>
-            <media src="..\K DA\ALL OUT\03 - VILLAIN_2c5079fd-7991-41d6-973c-6ca7888efab0.mp3"/>
-            <media src="..\K DA\ALL OUT\04 - DRUM GO DUM_8b154c20-7cf3-4858-b6d1-4c1503164b53.mp3"/>
-            <media src="..\K DA\ALL OUT\05 - I&apos;LL SHOW YOU_147f0f70-fdfe-4348-b085-e40a7a0342c5.mp3"/>
+            <media src="..\K-DA, Madison Beer &amp; (G)I-DLE [feat. Jaira Burns &amp;\POP-STARS\01 - POP_STARS.mp3" cid="{E0FC1103-5BE3-4780-9085-72881EAF6FDC}" tid="{EC8B3B62-6A17-401F-A0F9-A68741C0003D}"/>
+            <media src="..\K DA\ALL OUT\01 - THE BADDEST_7f862557-4e47-41ce-8ef2-0697b3584cfe.mp3" cid="{3D4AD6FF-7FF5-4BFB-9684-C6F1F82D92C6}" tid="{933BC7DF-895E-4932-9820-5A9610156930}"/>
+            <media src="..\K DA\ALL OUT\02 - MORE_73dd0db3-3aff-4dcb-9d9d-687edd1eb112.mp3" cid="{647E956F-6E86-46FA-AB64-21D21C2287C7}" tid="{D5957B49-B06B-41CD-88DB-DFD817CFA5C0}"/>
+            <media src="..\K DA\ALL OUT\03 - VILLAIN_2c5079fd-7991-41d6-973c-6ca7888efab0.mp3" cid="{B4889F8C-33EF-4F78-997E-F8F2C428F3EE}" tid="{E1A8F484-DBA1-4EFB-978E-A9878576C9E9}"/>
+            <media src="..\K DA\ALL OUT\04 - DRUM GO DUM_8b154c20-7cf3-4858-b6d1-4c1503164b53.mp3" cid="{5C088C63-47B0-407A-AFE3-1A24B118E30B}" tid="{D00E0FDA-1E25-4AC7-980A-1A4A3EAB7018}"/>
+            <media src="..\K DA\ALL OUT\05 - I&apos;LL SHOW YOU_147f0f70-fdfe-4348-b085-e40a7a0342c5.mp3" cid="{5C6F8AC4-27A8-4049-B275-1A5CFF54320D}" tid="{1F49A9BB-2DEE-409D-968C-29FCF5C45BE5}"/>
         </seq>
     </body>
 </smil>
