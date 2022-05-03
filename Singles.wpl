@@ -3,6 +3,11 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1387"/>
         <meta name="ItemCount" content="232"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
         <author/>
         <title>Singles</title>
     </head>
@@ -35,7 +40,9 @@
             <media src="..\K DA\ALL OUT\03 - VILLAIN_2c5079fd-7991-41d6-973c-6ca7888efab0.mp3" cid="{DF9969A7-4027-4CFF-8D86-5896626458E4}" tid="{29E62504-0ACC-49F6-A60F-96E88C0ADE6C}"/>
             <media src="..\K DA\ALL OUT\04 - DRUM GO DUM_8b154c20-7cf3-4858-b6d1-4c1503164b53.mp3" cid="{D07D2D7B-5829-4631-AF07-F47F98544178}" tid="{E9A6C0F8-9ECC-44CD-9395-001B5BAD243F}"/>
             <media src="..\K DA\ALL OUT\05 - I&apos;LL SHOW YOU_147f0f70-fdfe-4348-b085-e40a7a0342c5.mp3" cid="{532D4C06-5883-407E-8367-3E65F53D57F5}" tid="{57252A08-D3C6-4976-81ED-D853240DABA4}"/>
-            <media src="..\The Offspring\01 Dividing By Zero_Slim Pickens Does The Right Thing And Rides The Bomb To Hell.mp3" tid="{597FEDED-FA8D-4124-9863-01FFD6A24EAE}" cid="{C1104A4B-5120-44BE-AEC2-3C8ADEE06BB8}"/>
+            <media src="..\The Offspring\Rise And Fall, Rage And Grace\03 You&apos;re Gonna Go Far, Kid.mp3" cid="{9E02354D-6179-4603-828C-11FE0249C393}" tid="{9C380633-4A36-4F2F-A445-30EF16AF34E6}"/>
+            <media src="..\The Offspring\Days Go By\11 Dividing By Zero.mp3" cid="{62901F60-2761-45F3-9F9B-8877BC699AF0}" tid="{C0496A3F-942C-426E-8539-A733D66A018B}"/>
+            <media src="..\The Offspring\Days Go By\12 Slim Pickens Does The Right Thing And Rides The Bomb To Hell.mp3" cid="{6D01A43C-9A98-49D9-9224-377B8B644183}" tid="{4AAA79C7-27B3-4817-BEBD-F852B4D61594}"/>
             <media src="..\Danger\09 17 2007\01 - 4_30_c92077d0-371d-469a-ad25-dc482a77c9e0.mp3" cid="{8418E77F-C802-4718-A401-4DC03C577ED2}" tid="{8AEB0C55-554D-4499-869C-1A4F720F2685}"/>
             <media src="..\Mystery Skulls\Forever [Explicit]\06 Ghost [Explicit].mp3" cid="{E06E3287-8C38-4CD6-BC43-50E53A6193DF}" tid="{DE798999-A731-4FFE-A748-9EA2F8FD27D8}"/>
             <media src="..\Mystery Skulls\Forever [Explicit]\04 Hellbent (feat Snowblood).mp3" cid="{B8076400-F068-4546-A2FD-52E8E188C4F8}" tid="{680E9F9A-B594-4B9A-9827-DFCE52D6B516}"/>
