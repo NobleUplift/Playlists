@@ -8,6 +8,13 @@
     </head>
     <body>
         <seq>
+            <media src="..\Lindemann\Skills In Pills\10 Praise Abort.mp3"/>
+            <media src="..\Lindemann\Skills In Pills\04 Fish On.mp3"/>
+            <media src="..\Electric Six\Fire\04 Danger! High Voltage.mp3"/>
+            <media src="..\Electric Six\Fire\08 Gay Bar.mp3"/>
+            <media src="..\Rammstein\Zeit\02 Zeit.mp3" cid="{F054102E-A866-4A4E-88F8-A138905D04D4}" tid="{EB073B94-D8B7-44DF-974D-399951DEDF8D}"/>
+            <media src="..\Rammstein\Zeit\05 Zick Zack.mp3"/>
+            <media src="..\Rammstein\Zeit\09 Dicke Titten.mp3"/>
             <media src="..\GHOST DATA\Void Walker\06 - Full Bodied.mp3" cid="{6477F949-0643-47D9-A182-C90CC2D5CBDC}" tid="{9375178A-1FE3-4ADE-BE2D-838000DDCCF7}"/>
             <media src="..\Various Artists\Blade Runner Black Lotus (Original Television Soun\05 - By My Side (From The Original Television Soundtrack Blade Runner Black Lotus).mp3" cid="{3011D1F9-DED3-4DA6-AFB8-B629EDA01BFB}" tid="{5841CFE4-A8AD-4ABC-80C1-B9CEC79E31C0}"/>
             <media src="..\Various Artists\Blade Runner Black Lotus (Original Television Soun\08 - Intuition (From The Original Television Soundtrack Blade Runner Black Lotus).mp3" cid="{AEB9C6B9-7736-403C-9A1E-A9D29C86B404}" tid="{CF2533CA-85E4-40B4-B779-DAECA4743CFD}"/>
