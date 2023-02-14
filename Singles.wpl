@@ -8,13 +8,14 @@
     </head>
     <body>
         <seq>
-            <media src="..\Lindemann\Skills In Pills\10 Praise Abort.mp3"/>
-            <media src="..\Lindemann\Skills In Pills\04 Fish On.mp3"/>
-            <media src="..\Electric Six\Fire\04 Danger! High Voltage.mp3"/>
-            <media src="..\Electric Six\Fire\08 Gay Bar.mp3"/>
+            <media src="..\Little Big\Antipositive, Pt. 2 [Explicit]\02 - Skibidi.mp3" cid="{E5B190B7-E687-457C-A825-5C2285DB9DE4}" tid="{D8D7EB11-709F-43F2-A689-092EE16CB022}"/>
+            <media src="..\Lindemann\YouTube\01 LINDEMANN - Praise Abort (Official Video).mp3" tid="{FBD8032F-078F-445A-AE84-3A21EEC238CA}"/>
+            <media src="..\Lindemann\Skills In Pills\04 Fish On.mp3" cid="{F2A1B3AD-BB9E-4805-AF90-4989B3E5A48F}" tid="{A7D400FD-5334-41CC-823F-34D27E676607}"/>
+            <media src="..\Electric Six\Fire\04 Danger! High Voltage.mp3" cid="{7F907617-1545-48B5-98D1-15E9FFD8FEB2}" tid="{178FB867-67D8-48CD-AFCA-3535BCFCDDFF}"/>
+            <media src="..\Electric Six\Fire\08 Gay Bar.mp3" cid="{173B6D47-1710-4205-B67C-A2153965CEEC}" tid="{98F3E994-D8E6-48CD-BD07-8F16157BC583}"/>
             <media src="..\Rammstein\Zeit\02 Zeit.mp3" cid="{F054102E-A866-4A4E-88F8-A138905D04D4}" tid="{EB073B94-D8B7-44DF-974D-399951DEDF8D}"/>
-            <media src="..\Rammstein\Zeit\05 Zick Zack.mp3"/>
-            <media src="..\Rammstein\Zeit\09 Dicke Titten.mp3"/>
+            <media src="..\Rammstein\Zeit\05 Zick Zack.mp3" cid="{41E77671-6612-4A86-AFF8-2CC07F2C7DD1}" tid="{38E48F29-2020-41D4-B4E7-2952A8F2A491}"/>
+            <media src="..\Rammstein\Zeit\09 Dicke Titten.mp3" cid="{D7E896BA-9DBE-4779-AC47-45F0333CB541}" tid="{B8753F18-DA23-4B8B-A552-50B7ECAEE872}"/>
             <media src="..\GHOST DATA\Void Walker\06 - Full Bodied.mp3" cid="{6477F949-0643-47D9-A182-C90CC2D5CBDC}" tid="{9375178A-1FE3-4ADE-BE2D-838000DDCCF7}"/>
             <media src="..\Various Artists\Blade Runner Black Lotus (Original Television Soun\05 - By My Side (From The Original Television Soundtrack Blade Runner Black Lotus).mp3" cid="{3011D1F9-DED3-4DA6-AFB8-B629EDA01BFB}" tid="{5841CFE4-A8AD-4ABC-80C1-B9CEC79E31C0}"/>
             <media src="..\Various Artists\Blade Runner Black Lotus (Original Television Soun\08 - Intuition (From The Original Television Soundtrack Blade Runner Black Lotus).mp3" cid="{AEB9C6B9-7736-403C-9A1E-A9D29C86B404}" tid="{CF2533CA-85E4-40B4-B779-DAECA4743CFD}"/>
