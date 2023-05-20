@@ -3,10 +3,7 @@
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1865"/>
         <meta name="ItemCount" content="100"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
+        <meta name="IsFavorite"/>
         <author/>
         <title>Rammstein</title>
     </head>
@@ -17,17 +14,17 @@
             <media src="..\Rammstein\Herzeleid\03 Weisses Fleisch.mp3" cid="{C0620F68-126F-49FC-89A2-E981E6A580C8}" tid="{F4E8D7E9-1644-4D6D-8A76-656FB6DDCDD1}"/>
             <media src="..\Rammstein\Herzeleid\04 Asche Zu Asche.mp3" cid="{4EF4A506-A16B-47F9-A043-FB91A7E0A7D0}" tid="{998B64DE-A546-4C71-92B5-34E02A5AF252}"/>
             <media src="..\Rammstein\Herzeleid\05 Seemann.mp3" cid="{397FFE49-C482-4E77-8574-7566579ABB76}" tid="{6A54835E-8C9D-4DDD-84EA-454E5C436878}"/>
-            <media src="..\Rammstein\Herzeleid\06 Du Riechst So Gut.mp3" cid="{0C3F50E7-C8E0-4D4C-A8FF-C3396CD08903}" tid="{EECBFA89-5A33-410B-BF89-CAD1AB6AF94B}"/>
+            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\06 Du Riechst So Gut.mp3" cid="{F8A6C731-4EB5-4AB3-BC8C-A02EB27EAEC0}" tid="{F006DCFE-F9EA-449B-9DCE-0671193D3419}"/>
             <media src="..\Rammstein\Herzeleid\07 Das Alte Lied.mp3" cid="{6DB2583B-C83D-4791-92E4-2BBC921A6FA5}" tid="{37D784CA-1260-45AD-B641-A8B39D42081C}"/>
             <media src="..\Rammstein\Herzeleid\08 Heirate Mich.mp3" cid="{90440DF6-5797-4B74-B4E9-B1001D134F0C}" tid="{C529507D-BF4A-4A55-B7F0-E566C78DB148}"/>
             <media src="..\Rammstein\Herzeleid\09 Herzeleid.mp3" cid="{CE95090C-6DD8-4FF1-909D-FA3CC81460C2}" tid="{F792CCFA-3BBE-4A59-BEDC-D9FA37EDCE7F}"/>
             <media src="..\Rammstein\Herzeleid\10 Laichzeit.mp3" cid="{8C3FF186-1925-47A5-8EF3-FB5795CE379C}" tid="{A23BA256-BFE3-485A-893B-752890FD9AAE}"/>
             <media src="..\Rammstein\Herzeleid\11 Rammstein.mp3" cid="{DA3369C2-99DB-4A22-B546-A28FDF9E8F4E}" tid="{E901E079-3375-4BB8-AA18-2EE5C94034D2}"/>
             <media src="..\Rammstein\Sehnsucht\01 Sehnsucht.mp3" cid="{47985F4A-42AB-4DB3-AF86-C16A431701ED}" tid="{E5375420-FCEB-4E11-9DB2-6F7C61297410}"/>
-            <media src="..\Rammstein\Sehnsucht\02 Engel.mp3" cid="{4CB368EE-4B5E-45B8-ACFD-776E387E1046}" tid="{6220DC85-A4BB-4C63-9608-498A22DF4FEB}"/>
+            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\01 Engel.mp3" cid="{CE6D6835-C1F4-47B4-917E-C3B7BDA8C778}" tid="{1225590E-70AE-41B9-B11F-43E5A0571550}"/>
             <media src="..\Rammstein\Sehnsucht\03 Tier.mp3" cid="{D1890C33-93DE-475A-A7D5-9EEE6F3835F0}" tid="{64C0D42D-1EAE-49B6-82FD-500F9CD28B7D}"/>
             <media src="..\Rammstein\Sehnsucht\04 Bestrafe Mich.mp3" cid="{35736D1C-3136-48C7-A89B-2427E83C7822}" tid="{E95A349A-1F7B-4B96-8E5C-6B689D465988}"/>
-            <media src="..\Rammstein\Sehnsucht\05 Du Hast.mp3" cid="{63C1752F-D60F-4457-A9C6-E3C3CC4B2D6E}" tid="{A41402CE-DE26-49BC-AD43-43C123AA6831}"/>
+            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\05 Du Hast.mp3" cid="{AD416736-48EE-401B-B452-1EF531082D0F}" tid="{AB4B516D-6BCA-44F1-A32C-C537090C6A76}"/>
             <media src="..\Rammstein\Sehnsucht\06 Bück Dich.mp3" cid="{B2FD6715-AB02-4A19-93B0-D85F43C56645}" tid="{DABD8F01-868C-4F6E-955C-83D4879219DE}"/>
             <media src="..\Rammstein\Sehnsucht\07 Spiel Mit Mir.mp3" cid="{193EBDDB-7703-447C-ACE4-53C9202578E9}" tid="{A706E753-CF61-470C-B1F6-8FADC992EA4D}"/>
             <media src="..\Rammstein\Sehnsucht\08 Klavier.mp3" cid="{845C9A51-6B6E-41AD-A19E-E6B99C6823CE}" tid="{CCF7F65B-B150-4B37-A660-B3265CF46300}"/>
@@ -35,32 +32,32 @@
             <media src="..\Rammstein\Sehnsucht\10 Eifersucht.mp3" cid="{25EF5E3B-63F0-415D-8126-DF2531531F45}" tid="{1F34A5D9-8181-478E-B515-DAD42B9A0636}"/>
             <media src="..\Rammstein\Sehnsucht\11 Küss Mich (Fellfrosch).mp3" cid="{BD46D8CA-CE38-4D09-B6E9-CA513E48E87B}" tid="{49FD9768-BE39-4F81-9A2A-2273CFA119E0}"/>
             <media src="..\Rammstein\Sehnsucht\12 Stripped.mp3" tid="{8CE49D12-582E-45E6-8BAE-FDED0648FC3F}" cid="{F7730E37-E22D-4094-9B1A-7125BFAF5949}"/>
-            <media src="..\Rammstein\Mutter\01 Mein Herz Brennt.mp3" cid="{71BFB456-1050-485E-BBDB-E66EDD32EC26}" tid="{AB5648E4-E34C-49F5-A8CD-9D83CC5A9B3D}"/>
-            <media src="..\Rammstein\Mutter\02 Links 2 3 4.mp3" cid="{335089EC-2B0D-4FCB-9421-3C9F85F03550}" tid="{D46B0B41-A803-4F46-9685-916F4A8502DF}"/>
-            <media src="..\Rammstein\Mutter\03 Sonne.mp3" cid="{2D2D4029-3FD4-47C6-836F-B0CF89EF5ECA}" tid="{A2B08119-DF5D-4DEA-9DF4-DB34C1DD02F5}"/>
-            <media src="..\Rammstein\Mutter\04 Ich Will.mp3" cid="{326838C5-BE61-44E6-9816-AFD49F75387F}" tid="{8DA38234-1AEB-4ACE-99EC-187D0558B235}"/>
+            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\08 Mein Herz Brennt.mp3" cid="{C45AA1DE-533E-42E3-BE29-353624229C71}" tid="{7F3C2010-12D3-4E94-A582-9A2B04B512E4}"/>
+            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\02 Links 234.mp3" cid="{C9031383-222E-4B79-B533-7FA0DC972BDD}" tid="{0615FEFF-BEB0-4114-AE0C-D247632DC809}"/>
+            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\14 Sonne.mp3" cid="{24A843EE-9C40-4696-AC71-14730AB2B5EF}" tid="{02EE9593-82B0-4CA3-BBF9-87ABE75D81B6}"/>
+            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\07 Ich Will.mp3" cid="{29CF675B-5780-452D-BB56-48425B9463B7}" tid="{EA7A30BD-4D69-43A2-864E-EB6D98FAC2DD}"/>
             <media src="..\Rammstein\Mutter\05 Feuer Frei!.mp3" cid="{F586517A-113F-4A3F-A029-0A6939B00626}" tid="{C897AEB0-C52C-4692-A1CE-F56C31200A6D}"/>
-            <media src="..\Rammstein\Mutter\06 Mutter.mp3" cid="{A4A8B293-D87D-40D2-9439-C953E3E6E29E}" tid="{E22C69D9-E0EE-4DBD-AE50-941F051464A0}"/>
+            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\09 Mutter.mp3" cid="{342EF88D-CECD-4877-A3D9-5131E653EFB0}" tid="{9DDE95F3-B4E5-491E-9372-8B606CE7EA5D}"/>
             <media src="..\Rammstein\Mutter\07 Spieluhr.mp3" cid="{8A3D3008-DDE4-4282-A913-18F0707E0DB2}" tid="{F8A0849D-DBEC-42EA-87EE-5EABEA4E17AA}"/>
             <media src="..\Rammstein\Mutter\08 Zwitter.mp3" cid="{C9CB2658-1730-4C22-8D2F-5D7FBA45FF20}" tid="{DE9C7F7A-FDB4-426C-8230-EAD6D5505BF3}"/>
             <media src="..\Rammstein\Mutter\09 Rein Raus.mp3" cid="{C0BE2622-B3B8-4333-9998-C2C03DF7F1CE}" tid="{11B980AD-3AC1-4121-A09D-B85539D07B68}"/>
             <media src="..\Rammstein\Mutter\10 Adios.mp3" cid="{0A165279-5832-49DF-AE91-89378E9FDC60}" tid="{35C40266-A7EA-418E-999A-034BF94B38FA}"/>
             <media src="..\Rammstein\Mutter\11 Nebel.mp3" cid="{EE616CF2-BCDC-4F24-8AE1-AF980FF98A9B}" tid="{13093415-8D21-4DEE-AD69-2B3174B12C57}"/>
             <media src="..\Rammstein\Reise, Reise\01 Reise, Reise.mp3" cid="{5208F75F-944C-42C8-824F-AE34F0268FF6}" tid="{1D3A8EAD-8F21-4B43-8A75-7794A811BCD7}"/>
-            <media src="..\Rammstein\Reise, Reise\02 Mein Teil.mp3" cid="{0D23F727-7BBC-4C12-A837-3E7334260D2C}" tid="{5D66C93E-8193-44DA-8910-119D6C76FAFF}"/>
+            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\04 Mein Teil.mp3" cid="{93DC3B03-2782-480C-A7B6-F086BD5436CF}" tid="{5B138A04-FD3A-433E-85AE-63BCF13B58BC}"/>
             <media src="..\Rammstein\Reise, Reise\03 Dalai Lama.mp3" cid="{77930275-E71B-4F31-B1F5-38CB3391829B}" tid="{39B43351-2E99-4F2B-AFB3-F3D3FC9A6CFD}"/>
             <media src="..\Rammstein\YouTube Channel\88 Keine Lust (Intro).mp3" cid="{FC2C09CC-B698-4736-B433-D336AC5C273E}" tid="{72637526-A599-4390-8584-3165C0A4A9D7}"/>
-            <media src="..\Rammstein\Reise, Reise\04 Keine Lust.mp3" cid="{DBBD29D0-95D4-4571-9548-73A2A1B9E4A5}" tid="{1A15179F-48FE-4CFC-BC4A-D9343B501BAF}"/>
+            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\03 Keine Lust.mp3" cid="{3E970672-5C81-4FDD-9944-745736E5A1C5}" tid="{27D37B1D-B06D-465D-8F00-42C0CE8E5694}"/>
             <media src="..\Rammstein\Reise, Reise\05 Los.mp3" cid="{0BBC2956-9570-4CE6-8AF6-BC3CA418A202}" tid="{E7B14411-31C4-42A6-BB30-609A3E3EAF78}"/>
-            <media src="..\Rammstein\Reise, Reise\06 Amerika.mp3" cid="{BD95819B-405A-4C3E-9C2E-9F5402CD9E6C}" tid="{724B53AF-FCBD-4EAB-BB27-D943CBECF580}"/>
-            <media src="..\Rammstein\Reise, Reise\07 Moskau.mp3" cid="{FC41443B-C51E-4CD6-BBFD-AF790077444A}" tid="{E54847B3-CD3D-4B9C-8BFD-041DE1FB41BC}"/>
+            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\13 Amerika.mp3" cid="{84438AD3-8309-4C35-A84B-97216D5CA8B7}" tid="{7793F98B-D67C-431D-BD93-8961826DFBA9}"/>
+            <media src="..\Rammstein\Reise, Reise\07 Moskau.mp3" cid="{FC41443B-C51E-4CD6-BBFD-AF790077444A}" tid="{7C3A60CC-83E2-4FC7-B1D6-8FF4F250AF78}"/>
             <media src="..\Rammstein\Reise, Reise\08 Morgenstern.mp3" cid="{5E06D8A9-B314-4058-9B9B-0173E2C47665}" tid="{B23F80DA-7627-4140-84BD-36FE45065AFD}"/>
             <media src="..\Rammstein\Reise, Reise\09 Stein Um Stein.mp3" cid="{5310BF8C-55AE-43E9-9C85-7C7F66D9872D}" tid="{BD47497A-CA92-46B6-81F1-F00F3575F687}"/>
-            <media src="..\Rammstein\Reise, Reise\10 Ohne Dich.mp3" cid="{D7C3332D-51C8-46A4-B1CC-4EF4678C100F}" tid="{1230ECF5-8635-4161-8515-6324E5F79A5C}"/>
+            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\15 Ohne Dich.mp3" cid="{F7AD98DD-A9EA-4AD3-AF74-99D5CAE61A23}" tid="{5AD69892-BFBB-4A00-9051-44B5DF4F42F4}"/>
             <media src="..\Rammstein\Reise, Reise\11 Amour.mp3" cid="{50F9EBA2-C81F-4945-81DB-BE7B0C9A971E}" tid="{08AAE9FE-BF84-44E7-AE1D-B244B789DEBC}"/>
             <media src="..\Rammstein\Rosenrot\01 Benzin.mp3" cid="{693826E1-B930-48C9-8D20-B02A9A025ACB}" tid="{78086CBC-B79C-45FE-8D8F-0A459EA55AC1}"/>
             <media src="..\Rammstein\Rosenrot\02 Mann Gegen Mann.mp3" cid="{BA4988C7-B375-45B7-972A-8AE0F8444C52}" tid="{C272A71E-C492-4D51-9724-4E4827A55C1E}"/>
-            <media src="..\Rammstein\Rosenrot\03 Rosenrot.mp3" cid="{8C3B6C10-F847-4472-AE6E-1BD376EC9C66}" tid="{22F766FE-153A-4B58-9296-E268122FBA1A}"/>
+            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\11 Rosenrot.mp3" cid="{2775C026-3CC3-4165-A4D4-BE7A1D66230E}" tid="{F56C5D79-EC3A-4F53-8AD6-6A7F0715B04E}"/>
             <media src="..\Rammstein\Rosenrot\04 Spring.mp3" cid="{E9717D40-7898-4CD3-BEDC-6F8829F28EC9}" tid="{DB4EFF02-8B06-4D53-AB0A-49BF2C7859FC}"/>
             <media src="..\Rammstein\Rosenrot\05 Wo Bist Du.mp3" cid="{48A5649A-F1F5-49C1-B5D2-C90073AA7E2D}" tid="{B1DA9200-0111-410F-81BD-91A75978F317}"/>
             <media src="..\Rammstein\Rosenrot\06 Stirb Nicht Vor Mir (Don&apos;t Die Before I Do).mp3" cid="{AF8DD8CF-171B-4333-B7A6-6BF78E372629}" tid="{6C52AFEF-8089-4265-B685-DF6F81D78EC1}"/>
@@ -73,11 +70,11 @@
             <media src="..\Rammstein\Liebe Ist für Alle Da\02 Ich Tu Dir Weh.mp3" cid="{EE001F7C-7DEE-456B-A7A9-246369307D14}" tid="{01D9166A-4701-4895-9A29-B9CFD6F162BF}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\03 Waidmanns Heil.mp3" cid="{B3D33289-EF8C-4277-BD6C-0045FAF26934}" tid="{F15B6FE2-EEA8-40F2-8F0D-93E8EC2CDEC3}"/>
             <media src="..\Rammstein\YouTube Channel\86 Haifisch (Intro).mp3" cid="{32D7B883-6046-42A7-910B-D240B3540FA9}" tid="{6508DC0A-7538-4890-B41F-B72D63877C68}"/>
-            <media src="..\Rammstein\Liebe Ist für Alle Da\04 Haifisch.mp3" cid="{DBA5CF09-3DCF-4E9B-87E9-7C6854BB34B4}" tid="{BF338506-E506-413F-9671-FC716036CB6D}"/>
+            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\12 Haifisch.mp3" cid="{2A1759DA-F84C-4888-96A1-926857A57176}" tid="{88876B9C-203D-4D7C-9838-BC1231BF5F99}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\05 B--------.mp3" cid="{31D6736B-8802-4E3A-9DD2-6D955DC67C4A}" tid="{D3EF95A9-FA29-48C6-97F7-379FF9E262F7}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\06 Frühling In Paris.mp3" cid="{6F22E1D0-F63A-485D-B886-7EA4AB638516}" tid="{48534EC6-63A2-4E11-9464-ADD987B04F3C}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\07 Wiener Blut.mp3" cid="{B80624CB-C06C-4519-A0D8-188F8654EC16}" tid="{87989E46-A23A-4B59-A074-3F318181E138}"/>
-            <media src="..\Rammstein\Liebe Ist für Alle Da\08 Pussy.mp3" cid="{E72952BB-015A-4276-9E98-5EB8C5BB0352}" tid="{68223121-A91C-406C-AA04-2F78D5CB2F12}"/>
+            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\10 Pussy.mp3" cid="{BC48742B-E5B3-4260-A2A9-6216A10BDB1C}" tid="{E1CEE9FA-D395-4451-8831-179E82C2ADFD}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\09 Liebe Ist Für Alle Da.mp3" cid="{DD556A31-449B-474D-94D1-B79C10CA3EC5}" tid="{3B2BB5D4-728B-4067-BFF8-F4D81467F527}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\10 Mehr.mp3" cid="{27E5588D-F4E6-44E8-8F17-FE30AC500A4D}" tid="{E9397412-B4AE-42F3-965F-D38F1822883B}"/>
             <media src="..\Rammstein\Liebe Ist für Alle Da\11 Roter Sand.mp3" cid="{F9A15ECD-6068-4F4D-B6C1-66EBAD96AA3B}" tid="{03E233A3-9056-4A58-B042-8E8DA617D037}"/>
@@ -114,38 +111,6 @@
             <media src="..\Lindemann\Skills In Pills\08 Golden Shower.mp3" cid="{99CFFB33-5B1F-4D2E-AB3D-632C4154C8D6}" tid="{5F379892-D375-46F5-923C-219E613C0209}"/>
             <media src="..\Lindemann\Skills In Pills\09 Yukon.mp3" cid="{79E3BF3E-1F03-475C-AE1F-61EC89F455D7}" tid="{EB57A5CB-133A-4927-804F-15469E84D435}"/>
             <media src="..\Lindemann\Skills In Pills\10 Praise Abort.mp3" cid="{E0615E6A-5C76-4382-9382-0D6A934F4706}" tid="{4F8521CC-77DA-4C9F-ABA0-A60E692263D8}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\01 Engel.mp3" cid="{CE6D6835-C1F4-47B4-917E-C3B7BDA8C778}" tid="{1225590E-70AE-41B9-B11F-43E5A0571550}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\02 Links 234.mp3" cid="{C9031383-222E-4B79-B533-7FA0DC972BDD}" tid="{0615FEFF-BEB0-4114-AE0C-D247632DC809}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\03 Keine Lust.mp3" cid="{3E970672-5C81-4FDD-9944-745736E5A1C5}" tid="{27D37B1D-B06D-465D-8F00-42C0CE8E5694}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\04 Mein Teil.mp3" cid="{93DC3B03-2782-480C-A7B6-F086BD5436CF}" tid="{5B138A04-FD3A-433E-85AE-63BCF13B58BC}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\05 Du Hast.mp3" cid="{AD416736-48EE-401B-B452-1EF531082D0F}" tid="{AB4B516D-6BCA-44F1-A32C-C537090C6A76}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\06 Du Riechst So Gut.mp3" cid="{F8A6C731-4EB5-4AB3-BC8C-A02EB27EAEC0}" tid="{F006DCFE-F9EA-449B-9DCE-0671193D3419}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\07 Ich Will.mp3" cid="{29CF675B-5780-452D-BB56-48425B9463B7}" tid="{EA7A30BD-4D69-43A2-864E-EB6D98FAC2DD}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\08 Mein Herz Brennt.mp3" cid="{C45AA1DE-533E-42E3-BE29-353624229C71}" tid="{7F3C2010-12D3-4E94-A582-9A2B04B512E4}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\09 Mutter.mp3" cid="{342EF88D-CECD-4877-A3D9-5131E653EFB0}" tid="{9DDE95F3-B4E5-491E-9372-8B606CE7EA5D}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\10 Pussy.mp3" cid="{BC48742B-E5B3-4260-A2A9-6216A10BDB1C}" tid="{E1CEE9FA-D395-4451-8831-179E82C2ADFD}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\11 Rosenrot.mp3" cid="{2775C026-3CC3-4165-A4D4-BE7A1D66230E}" tid="{F56C5D79-EC3A-4F53-8AD6-6A7F0715B04E}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\12 Haifisch.mp3" cid="{2A1759DA-F84C-4888-96A1-926857A57176}" tid="{88876B9C-203D-4D7C-9838-BC1231BF5F99}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\13 Amerika.mp3" cid="{84438AD3-8309-4C35-A84B-97216D5CA8B7}" tid="{7793F98B-D67C-431D-BD93-8961826DFBA9}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\14 Sonne.mp3" cid="{24A843EE-9C40-4696-AC71-14730AB2B5EF}" tid="{02EE9593-82B0-4CA3-BBF9-87ABE75D81B6}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 1\15 Ohne Dich.mp3" cid="{F7AD98DD-A9EA-4AD3-AF74-99D5CAE61A23}" tid="{5AD69892-BFBB-4A00-9051-44B5DF4F42F4}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 2\01 Du Riechst So Gut &apos;98 [Rmx by Faith No More].mp3" cid="{951D085B-B0C4-443A-B49F-5691D5E1688D}" tid="{BA7D16A5-FDA2-400D-886C-769FE3BC5D28}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 2\02 Du Hast [Rmx by Jacob Hellner].mp3" cid="{D056B182-6143-452E-AE02-E2666F9F0BB7}" tid="{1077C10B-3DE7-411C-855C-F4EDF776A9A1}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 2\03 Stripped [Psilonaut Mix].mp3" cid="{A1085AE4-17B7-4579-9875-D726A36C0E7B}" tid="{4D38F376-38B0-4A64-B886-B5D92EF79899}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 2\04 Sonne [Clawfinger K.O. Remix].mp3" cid="{CE721450-DEF8-4D32-A967-5796925BDB39}" tid="{89E9A105-0207-473B-BCED-C82D7F35CEE9}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 2\05 Links 234 [Westbams Hard Rock Café Bonux Mix].mp3" cid="{84F413C4-DF3D-44DB-9B53-6B98D0FD3A03}" tid="{726BB124-8A80-4077-942F-97E8B6C0CB23}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 2\06 Mutter [Rmx By Sono].mp3" cid="{B2B5C7A1-BB3C-4C5A-9C8E-1A6CE0D08A34}" tid="{18C635F0-0AEB-424F-A3AD-C86C460DBC04}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 2\07 Feuer Frei! [Rammstein Vs. Junkie Xl Remix].mp3" cid="{206A9B5A-AC53-4A6C-9DBA-57E380D1CEDA}" tid="{11C09C9F-7061-429E-9C47-7FC843F7C8B6}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 2\08 Mein Teil [You Are What You Eat Edit].mp3" cid="{E2047E0D-F1AB-4B1E-85EF-76218DC6B587}" tid="{62C8698C-65CC-47DA-86F0-865F8ECB8AC1}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 2\09 Amerika [Western Remix].mp3" cid="{F8E72B5B-E502-43D6-990A-09FC354205DC}" tid="{CFF3C8E0-C3F7-4FAF-B052-34504D5B3C4F}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 2\10 Ohne Dich [Mina Harker&apos;s Version].mp3" cid="{1915EB56-0078-44E5-87D0-3711927311B8}" tid="{6264CBA6-8FAA-47DE-B06B-BEE28F90F734}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 2\11 Keine Lust [Black Strobe Remix].mp3" cid="{1E383390-2130-4362-9F37-CDC3694D39F8}" tid="{2B00E7A6-C393-4699-9BA0-F82DD0A2FD88}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 2\12 Benzin [Combustion Remix].mp3" cid="{7FDFBEBA-7CE7-4721-A130-6D77AD116530}" tid="{185A2B42-6109-4D4E-A3B7-A835FF732259}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 2\13 Rosenrot [Northern Lite Remix].mp3" cid="{03D68796-A8B1-4185-9C4B-189C2A5C7530}" tid="{D4235F4F-B9E1-47E8-9A73-8E90B9C23E95}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 2\14 Pussy [Lick It Remix].mp3" cid="{73C0C77D-E9B0-4D5F-82CC-15AFD1019943}" tid="{811030C8-385B-40C7-9B45-A00B0E58A08E}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 2\15 Rammlied [Rammin&apos; the Steins Remix].mp3" cid="{EF46098A-84A1-46C5-BEEF-B3197EC72A23}" tid="{C74A3D53-F7B8-4F12-B07A-99223D1B0ABC}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 2\16 Ich Tu Dir Weh [Fukkk Offf Remix].mp3" cid="{5847A7FC-2C4F-4951-A6F7-7656D50D45F4}" tid="{58DA6623-6108-4CA4-BAA5-66A1A88016BC}"/>
-            <media src="..\Rammstein\Made in Germany- 1995-2011 [2CD Deluxe Edition] Disc 2\17 Haifisch [Remix by Hurts].mp3" cid="{30DD8F2D-447B-45A2-A4B4-C8ED9BEB8B90}" tid="{D35CE5AA-DEFF-4087-A0BC-6F6E79B9E8F9}"/>
         </seq>
     </body>
 </smil>
