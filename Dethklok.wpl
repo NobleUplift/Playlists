@@ -1,13 +1,8 @@
 <?wpl version="1.0"?>
 <smil>
     <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1266"/>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1865"/>
         <meta name="ItemCount" content="51"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
         <author/>
         <title>Dethklok</title>
     </head>
@@ -62,6 +57,26 @@
             <media src="..\Dethklok\Dethalbum III\10 Skyhunter.mp3" albumTitle="Metalocalypse: Dethalbum III" albumArtist="Dethklok" trackTitle="Skyhunter" trackArtist="Dethklok" duration="248120" cid="{B61869B6-B6AB-41DB-9EF5-098A56C69AF6}" tid="{037EDC39-95AE-421B-B12B-F6A3B98F29E5}"/>
             <media src="..\Dethklok\Dethalbum III\11 The Hammer.mp3" albumTitle="Metalocalypse: Dethalbum III" albumArtist="Dethklok" trackTitle="The Hammer" trackArtist="Dethklok" duration="268773" cid="{0557F79D-6FCD-4C90-9FD5-E57D852E43B5}" tid="{DD61E7ED-CC17-4F3B-A4AA-C4618D17ABBD}"/>
             <media src="..\Dethklok\Dethalbum III\12 Rejoin.mp3" albumTitle="Metalocalypse: Dethalbum III" albumArtist="Dethklok" trackTitle="Rejoin" trackArtist="Dethklok" duration="292320" cid="{B2AD9738-B739-4CAA-B792-B75A3970BA12}" tid="{6E14BEA8-E53A-4D2B-9C0A-6308C0737E41}"/>
+            <media src="..\Brendon Small\Brendon Small&apos;s Galaktikon\01 - Triton_7b6767b3-b9cb-4b7a-b876-be0f85cbf460.mp3"/>
+            <media src="..\Brendon Small\Brendon Small&apos;s Galaktikon\02 - Prophecy of the Lazer Witch_a8e7d1c1-0dde-4c38-ac07-d4a96373d372.mp3"/>
+            <media src="..\Brendon Small\Brendon Small&apos;s Galaktikon\03 - Beastblade_09d40acb-3a66-4fcd-9f3d-cd7ab8816208.mp3"/>
+            <media src="..\Brendon Small\Brendon Small&apos;s Galaktikon\04 - Deathwaltz_f629bc74-62ab-40b7-a156-9a607f99799c.mp3"/>
+            <media src="..\Brendon Small\Brendon Small&apos;s Galaktikon\05 - Truth Orb and the Kill Pool_76948960-28b6-4f7f-861e-d5a06edae332.mp3"/>
+            <media src="..\Brendon Small\Brendon Small&apos;s Galaktikon\06 - You Can&apos;t Run Away_ef101868-7f37-4fd5-a896-f5f82e7916f3.mp3"/>
+            <media src="..\Brendon Small\Brendon Small&apos;s Galaktikon\07 - Arena War of the Immortal Masters_5938b036-5149-49ae-a9f1-866fff9863bc.mp3"/>
+            <media src="..\Brendon Small\Brendon Small&apos;s Galaktikon\08 - Dangertits_d39f473b-642b-42d4-9659-48f662f4fe7c.mp3"/>
+            <media src="..\Brendon Small\Brendon Small&apos;s Galaktikon\09 - On My Way_6fef6600-8685-41e4-b73b-05f31fda4e19.mp3"/>
+            <media src="..\Brendon Small\Galaktikon II Become The Storm\01 Some Days Are For Dying.mp3"/>
+            <media src="..\Brendon Small\Galaktikon II Become The Storm\02 Icarus Six Sixty Six.mp3"/>
+            <media src="..\Brendon Small\Galaktikon II Become The Storm\03 The Agenda.mp3"/>
+            <media src="..\Brendon Small\Galaktikon II Become The Storm\04 The Ocean Galaktik.mp3"/>
+            <media src="..\Brendon Small\Galaktikon II Become The Storm\05 My Name Is Murder.mp3"/>
+            <media src="..\Brendon Small\Galaktikon II Become The Storm\06 Become The Storm.mp3"/>
+            <media src="..\Brendon Small\Galaktikon II Become The Storm\07 Nightmare.mp3"/>
+            <media src="..\Brendon Small\Galaktikon II Become The Storm\08 Could This Be The End.mp3"/>
+            <media src="..\Brendon Small\Galaktikon II Become The Storm\09 To Kill A God.mp3"/>
+            <media src="..\Brendon Small\Galaktikon II Become The Storm\10 Exitus.mp3"/>
+            <media src="..\Brendon Small\Galaktikon II Become The Storm\11 Rebuilding A Planet.mp3"/>
         </seq>
     </body>
 </smil>
