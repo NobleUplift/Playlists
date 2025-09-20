@@ -2,17 +2,18 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.26100.3624"/>
-        <meta name="ItemCount" content="232"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
+        <meta name="ItemCount" content="246"/>
         <author/>
         <title>Singles</title>
     </head>
     <body>
         <seq>
+            <media src="..\Metric\Synthetica\06 Lost Kitten.mp3" cid="{8D97C85A-383C-4682-9788-03EBA8CCE7DF}" tid="{815D8691-A563-4015-92BB-7141CFB85549}"/>
+            <media src="..\Azari\Be My Guest\01 Be My Guest - Azari.mp3" tid="{43391F97-7479-4566-B873-F3D0F98A06CA}"/>
+            <media src="..\Stuck in the Sound\Billy Believe\12 Riots.mp3" cid="{93858043-BA4D-4516-B658-C8A2707D6CD1}" tid="{C150A0DC-021E-45FE-9422-A9057541FF99}"/>
+            <media src="..\Daft Punk\Random Access Memories\Daft Punk - Instant Crush (Video) ft. Julian Casablancas.mp3"/>
+            <media src="..\Rusty Cage\Rusty Cage, Vol. 3- Crowley [Explicit]\08 - When I&apos;m Drinkin&apos; Whiskey.mp3" cid="{A43A34E1-44A0-4357-92BD-C7336F1701AF}" tid="{49E33356-94C8-4C31-8DAF-F2CF90928AA7}"/>
+            <media src="..\MGMT\Oracular Spectacular\05 Kids.mp3"/>
             <media src="..\Little Big\Antipositive, Pt. 2 [Explicit]\02 - Skibidi.mp3" cid="{49530A72-2CF7-4B1B-A789-DDD39A305626}" tid="{2418F8EC-3906-4D2B-80FC-4ED82A3C9D0F}"/>
             <media src="..\Lindemann\YouTube\01 LINDEMANN - Praise Abort (Official Video).mp3" tid="{1FABE990-D7BF-4A8E-A0F5-A6E120F73B70}"/>
             <media src="..\Lindemann\Skills In Pills\04 Fish On.mp3" cid="{7799431F-5CB0-4134-BD7E-CA955EB553D1}" tid="{A59787BF-87B8-4F9D-87C1-6396A3995CBA}"/>
