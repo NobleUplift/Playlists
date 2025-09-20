@@ -1,0 +1,188 @@
+Note: This file is in ascending order, Singles.md is in descending order.
+
+ - Luciano Pavarotti, National Philharmonic Orchestra & Kurt Herbert Adler - O Holy Night
+   - Add to Singles after God Rest Ye Merry Gentlemen
+
+# 2022
+ - Metric - Lost Kitten
+ - Azari - Be My Guest (2022)
+ - Stuck in the Sound - Riots
+ - Daft Punk & Julian Casablancas - Instant Crush
+ - Rusty Cage - When I'm Drinkin' Whiskey
+ - MGMT - Kids
+ - Aaro - Indestructable
+ - EQRIC, VADDS & Lonnel - Turn The Lights Off
+ - NOVA & Galardo - It's Not Over
+ - Sanjoy & Piques - Glow (feat. SYRN)
+ - Pháo - 2 Phút Hon (KAIZ Remix)
+ - Porter Robinson - Goodbye To A World
+ - Rosa Walton & Hallie Coggins - I Really Want to Stay at Your House
+ - SennaRin - 最果て (Instrumental)
+ - Tontokoton all staff, Nagomi Wahira, Ranko Mannen, Yumechi, Shiipon, Zoya & Tencho - メイド大回転 - Meido Daikaiten
+ - WORLD ORDER - LET'S START WW3
+ - BPM15Q - LaRiLaRu
+ - MOB CHOIR - 99
+ - Besomorph - Back from the Dead
+ - Dynoro & Gigi D'Agostino - In My Mind
+ - GRZZAK & Hentai Xander - In Heat
+ - Gabry Ponte, LUM!X & Prezioso - Thunder
+ - Oliver Tree & Robin Schulz - Miss You
+ - Niklas Dee, BASTL & MORRES - We Found Love
+ - INZO - Overthinker (2022)
+ - GEN.KLOUD - FOLLOW ME
+ - Sdms & Valencia James - Do Or Die (2021)
+ - DAEGHO & PiNKII - Dirty Viibe
+ - Demando - Holdin On (feat. Naja)
+ - ELYX & Chacel - What You Wanna Get
+ - Coopex & Yusuf Alev - Fire In My Bones (feat. ESAE)
+ - EQRIC, JOZUA & Robbe - TiK ToK (2021)
+ - Deorro - Five Hours (2014)
+ - Apashe & InstaSamka - Uebok (Gotta Run)
+ - Salvatore Ganacci - Horse (2019)
+ - Vairo - Scarab (2018)
+ - Metric - Black Sheep
+ - Aaron Smith & Krono - Dancin (Krono Remix) (feat. Luvli) (2014)
+ - Swedish House Mafia - Greyhound
+ - Neovaii - Bulletproof (2020)
+ - Kenya Grace - Strangers (2024)
+
+# 2023
+ - Delta Heavy - White Flag
+ - Lemaitre - Higher (feat. Maty Noyes) (2017)
+ - Dynoro - Hangover (2020)
+ - Delta Heavy - Ghost (2016)
+ - Yarimov - Supersonic (2020)
+ - Dirty Palm - Your Love (2019)
+ - Kastuvas - Keep On Moving (2023 Edit)
+ - Lorn - Anvil
+ - Ummet Ozcan - Seesaw
+ - Lemaitre - Closer (feat. Jennie A.)
+ - Stuck in the Sound - Alright
+ - Porter Robinson - Sad Machine
+ - Johnny Cash - Hurt
+ - Wind Rose - Diggy Diggy Hole
+ - GHOST DATA - PROJEKT MELODY (Instrumental)
+ - VINAI - Rise Up (feat. Vamero)
+ - F4ST - Push up (Main Edit) (2023)
+ - Jreg - Stimulus Feed (2023)
+ - Cosmo Sheldrake - Birthday Suit (WTCHOUT Remix)
+ - LUM!X & Gabry Ponte - Monster (Robin Schulz Remix)
+ - Timmy Trumpet - Oracle
+ - F.O.O.L & JNATHYN - Tension
+ - Nick Double & EWAVE - Fighting For
+ - Sons Of Maria - Solero (Radio Mix)
+ - Marnik & Orange INC - Across The Sun (feat. Vanessa Campagna)
+ - Neovaii - Feel You
+ - Brevis & Holly Terrens - The Truth
+ - Vicetone & Tony Igy - Astronomia
+ - Gabry Ponte - Crusade
+ - Lucky Luke - Cooler Than Me (2019)
+ - KSHMR & gritney - All Night (2024)???
+ - VINAI & Raakmo - Follow The Stars
+ - Artemas - i like the way you kiss me
+ - INZO - Angst
+ - Metric - Help I'm Alive
+ - Nora En Pure - Zambia (Radio Mix) (2016)
+ - blueberry - EVA 2
+ - Steradlye - Purr Bass
+ - blueberry - SAD!
+ - Marc Korn, Semitoo & HEAD & HEART - Hypnotized
+ - Gold Geisha - Belladonna
+ - HYPERAVE & BASSTON - AROUND THE WORLD (LA LA LA LA LA) - HYPERTECHNO
+ - Lucky Luke - F.E.E.L.
+ - Danger - 22:39
+ - Lucky Luke & Emie - Drüg
+ - MORTEN - Beautiful Heartbeat (Deorro Remix) (feat. Frida Sundemo)
+ - ZUTOMAYO - 暗く黒く (Darken)
+ - blueberry - DAMN!
+ - Vicetone - Animal (feat. Jordan Powers & Bekah Novi)
+ - Rezz & Grabbitz - Someone Else (2020)
+ - Electric Callboy - We Got the Moves
+ - AREZRA - Deep End (2020)
+ 
+# 2024
+ - YOASOBI - アイドル (2023)
+ - Ado - うっせぇわ - Usseewa
+ - Electric Callboy - Pump It
+ - Blasterjaxx - Legion
+ - AREZRA - Drowning
+ - Biometrix & Rhi'N'B - Face Me (feat. Rhi'N'B)
+ - BABYMETAL & Electric Callboy - RATATATA
+ - Fousheé - Deep End
+ - MELON, RobxDan & Dance Fruits Music - L'Amour Toujours
+ - Alessandra & Gabry Ponte - Queen of Kings (Gabry Ponte Remix)
+ - RAT BOY & IBDY - Who's Ready for Tomorrow
+ - Klaas - First Girl on the Moon
+ - Nezeron - Wind
+ - ROMZEE - Nagata
+ - s777n - remains of a corrupted file (2023)
+ - Flight Facilities - Crave You (Adventure Club Remix)
+ - ODESZA - Bloom
+ - Lucky Luke & Dynoro - Cocoon
+ - OVERWERK & CODEUNIT - Ascend
+ - Rezz & fknsyd - Let Me In
+ - Lucky Luke - Make Ü Mine (feat. Austuzhe)
+ - Creepy Nuts - オトノケ - Otonoke (2024)
+ - LUNAX - Rooftop (2022)
+ - Steradlye - Nightshade (2024)
+ - Armin van Buuren - Lose This Feeling (Maddix Remix)
+ - Zeds Dead - Lights Out (feat. Atlas)
+ - Creepy Nuts - Bling-Bang-Bang-Born
+ - Venjent - Create Machines
+ - David Rust & Uberjak'd - Go Insane (feat. Ella Young) (2024)
+ - LaDirectrice - MIAMI (2023)
+ - Flight Facilities - Crave You (Adventure Club Remix) (Remixes)
+ 
+ # 2025
+ - blueberry - Akkira (Feb 7, 2025)
+ - AREZRA - Goodbye (Jun 6, 2020)
+ - AVAION - Pieces
+ - Armin van Buuren - Lose This Feeling (Dimension Extended Remix)
+ - Vicetone - Angels (Radio Edit) (feat. Kat Nestel)
+ - KREAM - Arrival
+ - BEAUZ, Ellis & Sarah de Warren - IRL
+ - Lucky Luke - Give It To Me
+ - Jerome - Light
+ - S3RL - Tripping on Mushrooms
+ - Sunday Scaries & Discrete - Don't You Cry
+ - Yarimov - Controlla
+ - blueberry - Sweetheart
+ - Ye - HIT SYMPHONY (2025)
+ - Klaas & Mister Ruiz - Already Gone
+ - Neovaii - Already Gone
+ - The Tech Thieves - Work On Me
+ - Klaas - Ok Without You
+ - Le Shuuk & Jerome - You & Me (Le Shuuk vs. Jerome)
+ - BUNT. & Mapei - TRIPPIN
+ - Vicetone (feat. Cozi Zuehlsdorff) - Nevada (Sped Up)
+ - Marc Korn - You Spin Me Round (Like a Record) (Radio Edit)
+ - Neovaii - Your Eyes
+ - Navjaxx - Cyberverse
+ - Dj Sca - Kisses
+ - Egzod, Maestro Chives & Neoni - Royalty
+ - AnimeBiddies - Bluefaceluigismansion (Radio Edit)
+ - Kilian K, Blaze U & Paul Kold - Running Up That Hill (Paul Kold Edit) (feat. Luke Madness)
+ - Egzod & Maestro Chives - Follow (feat. EKE)
+ - Ed Marquis & Emie - Don’t Stop the Music
+ - Braaheim - Glad You Came
+ - Massano (feat. XIRA) - Voices
+ - The Stickmen Project - I Wish I Was
+ - Rompasso - Satellites
+ - Snoblack - 99 Luftballons (Techno)
+ - HYPERKID - All The Things She Said
+ - Sonny Wern & KAJAK - Tattoo
+ - SAINt JHN - Roses (Imanbek Remix)
+ - ATRIP - Rainbow
+ - Chiru-san - Forsaken
+ - Dezko - Ascend
+ - F.O.O.L & Extra Terra - AGONIZE
+ - Semitoo, Ancalima & Marc Korn - Ready for Someday
+ - LINA (LUM!X Remix) - Liebst mich (LUM!X Remix)
+ - nate band - Drugs I Like
+ - Gabry Ponte - Easy On My Heart
+ - Cascada - Everytime We Touch (Premium Edition)
+ - Dayne S - Fall Apart
+ - Calvin Harris (feat. Ellie Goulding) - Outside
+ - Lieless - I DONT WANT TO BE WITH YOU
+ - K-391 & Victor Crone - Lonely World
+ - Ok Without You - Klass
